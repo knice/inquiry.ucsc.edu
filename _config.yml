@@ -10,9 +10,17 @@ assets:
 # Site settings
 title: Proteus
 description: Prototyping starter kit for Jekyll
+permalink: /:categories/:title/
 
 # Name of project on Github
-baseurl: /proteus-jekyll
+# baseurl: /proteus-jekyll
+
+collections:
+  articles:
+    output: true
+    permalink: /:path/
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids: false

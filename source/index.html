@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>Posts</h1>
+  
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <span>        
+        {{ post.date | date_to_string }} &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </span>
+    </li>
+  {% endfor %}    
+  </ul>
+
+  <ul>
+  {% for article in site.articles %}
+    <li>
+      <span>        
+        {{ article.date | date_to_string }} &raquo; <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
+      </span>
+    </li>
+  {% endfor %}    
+  </ul>
