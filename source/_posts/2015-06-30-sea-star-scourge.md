@@ -1,8 +1,8 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
-title: Sea Star Scourge
+issue: 2015
 section: brief
+title: Sea Star Scourge
 image:
 - file: sea-star-wasting.tif
 - caption: 'Tissue is disintegrating on the two lower arms of this sea star affected by sea star wasting syndrome.'

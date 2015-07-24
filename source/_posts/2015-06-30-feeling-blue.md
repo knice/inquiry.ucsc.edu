@@ -1,8 +1,8 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
-title: Feeling Blue
+issue: 2015
 section: brief
+title: Feeling Blue
 image:
 - file: feeling-blue.jpg
 - caption: "Installation view of UC Santa Cruz OpenLab's Blue Trail: Oceanic Scales art and science project at the California Academy of Sciences in San Francisco, CA."

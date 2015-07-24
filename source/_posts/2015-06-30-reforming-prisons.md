@@ -1,11 +1,11 @@
 ---
 layout: default
-date: "2015-06-11 09:20:38"
+issue: 2015
+section: feature
 title: Reforming prisons
 subhead: "Psychology professor Craig Haney takes on solitary confinement"
 author: Becky Bach
 image: /assets/images/8530732357_5aa6053473_h_d.jpg
-category: feature
 quotes:
 - "The emphasis ought to be on keeping prison isolation as brief and humane as possible and only as a last resort."
 ---

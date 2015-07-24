@@ -1,8 +1,8 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
-title: DanceMoves
+issue: 2015
 section: brief
+title: Dance Moves
 ---
 
 The phrase "going through the motions" implies laziness or lack of interest. But elite dancers often substitute hand motions for full body movements while they learn demanding dance routines. This practice, called "marking," may improve the quality of the finished performance, according to a study published in Psychological Science. 

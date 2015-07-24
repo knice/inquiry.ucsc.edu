@@ -1,13 +1,12 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
-title: Sea Otter Supermoms
+issue: 2015
 section: brief
+title: Sea Otter Supermoms
 image:
 - file: sea-otter-supermoms.jpg
 - caption: 'A female sea otter and her pup'
 ---
-
 
 Once hunted to near extinction, sea otters on California's Central Coast have made a comeback. But a stall in population recovery, with higher than expected deaths among female sea otters, prompted UC Santa Cruz  marine biologist Nicole Thometz to investigate.
 

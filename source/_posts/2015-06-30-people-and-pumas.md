@@ -1,8 +1,8 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
-title: People make pumas eat and run
+issue: 2015
 section: brief
+title: People make pumas eat and run
 image:
 - file: puma-illustration.jpg
 ---

@@ -1,8 +1,8 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
+issue: 2015
+section: closer
 title: Connected Community
-section: brief
 categories:
 - "Information Technology"
 ---

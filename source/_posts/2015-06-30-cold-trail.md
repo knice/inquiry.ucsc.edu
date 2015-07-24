@@ -1,11 +1,11 @@
 ---
 layout: default
-date: "2015-06-11 09:20:38"
+issue: 2015
+section: brief
 title: A Cold Trail
 subhead: "Researchers drill into Antarctic ice to understand the effects of climate change"
 author: Anil Ananthaswamy
 image: /assets/images/8530732357_5aa6053473_h_d.jpg
-category: feature
 quotes:
 - "Why do these changes take place at the rates that they do? That's the key thing we need to understand--if you ever want to build reliable models of predictions of what's going to happen to an ice sheet 100 years from now."
 ---

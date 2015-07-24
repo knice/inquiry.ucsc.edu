@@ -1,10 +1,10 @@
 ---
 layout: default
-date: "2015-06-11 09:20:38"
+issue: 2015
+section: feature
 title: Border Crossings
 subhead: "Artist John Jota Leaños creates animated documentaries to reveal hidden stories"
 author: Heather Rock Woods
-category: feature
 image:
 - file: /assets/images/8530732357_5aa6053473_h_d.jpg
 - caption: "Horned Serpent (animation still). With animation, Leaños adds new dimensions to his documentaries. Frontera! begins with the mythical horned serpent of thunder and lightning slithering out of the sky and disappearing into the Rio Grande."

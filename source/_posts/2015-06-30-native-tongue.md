@@ -1,8 +1,8 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
-title: Native Tongue
+issue: 2015
 section: brief
+title: Native Tongue
 categories:
 - "Linguistics"
 ---

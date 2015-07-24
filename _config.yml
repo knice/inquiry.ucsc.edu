@@ -8,9 +8,9 @@ assets:
   cachebust: soft
 
 # Site settings
-title: Proteus
+title: Inqury at UC Santa Cruz
 description: Prototyping starter kit for Jekyll
-permalink: /:categories/:title/
+permalink: /:year/:title/
 
 # Name of project on Github
 # baseurl: /proteus-jekyll

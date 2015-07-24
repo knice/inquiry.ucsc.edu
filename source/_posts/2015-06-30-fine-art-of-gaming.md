@@ -1,10 +1,10 @@
 ---
 layout: default
-date: "2015-06-11 09:20:38"
+issue: 2015
+section: feature
 title: The fine art of gaming
 subhead: "Scholars infuse computer games with art, literature, and purpose"
 author: Jennie Dusheck
-section: feature
 image:
 - file: /assets/images/8530732357_5aa6053473_h_d.jpg
 - caption: "Screenshots of characters Grace and Trip from Façade, the first fully realized interactive drama created by Michael Mateas, director of the Center for Games and Playable Media, and Andrew Stern, a programmer analyst at UCSC. This computer game was a research experiment in electronic narrative that integrated art and artificial intelligence technologies."

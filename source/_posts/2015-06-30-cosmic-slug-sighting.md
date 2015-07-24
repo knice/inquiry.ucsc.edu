@@ -1,8 +1,8 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
-title: Cosmic Slug Sighting
+issue: 2015
 section: brief
+title: Cosmic Slug Sighting
 image:
 - file: slug-nebula.jpg
 - caption: 'The "Slug Nebula" detected by UC Santa Cruz astronomers extends across 2 million light-years of intergalactic space.'

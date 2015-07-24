@@ -1,10 +1,10 @@
 ---
 layout: default
-date: "2015-06-11 09:20:38"
+issue: 2015
+section: feature
 title: Engineering independence
 subhead: "Researchers design tools for blind and visually impaired people"
 author: Helen Shen
-category: feature
 image:
 - file: /assets/images/8530732357_5aa6053473_h_d.jpg
 - caption: "Caitlin Hernandez ('12), blind from birth, enjoys helping UCSC researchers test their technologies, in between pursuing a master's degree in special education, performing with a theater troupe, singing a cappella, and tap dancing. 'I like to give back when I can,' she said, 'and be part of something that could help other blind people and myself.'"

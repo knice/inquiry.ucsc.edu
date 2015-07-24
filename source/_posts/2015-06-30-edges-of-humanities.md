@@ -1,10 +1,10 @@
 ---
 layout: default
-date: "2015-06-11 09:20:38"
+issue: 2015
+section: feature
 title: The edges of humanities
 subhead: "Nathaniel Deutsch creates connections with the overlooked corners of history"
 author: Danielle Venton
-section: feature
 image:
 - file: /assets/images/8530732357_5aa6053473_h_d.jpg
 - caption: "A view of the main thoroughfare of Volodymyr Volyns'kyi, or Ludmir. This predominantly Jewish community was home to the only woman known to have acted as a Hasidic rebbe, a charismatic Jewish leader."

@@ -1,11 +1,11 @@
 ---
 layout: default
-date: "2015-06-11 09:20:38"
+issue: 2015
+section: feature
 title: Just science
 subhead: "The Science and Justice Research Center opens conversations between science and society"
 author: Elizabeth Devitt
 image: /assets/images/8530732357_5aa6053473_h_d.jpg
-category: feature
 quotes:
 - "Justice is always a question. It would be ironic to presume to know what justice was beforehand, and then make sure it happens."
 - "...You can't say: I'm just building the [atomic] bomb, and what happens after that isn't my responsibility."

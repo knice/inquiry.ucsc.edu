@@ -1,8 +1,8 @@
 ---
-date: "2015-06-11 09:20:38"
 layout: default
+issue: 2015
+section: opener
 title: Contributors
-section: extended
 ---
 
 - Anil Ananthaswamy ('00)
