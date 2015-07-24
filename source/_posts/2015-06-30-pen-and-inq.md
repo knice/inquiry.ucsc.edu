@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 issue: 2015
 section: closer
 title: Connected Community
