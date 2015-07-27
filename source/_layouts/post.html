@@ -3,17 +3,21 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body itemscope itemtype="http://schema.org/Article">
+  <body itemscope itemtype="http://schema.org/Article" class="{{ page.title | slugify }}">
     {% include header.html %}
     <main class="content" role="main">
       <article class="post">
         {% if page.image %}
+        {% assign photo = page.image.file %}
         <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
-            Article Image
+          <div class="post-image-image" style="background-image: url({% if page.image.file %}{{ page.image.file | asset_path }}{% endif %});">
+           Article image
           </div>
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
+            {% if page.subhead %}
+            <p class="post-teaser">{{ page.subhead }}</p>              
+            {% endif %}            
             <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>

@@ -6,8 +6,7 @@ title: Border Crossings
 subhead: "Artist John Jota Leaños creates animated documentaries to reveal hidden stories"
 author: Heather Rock Woods
 image:
-- file: /assets/images/8530732357_5aa6053473_h_d.jpg
-- caption: "Horned Serpent (animation still). With animation, Leaños adds new dimensions to his documentaries. Frontera! begins with the mythical horned serpent of thunder and lightning slithering out of the sky and disappearing into the Rio Grande."
+    file: coyote-border-crossings.jpg
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."
 ---
@@ -27,6 +26,8 @@ Leaños trains students in this increasingly important tool through UCSC's Socia
 Animation has been a staple of serious filmmaking since it was first used in a 1918 documentary about the sinking of the Lusitania. It can recreate scenes when no footage exists and convey concepts, scientific and otherwise, that are difficult to describe in words. 
 
 Leaños has found it to be a powerful device for rendering multilayered stories. In his most recent film, Frontera! Revolt and Rebellion on the Rio Grande, 16th- and 17th-century animated characters leap to life--fighting, dancing, and performing spiritual ceremonies. The tale begins with the mythical horned serpent of thunder and lightning slithering out of the sky and disappearing into the Rio Grande, starting a new round of drought and violence. Infographic maps erupt in flames at hotspots, exposing the reach of indigenous unrest in colonial Mexico leading up to the successful Pueblo Revolt of 1680. 
+
+{% image horned-serpent-animation.jpg alt="Horned Serpent (animation still). With animation, Leaños adds new dimensions to his documentaries. Frontera! begins with the mythical horned serpent of thunder and lightning slithering out of the sky and disappearing into the Rio Grande." [autosize] %}
 
 This history still lives, Leaños said, in the New Mexico and Arizona Pueblos that have sovereignty today as a result of that revolt. 
 He reinforces the connection between past and present by relying on the voices of modern-day Pueblo people in Frontera! 
