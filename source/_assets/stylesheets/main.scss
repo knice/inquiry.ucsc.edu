@@ -8,7 +8,7 @@
 
 $rs: 16px;
 $font-serif: Linux Libertine;
-$font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif;
+$font-sans: "Helvetica Neue", Arial, Helvetica, sans-serif;
 
 @mixin respond-to($breakpoint) {
   @media only screen and (max-width: $breakpoint + px) {
@@ -38,24 +38,24 @@ body {
   font-feature-settings: "liga", "dlig";
 }
 
+.banner {
+  background-color: rgba(0,0,0,0.25);
+  padding: 2em 0 4em;
+}
+
 .logo-readium {
-  position: fixed;
-  left: 10px;
-  top: 10px;
-  width: $rs * 3;
-  height: $rs * 3;
-  background-color: black;
+  background-color: transparent;
+  display: block;
+  width: 440px;
+  height: 80px;
   overflow: hidden;
   z-index: 99;
   .logo {
-    display: block;
-    position: absolute;
-    top: $rs / 2;
-    left: $rs / 2;
-    width: $rs * 2;
-    height: $rs * 2;
     background-size: cover;
     background-repeat: no-repeat;
+    display: block;
+    width: 100%;
+    height: 100%;
   }
 }
 
@@ -142,14 +142,53 @@ body {
 
 .content {
   width: 100%;
-  max-width: 640px;
+  max-width: 1080px;
   margin: 0 auto;
   @include box-sizing(border-box);
   @include respond-to(800) {
     padding: 0 $rs * 2;
   }
 
+  section {
+
+    h1 {
+      color: #E57514;
+      font-size: 1.6em;
+      border-bottom: 2px solid #E57514;
+      font-weight: 400;
+      text-transform: uppercase;
+    }
+  }
+
+  .toc {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    li {
+      background-color: rgba(255,255,255,0.4);      
+      margin: 0 2em 1em 0;
+      padding: 0;
+      flex-basis: 45%;
+      // border: 1px solid red; 
+      line-height: 1.4;
+      h2, p {
+        margin: 0.2em 0;
+      }
+      a {
+        display: block;
+        font-weight: 600;
+        text-decoration: none;
+        color:#005C9F;
+      }
+    }
+  }
+
   article {
+    max-width: 640px;
+    margin: 0 auto;
     padding: 40px 0;
     border-bottom: 1px solid #f2f2f0;
     &:last-child {
@@ -479,9 +518,9 @@ body {
         letter-spacing: 0.01rem;
         font-weight: 400;
         font-style: italic;
-        mborder-left: 3px solid #57ad68;
-        mpadding-left: 20px;
-        mmargin-left: -26px;
+        border-left: 3px solid #57ad68;
+        padding-left: 20px;
+        margin-left: -26px;
         padding-bottom: 3px;
       }
     }

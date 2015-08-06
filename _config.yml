@@ -1,4 +1,7 @@
-gems: [bourbon, neat]
+gems: [bourbon, neat, jemoji]
+
+highlighter: pygments
+paginate:  5
 
 # Structure configuration
 source: source
@@ -8,8 +11,8 @@ assets:
   cachebust: soft
 
 # Site settings
-title: Inqury at UC Santa Cruz
-description: Prototyping starter kit for Jekyll
+title: Inqury @ UC Santa Cruz
+description: UC Santa Cruz Research Magazine
 permalink: /:year/:title/
 
 # Name of project on Github
@@ -24,3 +27,54 @@ collections:
 markdown: kramdown
 kramdown:
   auto_ids: false
+
+## 
+##  MEDIATOR
+##
+
+
+
+email: a-mail@mail.mail
+#blog logo
+logo: "inquiry.svg"
+# blog cover
+cover: "cover-photo.jpg"
+
+name: 'Dirk Fabisch'
+author: 'Dirk Fabisch'
+author_image: "/assets/images/author.jpg"
+
+issue: '2015'
+
+# url: "http://myblog.***.***" # the base hostname & protocol for your site
+# baseurl: ""
+
+# social icons and sharing options
+# social:
+#  - icon:  twitter
+#    url:  https://twitter.com/dirkfabisch
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
+
+#  - icon:  facebook
+#    url:  https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+#   - icon:  github
+#     url:  https://github.com/dirkfabisch
+#     desc:  Fork me on github
+#     share_url:
+#     share_title:
+#     share_link:
+
+#  - icon:  google-plus
+#    url:  https://google.com/???
+#    desc:  Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

@@ -1,25 +1,40 @@
 ---
-layout: page
+layout: home
+image:
+  file: 'cover-photo.jpg' 
 ---
 
-<h1>Posts</h1>
-  
-  <ul>
-  {% for post in site.posts %}
-    <li>
-      <span>        
-        {{ post.date | date_to_string }} &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </span>
-    </li>
-  {% endfor %}    
-  </ul>
+<section>
 
-  <ul>
-  {% for article in site.articles %}
-    <li>
-      <span>        
-        {{ article.date | date_to_string }} &raquo; <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
-      </span>
-    </li>
-  {% endfor %}    
-  </ul>
+  <h1>Features</h1>  
+    <ul class="toc">
+    {% for post in site.posts %}
+      {% if post.section == 'feature' %}  
+        <li>
+          <h2>        
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          </h2>
+          <p class="description">{{ post.excerpt | truncate:140 }}</p>
+        </li>
+      {% endif %}  
+    {% endfor %}    
+    </ul>
+  
+</section>
+
+<section>
+
+  <h1>Briefs</h1>  
+    <ul class="toc">
+    {% for post in site.posts %}
+      {% if post.section == 'brief' %}  
+        <li>
+          <span>        
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          </span>
+        </li>
+      {% endif %}  
+    {% endfor %}    
+    </ul>
+
+</section>  

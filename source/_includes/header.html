@@ -1,5 +1,15 @@
 <!-- header start -->
 
-<a href="{{ site.url }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo }})"></span></a>
+<header class="banner" role="banner"  style="background-image: url({% if page.image.file %}{{ page.image.file | asset_path }}{% endif %}); background-position:right center; background-size:cover; background-repeat:no-repeat;">
+
+<div class="content">
+
+<a href="{{ site.url }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo | asset_path }})"></span></a>  
+
+</div>
+
+</header>
+
+
 
 <!-- header end -->
