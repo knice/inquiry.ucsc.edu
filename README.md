@@ -2,29 +2,7 @@
 
 [![Build Status](https://travis-ci.org/knice/inquiry.ucsc.edu.svg?branch=master)](https://travis-ci.org/knice/inquiry.ucsc.edu)
 
-Inquiry is the annual research magazine published by UC Santa Cruz. The premiere issue was published in June 2015.
-
-## About Jekyll
-
-Jekyll is a static site generator built in Ruby. This makes it a great fit
-for projects that may end up as a Ruby on Rails app.
-
-## Includes
-
-* [HAML](http://haml.info):
-  Simple template markup
-* [Coffeescript](http://coffeescript.org):
-  Write javascript with simpler syntax
-* [Sass](http://sass-lang.com):
-  CSS with superpowers
-* [Bourbon](http://bourbon.io):
-  Sass mixin library
-* [Neat](http://neat.bourbon.io):
-  Semantic grid for Sass and Bourbon
-* [Bitters](http://bitters.bourbon.io):
-  Scaffold styles, variables and structure for Bourbon projects.
-
-We also recommend [Refills](http://refills.bourbon.io/) for prepackaged interface patterns.
+Inquiry is the annual research magazine published by UC Santa Cruz. The premiere issue was published in June 2015. This repository contains all of the content for the Inquiry magazine web site.
 
 ## Getting Started
 
@@ -61,6 +39,6 @@ If you have problems, please create a
 
 ## Credits
 
-This site is built with Jekyll, tested and deployed with Travis-CI, and served from a bucket on Amazon S3. This particular configuration of Jekyll is called Proteus Jekyll, created and maintained by [thoughtbot, inc](http://thoughtbot.com).
+This site is built with [Jekyll](http://jekyllrb.com/), tested and deployed with [Travis-CI](http://travis-ci.org/), and served from a bucket on Amazon S3. This particular configuration of Jekyll is called [Proteus Jekyll](https://github.com/thoughtbot/proteus), created and maintained by [thoughtbot, inc](http://thoughtbot.com).
 
 Inquiry magazine is Copyright &copy; 2015, The Regents of the University of California.
