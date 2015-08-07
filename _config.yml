@@ -18,6 +18,8 @@ permalink: /:year/:title/
 # Name of project on Github
 # baseurl: /proteus-jekyll
 
+exclude: [".gitignore"]
+
 collections:
   articles:
     output: true
@@ -40,11 +42,11 @@ logo: "inquiry.svg"
 # blog cover
 cover: "cover-photo.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: "Inquiry @ UCSC"
+author: "Inquiry @ UCSC"
 author_image: "/assets/images/author.jpg"
 
-issue: '2015'
+issue: "2015"
 
 # url: "http://myblog.***.***" # the base hostname & protocol for your site
 # baseurl: ""
