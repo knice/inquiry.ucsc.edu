@@ -1,11 +1,8 @@
-# Proteus - Jekyll
+# Inquiry @ UC Santa Cruz
 
-## About Proteus
+[![Build Status](https://travis-ci.org/knice/inquiry.ucsc.edu.svg?branch=master)](https://travis-ci.org/knice/inquiry.ucsc.edu)
 
-[Proteus](http://github.com/thoughtbot/proteus) is a collection of useful
-starter kits to help you prototype faster. It follows the
-[thoughtbot styleguide](https://github.com/thoughtbot/guides) and includes our
-favorite front end tools.
+Inquiry is the annual research magazine published by UC Santa Cruz. The premiere issue was published in June 2015.
 
 ## About Jekyll
 
@@ -33,7 +30,7 @@ We also recommend [Refills](http://refills.bourbon.io/) for prepackaged interfac
 
 Set up your project in your code directory
 ```
-git clone git@github.com:thoughtbot/proteus-jekyll.git your-project-folder
+git clone git@github.com:knice/inquiry.ucsc.edu.git your-project-folder
 cd your-project-folder
 git remote rm origin
 git remote add origin your-repo-url
@@ -54,27 +51,16 @@ Deploy to Github Pages
 jekyll build && git subtree push --prefix build origin gh-pages
 ```
 
-Or install the [Proteus gem](https://github.com/thoughtbot/proteus) and enjoy some shortcuts.
-
 Stylesheets, fonts, images, and javascript files go in the `/source/_assets/` directory.
 Vendor stylesheets and javascripts should go in each of their `/vendor/` directories.
 
 ## Issues
 
 If you have problems, please create a
-[GitHub Issue](https://github.com/thoughtbot/proteus-jekyll/issues).
-
-## Contributing
-
-Have a fix or want to add a feature?
-[Pull Requests](https://github.com/thoughtbot/proteus-jekyll/pulls) are welcome!
+[GitHub Issue](https://github.com/knice/inquiry.ucsc.edu/issues).
 
 ## Credits
 
-[![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
+This site is built with Jekyll, tested and deployed with Travis-CI, and served from a bucket on Amazon S3. This particular configuration of Jekyll is called Proteus Jekyll, created and maintained by [thoughtbot, inc](http://thoughtbot.com).
 
-Proteus Jekyll is maintained and funded by [thoughtbot, inc](http://thoughtbot.com). Thank you to all of [the contributors](https://github.com/thoughtbot/proteus-jekyll/contributors)!
-
-## License
-
-Copyright © 2014–2015 [thoughtbot, inc](http://thoughtbot.com). Proteus Jekyll is free software, and may be redistributed under the terms specified in the [license](LICENSE.md).
+Inquiry magazine is Copyright &copy; 2015, The Regents of the University of California.
