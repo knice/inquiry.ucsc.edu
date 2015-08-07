@@ -1,0 +1,24 @@
+---
+layout: home
+permalink: /briefs/
+---
+
+<section>
+
+  <h1>Briefs</h1>  
+
+    {% for post in site.posts %}
+      {% if post.section == 'brief' %}  
+        <article>
+          <h1>        
+            {{ post.title }}
+          </h1>
+
+          {{ post.content }}
+
+        </article>
+      {% endif %}  
+    {% endfor %}    
+
+
+</section>  
