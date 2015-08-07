@@ -6,6 +6,7 @@ cache:
   - vendor/bundle
 install:
   - bundle install
+sudo: false
 script: bundle exec jekyll build
 after_success: bundle exec s3_website push
 env:
