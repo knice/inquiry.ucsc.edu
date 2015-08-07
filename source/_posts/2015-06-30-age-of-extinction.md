@@ -6,7 +6,7 @@ title: Age of extinction
 subhead: "Paleogeneticist Beth Shapiro studies ancient DNA for future conservation"
 author: Heather Rock Woods
 image: 
-    file: beth-shapiro-extinction.jpg
+    file: 2015/beth-shapiro-extinction.jpg
     position: left
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."

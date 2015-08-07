@@ -6,7 +6,7 @@ title: A Cold Trail
 subhead: "Researchers drill into Antarctic ice to understand the effects of climate change"
 author: Anil Ananthaswamy
 image:
-    file: a-cold-trail.jpg
+    file: 2015/a-cold-trail.jpg
 quotes:
 - "Why do these changes take place at the rates that they do? That's the key thing we need to understand--if you ever want to build reliable models of predictions of what's going to happen to an ice sheet 100 years from now."
 ---
@@ -15,7 +15,7 @@ Slawek Tulaczyk keeps a shotgun case in his office. It's an odd piece of equipme
 
 Only someone who has been to Antarctica eleven times would call the continent safe. Sure, there are no bears to scare off, but dangers lurk everywhere, especially in the remote terrain where Tulaczyk works. For almost a decade now, his team has been studying the Whillans ice stream in West Antarctica--a river of ice hundreds of kilometers long that is, oddly enough, slowing down, even as climate change is causing glaciers and ice streams elsewhere to speed up. 
 
-{% image a-cold-trail-2.jpg alt="UC Santa Cruz researchers collected sediment samples from beneath the West Antarctic ice sheet." [resize:280] %}
+{% image 2015/a-cold-trail-2.jpg alt="UC Santa Cruz researchers collected sediment samples from beneath the West Antarctic ice sheet." [resize:280] %}
 
 These ice streams feed into the ocean, and the pace at which they flow directly affects global sea levels. So, if Tulaczyk and his colleagues can understand the unusual behavior of the Whillans ice stream, their work will help climate scientists fine tune their models and better predict the relentless rise of sea level due to global warming.
 To decipher the dynamics of the Whillans ice stream, the team is looking at two main features: one is the subglacial Lake Whillans that lies nearly three-quarters of a kilometer beneath the ice stream; the other is its "grounding zone," where the ice lifts off from land and begins floating on water.
@@ -24,9 +24,9 @@ A quirk of geography first focused attention on the Whillans ice stream, one of 
 
 During the early 1960s, the Whillans ice stream was moving at about 600 meters per year--which might not seem like much, but for a river of ice about 800 meters thick and about 100 kilometers wide, that's a lot of ice entering the ocean. "It discharges as much water as the Missouri River," said Tulaczyk, a professor of earth and planetary sciences at UC Santa Cruz, and one of the three principal investigators on the Whillans Ice Stream Subglacial Access Research Drilling (WISSARD) project.
 
-{% image a-cold-trail-1.jpg alt="The WISSARD Deep Field Site is located 530 miles from the edge of the Ross Ice Shelf in Antarctica's Ross Sea." [resize:640] %}
+{% image 2015/a-cold-trail-1.jpg alt="The WISSARD Deep Field Site is located 530 miles from the edge of the Ross Ice Shelf in Antarctica's Ross Sea." [resize:640] %}
 
-But Whillans is slowing down. Modern measure-ments using GPS show that its speed is now below 400 meters per year. This is at odds with what's happening in other parts of West Antarctica. 
+But Whillans is slowing down. Modern measurements using GPS show that its speed is now below 400 meters per year. This is at odds with what's happening in other parts of West Antarctica. 
 
 For instance, farther along the coastline, the Pine Island and Thwaites glaciers are both speeding up. These two glaciers together drain about five percent of the West Antarctic ice sheet into the Amundsen Sea. When the ice from a glacier enters the sea, it doesn't melt right way. Rather, it forms a floating platform--called an ice shelf--which acts as a buttress, preventing the glacier from sliding faster and faster into the ocean. But climate change is thinning such ice shelves, causing the glaciers behind to speed up, leading to what glaciologists call a negative mass balance. The water that would otherwise remain frozen on Antarctica is now ending up in the ocean faster than in the decades past, slowly raising sea level worldwide.
 

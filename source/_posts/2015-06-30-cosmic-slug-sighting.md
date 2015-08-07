@@ -5,7 +5,7 @@ section: brief
 title: Cosmic Slug Sighting
 ---
 
-{% image slug-nebula.jpg alt="The 'Slug Nebula' detected by UC Santa Cruz astronomers extends across 2 million light-years of intergalactic space." [resize:640] %}
+{% image 2015/slug-nebula.jpg alt="The 'Slug Nebula' detected by UC Santa Cruz astronomers extends across 2 million light-years of intergalactic space." [resize:640] %}
 
 When UC Santa Cruz astronomers caught strands of the "cosmic web" on camera, it was the first time anyone had glimpsed the intergalactic threads that were predicted to weave through the universe. The discovery was recognized by the editors of _Physics World_ as one of the "top ten breakthroughs" of 2014.
 

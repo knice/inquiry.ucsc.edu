@@ -4,7 +4,7 @@ issue: 2015
 section: brief
 title: People make pumas eat and run
 image:
-- file: puma-illustration.jpg
+- file: 2015/puma-illustration.jpg
 ---
 
 Pumas don't like hanging around human dwellings. That's good news for people. But that aversion makes the big cats kill more often when they live near high-density housing, according to a study published in the Proceedings of the Royal Society B. That behavior may affect local prey populations and the reproductive success of the pumas.

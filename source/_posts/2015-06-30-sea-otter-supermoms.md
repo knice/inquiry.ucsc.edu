@@ -4,7 +4,7 @@ issue: 2015
 section: brief
 title: Sea Otter Supermoms
 image:
-- file: sea-otter-supermoms.jpg
+- file: 2015/sea-otter-supermoms.jpg
 - caption: 'A female sea otter and her pup'
 ---
 
