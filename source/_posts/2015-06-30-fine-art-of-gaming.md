@@ -2,12 +2,13 @@
 layout: post
 issue: 2015
 section: feature
+order: 7
 title: The fine art of gaming
 subhead: "Scholars infuse computer games with art, literature, and purpose"
 author: Jennie Dusheck
 image:
-- file: /assets/images/8530732357_5aa6053473_h_d.jpg
-- caption: "Screenshots of characters Grace and Trip from Façade, the first fully realized interactive drama created by Michael Mateas, director of the Center for Games and Playable Media, and Andrew Stern, a programmer analyst at UCSC. This computer game was a research experiment in electronic narrative that integrated art and artificial intelligence technologies."
+    file: 2015/art-of-gaming-banner.jpg
+    caption: "Screenshots of characters Grace and Trip from Fa&ccedil;ade, the first fully realized interactive drama created by Michael Mateas, director of the Center for Games and Playable Media, and Andrew Stern, a programmer analyst at UCSC. This computer game was a research experiment in electronic narrative that integrated art and artificial intelligence technologies."
 quotes:
 - "'If characters can put on a meaningful performance and we can feel empathy, caring , or anger,' explained Wardrip-Fruin, 'games can open up an emotional palette that can help shape how people think about their lives.'"
 ---

@@ -6,13 +6,21 @@ layout: home
 
   <h1>Features</h1>  
     <ul class="toc">
-    {% for post in site.posts %}
+    {% assign sorted_articles = (site.posts | sort: 'order') %}
+    {% for post in sorted_articles %}
       {% if post.section == 'feature' %}  
-        <li>
-          <h2>        
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-          </h2>
-          <p class="description">{{ post.excerpt | truncate:140 }}</p>
+        <li class="teaser">
+          <div class="teaser__body">
+            <h2>        
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            <p class="description">{{ post.subhead }}</p>
+          </div>
+          {% if post.image.file %}
+            <div class="teaser__image">
+              {{ post.image.file | append:' [resize:>120x120]' | image }}
+            </div>
+          {% endif %}
         </li>
       {% endif %}  
     {% endfor %}    
@@ -20,7 +28,7 @@ layout: home
   
 </section>
 
-<section>
+<!-- <section>
 
   <h1>Briefs</h1>  
     <ul class="toc">
@@ -35,4 +43,4 @@ layout: home
     {% endfor %}    
     </ul>
 
-</section>  
+</section>   -->

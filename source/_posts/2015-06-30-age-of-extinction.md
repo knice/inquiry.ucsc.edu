@@ -2,6 +2,7 @@
 layout: post
 issue: 2015
 section: feature
+order: 1
 title: Age of extinction
 subhead: "Paleogeneticist Beth Shapiro studies ancient DNA for future conservation"
 author: Heather Rock Woods

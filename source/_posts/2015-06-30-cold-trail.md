@@ -2,6 +2,7 @@
 layout: post
 issue: 2015
 section: feature
+order: 3
 title: A Cold Trail
 subhead: "Researchers drill into Antarctic ice to understand the effects of climate change"
 author: Anil Ananthaswamy

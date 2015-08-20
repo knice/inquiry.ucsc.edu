@@ -2,6 +2,7 @@
 layout: post
 issue: 2015
 section: feature
+order: 4
 title: Just science
 subhead: "The Science and Justice Research Center opens conversations between science and society"
 author: Elizabeth Devitt

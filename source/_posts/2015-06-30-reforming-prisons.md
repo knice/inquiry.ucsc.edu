@@ -2,6 +2,7 @@
 layout: post
 issue: 2015
 section: feature
+order: 5
 title: Reforming prisons
 subhead: "Psychology professor Craig Haney takes on solitary confinement"
 author: Becky Bach
