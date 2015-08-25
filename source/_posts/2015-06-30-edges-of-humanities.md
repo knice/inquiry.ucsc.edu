@@ -7,8 +7,8 @@ title: The edges of humanities
 subhead: "Nathaniel Deutsch creates connections with the overlooked corners of history"
 author: Danielle Venton
 image:
-- file: 2015/edges-of-humanities-banner.jpg
-- caption: "A view of the main thoroughfare of Volodymyr Volyns'kyi, or Ludmir. This predominantly Jewish community was home to the only woman known to have acted as a Hasidic rebbe, a charismatic Jewish leader."
+    file: 2015/edges-of-humanities-banner.jpg
+    caption: "A view of the main thoroughfare of Volodymyr Volyns'kyi, or Ludmir. This predominantly Jewish community was home to the only woman known to have acted as a Hasidic rebbe, a charismatic Jewish leader."
 quotes:
 - "Is there a custom that when the midwife dies, all of the children whom she brought into the world accompany her funeral procession with candles in their hands?"
 - "'This is about studying what it is to be a person, a human being, studying our relationship to ideas,' he said. 'Literature, identity, language&mdash;these are fundamental things.'"

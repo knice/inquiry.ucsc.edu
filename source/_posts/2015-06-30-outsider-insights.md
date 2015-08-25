@@ -7,8 +7,8 @@ title: Outsider insights
 subhead: "Three scholars bring perspective to the history of China"
 author: Melissae Fellet
 image:
-- file: /assets/images/8530732357_5aa6053473_h_d.jpg
-- caption: "Screenshots of characters Grace and Trip from Façade, the first fully realized interactive drama created by Michael Mateas, director of the Center for Games and Playable Media, and Andrew Stern, a programmer analyst at UCSC. This computer game was a research experiment in electronic narrative that integrated art and artificial intelligence technologies."
+    file: 2015/outsider-insights-thumb.jpg
+    caption: "Screenshots of characters Grace and Trip from Façade, the first fully realized interactive drama created by Michael Mateas, director of the Center for Games and Playable Media, and Andrew Stern, a programmer analyst at UCSC. This computer game was a research experiment in electronic narrative that integrated art and artificial intelligence technologies."
 quotes:
 - "Hu notes that a trio of China historians in one department is rare at universities today, and that concentration of scholars bolsters the impact 
 of their research."
