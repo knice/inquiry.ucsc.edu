@@ -2,14 +2,17 @@
 layout: home
 ---
 
-<section>
+<div class="row">
 
-  <h1>Features</h1>  
-    <ul class="toc">
-    {% assign sorted_articles = (site.posts | sort: 'order') %}
-    {% for post in sorted_articles %}
-      {% if post.section == 'feature' %}  
-        <li class="teaser">
+<h1>Latest Issue</h1>
+
+
+<section class="two-thirds block">
+  <h1 class="index-headline featured">Features</h1>  
+    <div class="container featured">
+    {% assign sorted_articles = (site.posts | where: "section", "feature" | sort: 'order') %}
+    {% for post in sorted_articles %}      
+        <article class="teaser">
           <div class="teaser__body">
             <h2>        
               <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -21,26 +24,14 @@ layout: home
               {{ post.image.file | append:' [resize:>120x120]' | image }}
             </div>
           {% endif %}
-        </li>
-      {% endif %}  
+        </article>
     {% endfor %}    
-    </ul>
-  
+    </div>
 </section>
 
-<!-- <section>
+<section class="one-third block">
+  <h1 class="index-headline featured">Download the PDF</h1>
+  <a href="#pdf">{% image '2015/inquiry-cover.jpg' [resize:380] %}</a>
+</section>
 
-  <h1>Briefs</h1>  
-    <ul class="toc">
-    {% for post in site.posts %}
-      {% if post.section == 'brief' %}  
-        <li>
-          <span>        
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-          </span>
-        </li>
-      {% endif %}  
-    {% endfor %}    
-    </ul>
-
-</section>   -->
+</div>
