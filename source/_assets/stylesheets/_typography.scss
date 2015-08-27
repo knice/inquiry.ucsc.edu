@@ -1,0 +1,19 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $orange;
+  margin-bottom: 0.75em;
+}
+
+a {
+  color: $dark-blue;
+  &:focus,
+  &:hover,
+  &:active {
+    color: $light-blue;
+    text-decoration: underline;
+  }
+}

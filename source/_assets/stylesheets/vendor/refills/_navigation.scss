@@ -2,10 +2,10 @@ header.navigation {
   $base-border-color: gainsboro !default;
   $base-border-radius: 3px !default;
   $action-color: #477DCA !default;
-  $dark-gray: #333 !default;
-  $large-screen: em(860) !default;
-  $navigation-padding: 1em;
-  $navigation-background: $dark-gray;
+  $dark-gray: $light-blue;
+  $large-screen: em(740) !default;
+  $navigation-padding: 0.75em;
+  $navigation-background: transparentize(#272438, 0.3);
   $navigation-color: transparentize(white, 0.3);
   $navigation-color-hover: white;
   $navigation-height: 60px;
@@ -37,6 +37,8 @@ header.navigation {
     max-height: auto; // $navigation-height;
     padding-left: 0; // $navigation-padding;
     padding-right: 0; // 2em;
+    max-width: 40em;
+    display: block;
 
     img {
       max-height: auto; //$navigation-height;
