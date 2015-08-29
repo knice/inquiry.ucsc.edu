@@ -11,6 +11,7 @@ image:
     position: left
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."
+custom_css: "articles/2015-age-of-extinction"
 ---
 
 Beth Shapiro spends a lot of time on the northern end of the planet, excavating frozen bits of creatures that lived long ago. on these mucky, mosquito- infested field trips, she searches for DNA that still lingers in the bones, hair, tusks and skin of ice-age-era mammals like musk ox and mammoths. Then, back in the Paleogenomics lab at UC Santa Cruz, she calculates how old the specimens are, extracts their DNA, and carefully decodes this ancient genetic material.

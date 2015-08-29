@@ -5,7 +5,7 @@ header.navigation {
   $dark-gray: $light-blue;
   $large-screen: em(740) !default;
   $navigation-padding: 0.75em;
-  $navigation-background: transparentize(#272438, 0.3);
+  $navigation-background: transparentize(#545454, 0.1);
   $navigation-color: transparentize(white, 0.3);
   $navigation-color-hover: white;
   $navigation-height: 60px;
@@ -33,15 +33,14 @@ header.navigation {
   }
 
   .logo {
-    float: none; // left;
-    max-height: auto; // $navigation-height;
-    padding-left: 0; // $navigation-padding;
-    padding-right: 0; // 2em;
-    max-width: 40em;
-    display: block;
+    float: left;
+    max-height: $navigation-height;
+    padding-left: 0.5em;
+    padding-right: 0;
+    width: 220px;
 
     img {
-      max-height: auto; //$navigation-height;
+      height: $navigation-height;
       padding: 0.8em 0;
     }
   }

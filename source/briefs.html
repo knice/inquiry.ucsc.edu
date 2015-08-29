@@ -1,14 +1,13 @@
 ---
 layout: home
-permalink: /briefs/
+permalink: /2015/briefs/
 ---
 
 <section>
 
   <h1>Briefs</h1>  
-
-    {% for post in site.posts %}
-      {% if post.section == 'brief' %}  
+    {% assign sorted_briefs = (site.posts | where: "section", "brief" | sort: 'order') %}
+    {% for post in sorted_briefs %}      
         <article>
           <h1>        
             {{ post.title }}
@@ -17,7 +16,6 @@ permalink: /briefs/
           {{ post.content }}
 
         </article>
-      {% endif %}  
     {% endfor %}    
 
 

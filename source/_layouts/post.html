@@ -3,57 +3,46 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
+  {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
   <body itemscope itemtype="http://schema.org/Article" class="{{ page.title | slugify }}">
+    
     {% include header.html %}
+    
     <main class="content" role="main">
       <article class="post">
         {% if page.image %}
         {% assign photo = page.image.file %}
         <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image.file %}{{ page.image.file | asset_path }}{% endif %});">
-           Article image
-          </div>
+          <div class="post-image-image" style="background-image: url({% if page.image.file %}{{ page.image.file | asset_path }}{% endif %});">article image</div>      
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
             {% if page.subhead %}
-            <p class="post-teaser">{{ page.subhead }}</p>              
-            {% endif %}            
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
-              on
-              <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time>
-              <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
-            </div>
+            <p class="post-excerpt">{{ page.subhead }}</p>              
+            {% endif %}                                  
             <div style="text-align:center">
               <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
             </div>
           </div>
-        </div>
+        </div>  
+
         {% else %}
         <div class="noarticleimage">
           <div class="post-meta">
             <h1 class="post-title">{{ page.title }}</h1>
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url({{ site.author_image }})">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ page.author }}</h4>
-              on
-              <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-              <!-- , tagged on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}} -->
-            </div>
+            {% if page.subhead %}
+            <p class="post-excerpt">{{ page.subhead }}</p>              
+            {% endif %}                                              
           </div>
-        </div>
-        <br>
-        <br>
-        <br>
+          </div>
+        </div>        
         {% endif %}
+
         <section class="post-content">
-          <div class="post-reading">
-            <span class="post-reading-time"></span> read
-          </div>
-          <a name="topofpage"></a>
+
           {{content}}
+
         </section>
+
         <footer class="post-footer">
           <section class="share">
             {% for social in site.social %}

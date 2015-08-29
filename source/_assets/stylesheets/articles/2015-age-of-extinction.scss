@@ -1,0 +1,41 @@
+@import '../_variables.scss';
+@import 'bourbon';
+@import 'neat';
+
+.post-meta {
+
+  width: 40em;
+  top: 4em;
+  left: 45%;
+
+  .post-title {
+    color: $gold;
+    font-size: 6rem;
+    line-height: 1;
+  }
+
+  .post-excerpt {
+    font-size: 2rem;
+  }
+
+}
+
+.content .post .post-content blockquote {
+      margin: 0 0 30px;
+      font-size: 3rem; 
+      border: none;
+      margin-left: -4em;
+      padding-left: 20px;
+      p {
+        font-size: 3rem;
+        color: $orange;
+        line-height: 1.3;
+        letter-spacing: 0.01rem;
+        font-weight: 400;
+        font-style: normal;
+        border: none;
+        padding-left: 20px;
+        margin-left: -26px;
+        padding-bottom: 3px;
+      }
+    }

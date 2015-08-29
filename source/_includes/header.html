@@ -1,44 +1,24 @@
 <!-- header start -->
 <header class="navigation" role="banner">
 
+<div class="navigation-wrapper">
 
-<div class="banner-logo" style="background-image: url({{ site.cover  | asset_path }}); background-position:right center; background-size:cover; background-repeat:no-repeat;">
-
-  <div class="logo-box">
+  {% if page.url != '/index.html' %}
     <a href="/" class="logo">
       {% image 'inquiry.svg' %}
     </a>
-  </div>
-  
-</div>
+  {% endif %}
 
-<div class="navigation-wrapper">
   <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
+  
   <nav role="navigation">
     <ul id="js-navigation-menu" class="navigation-menu show">
       <li class="nav-link"><a href="javascript:void(0)">Latest Issue</a></li>
       <li class="nav-link"><a href="javascript:void(0)">Articles</a></li>
       <li class="nav-link"><a href="javascript:void(0)">Contact Us</a></li>
-      <!-- <li class="nav-link more"><a href="javascript:void(0)">More</a>
-        <ul class="submenu">
-          <li><a href="javascript:void(0)">Submenu Item</a></li>
-          <li><a href="javascript:void(0)">Another Item</a></li>
-          <li class="more"><a href="javascript:void(0)">Item with submenu</a>
-            <ul class="submenu">
-              <li><a href="javascript:void(0)">Sub-submenu Item</a></li>
-              <li><a href="javascript:void(0)">Another Item</a></li>
-            </ul>
-          </li>
-          <li class="more"><a href="javascript:void(0)">Another submenu</a>
-            <ul class="submenu">
-              <li><a href="javascript:void(0)">Sub-submenu</a></li>
-              <li><a href="javascript:void(0)">An Item</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li> -->
     </ul>
   </nav>
+  
   <div class="navigation-tools">
     <div class="search-bar">
       <form role="search">
@@ -50,18 +30,22 @@
     </div>
   </div>
 </div>
-</header>
 
-
-
-
-
-<!-- <header class="banner" role="banner"  style="background-image: url({{ site.cover  | asset_path }}); background-position:right center; background-size:cover; background-repeat:no-repeat;">
-
-<div class="content">
-  <a href="{{ site.url }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo | asset_path }})"></span></a>  
+{% comment %}
+  Banner on the homepage only
+{% endcomment %}
+{% if page.url == '/index.html' %}
+<div class="image-gradient-dynamic">
+  {{ "2015/cover-photo-banner.jpg" | image }}
+  <div class="overlay"></div>
+  <div class="copy">
+    <a href="/">
+      {% image 'inquiry.svg' %}
+    </a>
+  </div>
 </div>
+{% endif %}
 
-</header> -->
+</header>
 
 <!-- header end -->
