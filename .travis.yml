@@ -8,7 +8,7 @@ install:
   - bundle install
 sudo: false
 script: bundle exec jekyll build
-after_success: bundle exec s3_website push --force
+after_success: bundle exec s3_website push
 env:
   global:
   - secure: Pc3gSzrQuf0w2AoZdRsEpMzQGW3GTCHZOsRiyJBsQujQ2XAu+tRO6ri8jPe6BT1Fr0KccjDWcYLB4BVyM2Ku3n9temVFFLigtmj94CMFKNQKtOe71b6AB0oQqLOUSIjSKfWVdsJoj1jEocKk7JRa2Bx9LTQkPU1Gg9xlait5KL8=
