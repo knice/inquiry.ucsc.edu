@@ -30,11 +30,9 @@ markdown: kramdown
 kramdown:
   auto_ids: false
 
-## 
+##
 ##  MEDIATOR
 ##
-
-
 
 email: a-mail@mail.mail
 #blog logo
