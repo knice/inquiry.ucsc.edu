@@ -6,7 +6,7 @@ order: 1
 title: Age of extinction
 subhead: "Paleogeneticist Beth Shapiro studies ancient DNA for future conservation"
 author: Heather Rock Woods
-image: 
+image:
     file: 2015/beth-shapiro-extinction.jpg
     position: left
 quotes:
@@ -70,4 +70,3 @@ All these megafauna actually thrived in cold periods. Perhaps the warm interglac
 Shapiro keeps returning to the site of this huge natural experiment--next year she'll bring undergraduates on a new, every-other-summer, UCSC Arctic ecology field course--unearthing the past, in part to contribute to making sound conservation decisions for the future.
 
 "Genetic diversity is disappearing from this planet at an astounding rate," said David Haussler, UC Santa Cruz distinguished professor of biomolecular engineering and co-founder of the Genome 10K Project that Shapiro is now a leader of. "Beth is just the kind of charismatic thought leader we need right now to help forge the way forward. She is totally unafraid of new ideas, and brilliant enough to make them work."
-
