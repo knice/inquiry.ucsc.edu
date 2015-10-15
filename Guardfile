@@ -1,8 +1,8 @@
-guard 'jekyll-plus', :serve => true do
-  watch /.*/
+guard 'jekyll_plus', :serve => true do
+  watch /^source\//
   ignore /^build/
 end
 
 guard 'livereload' do
-  watch /.*/
+  watch /^source\//
 end
