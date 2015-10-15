@@ -1,9 +1,7 @@
 language: ruby
 rvm:
 - 2.2.0
-cache:
-  directories:
-  - vendor/bundle
+cache: bundler
 install:
 - bundle install
 sudo: false
