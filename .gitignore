@@ -1,5 +1,7 @@
 .jekyll-assets-cache
 .sass-cache
+.bundle
+vendor
 mediator-master
 source/_assets/images/source
 source/files
