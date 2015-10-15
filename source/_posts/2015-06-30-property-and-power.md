@@ -1,9 +1,11 @@
 ---
 layout: post
 issue: 2015
-section: brief
+category: brief
+order: 9
 title: Property and Power
-categories: "Psychology"
+tags:
+  - "Psychology"
 ---
 
 The global rise of violence against women reflects inequalities in the structure of societies. In developing countries, where property confers power, women who own land are less likely to be victims of abuse, according to a study published in Psychology of Women Quarterly.

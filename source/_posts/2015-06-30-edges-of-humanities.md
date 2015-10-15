@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 2015
-section: feature
+category: feature
 order: 9
 title: The edges of humanities
 subhead: "Nathaniel Deutsch creates connections with the overlooked corners of history"

@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 2015
-section: feature
+category: feature
 order: 6
 title: Border Crossings
 subhead: "Artist John Jota Lea&ntilde;os creates animated documentaries to reveal hidden stories"

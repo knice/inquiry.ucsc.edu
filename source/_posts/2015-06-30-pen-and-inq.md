@@ -3,11 +3,11 @@ layout: post
 issue: 2015
 section: closer
 title: Connected Community
-categories:
-- "Information Technology"
+tags:
+  - "Information Technology"
 ---
 
-## Vote Local 
+## Vote Local
 
 Among countries where citizens can vote, the United States holds one of the lowest voter turnout records. Ironically, when states restrict voting rights, those efforts are always more effective than campaigns designed to bring more voters to the ballot box. However, the same state laws that help create low turnouts may offer insights for reform, said Melanie Jean Springer, an assistant professor of politics at UCSC.
 
@@ -25,29 +25,29 @@ In the second edition of Agrarian Dreams: The Paradox of Organic Farming in Cali
 
 The high cost of land puts growers under great pressure to get more crop value per acre. So, the system ends up being very similar to conventional agribusiness models.
 
-“It’s a California story, but the implications are much wider,” said Guthman. 
+“It’s a California story, but the implications are much wider,” said Guthman.
 
 ## Jazz Fusion
 
-It’s been fourteen years since Eric Porter and Lewis Watts met as new professors at UC Santa Cruz. With a mutual passion for jazz history, their collaboration was only a matter of time. Involving New Orleans, the birthplace of jazz, was inevitable. 
+It’s been fourteen years since Eric Porter and Lewis Watts met as new professors at UC Santa Cruz. With a mutual passion for jazz history, their collaboration was only a matter of time. Involving New Orleans, the birthplace of jazz, was inevitable.
 
 When Hurricane Katrina stormed through the city, wreaking cultural transformation in its wake, the men found the story they wanted to tell: Porter with prose, Watts with images. Their book, New Orleans Suite: Music and Culture in Transition, was published by UC Press in 2013.
 
-“We wanted to showcase the role that cultural practices play in everyday lives in New Orleans, and also the way these practices were mobilized to rebuild the city,” said Porter, a professor in the History and History of Consciousness Departments. 
+“We wanted to showcase the role that cultural practices play in everyday lives in New Orleans, and also the way these practices were mobilized to rebuild the city,” said Porter, a professor in the History and History of Consciousness Departments.
 
-In black-and-white photography, Watts, a professor emeritus of arts, reveals the place and its people before and after the hurricane hit. “We managed to meld words and images to approach the city through its music,” he said. 
+In black-and-white photography, Watts, a professor emeritus of arts, reveals the place and its people before and after the hurricane hit. “We managed to meld words and images to approach the city through its music,” he said.
 
 ## Carrying On
 
-In the early 1990s, New Queer Cinema emerged as an amalgam of art and activism. 
+In the early 1990s, New Queer Cinema emerged as an amalgam of art and activism.
 
-The movement was fueled by a potent combination of politics, AIDS, camcorders, and cheap rent, said B. Ruby Rich, author of New Queer Cinema: The Director’s Cut. 
+The movement was fueled by a potent combination of politics, AIDS, camcorders, and cheap rent, said B. Ruby Rich, author of New Queer Cinema: The Director’s Cut.
 
 “When I started formulating these ideas, the AIDS epidemic was still new,” said Rich, a professor in the Social Documentation Program and the Film and Digital Media Department. “There was an enormous amount of panic, grief and shock in the community. New Queer Cinema represented a second phase, a time to gather strength and try to express something other than mourning. I coined the name as a way to try to clear a space for this.”
 
-With this book, Rich brings back her early essays about the rise of gay and lesbian cinematic themes, and updates her writing with new testaments to LGBT influences on film and life. 
+With this book, Rich brings back her early essays about the rise of gay and lesbian cinematic themes, and updates her writing with new testaments to LGBT influences on film and life.
 
-Rich is also the editor of Film Quarterly, the film journal of the University of California Press. 
+Rich is also the editor of Film Quarterly, the film journal of the University of California Press.
 
 ## Looking for Law
 

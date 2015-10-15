@@ -19,13 +19,13 @@ layout: home
 
 <div class="row">
 <section class="two-thirds block">
-  <h1 class="index-headline featured">Features</h1>  
+  <h1 class="index-headline featured">Features</h1>
     <div class="container featured">
-    {% assign sorted_articles = (site.posts | where: "section", "feature" | sort: 'order') %}
-    {% for post in sorted_articles %}      
+    {% assign sorted_articles = (site.categories.feature | sort: 'order') %}
+    {% for post in sorted_articles %}
         <article class="teaser">
           <div class="teaser__body">
-            <h2>        
+            <h2>
               <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </h2>
             <p class="description">{{ post.subhead }}</p>
@@ -36,7 +36,7 @@ layout: home
             </div>
           {% endif %}
         </article>
-    {% endfor %}    
+    {% endfor %}
     </div>
 </section>
 

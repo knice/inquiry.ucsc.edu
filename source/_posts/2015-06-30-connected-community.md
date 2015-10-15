@@ -1,10 +1,11 @@
 ---
 layout: post
 issue: 2015
-section: brief
+category: brief
+order: 3
 title: Connected Community
-categories:
-- "Information Technology"
+tags:
+  - "Information Technology"
 ---
 
 More than a decade of legwork by UC Santa Cruz information technology specialists garnered a $10.6 million state grant to boost the fiberoptic highway for Internet connections south of Santa Cruz.

@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 2015
-section: feature
+category: feature
 order: 5
 title: Reforming prisons
 subhead: "Psychology professor Craig Haney takes on solitary confinement"

@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 2015
-section: feature
+category: feature
 order: 8
 title: Outsider insights
 subhead: "Three scholars bring perspective to the history of China"

@@ -1,11 +1,12 @@
 ---
 layout: post
 issue: 2015
-section: brief
+category: brief
+order: 3
 title: Sea Star Scourge
 image:
-- file: 2015/sea-star-wasting.jpg
-- caption: 'Tissue is disintegrating on the two lower arms of this sea star affected by sea star wasting syndrome.'
+  file: 2015/sea-star-wasting.jpg
+  caption: 'Tissue is disintegrating on the two lower arms of this sea star affected by sea star wasting syndrome.'
 ---
 
 For the past two years, sea stars along the Pacific coast have suffered catastrophic die-offs. The disappearance of these key predators could have profound effects on their tide pool and near-shore ecosystems.

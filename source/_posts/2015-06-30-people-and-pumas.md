@@ -1,10 +1,11 @@
 ---
 layout: post
 issue: 2015
-section: brief
+category: brief
+order: 8
 title: People make pumas eat and run
 image:
-- file: 2015/puma-illustration.jpg
+  file: 2015/puma-illustration.jpg
 ---
 
 Pumas don't like hanging around human dwellings. That's good news for people. But that aversion makes the big cats kill more often when they live near high-density housing, according to a study published in the Proceedings of the Royal Society B. That behavior may affect local prey populations and the reproductive success of the pumas.
@@ -15,6 +16,4 @@ The researchers followed 30 pumas that were outfitted with GPS monitoring collar
 
 "We might be optimistic about results that show pumas can hunt successfully in a developed landscape," said Smith. "But we know it takes substantial energy to hunt, and some of these females are killing a lot more."
 
-In a previous study, led by Terrie Williams, UCSC professor of ecology and evolutionary biology, researchers calculated the caloric cost of various hunting strategies--waiting, stalking, or pouncing. The results, published in Science, showed pumas save their high-calorie burning efforts for the bigger prey payoffs. 
-
-
+In a previous study, led by Terrie Williams, UCSC professor of ecology and evolutionary biology, researchers calculated the caloric cost of various hunting strategies--waiting, stalking, or pouncing. The results, published in Science, showed pumas save their high-calorie burning efforts for the bigger prey payoffs.

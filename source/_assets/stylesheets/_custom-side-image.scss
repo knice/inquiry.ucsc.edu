@@ -1,10 +1,23 @@
 .side-image {
-
+  max-width: 58em;
   margin-bottom: 3em;
+  padding: 1em;
 
   h2 {
     font-size: 2.5em;
+    margin: 0.35em 0 0.25em;
   }
 
+  .side-image-content {
+    font-size: 18px;
+    padding: 1em;
+    h4 {
+      background-color: $orange;
+    }
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
 
 }

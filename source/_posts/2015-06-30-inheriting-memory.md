@@ -1,9 +1,11 @@
 ---
 layout: post
 issue: 2015
-section: brief
+category: brief
+order: 7
 title: Inheriting Memory
-categories: "Molecular, Cell, and Developmental Biology"
+tags:
+  - "Molecular, Cell, and Developmental Biology"
 ---
 
 Studies have shown that parents can pass on memories of fear and famine to their children. But scientists don't know how such experiences are handed down. A research team at UCSC demonstrated how "epigenetic" memory, created by changes in the way DNA is packaged in cells, could be inherited. The study was published in Science.
@@ -15,4 +17,3 @@ When DNA is tucked into each cell, the way DNA is wrapped affects whether genes 
 In this study with roundworms, Strome's lab chemically changed one specific histone marker in either an egg or sperm, and put a fluorescent tag on it. After fertilization (and commingling of the egg and sperm chromosomes), the bright tags persisted only on chromosomes that were direct DNA descendants of the altered egg or sperm. This showed how one "parent" could transmit epigenetic information to its offspring--a step toward elucidating mechanisms for more complex memory inheritance.
 
 "The implications are profound for considering how environmental and nutritional conditions that parents experience could affect a child," Strome said. "Those conditions may affect how DNA is packaged, and that can be inherited."
-

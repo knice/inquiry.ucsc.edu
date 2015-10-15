@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 2015
-section: feature
+category: feature
 order: 7
 title: The fine art of gaming
 subhead: "Scholars infuse computer games with art, literature, and purpose"

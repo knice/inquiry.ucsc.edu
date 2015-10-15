@@ -1,7 +1,7 @@
 ---
 layout: post
 issue: 2015
-section: feature
+category: feature
 order: 2
 title: Engineering independence
 subhead: "Researchers design tools for blind and visually impaired people"

@@ -1,10 +1,11 @@
 ---
 layout: post
 issue: 2015
-section: brief
+category: brief
+order: 5
 title: Reclassifying Cancer
-categories:
-- "Biomolecular Engineering"
+tags:
+  - "Biomolecular Engineering"
 ---
 
 Cancers are often categorized--and treated--according to where they are found in the body. But it may be more effective to base treatment on the molecular makeup of cancers, regardless of where they occur, according to a study published in Cell.
