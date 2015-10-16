@@ -4,8 +4,8 @@ highlighter: pygments
 paginate:  5
 
 # Structure configuration
-source: source
-destination: build
+source: ./source
+destination: ./build
 
 assets:
   cachebust: soft
@@ -18,7 +18,7 @@ permalink: /:year/:title/
 # Name of project on Github
 # baseurl: /proteus-jekyll
 
-exclude: [".gitignore"]
+exclude: [".gitignore", "_raw" ]
 
 collections:
   articles:
