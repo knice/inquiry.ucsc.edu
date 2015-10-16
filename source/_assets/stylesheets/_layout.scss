@@ -34,6 +34,6 @@
 .two-thirds,
 .three-fourths {
   @include media($mobile) {
-    @include span-columns(4);    
+    @include span-columns(4);
   }
 }
