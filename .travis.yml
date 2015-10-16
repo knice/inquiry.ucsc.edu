@@ -1,8 +1,11 @@
 language: ruby
 rvm:
 - 2.2.0
-cache: bundler
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 bundler_args: --without development
+cache: bundler
 install:
 - bundle install
 sudo: false
