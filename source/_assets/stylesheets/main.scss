@@ -8,6 +8,7 @@
 @import 'libraries/refills/cards';
 @import 'libraries/refills/side-image';
 @import 'libraries/refills/comments';
+@import 'libraries/refills/footer';
 @import 'layout';
 @import 'blocks';
 @import 'custom-side-image';
@@ -410,15 +411,7 @@ body {
       max-width: 100%;
       margin: 0 auto;
     }
-    hr {
-      border: 0;
-      padding: 0;
-      display: block;
-      width: 15%;
-      margin: 30px auto;
-      border: 0px solid #dddddd;
-      border-top: 1px solid #dddddd;
-    }
+
     blockquote {
       margin: 0 0 30px;
       margin-left: -26px;
@@ -683,6 +676,20 @@ pre {
 
 }
 
+
+
+hr {
+  border: 0;
+  padding: 0;
+  display: block;
+  clear: both;
+  width: 45%;
+  margin: 3em auto;
+  border: 0px solid $orange;
+  border-top: 1px solid $orange;
+}
+
+
 figure {
   margin: 0;
   padding: 0 0 30px 0;
@@ -701,4 +708,9 @@ figcaption {
 .right {
   float: right;
   margin: 0 0 1em 1em;
+}
+
+.left {
+  float: left;
+  margin: 0 1em 1em 0;
 }

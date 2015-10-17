@@ -28,12 +28,16 @@
   @include span-columns(12);
 }
 
+.block {
+  padding: 1em;
+}
+
 .one-fourth,
 .one-third,
 .one-half,
 .two-thirds,
 .three-fourths {
   @include media($mobile) {
-    @include span-columns(4);
+    @include span-columns(12);
   }
 }
