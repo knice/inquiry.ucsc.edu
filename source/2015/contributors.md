@@ -1,7 +1,5 @@
 ---
-layout: post
-issue: 2015
-section: opener
+layout: page
 title: Contributors
 ---
 

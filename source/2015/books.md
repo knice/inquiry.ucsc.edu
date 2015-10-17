@@ -1,11 +1,9 @@
 ---
-layout: post
-issue: 2015
-section: closer
-title: Connected Community
-tags:
-  - "Information Technology"
+layout: page
+title: Pen & Inq
 ---
+
+{% image 2015/cover-springer.jpg alt="How the States Shaped the Nation" class="left" [resize:180] %}
 
 ## Vote Local
 
@@ -14,6 +12,10 @@ Among countries where citizens can vote, the United States holds one of the lowe
 In her book, How the States Shaped the Nation: American Electoral Institutions and Voter Turnout 1920–2000, Springer analyzed 80 years of voting history. Her research showed that each state has considerable influence on local voting culture. For instance, some states require that voters have particular kinds of photo identification, which may be too costly for some citizens to obtain. Paying attention to those state-specific effects is the ticket to building more participation.
 
 “We need to look at the history of how states encourage or discourage voting,“ Springer said, “and then be more mindful about how we aim to engage people.”
+
+****
+
+{% image 2015/cover-guthman.jpg alt="Agrarian Dreams" class="left" [resize:180] %}
 
 ## Green Dreams
 
@@ -25,7 +27,11 @@ In the second edition of Agrarian Dreams: The Paradox of Organic Farming in Cali
 
 The high cost of land puts growers under great pressure to get more crop value per acre. So, the system ends up being very similar to conventional agribusiness models.
 
-“It’s a California story, but the implications are much wider,” said Guthman.
+"It’s a California story, but the implications are much wider," said Guthman.
+
+****
+
+{% image 2015/cover-watts-porter.jpg alt="New Orleans Suite" class="left" [resize:180] %}
 
 ## Jazz Fusion
 
@@ -36,6 +42,10 @@ When Hurricane Katrina stormed through the city, wreaking cultural transformatio
 “We wanted to showcase the role that cultural practices play in everyday lives in New Orleans, and also the way these practices were mobilized to rebuild the city,” said Porter, a professor in the History and History of Consciousness Departments.
 
 In black-and-white photography, Watts, a professor emeritus of arts, reveals the place and its people before and after the hurricane hit. “We managed to meld words and images to approach the city through its music,” he said.
+
+****
+
+{% image 2015/cover-rich.jpg alt="New Queer Cinema" class="left" [resize:180] %}
 
 ## Carrying On
 
@@ -48,6 +58,10 @@ The movement was fueled by a potent combination of politics, AIDS, camcorders, a
 With this book, Rich brings back her early essays about the rise of gay and lesbian cinematic themes, and updates her writing with new testaments to LGBT influences on film and life.
 
 Rich is also the editor of Film Quarterly, the film journal of the University of California Press.
+
+****
+
+{% image 2015/cover-massoud.jpg alt="Law's Fragile State" class="left" [resize:180] %}
 
 ## Looking for Law
 
