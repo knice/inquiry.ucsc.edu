@@ -13,7 +13,7 @@ echo "Installing Dependencies..."
 bundle install
 
 # Remove Git remote if it's still the proteus-jekyll repo
-if [ "$(git config --get remote.origin.url)" = "git@github.com:thoughtbot/proteus-jekyll.git" ]; then
+if [ "$(git config --get remote.origin.url)" = "git@github.com:knice/inquiry.ucsc.edu.git" ]; then
   echo "What is your repo url? Enter URL or leave blank"
   read url
   if [ -z "$url" ]; then
