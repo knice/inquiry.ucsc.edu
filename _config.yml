@@ -2,7 +2,7 @@ gems: [bourbon, neat, jemoji]
 
 highlighter: pygments
 paginate:  5
-baseurl: /inquiry.ucsc.edu
+# baseurl: 
 
 # Structure configuration
 source: ./source

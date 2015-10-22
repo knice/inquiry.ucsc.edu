@@ -1,7 +1,7 @@
 .row {
   @include outer-container;
+  margin: .5em 0;
   max-width: 68em;
-  margin: 0.5em 0;
 }
 
 .one-fourth {

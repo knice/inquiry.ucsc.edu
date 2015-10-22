@@ -5,11 +5,12 @@ h4,
 h5,
 h6 {
   color: $orange;
-  margin-bottom: 0.75em;
+  margin-bottom: .75em;
 }
 
 a {
   color: $dark-blue;
+
   &:focus,
   &:hover,
   &:active {
