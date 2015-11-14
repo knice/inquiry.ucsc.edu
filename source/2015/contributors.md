@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contributors
+permalink: /2015/contributors/
 ---
 
 - Anil Ananthaswamy ('00)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pen & Inq
+permalink: /2015/books/
 ---
 
 {% image 2015/cover-springer.jpg alt="How the States Shaped the Nation" class="left" [resize:180] %}
