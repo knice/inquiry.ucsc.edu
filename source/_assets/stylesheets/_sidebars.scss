@@ -30,4 +30,14 @@ aside {
     color: $text-black;
   }
 
+  @include media($mobile) {
+    &.right,
+    &.left {
+      margin: $rs 0;
+      float: none;
+      width: 100%;
+    }
+
+  }
+
 }

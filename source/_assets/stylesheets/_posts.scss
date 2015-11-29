@@ -29,16 +29,25 @@
 	background-color: #fff;
 	z-index: 1000;
 
-	:first-child {
-		font-size: 1.2em;
-		font-weight: 400;
+	padding: 0 $rs*2;
+
+	> :first-child {
+		font-size: 1.2rem;
+		line-height: 1.2;
+		font-weight: 300;
+		color: transparentize($text-black, 0.4);
 
 	}
+
+	@include media($mobile) {
+		padding: 0 $rs*1.25;
+	}
+
 }
 
 .post-meta,
 .post-content,
 .post-footer {
-  max-width: 34em;
+  max-width: 34em + em($rs)*2;
   margin: 0 auto
 }
