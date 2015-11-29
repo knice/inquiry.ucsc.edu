@@ -1,4 +1,4 @@
-gems: [bourbon, neat, jemoji]
+gems: ['jekyll-paginate', 'bourbon', 'neat', 'jemoji']
 
 highlighter: pygments
 paginate:  5
@@ -9,7 +9,7 @@ source: ./source
 destination: ./build
 
 assets:
-  cachebust: soft
+  cache: false
 
 # Site settings
 title: Inqury @ UC Santa Cruz
@@ -19,7 +19,7 @@ permalink: /:year/:title/
 # Name of project on Github
 # baseurl: /proteus-jekyll
 
-exclude: ["vendor", ".gitignore", "_raw" ]
+exclude: ["vendor", ".gitignore", ".asset-cache" ]
 
 collections:
   articles:

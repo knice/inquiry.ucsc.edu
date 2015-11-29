@@ -1,4 +1,5 @@
 .jekyll-assets-cache
+.asset-cache
 .sass-cache
 .bundle
 _raw
