@@ -12,7 +12,7 @@
   background: $side-image-content-background;
 
   @include media($large-screen) {
-    @include row(table);
+    @include row;
   }
 
   .images-wrapper {
