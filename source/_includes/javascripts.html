@@ -8,20 +8,20 @@
   $(document).ready(function(){
 
     var $window = $(window),
-    $image = $('.post-image-image, .teaserimage-image');
+    $image = $('.post-image-image');
     
       $window.on('scroll', function() {
         var top = $window.scrollTop();
 
-        if (top < 0 || top > 1500) { return; }
+        if (top < 0 || top > 1200) { return; }
         $image
           .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
-          .css('opacity', 1-Math.max(top/700, 0));
+          .css('opacity', 1-Math.max(top/400, 0));
       });
       $window.trigger('scroll');
 
-      var height = $('.article-image').height();
-      $('.post-content').css('padding-top', height + 'px');
+      var height = $('.post-image-image').height();
+      $('.post-content').css('margin-top', height/3*-1 + 'px');
 
       $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')

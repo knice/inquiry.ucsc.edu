@@ -4,9 +4,9 @@ header.navigation {
   $action-color: #477DCA !default;
   $dark-gray: $light-blue;
   $large-screen: em(740) !default;
-  $navigation-padding: 0.75em;
-  $navigation-background: transparentize(#545454, 0.1);
-  $navigation-color: transparentize(white, 0.3);
+  $navigation-padding: $rs*2;
+  $navigation-background: desaturate(darken($dark-blue, 20%), 30%);
+  $navigation-color: transparentize(white, 0.2);
   $navigation-color-hover: white;
   $navigation-height: 60px;
   $navigation-nav-button-background: $action-color;

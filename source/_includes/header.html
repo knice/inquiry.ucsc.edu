@@ -1,11 +1,10 @@
-<!-- header start -->
 <header class="navigation" role="banner">
 
 <div class="navigation-wrapper">
 
   {% if page.url != '/index.html' %}
     <a href="/" class="logo">
-      {% image 'inquiry.svg' %}
+      {% image 'inquiry.svg' alt='Inquiry at UC Santa Cruz' %}
     </a>
   {% endif %}
 
@@ -36,11 +35,11 @@
 {% endcomment %}
 {% if page.url == '/index.html' %}
 <div class="image-gradient-dynamic">
-  {{ "2015/cover-photo-banner.jpg" | image }}
+  {{ "2015/cover-photo-banner.jpg" alt='Illustration: A gamma ray burst of a galaxy by Keat Leong' | image }}
   <div class="overlay"></div>
   <div class="copy">
     <a href="/">
-      {% image 'inquiry.svg' %}
+      {% image 'inquiry.svg' alt='Inquiry at UC Santa Cruz' %}
     </a>
   </div>
 </div>

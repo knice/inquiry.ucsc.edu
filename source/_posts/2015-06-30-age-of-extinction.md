@@ -30,8 +30,6 @@ The horse DNA weathered 700 millennia only because it landed in permafrost, whic
 
 That's why the frozen expanses of the Yukon, Alaska and Siberia are prime research territory for Shapiro. These lands are also the terrestrial remnants of the Bering land Bridge that once connected Asia with North America. The area hosted herds of megafauna and saw major Pleistocene extinctions.
 
-{% include_relative sidebars/shapiro-book.html classes="left" bgcolor="#FDE25A" %}
-
 This bone-rich "laboratory" gives her research team a large-scale opportunity to understand how species responded to climate changes before, during, and after the last ice age, which peaked about 20,000 years ago. They find remains "wherever permafrost is melting: at sites of active riverbank gold mining, or during spring, when snowmelt makes the rivers run high and fast, and water washing around the bends digs through the permafrost, exposing bones stored within," Shapiro said.
 
 Climate change is now causing a bigger meltdown. A boon for research in the short-term, it threatens to defrost ancient DNA along with the once "perma" frost.
@@ -42,6 +40,8 @@ Shapiro's compass did not originally point to a life of research in Arctic envir
 course one summer, so she could travel west and camp in national parks. That sparked her interest in science, and she graduated with a Bachelor of Arts and Master of Science in ecology.
 
 "Every major decision I've made in my life seems to be based on where I get to go," said Shapiro.
+
+{% include_relative sidebars/shapiro-book.html classes="left" bgcolor="#FDE25A" %}
 
 After college, she wanted to study in england, so she applied for both Rhodes and Marshall scholarships. landing the prestigious Rhodes took her to oxford, where she met ancient DNA pioneer Alan Cooper. he did fieldwork in the Yukon and Siberia; she signed on as his first grad student and has continued to travel north ever since.
 

@@ -1,14 +1,18 @@
 $mobile: new-breakpoint(max-width 600px 4);
 $tablet: new-breakpoint(max-width 800px 4);
 
-$rs: 16px;
+$rs: 18px;
 $font-serif: 'Linux Libertine';
 $font-sans: 'Helvetica Neue', Arial, Helvetica, sans-serif;
 
 // 2015 color palette
+$text-black: #333;
 $light-gray: #bcc1c2;
 $light-blue: #3ab9d9;
 $dark-blue: #005c9f;
 $green: #afc930;
 $orange: #e37526;
 $gold: #f7c902;
+
+$brand-blue: #00458c;
+$brand-gold: #ffc500;

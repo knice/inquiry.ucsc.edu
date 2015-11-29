@@ -30,7 +30,7 @@ Animation has been a staple of serious filmmaking since it was first used in a 1
 
 Lea&ntilde;os has found it to be a powerful device for rendering multilayered stories. In his most recent film, Frontera! Revolt and Rebellion on the Rio Grande, 16th- and 17th-century animated characters leap to life--fighting, dancing, and performing spiritual ceremonies. The tale begins with the mythical horned serpent of thunder and lightning slithering out of the sky and disappearing into the Rio Grande, starting a new round of drought and violence. Infographic maps erupt in flames at hotspots, exposing the reach of indigenous unrest in colonial Mexico leading up to the successful Pueblo Revolt of 1680.
 
-{% image 2015/horned-serpent-animation.jpg alt="Horned Serpent (animation still). With animation, Lea&ntilde;os adds new dimensions to his documentaries. Frontera! begins with the mythical horned serpent of thunder and lightning slithering out of the sky and disappearing into the Rio Grande." [autosize] %}
+{% img 2015/horned-serpent-animation.jpg magick:resize:612 alt:"Horned Serpent (animation still). With animation, Lea&ntilde;os adds new dimensions to his documentaries. Frontera! begins with the mythical horned serpent of thunder and lightning slithering out of the sky and disappearing into the Rio Grande." %}
 
 This history still lives, Lea&ntilde;os said, in the New Mexico and Arizona Pueblos that have sovereignty today as a result of that revolt.
 He reinforces the connection between past and present by relying on the voices of modern-day Pueblo people in Frontera!
@@ -46,6 +46,8 @@ Despite the serious content, Lea&ntilde;os employs pop-culture design and appeal
 The film's visuals are mestizo--mixed--everything from comic-book "bam-pow" style to spare, beautiful charcoal renderings. There is humor, too. Conquistadors and missionaries wear sunglasses and rapper-like bling. And there's hip-hop: Lea&ntilde;os' trilingual song recounts how drought, hunger, the prohibition of Native religion, and systematic atrocities committed against the Pueblos by the colonial government, soldiers and priests, all provoked the communities to rebellion.
 
 They drove the Spanish occupiers from the Rio Grande region and reclaimed their ceremonies and culture--a respite from foreign rule that lasted for 12 years.
+
+{% include_relative sidebars/leanos-whitney.html classes="right" color="#fff" bgcolor="#E37528" %}
 
 This account of struggle and victory is "enthralling," declared the Latin Post, an English media site. Both PBS.org and Latino Public Broadcasting presented Frontera! during National Hispanic Heritage Month in September 2014. The documentary won "Best Animation" at the 39th Annual American Indian Film Festival and "Best Short Film" at the XicanIndie Film Fest.
 
@@ -68,22 +70,3 @@ Continuing to explore the ideas of the frontier, colonization and resistance, Le
 This new animation will focus not just on the Gold Rush at John Sutter's mill, but also on the Taos Revolt in 1847. Both events took place on land annexed from Mexico during the Mexican-American War. According to Lea&ntilde;os' research, Sutter and the American rulers of the New Mexico territory treated the indigenous people brutally. "When you go to Fort Sutter, you hear nothing of that. It tells only a snippet of the story," Lea&ntilde;os said.
 
 "It is the poverty of knowledge and perspectives that gives me impetus to tell stories this way"--full of complexity and coyote humor.
-
-****
-
-## From the Whitney Museum to Los Angeles buses
-
-As a social art practitioner, Lea&ntilde;os' art and audiences are diverse. Frontera! aired on PBS.org and Latino Public Broadcasting. His public awareness video about the dangers of sugar, flour and salt, called Evil White Foods, played on the Metro Los Angeles bus system and in community clinic waiting rooms.
-
-His films, installation art and performance work have been exhibited at venues including the Sundance Film Festival, the 2002 Whitney Biennial in New York,
-the San Francisco Museum of Modern Art, and the Museum of Contemporary Art in Los Angeles.
-
-In 2009, Lea&ntilde;os premiered a multimedia opera, Imperial Silence: Una Opera Muerta / A Dead Opera in Four Acts. It fuses dark-humored animation with Mexican folklore dance, theater, Mariachi music, hip-hop, bossa nova, and blues.
-
-"Imperial Silence is a performance that journeys to the 'other' side to illuminate cultural taboos around silence, death and dissent--especially in war and empire--in the satirical Mexican and Chicana/o tradition of the Days of the Dead," said Lea&ntilde;os, who is the piece's originator, director, librettist and animator.
-
-To bring it to life/death, he worked with composer Cristobal Martinez (who also worked with Lea&ntilde;os on Frontera!), the Mariachi ensemble Los Cuatro Vientos, and artist Sean Levon Nash.
-
-The animations in the opera have screened and won awards at national and international film festivals including Sundance, Cannes, and Morelia International Film Festival.
-
-"Culture work is intended to elicit a response," Lea&ntilde;os affirmed. "We're creating art through the lens of culture so we can transform society and ourselves and work toward social justice."

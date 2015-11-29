@@ -26,7 +26,7 @@ Solitary confinement was in vogue in the 1800s. Back then, some believed that a 
 
 Although the use of long-term prison isolation is rare in the developed world, in the U.S. the penal practice was revived during the 1980s and '90s when prison populations swelled as a result of tough-on-crime laws and increased mandatory sentencing requirements. At the same time, prison administrators dropped the veneer of prison as a place for rehabilitation, cutting therapeutic and recreational programming, and cementing its function as a tool of punishment. Crowded prisons were dangerous, and overwhelmed administrators began sending some men&mdash;whose primary offense might only be a gang-affiliated tattoo&mdash;to "the hole" for an indefinite period. Although women prisoners also get solitary confinement, incarcerated men outnumber women by more than a ten-to-one ratio, so the absolute number of women in isolation units is much smaller, Haney noted.
 
-{% image 2015/craig-haney-prisons.jpg alt="Craig Haney" [resize:640] %}
+{% img 2015/craig-haney-prisons.jpg magick:resize:612 alt:'Craig Haney' %}
 
 In California, many of these isolated prisoners are held in a "Security Housing Unit" at Pelican Bay State Prison. Located near the Oregon border, the entire facility is devoted to solitary confinement. But throughout the country, an estimated 80,000 prisoners, almost all men, are held in isolation. Some institutions call it "administrative segregation" or "intensive management." No matter the name, it's still solitary confinement: a life lived essentially around-the-clock within the same four walls.   
 

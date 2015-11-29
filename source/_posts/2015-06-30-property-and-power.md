@@ -12,7 +12,7 @@ The global rise of violence against women reflects inequalities in the structure
 
 "Violence against women doesn't start as an abusive relationship," said Shelly Grabe, an associate professor of psychology at UC Santa Cruz who led the research. "The abuses of power start at a much higher level. If we want to eradicate abuse, we need to go back to those larger structural relationships. Of those larger relationships, land ownership is key."
 
-Grabe interviewed 492 women in Nicaragua and Tanzania. She gathered information that included their age, education, number of children, experience of violence, and land ownership. Her analysis suggested that shifting control over resources--land in particular\0xAD\0xAD--can dramatically change women's lives.
+Grabe interviewed 492 women in Nicaragua and Tanzania. She gathered information that included their age, education, number of children, experience of violence, and land ownership. Her analysis suggested that shifting control over resources--land in particular--can dramatically change women's lives.
 
 One interviewee said: "Those times he used to beat you, he beats you because he knows you depend on him...But if he finds you have your own place, he can't be able."
 

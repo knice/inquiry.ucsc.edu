@@ -1,9 +1,22 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+body {
+  font-size: $rs;
+  font-family: $font-sans;
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+  font-weight: 300;
+  font-feature-settings: "liga", "dlig";
+}
+
+header,
+main,
+section,
+article,
+footer {
+  display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
   color: $orange;
   margin-bottom: .75em;
 }
@@ -19,28 +32,79 @@ a {
   }
 }
 
-aside {
 
-  p {
-    font-size: 0.9em !important;
-    line-height: 1.3 !important;
+pre,
+code {
+  font-size: 15px;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px;
+  background-color: #eeeeff;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: scroll;
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
   }
-  
-  padding: 2em;
-  :first-child {
-    margin-top: 0;
-    padding-top: 0;
+}
+
+.columns-2 {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  -o-column-count: 3;
+  -ms-column-count: 3;
+  @include media($mobile) {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    -o-column-count: 1;
+    -ms-column-count: 1;
   }
 
-  &.left {
-    float: left;
-    margin-left: -20%;
-    width: 50%;
-  }
+}
 
-  h1,
-  h2,
-  h3 {
-    color: #333;
-  }
+
+
+hr {
+  border: 0;
+  padding: 0;
+  display: block;
+  clear: both;
+  width: 45%;
+  margin: 3em auto;
+  border: 0px solid $orange;
+  border-top: 1px solid $orange;
+}
+
+
+figure {
+  margin: 0;
+  padding: 0 0 30px 0;
+}
+
+figcaption {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1em;
+  line-height: 1.3;
+  color: #545454;
+  outline: 0;
+  z-index: 300;
+  text-align: right;
+}
+
+.right {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+.left {
+  float: left;
+  margin: 0 1em 1em 0;
 }
