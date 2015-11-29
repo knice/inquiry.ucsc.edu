@@ -9,8 +9,8 @@ source: ./source
 destination: ./build
 
 assets:
-  cache: false
-  digest: false
+  cache: ./.asset-cache
+  digest: true
 
 # Site settings
 title: Inqury @ UC Santa Cruz
