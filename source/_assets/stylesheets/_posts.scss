@@ -25,11 +25,11 @@
 
 .post-content {
 
-  padding: 0 $rs*2;
+  padding: 0 $rs * 2;
   z-index: 1000;
 
   @include media($mobile) {
-    padding: 0 $rs*1.25;
+    padding: 0 $rs * 1.25;
   }
 
   > :first-child {
@@ -45,5 +45,5 @@
 .post-content,
 .post-footer {
   margin: 0 auto;
-  max-width: 34em + em($rs)*2;
+  max-width: 34em + em($rs) * 2;
 }
