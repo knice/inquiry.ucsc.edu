@@ -5,13 +5,11 @@ gem 'coffee-script'
 gem 'jekyll'
 gem 'jekyll-assets'
 gem 'jekyll-paginate'
-gem 'jemoji'
 gem 'neat'
 gem 's3_website'
 gem 'sass'
 gem 'thin'
 gem 'uglifier'
-gem 'mini_magick'
 
 group :development do
   gem 'guard'
