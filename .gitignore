@@ -6,3 +6,5 @@ _raw
 vendor
 mediator-master
 build
+
+Gemfile.lock
