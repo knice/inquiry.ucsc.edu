@@ -8,10 +8,6 @@ paginate:  5
 source: ./source
 destination: ./build
 
-assets:
-  cache: ./.asset-cache
-  digest: true
-
 # Site settings
 title: Inqury @ UC Santa Cruz
 description: UC Santa Cruz Research Magazine
@@ -20,7 +16,7 @@ permalink: /:year/:title/
 # Name of project on Github
 # baseurl: /proteus-jekyll
 
-exclude: ["vendor", ".gitignore", ".asset-cache" ]
+exclude: ["source/.asset-cache", "vendor", ".gitignore"]
 
 collections:
   articles:
