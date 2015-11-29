@@ -10,6 +10,7 @@ destination: ./build
 
 assets:
   cache: false
+  digest: false
 
 # Site settings
 title: Inqury @ UC Santa Cruz
