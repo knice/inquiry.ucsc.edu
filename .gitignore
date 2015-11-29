@@ -2,9 +2,6 @@
 .asset-cache
 .sass-cache
 .bundle
-_raw
 vendor
-mediator-master
 build
-
 Gemfile.lock
