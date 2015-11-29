@@ -1,4 +1,9 @@
-gems: ['jekyll-assets', 'jekyll-paginate', 'bourbon', 'neat', 'jemoji']
+gems:
+- jekyll-assets
+- jekyll-paginate
+- bourbon
+- neat
+- jemoji
 
 highlighter: pygments
 paginate:  5
@@ -13,10 +18,20 @@ title: Inqury @ UC Santa Cruz
 description: UC Santa Cruz Research Magazine
 permalink: /:year/:title/
 
+assets:
+  prefix: "/assets"
+  sources:
+  - source/_assets/images
+  - source/_assets/javascripts
+  - source/_assets/stylesheets
+
 # Name of project on Github
 # baseurl: /proteus-jekyll
 
-exclude: ["source/.asset-cache", "vendor", ".gitignore"]
+exclude:
+- source/.asset-cache/
+- vendor/
+- .gitignore
 
 collections:
   articles:
