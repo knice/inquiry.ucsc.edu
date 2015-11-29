@@ -1,4 +1,4 @@
-gems: ['jekyll-paginate', 'bourbon', 'neat', 'jemoji']
+gems: ['jekyll-assets', 'jekyll-paginate', 'bourbon', 'neat', 'jemoji']
 
 highlighter: pygments
 paginate:  5
