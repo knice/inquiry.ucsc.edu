@@ -1,15 +1,17 @@
 body {
-  font-size: $rs;
   font-family: $font-sans;
+  font-feature-settings: 'liga', 'dlig';
+  font-size: $rs;
+  font-weight: 300;
+  line-height: 1.4;
   margin: 0;
   padding: 0;
-  line-height: 1.4;
-  font-weight: 300;
-  font-feature-settings: "liga", "dlig";
+
   @include media($mobile) {
     font-size: 16px;
     font-weight: 400;
   }
+
 }
 
 header,
@@ -20,7 +22,12 @@ footer {
   display: block;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: $orange;
   margin-bottom: .75em;
 }
@@ -37,16 +44,14 @@ a {
 }
 
 img {
-  max-width: 100%;
   height: auto;
+  max-width: 100%;
 }
 
 pre,
 code {
-  font-size: 15px;
-  border: 1px solid #e8e8e8;
   border-radius: 3px;
-  background-color: #eeeeff;
+  font-size: 15px;
 }
 
 code {
@@ -54,42 +59,43 @@ code {
 }
 
 pre {
-  padding: 8px 12px;
   overflow-x: scroll;
+  padding: 8px 12px;
+  
   > code {
     border: 0;
-    padding-right: 0;
     padding-left: 0;
+    padding-right: 0;
   }
+
 }
 
 
 hr {
   border: 0;
-  padding: 0;
-  display: block;
-  clear: both;
-  width: 45%;
-  margin: 3em auto;
-  border: 0px solid $orange;
   border-top: 1px solid $orange;
+  clear: both;
+  display: block;
+  margin: 3em auto;
+  padding: 0;
+  width: 45%;
 }
 
 
 figure {
   margin: 0;
-  padding: 0 0 30px 0;
+  padding: 0 0 30px;
 }
 
 figcaption {
-  font-weight: 400;
-  font-style: normal;
+  color: lighten($text-black, 25%);
   font-size: 1em;
+  font-style: normal;
+  font-weight: 400;
   line-height: 1.3;
-  color: #545454;
   outline: 0;
-  z-index: 300;
   text-align: right;
+  z-index: 300;
 }
 
 .right {

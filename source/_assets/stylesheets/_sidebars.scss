@@ -2,7 +2,16 @@ aside {
 
   padding: 2em;
 
-  :first-child {
+  @include media($mobile) {
+    &.right,
+    &.left {
+      float: none;
+      margin: $rs 0;
+      width: 100%;
+    }
+  }
+
+  > :first-child {
     margin-top: 0;
     padding-top: 0;
   }
@@ -28,16 +37,6 @@ aside {
   h2,
   h3 {
     color: $text-black;
-  }
-
-  @include media($mobile) {
-    &.right,
-    &.left {
-      margin: $rs 0;
-      float: none;
-      width: 100%;
-    }
-
   }
 
 }
