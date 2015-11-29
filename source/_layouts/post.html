@@ -7,26 +7,19 @@ class: post
 
     <header class="post-header">
     
-    {% if page.image %}
-      <div class="post-image-image">
-        {{ page.image.file | image : "magick:resize:>800" }}
-        <div class="post-meta">
+      <div class="image-gradient-dynamic">
+      {% if page.image.file %}
+        {{ page.image.file | img : "magick:resize:1000x800" }}
+      {% endif %}  
+        <div class="overlay"></div>
+        <div class="copy">
           <h1 class="post-title">{{ page.title }}</h1>
           {% if page.subhead %}
           <p class="post-excerpt">{{ page.subhead }}</p>
           {% endif %}
         </div>
       </div>
-    {% else %}
-      <div>
-        <div class="post-meta">
-          <h1 class="post-title">{{ page.title }}</h1>
-          {% if page.subhead %}
-          <p class="post-excerpt">{{ page.subhead }}</p>
-          {% endif %}
-        </div>
-      </div>        
-    {% endif %}
+
     </header>
 
 
@@ -54,7 +47,7 @@ class: post
         <div class="comment">
           {% if page.author.file %}
           <div class="comment-image">
-            {{ page.author.file | append:' [resize:150]' | alt:'Article author' | image }}
+            {{ page.author.file | img : "magick:resize:150 alt:'article author'" }}
           </div>
           {% endif %}
           <div class="comment-content">
