@@ -21,6 +21,6 @@ end
 
 group :test do
   gem 'rake'
-  gem 'scss-lint'
+  gem 'scss_lint'
   gem 'html-proofer'
 end
