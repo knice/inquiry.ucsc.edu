@@ -5,3 +5,5 @@
 build
 Gemfile.lock
 vendor
+_raw
+mediator-master
