@@ -1,12 +1,18 @@
+<div class="super-header row">
+  {% if page.url != '/' %}
+    <a href="/" class="logo">
+      {% image 'inquiry-stacked.svg' alt='Inquiry at UC Santa Cruz' %}
+    </a>
+  {% endif %}
+
+  <a href="http://www.ucsc.edu" class="logo ucsc">
+    {% image 'ucsc.svg' alt='UC Santa Cruz' %}
+  </a>
+</div>
+
 <header class="navigation" role="banner">
 
 <div class="navigation-wrapper">
-
-  {% if page.url != '/index.html' %}
-    <a href="/" class="logo">
-      {% image 'inquiry.svg' alt='Inquiry at UC Santa Cruz' %}
-    </a>
-  {% endif %}
 
   <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
 
@@ -30,10 +36,7 @@
   </div>
 </div>
 
-{% comment %}
-  Banner on the homepage only
-{% endcomment %}
-{% if page.url == '/index.html' %}
+{% if page.url == '/' %}
 <div class="image-gradient-dynamic">
   {{ "2015/cover-photo-banner.jpg" alt='Illustration: A gamma ray burst of a galaxy by Keat Leong' | image }}
   <div class="overlay"></div>
