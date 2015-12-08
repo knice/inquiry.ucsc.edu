@@ -12,7 +12,7 @@ Slugs earned the top slot with a citation score of 100, tying for first place wi
 
 ## The spirit of inquiry@UC Santa Cruz
 
-{% image 2015/scott-brandt.jpg alt="Vice chancellor of research Scott Brandt" class="right" [resize:280] %}
+{% img 2015/scott-brandt.jpg magick:resize:280 alt:"Vice chancellor of research Scott Brandt" class:"right" %}
 
 Welcome to the inaugural issue of inquiry@UC Santa Cruz. The office of Research and University Relations are proud to sponsor this annual research magazine. The purpose of inquiry is to present a campus-wide snapshot of our world-class research and a sense of "who we are" as a community of researchers and to draw out the complex interplay between pioneering research at
 UCSC and our investigators' vision and passion.
@@ -22,7 +22,7 @@ on prison reform that are informing policy decisions; and we see the development
 
 We hope you enjoy inquiry@UC Santa Cruz for 2015--16. It is a great privilege to support and foster the growth of research at UC Santa Cruz as we celebrate our 50th anniversary.
 
-{% image 2015/scott-brandt-signature.jpg alt="Scott Brandt" [resize:220] %}
+{% img 2015/scott-brandt-signature.jpg alt:"Scott Brandt" magick:resize:220 %}
 
 Scott A. Brandt  
 Vice Chancellor for Research  
