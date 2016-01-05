@@ -1,13 +1,15 @@
-<div class="super-header row">
-  {% if page.url != '/' %}
-    <a href="/" class="logo">
-      {% image 'inquiry-stacked.svg' alt='Inquiry at UC Santa Cruz' %}
-    </a>
-  {% endif %}
+<div class="header-container">
+  <div class="super-header">
+    {% if page.url != '/' %}
+      <a href="/" class="logo">
+        {% image 'inquiry-stacked.svg' alt='Inquiry at UC Santa Cruz' %}
+      </a>
+    {% endif %}
 
-  <a href="http://www.ucsc.edu" class="logo ucsc">
-    {% image 'ucsc.svg' alt='UC Santa Cruz' %}
-  </a>
+    <a href="http://www.ucsc.edu" class="logo ucsc">
+      {% image 'ucsc.svg' alt='UC Santa Cruz' %}
+    </a>
+  </div>
 </div>
 
 <header class="navigation" role="banner">
