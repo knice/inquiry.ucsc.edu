@@ -9,7 +9,7 @@ author:
     name: Becky Bach
     file: 2015/becky-bach.jpg
 image:
-    file: 2015/reforming-prisons.jpg
+    file: 2015/reforming-prisons-crop.jpg
 quotes:
 - "The emphasis ought to be on keeping prison isolation as brief and humane as possible and only as a last resort."
 ---

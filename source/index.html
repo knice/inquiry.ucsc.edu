@@ -18,8 +18,7 @@ class: front
       {% for post in sorted_articles %}
         <div class="side-image">
           {% if post.image.file %}
-          <div class="images-wrapper" style="background-image:url('{{ post.image.file | append:' [resize:>350x400]' | asset_path }}'); background-position:top;">
-          </div>
+          <img src="{{ post.image.file | append:' [resize:>600x650]' | asset_path }}" class="full-size">
           {% endif %}
             <div class="side-image-content">
               <h2>

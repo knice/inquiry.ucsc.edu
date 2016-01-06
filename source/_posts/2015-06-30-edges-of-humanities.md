@@ -9,7 +9,7 @@ author:
     name: Danielle Venton
     file: 2015/danielle-venton.jpg
 image:
-    file: 2015/edges-of-humanities-banner.jpg
+    file: 2015/edges-of-humanities-crop.jpg
     caption: "A view of the main thoroughfare of Volodymyr Volyns'kyi, or Ludmir. This predominantly Jewish community was home to the only woman known to have acted as a Hasidic rebbe, a charismatic Jewish leader."
 quotes:
 - "Is there a custom that when the midwife dies, all of the children whom she brought into the world accompany her funeral procession with candles in their hands?"

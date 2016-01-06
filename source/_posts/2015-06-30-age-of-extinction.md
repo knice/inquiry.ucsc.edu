@@ -9,7 +9,7 @@ author:
     name: Heather Rock Woods
     file: "2015/heather-rock-woods.jpg"
 image:
-    file: 2015/beth-shapiro-extinction.jpg
+    file: 2015/beth-shapiro-extinction-crop.jpg
     position: left
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."

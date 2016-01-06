@@ -9,7 +9,7 @@ author:
     name: Heather Rock Woods
     file: 2015/heather-rock-woods.jpg
 image:
-    file: 2015/coyote-border-crossings.jpg
+    file: 2015/coyote-border-crossings-crop.jpg
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."
 ---

@@ -9,7 +9,7 @@ author:
     name: Anil Ananthaswamy
     file: 2015/anil-ananthaswamy.jpg
 image:
-    file: 2015/a-cold-trail.jpg
+    file: 2015/a-cold-trail-crop.jpg
 quotes:
 - "Why do these changes take place at the rates that they do? That's the key thing we need to understand--if you ever want to build reliable models of predictions of what's going to happen to an ice sheet 100 years from now."
 ---
