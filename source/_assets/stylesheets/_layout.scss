@@ -38,15 +38,10 @@
 .two-thirds,
 .three-fourths {
   @include media($mobile) {
-    @include span-columns(12);
+    @include span-columns(4);
   }
 }
 
 .page-content {
-  width: 100%;
-}
-
-img .full-size {
-  display: block;
   width: 100%;
 }
