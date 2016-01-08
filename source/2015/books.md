@@ -4,7 +4,7 @@ title: Pen & Inq
 permalink: /2015/books/
 ---
 
-{% image 2015/cover-springer.jpg alt="How the States Shaped the Nation" class="left" [resize:180] %}
+{% image 2015/cover-springer.jpg alt:"How the States Shaped the Nation" class:"right" %}
 
 ## Vote Local
 
@@ -16,7 +16,7 @@ In her book, How the States Shaped the Nation: American Electoral Institutions a
 
 ****
 
-{% image 2015/cover-guthman.jpg alt="Agrarian Dreams" class="left" [resize:180] %}
+{% image 2015/cover-guthman.jpg alt:"Agrarian Dreams" class:"right" %}
 
 ## Green Dreams
 
@@ -32,7 +32,7 @@ The high cost of land puts growers under great pressure to get more crop value p
 
 ****
 
-{% image 2015/cover-watts-porter.jpg alt="New Orleans Suite" class="left" [resize:180] %}
+{% image 2015/cover-watts-porter.jpg alt:"New Orleans Suite" class:"right" %}
 
 ## Jazz Fusion
 
@@ -46,7 +46,7 @@ In black-and-white photography, Watts, a professor emeritus of arts, reveals the
 
 ****
 
-{% image 2015/cover-rich.jpg alt="New Queer Cinema" class="left" [resize:180] %}
+{% image 2015/cover-rich.jpg alt:"New Queer Cinema" class:"right" %}
 
 ## Carrying On
 
@@ -62,7 +62,7 @@ Rich is also the editor of Film Quarterly, the film journal of the University of
 
 ****
 
-{% image 2015/cover-massoud.jpg alt="Law's Fragile State" class="left" [resize:180] %}
+{% image 2015/cover-massoud.jpg alt:"Law's Fragile State" class:"right" %}
 
 ## Looking for Law
 
