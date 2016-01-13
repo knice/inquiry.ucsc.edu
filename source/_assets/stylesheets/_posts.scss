@@ -29,20 +29,22 @@
 
   padding: 0 $rs * 2;
   z-index: 1000;
-  }
 
   @include media($mobile) {
     padding: 0 $rs * 1.25;
   }
 
-  > :first-child {
-    color: lighten($text-black, 10%);
-    font-size: 1.5rem;
-    font-weight: 500;
-
-    h1 {
+  h1 {
       color: $orange;
+  }
+
+  img {
+    
+    @include media($mobile) {
+      @include span-columns(7);
+      margin: 0 auto 1em;
     }
+
   }
 }
 
