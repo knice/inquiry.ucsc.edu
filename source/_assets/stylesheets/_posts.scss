@@ -27,15 +27,22 @@
 
 .page .post-content {
 
-  color: lighten($text-black, 10%);
-  font-size: 1.5rem;
-  font-weight: 500;
   padding: 0 $rs * 2;
   z-index: 1000;
   }
 
   @include media($mobile) {
     padding: 0 $rs * 1.25;
+  }
+
+  > :first-child {
+    color: lighten($text-black, 10%);
+    font-size: 1.5rem;
+    font-weight: 500;
+
+    h1 {
+      color: $orange;
+    }
   }
 }
 
