@@ -18,7 +18,7 @@ class: front
       {% for post in sorted_articles %}
         <div class="side-image">
           {% if post.image.file %}
-          <img src="{{ post.image.file | append:' [resize:>600x650]' | asset_path }}" class="full-size">
+          <img src="{{ post.image.file | append:' [resize:>600x650]' | asset_path }}" class="full-size" alt="{{ post.subhead }}">
           {% endif %}
             <div class="side-image-content">
               <h2>
