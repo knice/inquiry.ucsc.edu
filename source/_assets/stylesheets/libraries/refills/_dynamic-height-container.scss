@@ -22,7 +22,8 @@
    width: 100%;
   }
 
-  .copy {
+  .copy,
+  .copy-homepage {
     @include transform(translate(-50%, -50%));
     left: 50%;
     margin: auto;
@@ -32,10 +33,25 @@
     z-index: 999;
 
     p {
-      color: white;
+      border-radius: .5em;
+      background: rgba(255, 255, 255, .8);
+      color: $brand-blue;
+      display: block;
       line-height: 1.5em;
       padding: 1em 2em;
       position: relative;
+    }
+  }
+
+  .copy {
+
+    @include media($mobile) {
+
+      @include transform(translate(0, 0));
+      left: 0;
+      position: inherit;
+      top: 0;
+      width: 100%;
     }
   }
 

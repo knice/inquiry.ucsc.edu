@@ -2,15 +2,6 @@ aside {
 
   padding: 2em;
 
-  @include media($mobile) {
-    &.right,
-    &.left {
-      float: none;
-      margin: $rs 0;
-      width: 100%;
-    }
-  }
-
   > :first-child {
     margin-top: 0;
     padding-top: 0;
@@ -31,6 +22,15 @@ aside {
     float: right;
     margin-right: -20%;
     width: 60%;
+  }
+
+  @include media($tablet) {
+    &.right,
+    &.left {
+      float: none;
+      margin: $rs 0;
+      width: 100%;
+    }
   }
 
   h1,

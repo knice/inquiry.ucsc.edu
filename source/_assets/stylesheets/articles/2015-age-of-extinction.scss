@@ -20,6 +20,15 @@
 
 }
 
+.post .post-content {
+  padding: 0 $rs * 2;
+  z-index: 1000;
+
+  @include media($mobile) {
+    padding: 0 $rs * 1.25;
+  }
+}
+
 .content .post .post-content blockquote {
       margin: 0 0 30px;
       font-size: 3rem; 
