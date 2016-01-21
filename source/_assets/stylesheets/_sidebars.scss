@@ -24,9 +24,9 @@ aside {
     width: 60%;
   }
 
-  @include media($tablet) {
-    &.right,
-    &.left {
+  &.right,
+  &.left {
+    @include media($tablet) {
       float: none;
       margin: $rs 0;
       width: 100%;
