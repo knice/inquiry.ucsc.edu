@@ -43,9 +43,9 @@ class: post
       </section>
 
       <section class="author">
-        <h5 class="index-headline featured"><span>Written by</span></h5>
         <div class="comment">
           {% if page.author.file %}
+          <h5 class="index-headline featured"><span>Written by</span></h5>
           <div class="comment-image">
             {{ page.author.file | img : "magick:resize:150 alt:'article author'" }}
           </div>
