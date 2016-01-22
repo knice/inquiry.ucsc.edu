@@ -13,9 +13,14 @@
     float: left;
     padding: 0 1em 0 0;
 
-    &.ucsc {
+    &.ucsc-home {
       float: left;
-      padding-top: 1em;
+      padding-top: 0;
+    }
+
+    &.ucsc {
+      float: right;
+      padding-top: .5em;
     }
 
     img {

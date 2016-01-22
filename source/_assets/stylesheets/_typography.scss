@@ -98,6 +98,17 @@ figcaption {
   z-index: 300;
 }
 
+.archive-item {
+  color: $light-gray;
+  list-style: none;
+  margin: 0 0 .25em;
+  padding: 0;
+}
+
+.archive-item:last-child {
+  margin: 0 0 2em;
+}
+
 .right {
   float: right;
   margin: 0 0 1em 1em;

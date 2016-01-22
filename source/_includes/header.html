@@ -5,9 +5,13 @@
         {% image 'inquiry-stacked.svg' alt='Inquiry at UC Santa Cruz' %}
       </a>
     {% endif %}
-
+    {% if page.url != '/' %}
     <a href="http://www.ucsc.edu" class="logo ucsc">
       {% image 'ucsc.svg' alt='UC Santa Cruz' %}
+    {% else %}
+    <a href="http://www.ucsc.edu" class="logo ucsc-home">
+      {% image 'ucsc.svg' alt='UC Santa Cruz' %}
+    {% endif %}
     </a>
   </div>
 </div>
@@ -22,7 +26,7 @@
     <ul id="js-navigation-menu" class="navigation-menu show">
       <li class="nav-link"><a href="/">Latest Issue</a></li>
       <li class="nav-link"><a href="/archives">Archives</a></li>
-      <li class="nav-link"><a href="/contact.html">Contact Us</a></li>
+      <li class="nav-link"><a href="/contact">Contact Us</a></li>
     </ul>
   </nav>
 
