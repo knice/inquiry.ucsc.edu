@@ -12,7 +12,7 @@ layout: page
     {% assign date = currentdate %} 
   {% endif %}
   <ul class="archive-item">
-    <li>{{ post.date | date: "%B %d" }} | <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>» <a href="{{ post.url }}">{{ post.title }}</a></li>
   </ul>
 {% endfor %}
 </section>
