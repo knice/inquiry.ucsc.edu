@@ -11,21 +11,35 @@
 
 }
 
-.post-meta {
+.copy {
   position: absolute;
-  right: 20%;
   top: 10%;
-  width: 60%;
+  width: 90%;
 
-  h1 {
-    font-size: 4rem;
-    margin: 0;
+  .post-title {
+    margin: 0 0 1em;
     text-shadow: 0 0 2px rgba($black, .35);
+
+    @include media($mobile) {
+      margin: 1em 0;
+    }
   }
 
+  .post-excerpt:only-child {
+
+    @include span-columns(4);
+    background: rgba(255, 255, 255, .8);
+    border-radius: .5em;
+    color: $brand-blue;
+    float: none;
+    line-height: 1.5em;
+    margin: 0 auto;
+    padding: 1em 2em;
+    position: relative;
+  }
 }
 
-.page .post-content {
+.post .post-content {
 
   padding: 0 $rs * 2;
   z-index: 1000;
