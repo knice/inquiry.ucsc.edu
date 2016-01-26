@@ -6,6 +6,8 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 bundler_args: --without development
 cache: bundler
+before_install:
+- "export TRAVIS_COMMIT_MSG=\"$(git log --format=%B --no-merges -n 1) - MSG\""
 install:
 - bundle install
 sudo: false
