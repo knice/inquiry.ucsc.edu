@@ -1,0 +1,26 @@
+---
+layout: page
+title: Search Results
+exclude_from_search: true
+---
+
+<section id="search-results">
+  <div class="container">
+  <div class="entries"></div>
+</div> 
+</section>
+{% raw %}
+  <script id="search-results-template" type="text/mustache">
+    {{#entries}}
+    <ul class="archive-item">
+      <article>
+        <li>
+          <a href="{{url}}">{{title}}</a>
+        </li>
+      </article>
+      </ul>
+    {{/entries}}
+  </script>
+{% endraw %}
+
+

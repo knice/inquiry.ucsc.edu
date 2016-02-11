@@ -1,4 +1,4 @@
-gems: [bourbon, neat, jekyll-paginate, jekyll-assets]
+gems: ['bourbon', 'neat', 'jekyll-paginate', 'jekyll-assets', 'jekyll-lunr-js-search']
 
 paginate: 5
 # baseurl: 
@@ -19,6 +19,10 @@ permalink: /:year/:title/
 # baseurl: /inquiry.ucsc.edu
 
 exclude: ['.asset-cache', 'vendor', '.gitignore']
+
+lunr_search:
+  js: 'assets'
+  excludes: [feed.xml]
 
 collections:
   articles:

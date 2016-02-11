@@ -10,6 +10,7 @@ gem 's3_website'
 gem 'sass'
 gem 'thin'
 gem 'uglifier'
+gem 'jekyll-lunr-js-search'
 
 group :development do
   gem 'guard'
