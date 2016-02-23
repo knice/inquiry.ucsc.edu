@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Pen & Inq
+issue: "2015"
 permalink: /2015/books/
+tags:
+  - "2015"
 ---
 
 {% image 2015/cover-springer.jpg alt:"How the States Shaped the Nation" class:"right" %}

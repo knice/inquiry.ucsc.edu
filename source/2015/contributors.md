@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Contributors
+issue: "2015"
 permalink: /2015/contributors/
+tags:
+  - "2015"
 ---
 
 - Anil Ananthaswamy ('00)
