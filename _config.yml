@@ -21,7 +21,7 @@ permalink: /:year/:title/
 exclude: ['.asset-cache', 'vendor', '.gitignore']
 
 lunr_search:
-  js: 'assets'
+  js_dir: 'data'
   excludes: [feed.xml]
 
 collections:
