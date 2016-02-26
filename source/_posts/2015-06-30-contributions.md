@@ -6,14 +6,23 @@ order: 1
 title: Contributors
 ---
 
-- Anil Ananthaswamy ('00)
-- Becky Bach ('14)
-- Elizabeth Devitt ('13)
-- Jennie Dusheck ('85)
-- Melissae Fellet ('11)
-- Heather Rock Woods ('94)
-- Helen Shen ('12)
-- Danielle Venton ('11)
+<ul class="contributors-container">
+<li>{% img 2015/anil-ananthaswamy.jpg alt:"Anil Ananthaswamy ('00)" %}<span>Anil Ananthaswamy ('00)</span></li>
+
+<li>{% img 2015/becky-bach.jpg alt:"Becky Bach ('14)" %}<span>Becky Bach ('14)</span></li>
+
+<li>{% img 2015/elizabeth-devitt.jpg alt:"Elizabeth Devitt ('13)" %}<span>Elizabeth Devitt ('13)</span></li>
+
+<li>{% img 2015/jennie-dusheck.jpg alt:"Jennie Dusheck ('85)" %}<span>Jennie Dusheck ('85)</span></li>
+
+<li>{% img 2015/melissae-fellet.jpg alt:"Melissae Fellet ('11)" %}<span>Melissae Fellet ('11)</span></li>
+
+<li>{% img 2015/heather-rock-woods.jpg alt:"Heather Rock Woods ('94)" %}<span>Heather Rock Woods ('94)</span></li>
+
+<li>{% img 2015/helen-shen.jpg alt:"Helen Shen ('12)" %}<span>Helen Shen ('12)</span></li>
+
+<li>{% img 2015/danielle-venton.jpg alt:"Danielle Venton ('11)" %}<span>Danielle Venton ('11)</span></li>
+</ul>
 
 Although the banana slug&mdash;UC Santa Cruz's mascot&mdash;is considered a solitary creature, a team of "slugs" came together to create the inaugural edition of this research magazine. More specifically, eight Bay Area alums representing every decade of the Science Communication Program returned to campus to report each of the feature stories.
 

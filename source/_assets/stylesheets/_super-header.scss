@@ -8,6 +8,7 @@
 .super-header {
 
   @include outer-container;
+  padding: 0 .5em;
 
   .logo {
     float: left;
@@ -20,11 +21,15 @@
 
     &.ucsc {
       float: right;
-      padding-top: .5em;
+      padding: .5em 0 0;
     }
 
     img {
       max-height: 80px;
+
+      @include media($tablet) {
+        max-height: 70px;
+      }
     }
   }
 
