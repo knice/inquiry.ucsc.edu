@@ -22,13 +22,17 @@
     &.ucsc {
       float: right;
       padding: .5em 0 0;
+
+      @include media($tablet) {
+        padding: 0;
+      }
     }
 
     img {
       max-height: 80px;
 
       @include media($tablet) {
-        max-height: 70px;
+        max-height: 50px;
       }
     }
   }
