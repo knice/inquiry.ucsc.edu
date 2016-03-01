@@ -4,7 +4,8 @@ title: Archives
 ---
 
 <section id="archive">
-{% for post in site.posts sort: 'category' %}
+{% assign sorted_posts = (site.posts | sort: 'category') %}
+{% for post in sorted_posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
