@@ -31,6 +31,10 @@ header.navigation {
     padding: 0 1em;
     position: relative;
     z-index: 9999;
+
+    @include media($tablet){
+      padding: 0;
+    }
   }
 
   .logo {
