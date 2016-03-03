@@ -13,6 +13,11 @@ title: Archives
     <ul class="archive-item">
     {% assign date = currentdate %}
   {% endif %}
+   {% assign currentcategory = post.categories %}
+    {% if currentcategory != category %}
+    <h4 class="category-title">{{ currentcategory }}</h4>
+    {% assign category = currentcategory %}
+    {% endif %}
     <li>» <a href="{{ post.url }}">{{ post.title }}</a>  <span style="text-transform: uppercase; margin-left: 1em; font-size: 9px;">{{ post.category }}</span></li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}

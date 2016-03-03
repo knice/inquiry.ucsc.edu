@@ -1,7 +1,7 @@
 ---
 layout: page
 issue: 2015
-category: pen
+category: publications
 order: 1
 title: Pen & Inquiry
 ---
