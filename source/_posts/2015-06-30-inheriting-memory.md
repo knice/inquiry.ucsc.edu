@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 issue: 2015
 category: brief
 order: 7

@@ -20,6 +20,18 @@
   <link rel="stylesheet" type="text/css" media="screen" href="{% asset_path main.css %}" />
   <link rel="stylesheet" type="text/css" media="print" href="{% asset_path print.css %}" />
 
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  
+  <meta property="og:description" content="{% if page.content %}{{ page.content | markdownify | strip_html | truncatewords: 20, '...' }}{% else %}{{ site.description }}{% endif %}" />
+  
+
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="{{ page.img | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="fb:admins" content="1322847221,508316988" />
+  <meta property="article:publisher" content="https://www.facebook.com/ucsantacruz" />
+
   {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
 
 </head>
