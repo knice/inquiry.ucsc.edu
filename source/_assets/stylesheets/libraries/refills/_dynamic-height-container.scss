@@ -29,27 +29,42 @@
     margin: auto;
     position: absolute;
     text-align: center;
-    top: 50%;
     z-index: 999;
 
     p {
       border-radius: .5em;
-      background: rgba(255, 255, 255, .8);
-      color: $brand-blue;
+      color: $white;
       display: block;
+      font-size: 1.25em;
       line-height: 1.5em;
-      padding: 1em 2em;
+      padding: .25em 1.5em 0;
+      position: relative;
+
+      @include media($tablet) {
+        padding: .25em 1.5em .5em;
+      }
+    }
+  }
+  
+  .copy {
+    top: 85%;
+
+    @include media($tablet) {
       position: relative;
     }
   }
 
+  .copy-homepage {
+    top: 50%;
+  }
+
   .copy {
 
-    @include media($mobile) {
+    @include media($tablet) {
 
       @include transform(translate(0, 0));
       left: 0;
-      position: inherit;
+      position: none;
       top: 0;
       width: 100%;
     }

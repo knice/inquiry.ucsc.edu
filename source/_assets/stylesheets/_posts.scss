@@ -12,16 +12,23 @@
 }
 
 .copy {
+  background: rgba($brand-blue, .75);
   position: absolute;
-  top: 10%;
-  width: 90%;
+  top: 80%;
+  width: 100%;
+
+  @include media($tablet) {
+    background: rgba($brand-blue, 1);
+  }
 
   .post-title {
-    margin: 0 0 1em;
+    color: $brand-gold;
+    margin: 1em 1em 0;
     text-shadow: 0 0 2px rgba($white, .35);
 
-    @include media($mobile) {
-      margin: 1em 0;
+    @include media($tablet) {
+      margin: 0;
+      padding: 1em .5em 0;
     }
   }
 
@@ -30,11 +37,11 @@
     @include span-columns(4);
     background: rgba($white, .8);
     border-radius: .5em;
-    color: $brand-blue;
+    color: $white;
     float: none;
     line-height: 1.5em;
     margin: 0 auto;
-    padding: 1em 2em;
+    padding: .25em 2em;
     position: relative;
   }
 }

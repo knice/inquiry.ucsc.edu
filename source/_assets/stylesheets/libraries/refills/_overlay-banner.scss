@@ -32,8 +32,12 @@
     p {
       color: white;
       line-height: 1.5em;
-      padding: 1em 2em;
+      padding: .5em 2em;
       position: relative;
+
+      @include media($mobile) {
+        padding: 0 1em 1em;
+      }
     }
   }
 
