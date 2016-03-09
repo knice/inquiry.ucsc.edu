@@ -16,6 +16,12 @@
   padding-bottom: 1em;
   width: 100%;
 
+  .comment-container {
+    display: block;
+    margin: 0 auto;
+    max-width: 550px;
+  }
+
   .comment-image,
   .comment-content {
     display: table-cell;
@@ -28,9 +34,14 @@
     > img {
       background: $comment-background;
       border-radius: $base-border-radius;
-      display: block;
+      display: inline-block;
       height: auto;
-      max-width: none;
+      margin-left: 2em;
+      max-width: 175px;
+
+      @include media($mobile) {
+        max-width: 100px;
+      }
     }
 
     .comment-reverse-order & {
@@ -41,15 +52,26 @@
 
   .comment-content {
     width: 100%;
+    text-align: left;
+    vertical-align: middle;
 
     h1 {
       font-size: 1em;
       margin: 0 0 0.5em 0;
+
+      @include media($tablet) {
+        font-size: .75em;
+      }
     }
 
     p {
       line-height: 1.5em;
       margin-bottom: 0.5em;
+    }
+
+    p.published {
+      color: $dark-gray;
+      font-size: .75em;
     }
 
     p.comment-detail {

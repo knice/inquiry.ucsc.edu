@@ -44,15 +44,16 @@ class: post
 
       <section class="author">
         <div class="comment">
-          {% if page.author.file %}
-          <h5 class="index-headline featured"><span>Written by</span></h5>
-          <div class="comment-image">
-            {{ page.author.file | img : "magick:resize:150 alt:'article author'" }}
-          </div>
-          {% endif %}
-          <div class="comment-content">
-            <h1>{{ page.author.name }}</h1>
-            <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          <div class="comment-container">
+            {% if page.author.file %}
+            <div class="comment-image">
+              {{ page.author.file | img : "magick:resize:150 alt:'article author'" }}
+            </div>
+            {% endif %}
+            <div class="comment-content">
+              <h1>Written by: {{ page.author.name }}</h1>
+              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+            </div>
           </div>
         </div>
       </section>

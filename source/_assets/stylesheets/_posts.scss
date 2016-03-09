@@ -12,7 +12,7 @@
 }
 
 .copy {
-  background: rgba($brand-blue, .75);
+  background: rgba($brand-blue, .95);
   position: absolute;
   top: 80%;
   width: 100%;
@@ -35,7 +35,6 @@
   .post-excerpt:only-child {
 
     @include span-columns(4);
-    background: rgba($white, .8);
     border-radius: .5em;
     color: $white;
     float: none;
@@ -115,4 +114,10 @@
 
 .middle {
   width: 50%;
+}
+
+.author {
+  border-top: 1px solid rgba($light-gray, .2);
+  padding: 1em 0 0;
+  text-align: center;
 }
