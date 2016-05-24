@@ -1,0 +1,38 @@
+---
+layout: page
+title: Brief Inquiries
+permalink: /2015/briefs/
+---
+
+<div class="row">
+  <section class="full block">
+
+    {% assign sorted_briefs = (site.categories.brief | sort: 'order') %}
+    {% for post in sorted_briefs %}
+      <div class="side-image">
+          <div class="side-image-content">
+            {% if post.image.file %}
+            <figure>
+              {{ post.image.file | append:' [resize:920]' | image }}
+              {% if post.image.caption %}
+                <figcaption>
+                    {{ post.image.caption }}
+                </figcaption>
+              {% endif %}
+            </figure>
+            {% endif %}
+            {% if post.tags != empty %}
+              <h4>{{ post.tags }}</h4>
+            {% endif %}
+            <h2 id="{{ post.title | slugify }}">
+              {{ post.title }}
+            </h2>
+
+            {{ post.content }}
+
+          </div>
+      </div>
+    {% endfor %}
+
+</section>
+</div>
