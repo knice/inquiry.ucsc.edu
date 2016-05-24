@@ -1,14 +1,12 @@
-gems: ['bourbon', 'neat', 'jekyll-paginate', 'jekyll-assets', 'jekyll-lunr-js-search']
-
-paginate: 5
-# baseurl: 
+gems: ['bourbon', 'neat', 'jekyll-assets']
 
 # Structure configuration
 source: ./source
 destination: ./build
 
 assets:
-  cache: false
+  cache: .asset-cache
+  digest: true
 
 # Site settings
 title: "Inqury @ UC Santa Cruz"
@@ -18,11 +16,11 @@ permalink: /:year/:title/
 # Name of project on Github
 # baseurl: /inquiry.ucsc.edu
 
-exclude: ['.asset-cache', 'vendor', '.gitignore']
+exclude: ['.asset-cache']
 
-lunr_search:
-  js: 'js'
-  excludes: [feed.xml]
+# lunr_search:
+#   js: 'js'
+#   excludes: [feed.xml]
 
 collections:
   articles:
@@ -36,7 +34,7 @@ kramdown:
 
 email: "a-mail@mail.mail"
 logo: "inquiry.svg"
-cover: "2015/cover-photo.jpg"
+cover: "2016/cover-photo.jpg"
 name: "Inquiry @ UCSC"
 author: "Inquiry @ UCSC"
 author_image: "/assets/images/author.jpg"
