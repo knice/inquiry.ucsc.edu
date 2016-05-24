@@ -6,5 +6,4 @@ build
 Gemfile.lock
 vendor
 _raw
-mediator-master
 source/_includes/javascripts.html
