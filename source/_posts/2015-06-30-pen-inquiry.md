@@ -3,7 +3,7 @@ layout: page
 issue: 2015
 category: publications
 order: 1
-title: Pen & Inquiry
+title: Pen & Inq
 ---
 
 {% image 2015/cover-springer.jpg alt:"How the States Shaped the Nation" class:"right" %}
