@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'autoprefixer-rails'
 gem 'bourbon'
 gem 'coffee-script'
 gem 'jekyll'
@@ -12,15 +13,11 @@ gem 'sass'
 gem 'thin'
 gem 'uglifier'
 gem 'jekyll-lunr-js-search'
+gem 'html-proofer'
+gem 'scss_lint'
 
 group :development do
   gem 'guard'
   gem 'guard-jekyll-plus'
   gem 'guard-livereload'
-end
-
-group :test do
-  gem 'rake'
-  gem 'scss_lint'
-  gem 'html-proofer'
 end
