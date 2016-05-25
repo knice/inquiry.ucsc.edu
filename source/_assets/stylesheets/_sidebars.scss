@@ -1,7 +1,7 @@
 aside {
 
-  padding: 1.8em;
   font-weight: 300;
+  padding: 1.8em;
 
   > :first-child {
     margin-top: 0;
@@ -37,8 +37,8 @@ aside {
   h1,
   h2,
   h3 {
-    text-transform: uppercase;
     color: inherit;
+    text-transform: uppercase;
   }
 
   figcaption {
