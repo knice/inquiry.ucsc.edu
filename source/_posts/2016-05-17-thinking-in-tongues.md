@@ -56,12 +56,12 @@ In English, the past tense of a verb such as “kissed” is the same, independe
 
 [su_box title="Translations and Images"]
 
-![](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P19-Necklace.png)
+![Necklace](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P19-Necklace.png)
 amigu, palåo’an, florisi [friend, woman, apply a flower]:
 
 Ha florisi ni floris måyu si Bernadita anai munhåyan kinadena. “She put a plumeria flower on Bernadita when she was done with her necklace.”
 
-![](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P19-rooster.jpg)
+![Rooster](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P19-rooster.jpg)
 
 dengkut, sihik, gåyu [peck, kingfisher, rooster]:
 
@@ -107,13 +107,13 @@ Predictive parsing works in a top-down way. Even as our brain receives external 
 
 [su_box title="Translations and Images"]
 
-![](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P19-Boys.png)
+![Boys](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P19-Boys.png)
 
 maipi, låhi, påtgun, tuåya [hot, man, child, towel]:
 
 Maipi na ha’åni. Ha tåmpi gui’ ni tuåya i tata, kosa ki ti u atagga’ ni semnak. “It’s a hot day. The dad covered himself with a towel, because he was burned by the sun.”
 
-![](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P20-crab.jpg)
+![Crab](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P20-crab.jpg)
 
 pånglao, peskadot, kostat, ayuyu, åkka’ [crab, fisherman, bag, coconut crab, bite]:
 
