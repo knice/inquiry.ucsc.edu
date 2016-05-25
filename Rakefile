@@ -1,4 +1,4 @@
-require 'html/proofer'
+require 'html-proofer'
 
 # rake test
 desc "Build and test the site"
