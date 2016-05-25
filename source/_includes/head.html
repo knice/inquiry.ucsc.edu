@@ -32,6 +32,10 @@
   <meta property="fb:admins" content="1322847221,508316988" />
   <meta property="article:publisher" content="https://www.facebook.com/ucsantacruz" />
 
-  {% if page.custom_css %}{{ page.custom_css | stylesheet }}{% endif %}
+  {% if page.styles %}
+  <style>
+    {{ page.styles }}  
+  </style>
+  {% endif %}
 
 </head>
