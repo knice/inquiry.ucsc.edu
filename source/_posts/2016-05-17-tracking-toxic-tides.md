@@ -21,6 +21,12 @@ A professor of ocean sciences, Kudela studies and tracks harmful algal blooms (H
 
 "From a scientific perspective, we were happy to see the bloom because we could collect the data we need to actually predict what's going on," said Kudela.
 
+<figure class="right" style="width:400px;">
+  {% img 2016/p11-lab-can.jpg magick:resize:400 alt:'A worker lowers Lab in a Can' %}
+  <figcaption>Kudela's team uses "lab in a can," to measure toxin levels and types of algae. Photo courtesy Kudela Lab
+</figcaption>
+</figure>
+
 That's the goal&mdash;to predict when and where toxic events are likely to emerge and, in turn, inform policy and management decisions that can minimize the impacts. Kudela's lab and an alliance of researchers and public agencies are making rapid progress after almost a decade of building upon local trials.
 
 The sooner the better. HABs are responsible for progressively higher economic losses, health threats, and damage to ocean and freshwater life. The 2015 West Coast bloom closed the commercial and recreational Dungeness crab fishery for the first time ever in Northern California, and temporarily took anchovies and rock crab from several California counties off the menu.

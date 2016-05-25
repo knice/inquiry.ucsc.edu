@@ -14,7 +14,7 @@ tags:
 
 <figure>
 {% image 2016/p9-babile.jpg magick:resize:600 alt:'Filling water buckets' %}
-<figcaption>Local girls from Babile fill yellow water jugs at the area’s main water source. Photo courtesy USAID WA-WASH program (West Africa Water Supply, Sanitation and Hygiene Program)</figcaption>
+<figcaption>Local girls from Babile fill yellow water jugs at the area's main water source. Photo courtesy USAID WA-WASH program (West Africa Water Supply, Sanitation and Hygiene Program)</figcaption>
 </figure>
 
 Water can be the currency that builds wealth or reduces poverty. However, access to water doesn't always command the same attention&mdash;or intervention&mdash;as the money gap between rich and poor.
