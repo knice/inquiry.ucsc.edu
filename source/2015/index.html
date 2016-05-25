@@ -1,0 +1,68 @@
+---
+layout: default
+class: front
+title: Inquiry @ UC Santa Cruz
+img: 2015/cover-photo-banner.jpg
+---
+
+<div class="row">
+  <div class="full block-nopadding title">
+    <h1>Premier issue: 2015-16</h1>
+  </div>
+</div>
+
+<div class="row">
+
+  <section class="two-thirds block">
+    <h1 class="index-headline featured">Features</h1>
+
+      {% assign sorted_articles = (site.categories.feature | sort: 'order') %}
+      {% for post in sorted_articles %}
+        <div class="side-image">
+          {% if post.image.file %}
+          <img src="{{ post.image.file | append:' [resize:>600x650]' | asset_path }}" class="full-size" alt="{{ post.subhead }}">
+          {% endif %}
+            <div class="side-image-content">
+              <h2>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              </h2>
+              <p>{{ post.subhead }}</p>
+            </div>
+        </div>
+      {% endfor %}
+
+
+    <!-- <div class="container featured">
+    {% assign sorted_articles = (site.categories.feature | sort: 'order') %}
+    {% for post in sorted_articles %}
+        <article class="teaser">
+          <div class="teaser__body">
+            <h2>
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            <p class="description">{{ post.subhead }}</p>
+          </div>
+          {% if post.image.file %}
+            <div class="teaser__image">
+              {{ post.image.file | append:' [resize:>120x120]' | image }}
+            </div>
+          {% endif %}
+        </article>
+    {% endfor %}
+    </div> -->
+  </section>
+
+  <section class="one-third block">
+      <h1 class="index-headline featured">Additional contents</h1>
+      <ul>
+        <li><a href="/2015/welcome/">Welcome</a></li>
+        <li><a href="/2015/briefs/">Brief Inquiries</a></li>
+        <li><a href="/2015/pen-inquiry/">Pen &amp; Inq</a></li>
+        <li><a href="/2015/contributors/">Inquiring Minds</a></li>
+      </ul>
+
+      <h1 class="index-headline featured">Download the PDF</h1>
+      <a href="/2015/inquiry-2015.pdf">{% image '2015/inquiry-cover.jpg' [resize:380] alt='2015 cover of Inquiry Magazine' %}</a>
+  </section>
+
+</div>
