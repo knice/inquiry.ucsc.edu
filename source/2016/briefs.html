@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Brief Inquiries
-permalink: /2015/briefs/
+permalink: /2016/briefs/
 ---
 
 <div class="row">
   <section class="full block">
 
-    {% assign sorted_briefs = (site.categories.brief | sort: 'order') %}
+    {% assign sorted_briefs = (site.categories.brief | where: 'issue', '2016' | sort: 'order') %}
     {% for post in sorted_briefs %}
       <div class="side-image">
           <div class="side-image-content">
