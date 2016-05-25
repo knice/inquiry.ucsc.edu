@@ -6,11 +6,11 @@ class: post
   <article class="post">
 
     <header class="post-header">
-    
+
       <div class="image-gradient-dynamic">
       {% if page.image.file %}
         {{ page.image.file | img : "magick:resize:1000x800" }}
-      {% endif %}  
+      {% endif %}
         <div class="overlay"></div>
         <div class="copy">
           <h1 class="post-title">{{ page.title }}</h1>
@@ -47,21 +47,22 @@ class: post
           <div class="comment-container">
             {% if page.author.file %}
             <div class="comment-image">
-              {{ page.author.file | img : "magick:resize:150 alt:'article author'" }}
+              {{ page.author.file | img : "magick:resize:180 alt:'article author'" }}
             </div>
             {% endif %}
             <div class="comment-content">
-              <h1>Written by: {{ page.author.name }}</h1>
-              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+              <ul class="flat-list">
+                <li>Written by: <span>{{ page.author.name }}</span></li>
+                <li>Published in <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date: "%B %Y" }}</time></li>
+              </ul>
             </div>
           </div>
         </div>
       </section>
-      
+
       {% include social-sharing.html %}
-    
+
     </footer>
 
 
   </article>
-

@@ -10,7 +10,6 @@
   $comment-detail-color: transparentize($comment-color, 0.5);
   $comment-image-vert-alignment: top;
 
-  border-bottom: 1px solid transparentize($comment-color, 0.9);
   display: table;
   margin-bottom: $base-spacing;
   padding-bottom: 1em;
