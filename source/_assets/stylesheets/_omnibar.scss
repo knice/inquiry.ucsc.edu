@@ -1,0 +1,14 @@
+.omnibar {
+  background-color: $brand-blue;
+  color: $white;
+  font-size: 12px;
+  letter-spacing: .12em;
+  padding: .5em .5em .5em 2.8em;
+
+  a {
+    color: $light-gray;
+    font-weight: 300;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+}
