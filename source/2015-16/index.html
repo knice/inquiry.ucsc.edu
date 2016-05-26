@@ -1,0 +1,49 @@
+---
+layout: default
+class: front
+title: Inquiry @ UC Santa Cruz
+img: 2015/cover-photo-banner.jpg
+---
+
+<div class="row">
+  <div class="full block-nopadding title">
+    <h1>Premier issue: 2015-16</h1>
+  </div>
+</div>
+
+<div class="row">
+
+  <section class="two-thirds block">
+    <h1 class="index-headline featured">Features</h1>
+
+      {% assign sorted_articles = (site.articles | where:'issue','2015' | sort: 'order') %}
+      {% for post in sorted_articles %}
+
+        {% if post.category == 'feature' %}          
+          <div class="side-image">
+            {% if post.image.file %}
+            {% image "{{ post.image.file }}" magick:resize:>400 class:"full-size" alt:"{{ post.subhead }}" %}
+            {% endif %}
+              <div class="side-image-content">
+                <h2>
+                  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                </h2>
+                <p>{{ post.subhead }}</p>
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+
+  </section>
+
+  <section class="one-third block">
+      <h1 class="index-headline featured">Additional contents</h1>
+      <ul>
+        <li><a href="/2015-16/briefs/">Brief Inquiries</a></li>
+      </ul>
+
+      <h1 class="index-headline featured">Download the PDF</h1>
+      <a href="/2015-16/inquiry-2015.pdf">{% image '2015/inquiry-cover.jpg' magick:resize:380 alt:'2015 cover of Inquiry Magazine' %}</a>
+  </section>
+
+</div>

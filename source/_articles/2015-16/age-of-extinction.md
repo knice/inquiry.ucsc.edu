@@ -40,7 +40,7 @@ course one summer, so she could travel west and camp in national parks. That spa
 
 "Every major decision I've made in my life seems to be based on where I get to go," said Shapiro.
 
-{% include_relative sidebars/shapiro-book.html classes="left" bgcolor="#FDE25A" %}
+{% include_relative sidebars/shapiro-book.html classes="right" color="#545454" bgcolor="#FDE25A;" %}
 
 After college, she wanted to study in england, so she applied for both Rhodes and Marshall scholarships. landing the prestigious Rhodes took her to oxford, where she met ancient DNA pioneer Alan Cooper. he did fieldwork in the Yukon and Siberia; she signed on as his first grad student and has continued to travel north ever since.
 

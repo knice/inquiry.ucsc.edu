@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 issue: 2016
 category: welcome
 order: 1
-title: The spirit of inquiry@UC Santa Cruz
+title: "The spirit of inquiry@UC Santa Cruz"
 ---
 
 {% image 2016/p2-scott-brandt.jpg magick:resize:200 class:'left' %}

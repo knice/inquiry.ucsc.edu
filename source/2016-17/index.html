@@ -18,6 +18,7 @@ img: 2016/cover-photo.jpg
 
       {% assign sorted_articles = (site.articles | where: 'issue','2016' | sort: 'order') %}
       {% for post in sorted_articles %}
+      {% if post.category == 'feature' %}
         <div class="side-image">
           {% if post.image.file %}
           {% image "{{ post.image.file }}" magick:resize:>400 class:'full-size' alt:"{{ post.subhead }}" %}
@@ -29,6 +30,7 @@ img: 2016/cover-photo.jpg
               <p>{{ post.subhead }}</p>
             </div>
         </div>
+      {% endif %}  
       {% endfor %}
 
   </section>

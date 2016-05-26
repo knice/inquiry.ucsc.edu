@@ -15,7 +15,6 @@ permalink: /:year/:title/
 
 # Name of project on Github
 # baseurl: /inquiry.ucsc.edu
-
 exclude: ['.asset-cache']
 
 # lunr_search:
