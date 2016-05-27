@@ -5,8 +5,8 @@ category: brief
 order: 6
 title: Why Wolbachia?
 colors:
-    - background: #f7edde
-    - tag: #e37526
+    background: "#f7edde"
+    tag: "#e37526"
 tags:
     - "Molecular, Cell, & Developmental Biology"
 ---

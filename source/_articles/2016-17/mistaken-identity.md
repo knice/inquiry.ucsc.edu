@@ -5,7 +5,7 @@ category: brief
 order: 10
 title: Mistaken idenity
 colors:
-    - tag: #e37526
+    tag: "#e37526"
 tags:
     - Astrophysics
 ---

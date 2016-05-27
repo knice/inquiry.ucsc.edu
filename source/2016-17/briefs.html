@@ -1,37 +1,40 @@
 ---
 layout: page
-title: Brief Inquiries
-section: brief
+title: Brief inquiries
 ---
 
 <div class="row">
   <section class="full block">
 
-    {% assign sorted_briefs = (site.articles | where:'category',"{{ page.section }}" | sort: 'order') %}
+    {% assign sorted_briefs = (site.articles | where:'issue','2016' | sort: 'order') %}
     {% for post in sorted_briefs %}
-      <div class="side-image">
-          <div class="side-image-content">
-            {% if post.image.file %}
-            <figure>
-              {{ post.image.file | append:' [resize:920]' | image }}
-              {% if post.image.caption %}
-                <figcaption>
-                    {{ post.image.caption }}
-                </figcaption>
-              {% endif %}
-            </figure>
-            {% endif %}
-            {% if post.tags != empty %}
-              <h4>{{ post.tags }}</h4>
-            {% endif %}
-            <h2 id="{{ post.title | slugify }}">
-              {{ post.title }}
-            </h2>
+    {% if post.category == 'brief' %}    
+    <div class="brief">
 
-            {{ post.content }}
+      {% if post.image.file %}
+      <figure>
+        {{ image "{{ post.image.file }}" magick:resize:300 }}
+        {% if post.image.caption %}
+          <figcaption>
+              {{ post.image.caption }}
+          </figcaption>
+        {% endif %}
+      </figure>
+      {% endif %}
+            
+      {% if post.tags %}
+        <h4 class="tags" style="color:{{ post.colors.tag }}; border-bottom: 1px solid {{ post.colors.tag }};">{{ post.tags | join:' / ' }}</h4>
+      {% endif %}
+            
+      <h2 id="{{ post.title | slugify }}">
+        {{ post.title }}
+      </h2>
 
-          </div>
-      </div>
+      {{ post.content }}
+
+
+    </div>
+    {% endif %}
     {% endfor %}
 
 </section>

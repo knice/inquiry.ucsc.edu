@@ -5,7 +5,7 @@ category: brief
 order: 8
 title: Citizen gain
 colors:
-    - tag: #84cbd8
+    tag: "#84cbd8"
 tags:
     - Sociology 
 ---

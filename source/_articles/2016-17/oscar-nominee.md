@@ -5,7 +5,7 @@ category: brief
 order: 4
 title: Oscar nominee
 colors:
-    - tag: #e37526
+    tag: "#e37526"
 tags:
     - Film & Digital Media 
 ---

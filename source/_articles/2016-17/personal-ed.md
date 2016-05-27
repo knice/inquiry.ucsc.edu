@@ -5,7 +5,7 @@ category: brief
 order: 9
 title: Personal ed
 colors:
-    - tag: #e37526#
+    tag: "#e37526"
 tags:
     - Education
 ---

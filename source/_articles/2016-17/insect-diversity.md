@@ -5,7 +5,7 @@ category: brief
 order: 7
 title: Insect diversity
 colors:
-    - tag: #e37526
+    tag: "#e37526"
 tags:
     - Agroecology 
 ---

@@ -5,8 +5,8 @@ category: brief
 order: 11
 title: Hybrid vigor 
 colors:
-    - background: #f7edde
-    - tag: #e37526
+    background: "#f7edde"
+    tag: "#e37526"
 tags:
     - Computer Engineering
 ---

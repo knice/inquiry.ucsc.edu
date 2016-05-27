@@ -5,8 +5,8 @@ category: brief
 order: 14
 title: Tapped out
 colors:
-    - background: #f7edde
-    - tag: #e37526
+    background: "#f7edde"
+    tag: "#e37526"
 tags:
     - Sociology
     - Environmental Studies 

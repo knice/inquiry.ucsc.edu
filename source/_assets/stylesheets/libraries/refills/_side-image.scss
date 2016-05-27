@@ -9,8 +9,6 @@
   $side-image-content-background: #F9F9F9;
   $side-image-border: 1px solid darken(transparentize($side-image-background-bottom, 0.8), 30%);
 
-  background: $side-image-content-background;
-
   @include media($large-screen) {
     @include row;
   }

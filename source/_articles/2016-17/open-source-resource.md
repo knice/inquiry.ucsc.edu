@@ -5,13 +5,13 @@ category: brief
 order: 1
 title: Open source resource
 colors:
-    - background: #f7edde
-    - tag: #84cbd8
+    background: "#f7edde"
+    tag: "#84cbd8"
 tags:
     - Computer Science 
 ---
 
-{% img 2016/p4-sage-weil.jpg magick:resize:250 alt:"Sage Weil" %}
+{% img 2016/p4-sage-weil.jpg magick:resize:380 alt:"Sage Weil" class:"right" %}
 
 After UC Santa Cruz alum Sage Weil earned his doctoral degree in computer science he didn't let his thesis work languish. Instead, he spent seven years refining the open source storage solution, Ceph, and then created a startup for the platform, which sold to Red Hat last year. Now, with major gifts that total $3 million for research in open source software, Weil is creating similar opportunities for other UC Santa Cruz students.
 

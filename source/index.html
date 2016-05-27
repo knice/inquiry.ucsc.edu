@@ -3,43 +3,53 @@ layout: default
 class: front
 title: Inquiry @ UC Santa Cruz
 img: 2016/cover-photo.jpg
+current: 2016-17
 ---
 
 <div class="row">
   <div class="full block-nopadding title">
-    <h1>2016-17</h1>
+    <h1>{{ page.current }}</h1>
   </div>
 </div>
 
 <div class="row">
 
   <section class="two-thirds block">
-    <h1 class="index-headline featured">Features</h1>
+    
+    <p><a href="/{{ page.current }}/welcome/">Welcome</a></p>
+    <p><a href="/{{ page.current }}/briefs/">Brief <span class="heavy">Inquiries</span></a></p>
+
+    <h2 class="header highlight">Features</h2>
+    <div class="features">
+    
+      <ul class="toc-list">
 
       {% assign sorted_articles = (site.articles | where: 'issue','2016' | sort: 'order') %}
       {% for post in sorted_articles %}
-        <div class="side-image">
-          {% if post.image.file %}
-          {% image "{{ post.image.file }}" magick:resize:>400 class:'full-size' alt:"{{ post.subhead }}" %}
-          {% endif %}
-            <div class="side-image-content">
-              <h2>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-              </h2>
-              <p>{{ post.subhead }}</p>
-            </div>
-        </div>
+        
+        {% if post.category == 'feature' %}
+            <li>
+              <h3>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h3>
+              <p class="teaser">{{ post.subhead }}</p>
+              <p class="author">By {{ post.author.name }}</p>
+            </li>
+        {% endif %}
+
       {% endfor %}
+      </ul>        
+
+    </div>      
 
   </section>
 
   <section class="one-third block">
-      <h1 class="index-headline featured">Additional contents</h1>
-      <ul>
-        <li><a href="/2016-17/briefs/">Brief Inquiries</a></li>
-      </ul>
+      
+      <p><a href="/{{ page.current }}/books/">Pen <span class="heavy">&amp;</span> Inq</a></p>
+      <p><a href="/{{ page.current }}/contributors/">Inquiring <span class="heavy">Minds</span></a></p>
 
-      <h1 class="index-headline featured">Download the PDF</h1>
+      <h3 class="index-headline featured">Download the PDF</h3>
       <a href="/2016-17/inquiry-2016.pdf">{% image '2016/inquiry-cover.jpg' magick:resize:380 alt:'2016 cover of Inquiry Magazine' %}</a>
   </section>
 

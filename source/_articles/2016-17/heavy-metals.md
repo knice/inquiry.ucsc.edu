@@ -5,7 +5,7 @@ category: brief
 order: 2
 title: Heavy metals
 colors:
-    - tag: #e37526
+    tag: "#e37526"
 tags:
     - Environmental Toxicology
 ---

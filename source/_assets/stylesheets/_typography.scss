@@ -31,8 +31,9 @@ h3,
 h4,
 h5,
 h6 {
-  color: $orange;
+  color: $text-black;
   margin-bottom: .75em;
+  padding: .05em 0;
 }
 
 .title h1 {
@@ -48,6 +49,11 @@ a {
     color: $light-blue;
     text-decoration: underline;
   }
+}
+
+i {
+  color: $text-black;
+  font-family: Georgia, serif;
 }
 
 img {

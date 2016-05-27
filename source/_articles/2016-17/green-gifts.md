@@ -5,7 +5,7 @@ category: brief
 order: 3
 title: Green gifts
 colors:
-    - tag: #84cbd8
+    tag: "#84cbd8"
 tags:
     - UC Santa Cruz Natural Reserves 
 ---

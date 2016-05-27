@@ -5,7 +5,7 @@ category: brief
 order: 12
 title: Moonmaker
 colors:
-    - tag: #84cbd8
+    tag: "#84cbd8"
 tags:
     - Planetary Science
 ---

@@ -5,8 +5,8 @@ category: brief
 order: 5
 title: Bat plan
 colors:
-    - background: #f7edde
-    - tag: #84cbd8
+    background: "#f7edde"
+    tag: "#84cbd8"
 tags:
     - Ecology & Evolutionary Biology 
 ---

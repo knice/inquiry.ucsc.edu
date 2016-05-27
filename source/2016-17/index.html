@@ -17,7 +17,9 @@ img: 2016/cover-photo.jpg
     <h1 class="index-headline featured">Features</h1>
 
       {% assign sorted_articles = (site.articles | where: 'issue','2016' | sort: 'order') %}
+
       {% for post in sorted_articles %}
+      
       {% if post.category == 'feature' %}
         <div class="side-image">
           {% if post.image.file %}

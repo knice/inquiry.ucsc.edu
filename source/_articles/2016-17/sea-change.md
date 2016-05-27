@@ -5,7 +5,7 @@ category: brief
 order: 14
 title: Sea Change
 colors:
-    - tag: #e37526
+    tag: "#e37526"
 tags:
     - Coastal Sustainability
 ---
