@@ -1,52 +1,38 @@
 <div class="omnibar">
   <a href="http://www.ucsc.edu">UC Santa Cruz</a>
 </div>
-<div class="header-container">
-  <div class="super-header">
+
+<header class="site-header" role="banner">
+
+  <div class="logo-wrapper">
     <a href="/" class="logo">
       {% image 'inquiry.svg' alt:'Inquiry at UC Santa Cruz' width:'400' %}
     </a>
   </div>
-</div>
 
-<header class="navigation" role="banner">
-
-<div class="navigation-wrapper">
-
-  <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
-
-  <nav role="navigation">
-    <ul id="js-navigation-menu" class="navigation-menu show">
-      <li class="nav-link"><a href="/">Latest Issue</a></li>
-      <li class="nav-link"><a href="/archives">Archives</a></li>
-      <li class="nav-link"><a href="/contact">Contact Us</a></li>
-    </ul>
-  </nav>
-
-  <div class="navigation-tools">
-    <div class="search-bar">
-      <form role="search" action="/search" methor="get">
-        <input type="search" id="search-query" name="q" placeholder="Enter Search" autocomplete="off" />
-        <button type="submit">
-          <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/search-icon.png" alt="Search Icon">
-        </button>
-      </form>
-    </div>
+  <div class="navigation-wrapper">
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+        <li class="nav-link"><a href="/">Latest Issue</a></li>
+        <li class="nav-link"><a href="/archives">Archives</a></li>
+        <li class="nav-link"><a href="/contact">Contact Us</a></li>
+      </ul>
+    </nav>
   </div>
-</div>
 
-{% if page.url == '/' %}
+</header>
+<!-- header end -->
+
+{% if page.class == 'front' %}
 <div class="image-gradient-dynamic">
-  {% img "2016/cover-photo.jpg" magick:gravity:northeast magick:crop:1440x720+0+0 alt:'Illustration: A gamma ray burst of a galaxy by Keat Leong' %}
+  {% img "{{ page.banner.file }}" magick:gravity:northeast magick:crop:1440x720+0+0 alt:"{{ page.banner.text }}" %}
   <div class="overlay"></div>
   <div class="copy-homepage">
-    <a href="/">
-      {% image 'inquiry.svg' alt:'Inquiry at UC Santa Cruz' %}
-    </a>
+    <p>{{ page.current }}</p>
   </div>
 </div>
 {% endif %}
 
-</header>
 
-<!-- header end -->
+
