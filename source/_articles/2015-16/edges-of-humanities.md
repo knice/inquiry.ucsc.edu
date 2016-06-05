@@ -8,7 +8,7 @@ subhead: "Nathaniel Deutsch creates connections with the overlooked corners of h
 author:
     name: Danielle Venton
     file: 2015/danielle-venton.jpg
-image:
+banner:
     file: 2015/edges-of-humanities-crop.jpg
     caption: "A view of the main thoroughfare of Volodymyr Volyns'kyi, or Ludmir. This predominantly Jewish community was home to the only woman known to have acted as a Hasidic rebbe, a charismatic Jewish leader."
 quotes:

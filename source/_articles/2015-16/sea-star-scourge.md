@@ -4,7 +4,7 @@ issue: 2015
 category: brief
 order: 3
 title: Sea Star Scourge
-image:
+banner:
   file: 2015/sea-star-wasting.jpg
   caption: 'Tissue is disintegrating on the two lower arms of this sea star affected by sea star wasting syndrome.'
 ---

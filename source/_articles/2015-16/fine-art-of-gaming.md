@@ -8,7 +8,7 @@ subhead: "Scholars infuse computer games with art, literature, and purpose"
 author:
     name: Jennie Dusheck
     file: 2015/jennie-dusheck.jpg
-image:
+banner:
     file: 2015/art-of-gaming-crop.jpg
     caption: "Screenshots of characters Grace and Trip from Fa&ccedil;ade, the first fully realized interactive drama created by Michael Mateas, director of the Center for Games and Playable Media, and Andrew Stern, a programmer analyst at UCSC. This computer game was a research experiment in electronic narrative that integrated art and artificial intelligence technologies."
 quotes:

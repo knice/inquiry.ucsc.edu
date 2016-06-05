@@ -4,7 +4,7 @@ issue: 2015
 category: brief
 order: 8
 title: People make pumas eat and run
-image:
+banner:
   file: 2015/puma-illustration.jpg
 ---
 

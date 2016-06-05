@@ -4,7 +4,7 @@ issue: 2015
 category: brief
 order: 6
 title: Sea Otter Supermoms
-image:
+banner:
   file: 2015/sea-otter-supermoms.jpg
   caption: 'A female sea otter and her pup'
 ---

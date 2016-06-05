@@ -8,7 +8,7 @@ subhead: "Three scholars bring perspective to the history of China"
 author:
     name: Melissae Fellet
     file: 2015/melissae-fellet.jpg
-image:
+banner:
     file: 2015/outsider-insights-crop.jpg
     caption: "Screenshots of characters Grace and Trip from Façade, the first fully realized interactive drama created by Michael Mateas, director of the Center for Games and Playable Media, and Andrew Stern, a programmer analyst at UCSC. This computer game was a research experiment in electronic narrative that integrated art and artificial intelligence technologies."
 quotes:

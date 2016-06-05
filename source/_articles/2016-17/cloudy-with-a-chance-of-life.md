@@ -8,7 +8,7 @@ subhead: "Astrophysicists probe distant planets"
 author:
     name: Kerry Klein
     file: "2016/kerry-klein.jpg"
-image:
+banner:
     file: 2016/p35-cloudy.jpg
     position: left
 ---

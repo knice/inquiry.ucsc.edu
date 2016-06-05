@@ -8,7 +8,7 @@ subhead: "High-tech creates low-cost medical tests"
 author:
     name: Kim Smuga-Otto
     file: "2016/kim-smuga-otto.jpg"
-image:
+banner:
     file: 2016/p26-yanik.jpg
     position: right
 ---

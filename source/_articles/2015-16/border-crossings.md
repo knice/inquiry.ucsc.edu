@@ -8,7 +8,7 @@ subhead: "Artist John Jota Lea&ntilde;os creates animated documentaries to revea
 author:
     name: Heather Rock Woods
     file: 2015/heather-rock-woods.jpg
-image:
+banner:
     file: 2015/coyote-border-crossings-crop.jpg
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."

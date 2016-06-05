@@ -8,9 +8,10 @@ subhead: "Ocean sciences professor forecasts toxic algae events"
 author:
     name: Heather Rock Woods
     file: "2015/heather-rock-woods.jpg"
-image:
+banner:
     file: 2016/p10-toxic-tides.jpg
     position: left
+    
 ---
 
 When a giant algal bloom turned Pacific coastal waters poisonous from Santa Barbara to Alaska in May 2015, **Raphael Kudela** was ready.

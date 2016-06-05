@@ -8,7 +8,7 @@ subhead: "Carrie Partch breaks circadian rhythms"
 author:
     name: Lisa Marie Potter
     file: "2016/lisa-marie-potter.jpg"
-image:
+banner:
     file: 2016/p21-circadian.jpg
     position: left
 ---

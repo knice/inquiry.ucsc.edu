@@ -8,7 +8,7 @@ subhead: "Chronicling politics, religion, and law from Africa to California"
 author:
     name: Rina Sheikh-Lesko
     file: "2016/rina-sheikh-lesko.jpg"
-image:
+banner:
     file: 2016/p29-sudanese-women.jpg
     position: top
 ---

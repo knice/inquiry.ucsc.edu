@@ -8,7 +8,7 @@ subhead: "Psychology professor Craig Haney takes on solitary confinement"
 author:
     name: Becky Bach
     file: 2015/becky-bach.jpg
-image:
+banner:
     file: 2015/reforming-prisons-crop.jpg
 quotes:
 - "The emphasis ought to be on keeping prison isolation as brief and humane as possible and only as a last resort."

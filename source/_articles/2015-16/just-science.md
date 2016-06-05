@@ -8,7 +8,7 @@ subhead: "The Science and Justice Research Center opens conversations between sc
 author:
     name: Elizabeth Devitt
     file: 2015/elizabeth-devitt.jpg
-image:
+banner:
     file: 2015/just-science-crop.jpg
 quotes:
 - "Justice is always a question. It would be ironic to presume to know what justice was beforehand, and then make sure it happens."

@@ -8,7 +8,7 @@ subhead: "Archaeologists use digital tools to dig into an ancient site"
 author:
     name: Eileen Campbell
     file: "2016/eileen-campbell.jpg"
-image:
+banner:
     file: 2016/p24-karnak.jpg
     position: left
 ---
