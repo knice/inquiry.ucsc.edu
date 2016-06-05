@@ -1,3 +1,16 @@
+.post-title,
+.post-content,
+.post-footer {
+  margin: 0 auto;
+  max-width: 38em + em($rs) * 2;
+  padding: 0 $rs * 2;
+
+  @include media($mobile) {
+    padding: 0 $rs * 1.25;
+  }
+}
+
+
 .post-header {
 
   position: relative;
@@ -11,53 +24,29 @@
 
 }
 
-.copy {
-  background: rgba($brand-blue, .95);
-  position: absolute;
-  top: 80%;
-  width: 100%;
 
-  @include media($tablet) {
-    background: rgba($brand-blue, 1);
-  }
+.post-title {
 
-  .post-title {
-    color: $brand-gold;
-    margin: 1em 1em 0;
-    text-shadow: 0 0 2px rgba($white, .35);
-
-    @include media($tablet) {
-      margin: 0;
-      padding: 1em .5em 0;
-    }
-  }
-
-  .post-excerpt:only-child {
-
-    @include span-columns(4);
-    border-radius: .5em;
-    color: $white;
-    float: none;
-    line-height: 1.5em;
-    margin: 0 auto;
-    padding: .25em 2em;
-    position: relative;
-  }
-}
-
-.post .post-content {
-
-  padding: 0 $rs * 2;
-  z-index: 1000;
-
-  @include media($mobile) {
-    padding: 0 $rs * 1.25;
-  }
+  margin: 3em auto 2em auto;
 
   h1 {
-    color: $orange;
+    font-size: 3.25em;
+    margin: .10rem;
   }
 
+  p {
+    font-size: 1.25em;
+    margin: .15em 0;
+  }
+
+  @include media($tablet) {
+     margin: 1em auto 1.5em auto;
+  }
+
+}
+
+.post-content {
+  
   img {
 
     @include media($mobile) {
@@ -66,17 +55,6 @@
     }
 
   }
-}
-
-.post-content {
-  padding: 1em;
-}
-
-.post-meta,
-.post-content,
-.post-footer {
-  margin: 0 auto;
-  max-width: 45em + em($rs) * 2;
 }
 
 .contributors-container {
@@ -112,12 +90,7 @@
   }
 }
 
-.middle {
-  width: 50%;
-}
-
 .author {
-  border-top: 1px solid rgba($light-gray, .2);
   margin: 2em 0;
   padding: 1em 0 0;
   text-align: center;
