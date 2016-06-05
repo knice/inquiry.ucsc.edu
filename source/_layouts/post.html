@@ -7,17 +7,18 @@ class: post
 
     <header class="post-header">
 
-      <div class="image-gradient-dynamic">
-      {% if page.image.file %}
-        {{ page.image.file | img : "magick:resize:1000x800" }}
+      {% if page.banner.file %}
+        {% assign header_type = 'has-image' %}
+        {% img "{{ page.banner.file }}" magick:gravity:northeast magick:crop:1400x600+0+0 alt:"{{ page.banner.text | default: 'article banner' }}" %}
       {% endif %}
-        <div class="overlay"></div>
-        <div class="copy">
-          <h1 class="post-title">{{ page.title }}</h1>
-          {% if page.subhead %}
-          <p class="post-excerpt">{{ page.subhead }}</p>
-          {% endif %}
-        </div>
+
+      <div class="post-title {{ header_type | default: 'no-image' }}">
+
+        <h1>{{ page.title }}</h1>
+        {% if page.subhead %}
+        <p>{{ page.subhead }}</p>
+        {% endif %}
+      
       </div>
 
     </header>
