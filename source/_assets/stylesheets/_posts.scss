@@ -27,7 +27,11 @@
 
 .post-title {
 
-  margin: 3em auto 2em auto;
+  margin: 3em auto 2em;
+
+  @include media($tablet) {
+    margin: 1em auto 1.5em;
+  }
 
   h1 {
     font-size: 3.25em;
@@ -38,22 +42,15 @@
     font-size: 1.25em;
     margin: .15em 0;
   }
-
-  @include media($tablet) {
-     margin: 1em auto 1.5em auto;
-  }
-
 }
 
 .post-content {
-  
-  img {
 
+  img {
     @include media($mobile) {
       @include span-columns(7);
       margin: 0 auto 1em;
     }
-
   }
 }
 
