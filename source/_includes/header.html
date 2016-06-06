@@ -25,12 +25,9 @@
 <!-- header end -->
 
 {% if page.class == 'front' %}
-<div class="image-gradient-dynamic">
+<div class="banner-wrapper front">
   {% img "{{ page.banner.file }}" magick:gravity:northeast magick:crop:1400x600+0+0 alt:"{{ page.banner.text }}" %}
-  <div class="overlay"></div>
-  <div class="copy-homepage">
-    <p>{{ page.current }}</p>
-  </div>
+  <div class="issue-title">{{ page.current }}</div>
 </div>
 {% endif %}
 
