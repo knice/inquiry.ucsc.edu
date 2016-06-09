@@ -11,22 +11,32 @@
   </div>
 
   <div class="navigation-wrapper">
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
-        <li class="nav-link"><a href="/">Latest Issue</a></li>
-        <li class="nav-link"><a href="/archives">Archives</a></li>
-        <li class="nav-link"><a href="/contact">Contact Us</a></li>
-      </ul>
-    </nav>
+    <ul class="nav-items">
+      <li class="nav-item nav-item-dropdown">
+        <a class="dropdown-trigger" href="#">Issues</a>
+        <ul class="dropdown-menu">
+          <li class="dropdown-menu-item">
+            <a href="/2015-16/">2015-16</a>
+          </li>
+          <li class="dropdown-menu-item">
+            <a href="/2016-17/">2016-17</a>
+          </li>
+        </ul>
+      </li>
+      <li class="nav-item"><a href="/contact/">Contact Us</a></li>
+    </ul>
   </div>
 
 </header>
+
+
+  
+
 <!-- header end -->
 
 {% if page.class == 'front' %}
 <div class="banner-wrapper front">
-  {% img "{{ page.banner.file }}" magick:gravity:northeast magick:crop:1400x600+0+0 alt:"{{ page.banner.text }}" %}
+  {% img "{{ page.banner.file }}" magick:gravity:east magick:crop:1400x400+0+0 alt:"{{ page.banner.text }}" %}
   <div class="issue-title">{{ page.current }}</div>
 </div>
 {% endif %}
