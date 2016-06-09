@@ -43,6 +43,7 @@ class: post
         {% endfor %}
       </section>
 
+      {% if page.author %}
       <section class="author">
         <div class="comment">
           <div class="comment-container">
@@ -60,6 +61,7 @@ class: post
           </div>
         </div>
       </section>
+      {% endif %}
 
       {% include social-sharing.html %}
 
