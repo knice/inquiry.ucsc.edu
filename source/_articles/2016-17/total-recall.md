@@ -10,6 +10,8 @@ author:
     file: "2016/greta-lorge.jpg"
 ---
 
+{% include_relative sidebars/2016-recall.html classes="right" %}
+
 There is widespread concern that at-our-fingertips accessibility to all the information on the Internet has eroded our memories and thought processes. However there's no denying that it's also made life a good deal easier. Anyone under the age of 25 has likely never had to summon up a friend's telephone number from memory or give someone turn-by-turn directions to a party. And not all scholars share this dim view of the changes digital technology has wrought.
 
 "There's a bunch of ways that technology is absolutely transforming all of these human [thought and social] processes," said **Steve Whittaker**, UC Santa Cruz professor of psychology, who specializes in the study of human computer interaction, the intersection of psychology and computer science. "I'm very interested in trying to document and understand those effects," he said. "But I'm also very interested in how we might better design technologies to help us with things that we have problems with."
@@ -46,7 +48,7 @@ Urging caution over reading too much into the results, Whittaker stressed: "Thes
 
 ## Past perfect
 
-{% include_relative sidebars/2016-total-recall.html classes="left" bgcolor="#ddd" %}
+{% include_relative sidebars/2016-total-recall.html classes="right" bgcolor="#ddd" %}
 
 Another major theme in Whittaker's research is the impact of digital memory on people's emotional well-being. People who routinely use social media platforms such as Facebook, Twitter, and Instagram to share aspects of what they're doing, thinking, and feeling from moment to moment are creating rich and enduring—albeit somewhat skewed toward positive self-projection—records of the minutiae of their day-to-day lives.
 

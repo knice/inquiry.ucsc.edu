@@ -12,7 +12,7 @@ author:
 
 Clasping white-gloved hands, swaying side to side, the singer's exaggerated pale lips stand out against his jet-black face. At first glance, actor Al Jolson crooning "My Mammy" in _The Jazz Singer_ depicts an offensive image of a black performer.
 
-"It's pretty much impossible for a 21st-century viewer to look at that film and not squirm. How could anyone at the time not see Jolson's performance as a gross stereotype?" wondered **Martin Berger,** UC Santa Cruz professor of history of art and visual culture. But while critics debated aspects of the first feature-length talkie, Jolson's makeup didn't spark controversy among whites or blacks when the box-office hit premiered in 1927.
+"It's pretty much impossible for a 21st-century viewer to look at that film and not squirm. How could anyone at the time not see Jolson's performance as a gross stereotype?" wondered **Martin Berger**, UC Santa Cruz professor of history of art and visual culture. But while critics debated aspects of the first feature-length talkie, Jolson's makeup didn't spark controversy among whites or blacks when the box-office hit premiered in 1927.
 
 Berger has long been intrigued by how subtle social forces affect Americans' perceptions, and by the way historical events are represented—and later remembered differently—through such media as movies, paintings, or photographs.
 
