@@ -19,13 +19,18 @@ Suspected Ebola patients—those with high fevers and potential viral exposure�
 
 There's no way to estimate how many patients might have been infected in the holding centers, the study concluded. But the situation demonstrated the critical need for point-of-care diagnostic tests that were accurate, fast, affordable, easy to administer and read, and didn't need an external power source.
 
-[caption id="attachment_249" align="aligncenter" width="300"]![Schmidt's hybrid device integrates a microfluidic chip for sample preparation and an optofluidic chip for optical detection of individual molecules of viral RNA. ](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P28-Schmidt-300x225.jpg) Schmidt's hybrid device integrates a microfluidic chip for sample preparation and an optofluidic chip for optical detection of individual molecules of viral RNA.[/caption]
+<figure>
+
+{% img 2016/p27-optofluidic.jpg magick:resize:650 alt:"An optofluidic chip" %}
+
+<figcaption>Several of Holger Schmidt's optofluidic chips to be used in counting molecules tagged with fluorescence.</figcaption>
+
+</figure>
+
 
 While other researchers have focused on miniaturizing current laboratory techniques to create "lab-on-a-chip" devices that rely on chemical reactions to detect the virus, two researchers at UC Santa Cruz took a different approach—exploiting the behavior of light on the micro- and nanoscales to reveal Ebola molecules directly. Initial results indicate these lab-on-a-chip prototypes could be as sensitive as the current gold standard tests, at a fraction of the cost.
 
-
-### Finding Ebola's code
-
+## Finding Ebola's code
 
 The gold standard Ebola test uses a reverse transcription polymerase chain reaction (or RT-PCR) to amplify the viral genetic material and tag it with fluorescent molecules. Hit these tags with a specific color of light and they re-emit it as a different color. For example, violet light converts to green, and the green light's intensity is measured by a sensor.
 
@@ -37,8 +42,6 @@ While the ReEBOV is slightly less accurate when compared in a lab to RT-PCR, in 
 
 However, Ebola's aggressive nature makes early viral detection a priority.
 
-[caption id="attachment_246" align="aligncenter" width="300"]![Several of  Holger Schmidt's  optofluidic chips to  be used in counting molecules tagged with fluorescence.](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P27-optofluidic-300x200.jpg) Several of Holger Schmidt's optofluidic chips to be used in counting molecules tagged with fluorescence.[/caption]
-
 "One would like to test, isolate, and treat lots of people before they show symptoms and are already approaching death," said UC Santa Cruz electrical engineer **Holger Schmidt.** In an article published in _Nature Scientific Reports_, his lab demonstrated a lab-on-chip that could sift through extracts of human cells infected with Ebola and detect as few as two infectious particles in ten milliliters—about two teaspoons—of sample.
 
 Rather than trying to amplify DNA on a microscale, Schmidt built a device that simply counts virus RNA genomes. "Let's say we run one milliliter [of sample] through our chip," he said, "however many blips we get, that's the viral load."
@@ -49,21 +52,28 @@ The idea to analyze single biomolecules on a chip came from conversations with D
 
 The thumbnail-sized optofluidics chip resembles a piece of modern jewelry, with tiny copper cylinders rising above iridescent patches that shimmer pink to green in changing light. The cylinders hold the solution containing Ebola RNA with fluorescent tags, and then release the molecules, one by one, into liquid-filled channels that look like golden hairs etched into the chip. Other golden lines are the solid channels that carry light. Where the channels intersect, the light flows through the liquid and any passing molecule. As in RT-PCR, light is absorbed and released as a different color. But because the tagged RNA passes through single file, the optofluidic's sensor can count each flash, or, as Schmidt likes to call it, "blip."
 
+<figure>
+{% img 2016/p28-schmidt.jpg magick:resize:650 alt:"Karnak" %}
+<figcaption>Schmidt's hybrid device integrates a microfluidic chip for sample preparation and an optofluidic chip for optical detection of individual molecules of viral RNA.</figcaption>
+</figure>
+
 Schmidt's device is generic. Proteins, viruses, and even small bacteria can be tagged and counted. "We use exactly the same chips. One day we test Ebola, the other day cancer markers," said Schmidt. This non-specificity will help keep costs down to one or two dollars per device.
 
 While Schmidt's device is disposable, it needs an external case to supply electric power and light. The device doesn't quite snap in; the fiber optic cables' alignment needs to be manually adjusted by microscrews—a process Schmidt said will be automated in the final prototype. His lab is also optimizing the microfluidic system to be faster and capable of running larger volumes of starting sample.
 
 By the end of the year, they plan to deliver a portable external case to be installed, permanently, at the Texas Biomedical Research Institute's biosafety level-4 lab in San Antonio. There, technicians trained in virology, not optics, will test the devices on live viruses.
 
-[caption id="attachment_248" align="alignleft" width="300"]![Ahmet Yanik's notes](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P28-Notes-300x200.jpg) Ahmet Yanik's notes[/caption]
-
 "They've come up with a very good solution that is state-of-the-art," said Ajeet Kaushik, a bioengineer at Florida International University, in Miami. An immunologist by training, he's reviewed various point-of-care Ebola diagnostic technologies, including an Ebola protein detection device under development by **Ahmet Yanik,** UC Santa Cruz electrical engineer.
 
 
-### Naked eye detection
-
+## Naked eye detection
 
 Unlike viral diagnostic tests that rely on chemical reactions to make the proteins visible, Yanik's idea is to simply use light "in a label-free manner, no enzymatics, no fluorescence, to see proteins directly."
+
+<figure class="right">
+{% img 2016/p28-notes.jpg magick:resize:400 alt:"Ahmet Yanik's notes" %}
+<figcaption>Ahmet Yanik's notes</figcaption>
+</figure>
 
 The device he designed works because of a curious optical phenomenon
 called the extraordinary light-transmission effect.Shining light through an arrangement of holes that are narrower than the light's own wavelength produces much more light than beaming it through one big hole.
@@ -76,7 +86,12 @@ As a postdoctoral fellow at Harvard, Yanik developed a device that worked great 
 
 On paper, Yanik drew two sharp peaks with almost no overlap to show the light transmitted with, and without, the attached virus. Place a filter over the device to cut out the longer wavelengths and the material with the nanoholes turns from translucent to opaque. When the virus binds, said Yanik, "you have complete darkness."
 
-[caption id="attachment_247" align="alignright" width="300"]![Ahmet Yanik's lab-on-a-chip with liquid covering the three nanopore plates.](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P28-liquid-hand-300x200.jpg) Ahmet Yanik's lab-on-a-chip with liquid covering the three nanopore plates.[/caption]
+<figure>
+{% img 2016/p28-liquid-hand.jpg magick:resize:650 alt:"Ahmet Yanik's lab-on-a-chip with liquid covering the three nanopore plates." %}
+
+<figcaption>Ahmet Yanik's lab-on-a-chip with liquid covering the three nanopore plates.</figcaption>
+</figure>
+
 
 He flipped another page. Light detection is not the only hurdle, said Yanik. Blood is thick with proteins that can bind randomly in the nanoholes, shifting the light and causing a false positive reading. Equally critical is making sure the test works quickly—it isn't practical to wait six hours to decide if someone should be quarantined.
 
