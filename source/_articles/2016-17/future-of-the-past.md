@@ -34,7 +34,7 @@ Moving through such a richly detailed 3D space provides a compelling learning ex
 <figcaption>Professor Sullivan used the Karnak model to see how priests might have carried a sacred statue through the temple. Digital models, with their accurate dimensions and other characteristics, allow researchers to visualize events and test their theories about the spaces.</figcaption>
 </figure>
 
-"There's a revolution going on in archaeology now, with imaging and digitization out in the field. We need a matching one in how we analyze and display the results of our work," said Sullivan.
+"There's a revolution going on in archeology now, with imaging and digitization out in the field. We need a matching one in how we analyze and display the results of our work," said Sullivan.
 
 The virtual model draws on more than a hundred years of archaeological work at the site. The Digital Karnak website lets users explore 2,000 years of history, watching the temple grow and change under Egypt's different rulers, from Senusret I through Ptolemy VIII and into the Roman era—adding a fourth dimension of time.
 
