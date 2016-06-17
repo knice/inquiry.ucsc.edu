@@ -33,21 +33,9 @@ Studies have shown that a dysfunctional circadian clock leads to health problems
 
 The only human cells without circadian rhythm are embryonic stem cells and some cancer cells. They share one thing in common: the PASD1 protein. For years, scientists assumed there was no built-in way to shut down these vital circadian rhythms, but Partch had a hunch that this protein was the key.
 
-[su_spoiler title="Cancer cells use PASD1 to evade the circadian clock" style="fancy"]
+{% include_relative sidebars/2016-unwinding.html classes="right" bgcolor="#7DBBE1" textcolor="#000" %}
 
-![P22 circadian cycle](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P22-circadian-cycle-300x229.jpg)
-
-Above: An illustration to convey how circadian rhythms and the cell cycle are linked, and how PASD1 might disrupt that rhythm in cancer.
-
-Below: Colon cancer cells express PASD1, the protein that can block the clock. By using a bioluminescent tag, researchers could illuminate the weak, glowing circadian waves (RED) of the cancer-afflicted cells. When they restricted PASD1 expression, the clock dramatically improved (BLUE), resuming its more regular sine wave form.
-
-![P22 Partch graphs](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P22-Partch-graphs-300x232.jpg)
-
-[/su_spoiler]
-
-
-### Little Legos
-
+## Little Legos
 
 Proteins are made up of multiple units called domains that fit together like Legos, said Partch. The shape of the domain determines which molecules the protein can interact with. PASD1 is structurally similar to the clock protein except it's missing the domain that binds to DNA. This made Partch think that it could block the CLOCK protein's ability to activate genes. When she started her lab at UC Santa Cruz, Partch began a series of experiments to test her hypothesis.
 
@@ -63,9 +51,7 @@ Cancerous cells have an advantage by shutting off the clock, said Hogenesch, who
 
 Germline stem cells are the only healthy cells that produce PASD1, so when the protein shows up outside those cells, the immune system takes notice. That reaction means that targeting PASD1 could lead to cancer treatments, said Hogenesch.
 
-
-### Protein power
-
+## Protein power
 
 Partch first learned the power of protein structures as a graduate student in the lab of biochemist Aziz Sancar at the University of North Carolina School of Medicine, in Chapel Hill.
 
@@ -75,9 +61,7 @@ With Sancar's encouragement, she collaborated with a structural biology lab that
 
 "That has been really key to understanding how cryptochrome works, so she gets full credit for it," said Sancar. This insight into biochemical problems keeps Sancar sending his research papers to Partch for her opinion before he submits them to journals for publication.
 
-
-### Dynamic domains
-
+## Dynamic domains
 
 Structural biologists approach the clock by taking high-resolution pictures to try to tease out the details of protein interaction at an atomic level, said Ning Zheng, professor of pharmacology at the University of Washington, in Seattle.
 
@@ -89,9 +73,7 @@ Partch nailed down cryptochrome's movement—solving how the protein works as th
 
 To spotlight these key places, Partch made mutations at the site where BMAL1 and cryptochrome interacted. When they strengthened the connection of the two proteins, the circadian clock extended another hour. When they weakened the interaction, the circadian clock got as short as 19 hours, or fell apart altogether. This revealed that the binding site was crucial to holding off transcription until just the right time. The study was published last year in Nature Structural and Molecular Biology.
 
-
-### Thinking big
-
+## Thinking big
 
 Our understanding of the circadian clock is transforming the way we treat disease, said Hogenesch. For instance, cholesterol is on a circadian schedule and its production peaks while we sleep. Since many cholesterol-lowering medications are only active for a few hours at a time, taking the drugs at bedtime works best to prevent heart disease. In a 2014 study, Hogenesch found that hundreds of FDA-approved drugs targeted circadian genes, suggesting that many other medications could improve with dosing timed to the body's clock instead of the wall clock.
 
