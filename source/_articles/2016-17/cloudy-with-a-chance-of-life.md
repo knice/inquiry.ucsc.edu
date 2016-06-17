@@ -21,9 +21,7 @@ These vast distances are a daily commute for **Jonathan Fortney,** an astrophysi
 
 While Fortney investigates the atmospheres of distant planets, his colleague **Pascale Garaud,** professor of applied mathematics, studies the motions of fluids in their interiors to better understand convection and its role in heat transfer. Together, Fortney and Garaud are refining not only the models governing planet formation and evolution, but also some of the basic principles of astrophysics.
 
-
-### Stars aligned
-
+## Stars aligned
 
 When researchers first detected an extrasolar transit —a planet outside our solar system passing in front of its star—Fortney was studying planetary interiors and atmospheres as a doctoral student at the University of Arizona. Soon after that observation, Fortney and his adviser, William Hubbard, penned one of three landmark papers that demonstrated atmospheric information could be derived from the starlight transmitted during transits.
 
@@ -31,11 +29,15 @@ When researchers first detected an extrasolar transit —a planet outside our so
 
 Later, Fortney collaborated with the Kepler Mission, a NASA space telescope designed to find Earth-like planets elsewhere in the Milky Way. In 2011, Fortney and the Kepler team gained considerable media attention for their research on Kepler-11, a planetary system that contains at least six planets tightly packed around their star. Fortney and his students showed how Kepler-11's "super Earths"—planets intermediate in size between Earth and Neptune—are gradually losing their atmospheres due to intense heating from their parent star.
 
-[caption id="attachment_259" align="aligncenter" width="300"]![An artist's rendering of how an exoplanet's atmosphere distorts the starlight passing through it.](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P36-exoplanet-300x169.jpg) An artist's rendering of how an exoplanet's atmosphere distorts the starlight passing through it.[/caption]
+<figure>
 
+{% img 2016/p36-exoplanet.jpg magick:resize:650 alt:"Exoplanet rendering" %}
 
-### Enigmatic exoplanets
+<figcaption>An artist's rendering of how an exoplanet's atmosphere distorts the starlight passing through it.</figcaption>
 
+</figure>
+
+## Enigmatic exoplanets
 
 At its most basic level, a transiting planet is a black dot, blocking light as it passes directly between its star and the Earth. But at a higher resolution, even the thinnest veneer of atmosphere will absorb or scatter a small amount of light instead of blocking it. And every element, molecule, cloud, and speck of dust in that atmosphere will influence light differently. So, if the Hubble or the Spitzer space telescopes record a dip in starlight during a transit, they also record any signature left behind by a planet's atmosphere.
 
@@ -51,15 +53,21 @@ But it turned out water wasn't the only thing missing; other chemical signatures
 
 Finding the missing water wasn't just a chance to confirm planetary models or even to find signs of life. The exploration itself is important, said Fortney. He wants to know how planets can vary so much—from salt clouds on some, metallic atmospheres on others, to something completely different on Earth.
 
-
-### Reducing error bars
-
+## Reducing error bars
 
 Fortney will discuss these questions when dozens of like-minded explorers visit UC Santa Cruz for the Kavli Summer Program in Astrophysics. Focused this year on exoplanet atmospheres, with Fortney as science director, it's the fourth in a series of summer research institutes founded by Pascale Garaud.
 
 Like Fortney, Garaud is something of a consultant, lending her skills as a theorist to teams of observers working in natural systems. Currently funded by four National Science Foundation grants, and one from NASA, her fluid dynamics research ranges from convection in the tropical ocean to the interiors of stars. "That's the beauty of fluid dynamics," she said. "The same equations describe all sorts of different fluids."
 
 But Garaud's passion, and Ph.D., is in astrophysics—particularly in refining models that don't seem to jive with observations. For instance, calculations of Saturn's age based on its observed temperature and models of thermal convection miss the mark by billions of years—which either means the planet formed much later than the rest of the solar system or planetary thermal models are missing some important variables. She's trying to figure out if the combined weight of all the droplets in Saturn's helium rain could play a significant role in slowing down the planet's thermal evolution.
+
+<figure>
+
+{% img 2016/p37-convection.jpg magick:resize:650 alt:"Convection diagram" %}
+
+<figcaption>Garaud and her research group study how helium rain inside Saturn gives rise to so-called "layered convection," simulated here in cross-sections of Saturn's interior over the course of several years. Colors represent helium concentration relative to background levels (red higher, blue lower).</figcaption>
+
+</figure>
 
 "The models that are being used to study heat transfer are ancient, and they're very, very basic," she said. "The better we refine the stellar and planetary models, the better we'll refine everything that we know about astrophysics."
 
@@ -69,13 +77,12 @@ To make the field more robust, Garaud founded a six-week summer astrophysics pro
 
 "This idea that you've got six weeks of relative isolation locked up with other people who are equally excited about science is really a privilege and a luxury in the academic year," said Subhanjoy Mohanty, an astrophysicist at Imperial College London who joins the program's faculty every year. In his fourth paper resulting from Garaud's program, Mohanty recently published a study on the habitability of planets around a class of relatively small and cool stars known as red dwarfs.
 
-[caption id="attachment_259" align="aligncenter" width="150"]![P37 Convection1](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P37-Convection1-150x150.png) ![P37 Convection2](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P37-Convection2-150x150.png)![P37 Convection3](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P37-Convection3-150x150.png) Garaud and her research group study how helium rain inside Saturn gives rise to so-called "layered convection," simulated here in cross-sections of Saturn's interior over the course of several years. Colors represent helium concentration relative to background levels (red higher, blue lower).[/caption]
+## A new era
 
-
-### A new era
-
-
-[caption id="attachment_263" align="alignleft" width="150"]![Kepler-186 f—Where the Grass is Always Redder. This was the first Earth-sized planet found by Kepler, NASA's planet-hunting telescope. Although it orbits in a potentially "habitable zone" around another star, where liquid water could exist on the planet's surface, its star is much cooler and redder than our Sun, according to JPL's "travel bureau."](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P37-Kepler-150x150.jpg) Kepler-186 f—Where the Grass is Always Redder. This was the first Earth-sized planet found by Kepler, NASA's planet-hunting telescope. Although it orbits in a potentially "habitable zone" around another star, where liquid water could exist on the planet's surface, its star is much cooler and redder than our Sun, according to JPL's "travel bureau."[/caption]
+<figure class="right" style="max-width:380px;">
+{% img 2016/p37-kepler.jpg magick:resize:380 alt:"Kepler poster" %}
+<figcaption>Kepler-186 f—Where the Grass is Always Redder. This was the first Earth-sized planet found by Kepler, NASA's planet-hunting telescope. Although it orbits in a potentially "habitable zone" around another star, where liquid water could exist on the planet's surface, its star is much cooler and redder than our Sun, according to JPL's "travel bureau."</figcaption>
+</figure>
 
 Two decades ago, the only observable planets beyond Earth were the others in our own solar system. Today, researchers have confirmed close to 2,000 new planets and another 4,600 likely candidates—not to mention the possibility of a mysterious "Planet X" beyond Pluto. At the inaugural all-exoplanet conference in 2002, Fortney recalled about 100 attendees. Now, that number of researchers focus on atmospheres alone.
 
