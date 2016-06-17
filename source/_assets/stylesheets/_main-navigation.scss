@@ -13,10 +13,14 @@ li {
 
 // Navigation menu
 .nav-item {
+  color: $brand-blue;
   display: inline;
   font-weight: 600;
   padding: 1em;
-  text-decoration: none;
+
+  a {
+    text-decoration: none;
+  }
 }
 
 // Dropdown menu
@@ -30,6 +34,7 @@ li {
 }
 
 .dropdown-trigger {
+  cursor: pointer;
   position: relative;
 
   &:focus + .dropdown-menu {
@@ -51,8 +56,10 @@ li {
 
 .dropdown-menu {
   background-color: $white;
+  border: 1px solid $light-gray;
   display: none;
   opacity: 0;
+  padding: 0;
   position: absolute;
   right: -1em;
   text-align: right;
@@ -63,10 +70,17 @@ li {
 
 .dropdown-menu-item {
   cursor: pointer;
-  padding: 1em;
+  padding: 0;
   text-align: center;
+  width: 100%;
 
-  &:hover {
+  a {
+    display: block;
+    padding: .5em 1em;
+    width: 100%;
+  }
+
+  a:hover {
     background-color: $brand-blue;
   }
 }
