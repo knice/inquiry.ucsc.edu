@@ -24,8 +24,7 @@ A few intrepid scholars have broadened this scope, studying women's rights in th
 Expanding on that research, he's now documenting the complex interplay of religion, law, and politics in places as disparate as war-torn African nations and his adopted home, in California.
 
 
-### Back to the beginning
-
+## Back to the beginning
 
 When Massoud told colleagues he planned to write about the rule of law in Sudan, they joked to him that his book would be a short one. The country has only known ten years of democracy, scattered between lengthy dictatorships, since its release from British colonial rule six decades ago. Between 1983 and 2005, the country was wracked by war between powerful politicians in the country's capital of Khartoum and forces in what is now known as South Sudan.
 
@@ -39,11 +38,15 @@ Massoud examined Sudan's rule of law during three political eras: colonial times
 
 Despite those upheavals, he found that law wasn't absent from Sudan. In fact, it permeated the country even as a series of autocratic rulers sought to bolster their legitimacy and strengthen their power by manipulating the legal system.
 
+## In Sudan
 
-### In Sudan
+<figure>
 
+{% img 2016/p30-sudan.jpg magick:resize:650 alt:"Sudanese pyramids" %}
 
-[caption id="attachment_253" align="alignleft" width="300"]![Although Sudan may be better known for its long history of conflicts, the country also has ancient pyramids which have been designated as UNESCO World Heritage sites. ](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P30-SUDAN-300x273.jpg) Although Sudan may be better known for its long history of conflicts, the country also has ancient pyramids which have been designated as UNESCO World Heritage sites.[/caption]
+<figcaption>Although Sudan may be better known for its long history of conflicts, the country also has ancient pyramids which have been designated as UNESCO World Heritage sites.</figcaption>
+
+</figure>
 
 For more than 50 years, from around the turn of the 20th century to Sudanese independence in 1956, colonial rule in Sudan was a joint operation between Egypt and Britain. In reality, power was retained mostly by the British, but they made room within the colonial legal system for Islamic laws and local customary laws for matters such as marriages and family disputes vis-à-vis a parallel court system run by local arbiters. They also provided courts where Sudanese could petition for exceptions or minor changes to the law involving issues such as adjustments to a family's grain allocations or allowing a murder victim's family to request a death sentence.
 
@@ -61,9 +64,7 @@ Massoud argues that none of these—neither the colonial rulers, the authoritari
 
 This work in Sudan formed the basis for both Massoud's doctoral dissertation at UC Berkeley and his first book. Massoud's thesis adviser, Malcolm Feeley, made the book required reading for his courses at UC Berkeley and said he expects it to become a critical text about law in unstable countries. Among other awards, Massoud earned a Guggenheim fellowship for his contribution to the study of law, and most recently has been named an Andrew Carnegie Fellow.
 
-
-### Exploring uncharted territory
-
+## Exploring uncharted territory
 
 "An important, new, understudied issue arose and Mark helped define the nature and scope of it," said Feeley of the relatively new study of the rule of law in middle- and low-income countries. "Of all the people who have worked in [this area], his work is not only among the very best, he has the most extreme case—in the instance of Sudan—to explore law and courts. And what he reports is a tragedy."
 
@@ -90,22 +91,25 @@ Along with gathering information about the technical aspects of Sudanese law, Ma
 Among his projects in Sudan—and his recent research on Islamic law in Somalia and California—Massoud conducted more than 400 interviews. "It's a lot of stories, and sometimes a lot of stories of suffering," he said.
 
 
-### Inspecting history
-
+## Inspecting history
 
 In addition to the in-depth interviews and ethnographic studies, Massoud reviewed upwards of 4,000 pages of archived documents and records in three different countries. He reviewed documents in half-a-dozen libraries in Sudan and hunted down files in the historical archives of Sudan's former colonial masters, Egypt and Britain.
 
 Next Massoud looked for recurring words that pointed to themes in the interviews and legal documents. His methodological approach involved categorizing parts of the transcribed interviews using hundreds of codes and subcodes, such as "the impact of colonialism on religion" or "courtroom procedures." He then compared these codes across his interviews and field notes.
 
+<figure>
+
+{% img 2016/p33-girl.jpg magick:resize:650 alt:"Sudanese girl with flag" %}
+
+<figcaption>A young girl raises a flag for South Sudan, which seceded from Sudan in 2011 as part of a peace agreement made six years earlier to end Africa's longest-running civil war. Not all countries recognize this independence and conflicts continue in the country, which holds the top spot in the Fragile States Index.</figcaption>
+
+</figure>
+
 To understand the information he gathered, Massoud borrowed an approach from the field of comparative politics, which seeks to understand politics by comparing, for example, the forms of legislature or foreign policy in different countries. Instead of looking at different countries, though, Massoud compared political regimes during different eras of Sudan's history.
 
 "History is very important to me," said Massoud. "Not just the history that shapes the present, but the history that shapes history. In my work, I've thought comparatively across historical contexts within the same national context."
 
-[caption id="attachment_254" align="aligncenter" width="300"]![A young girl raises a flag for South Sudan, which seceded from Sudan in 2011 as part of a peace agreement made six years earlier to end Africa's longest-running civil war. Not all countries recognize this independence and conflicts continue in the country, which holds the top spot in the Fragile States Index. ](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P33-Girl-300x200.jpg) A young girl raises a flag for South Sudan, which seceded from Sudan in 2011 as part of a peace agreement made six years earlier to end Africa's longest-running civil war. Not all countries recognize this independence and conflicts continue in the country, which holds the top spot in the Fragile States Index.[/caption]
-
-
-### Sudan's neighbors
-
+## Sudan's neighbors
 
 One of the themes that emerged from Massoud's work on the Sudanese rule of law was how authoritarian leaders used shari'a to give their governments a veneer of religious legitimacy.
 
@@ -124,10 +128,15 @@ However, Morocco, another country where shari'a dictates national law, has made 
 Like the law, Massoud noted, religion can also be used for good or bad, so it's an oversimplification to label shari'a as simply in opposition to human rights. Debates among Muslims about the meaning of shari'a are much more complicated, because some activists also use shari'a to justify women's rights. This research will fill his next book, which he has begun as a visiting fellow at Princeton University in 2015–16.
 
 
-### Returning to California
+## Returning to California
 
+<figure class="right" style="width:400px;">
 
-[caption id="attachment_255" align="alignleft" width="300"]![The academic team asked a digital artist to create a "word cloud" image based on the thematic words pulled from the interviews. They also commissioned a video installation of excerpts of the transcribed interviews read aloud by a spoken word poet. The video produced by Massoud and Moore was shown at a team-sponsored exhibit featuring work by Muslim artists at the Downtown Independent theater in Los Angeles. Preliminary results from the project were published in Boom, a journal about California life. ](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P34-Word-Cloud-300x240.jpg) The academic team asked a digital artist to create a "word cloud" image based on the thematic words pulled from the interviews. They also commissioned a video installation of excerpts of the transcribed interviews read aloud by a spoken word poet. The video produced by Massoud and Moore was shown at a team-sponsored exhibit featuring work by Muslim artists at the Downtown Independent theater in Los Angeles. Preliminary results from the project were published in Boom, a journal about California life.[/caption]
+{% img 2016/p34-word-cloud.jpg magick:resize:400 alt:"Word cloud" %}
+
+<figcaption>The academic team asked a digital artist to create a "word cloud" image based on the thematic words pulled from the interviews. They also commissioned a video installation of excerpts of the transcribed interviews read aloud by a spoken word poet. The video produced by Massoud and Moore was shown at a team-sponsored exhibit featuring work by Muslim artists at the Downtown Independent theater in Los Angeles. Preliminary results from the project were published in Boom, a journal about California life.</figcaption>
+
+</figure>
 
 While Massoud studied religious law in Sudan and Somalia, the word "shari'a" started appearing in the newspapers and television reports in the United States. The specter of radical fundamentalists cast a frightening shadow for many Americans whose primary exposure to Muslims and Islam was through the lens of the war on terror. "Since 9/11, things have changed," Massoud said. "Some people fear Islam or Muslims."
 
