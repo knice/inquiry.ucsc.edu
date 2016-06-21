@@ -28,7 +28,7 @@ title: Inquiring minds
 <li>{% img 2016/kim-smuga-otto.jpg alt:"Kim Smuga Otto ('15)" %}<span>Kim Smuga Otto ('15)</span></li>
 </ul>
 
-## Ten graduates from the UC Santa Cruz Science Communication Program contributed their expertise to the second edition of inquiry@UC Santa Cruz.
+### Ten graduates from the UC Santa Cruz Science Communication Program contributed their expertise to the second edition of inquiry@UC Santa Cruz.
 
 These "SciCommies," as program alums are known, represent every decade of the writing program established in 1981 by **John Wilkes** (B.A., M.A., and Ph.D. in English literature at UC Santa Cruz). In contrast
 to his credentials, Wilkes recruited scientists—not English scholars—to become the next generations of storytellers.
