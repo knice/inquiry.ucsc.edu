@@ -1,9 +1,9 @@
 ---
 layout: page
 issue: 2015
-category: contributors
+category: credits
 order: 1
-title: Contributors
+title: Inquiring minds
 ---
 
 <ul class="contributors-container">

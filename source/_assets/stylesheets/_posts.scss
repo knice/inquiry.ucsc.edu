@@ -56,32 +56,32 @@
 
 .contributors-container {
 
-  @include span-columns(12);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  float: right;
+  justify-content: space-between;
   margin: 0;
+  max-width: 50%;
   padding: 0;
-  text-align: left;
 
   li {
-    @include span-columns(3);
+    flex: 1 0 42%;
     line-height: .76em;
-    margin: 0 .75em 1em 0;
-
-    @include media($tablet) {
-      width: 47%;
-    }
+    margin: 0 0 1em .5em;
 
     img {
       display: block;
+      margin: 0;
       width: 100%;
     }
 
     span {
-
-      @include span-columns(12);
       background: $dark-blue;
       color: $white;
-      font-size: 80%;
-      padding: .5em;
+      display: block;
+      font-size: .75em;
+      padding: .5em .25em;
       text-align: center;
     }
   }
