@@ -5,12 +5,12 @@ category: welcome
 order: 1
 title: Leading research influence
 ---
+
 **UC Santa Cruz ranked first in research influence** among the world's top universities, according to the World University Rankings, published annually by Times Higher Education (THE).
 
 "This placing should come as no surprise to anyone familiar with UCSC," said Scott Brandt, vice chancellor for research. "That is an accurate reflection of the world-class research that takes place across our campus. UCSC is too small to be best at everything, but it is big enough to be best at everything we choose to do. That ie as true of our research--as reflected in THE rankings--as it is of the educational opportunities that we provide to our students."
 
 Slugs earned the top slot with a citation score of 100, tying for first place with MIT, and edging out Rice University at 99.9. The score is based on counting the average number of times publications by UCSC researchers were cited.
-
 
 ## The spirit of inquiry@UC Santa Cruz
 
