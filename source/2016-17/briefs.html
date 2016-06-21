@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Brief inquiries
+class: briefs
 ---
 
 <div class="row">
-  <section class="full block">
+  <section>
 
     {% assign sorted_briefs = (site.articles | where:'issue','2016' | sort: 'order') %}
     {% for post in sorted_briefs %}

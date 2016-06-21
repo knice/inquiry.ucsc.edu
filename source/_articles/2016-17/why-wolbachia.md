@@ -11,7 +11,7 @@ tags:
     - "Molecular, Cell, & Developmental Biology"
 ---
 
-<figure>
+<figure class="right">
 {% image 2016/p6-heartworm.jpg magick:resize:400 alt:'Heartworm oocyte' %}
 <figcaption>Oocyte of disease-causing heartworm from a dog. Wolbachia (green dots) are bacteria symbionts essential for worm survival. Courtesy: Sullivan Lab.</figcaption>    
 </figure>

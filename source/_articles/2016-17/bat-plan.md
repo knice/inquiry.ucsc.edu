@@ -11,12 +11,10 @@ tags:
     - Ecology & Evolutionary Biology 
 ---
 
-<aside class="right">
-    <figure>
-    {% img 2016/p5-bat.jpg magick:resize:400 alt:'Hanging bat' %}
-    <figcaption>White-nose syndrome was named for appearance of the fungus (Pseudogymnoascus destructans) around the muzzles, ears, and wing membranes of affected bats. Photo by Alan C. Hicks.</figcaption>
-    </figure>
-</aside>
+<figure class="right">
+{% img 2016/p5-bat.jpg magick:resize:400 alt:'Hanging bat' %}
+<figcaption>White-nose syndrome was named for appearance of the fungus (Pseudogymnoascus destructans) around the muzzles, ears, and wing membranes of affected bats. Photo by Alan C. Hicks.</figcaption>
+</figure>
 
 Four new grants, totaling almost $300,000, are helping UC Santa Cruz biologists Marm Kilpatrick and Winifred Frick advance research on white-nose syndrome, a malady that has killed more than 6 million bats since 2006.
 
