@@ -6,7 +6,12 @@ order: 2
 title: "Pen&Inq"
 ---
 
-![P38 Equity](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P38-Equity-200x300.jpg) **City Smarts**
+### City Smarts
+
+<figure>
+{% img 2016/p38-equity.jpg alt:"Equity, Growth, and Community: What the Nation Can Learn From America's Metro Areas" %}
+</figure>
+
 Creating economically sustainable cities may take more ideas than money.
 
 "In mainstream economic thinking, intervening in the marketplace to promote social goals will lower growth and efficiency," said **Chris Benner**, UC Santa Cruz professor of environmental and social studies. "But there's growing evidence that more equitable regions actually grow faster. One key factor in both faster growth and greater social equity seems to be diverse and dynamic regional knowledge communities."
@@ -15,9 +20,14 @@ For his book, _Equity, Growth, and Community: What the Nation Can Learn From Ame
 
 Case studies of successful cities, such as Seattle, showed how engaging all sectors of diverse communities— by making more knowledge connections—boosted metropolitan growth.
 
-![P38 Weber](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P38-Weber-200x300.jpg)
+****
 
-**Hollywood Hustle**
+### Hollywood Hustle
+
+<figure>
+{% img 2016/p38-weber.jpg alt:"Lois Weber in Early Hollywood" %}
+</figure>
+
 A century ago, the top-grossing film released by Universal Pictures was written and directed by Lois Weber, a leading lady of that Hollywood era. Although she ran her own studio, formed a production company, and earned a star on the Walk of Fame, few recognize her name today.
 
 **Shelley Stamp**, professor of film and digital media at UC Santa Cruz, hopes to change that with her book, _Lois Weber in Early Hollywood_.
@@ -26,9 +36,14 @@ Despite tackling controversial subjects, such as abortion and birth control, Web
 
 "I assumed she was forgotten after her death in 1939, but found instead that she, and other prominent women in early movie-making days, were actively written out of Hollywood history during their careers," said Stamp, also the founding editor of _Feminist Media Histories: An International Journal_.
 
-![P38 Orlandi](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P38-Orlandi.jpg)
+****
 
-**A New View**
+### A New View
+
+<figure>
+{% img 2016/p38-orlandi.jpg alt:"The Innocent Eye: Why Vision Is Not a Cognitive Process" %}
+</figure>
+
 The way we see the world requires a reasoning-like process, according to one popular theory of vision. In this constructivist view, we can't translate the light that hits the back of our eyes into a detailed three-dimensional world without some implicit knowledge of what's in the environment.
 
 "That model of visualization seemed over-intellectualized to me," said **Nico Orlandi**, UC Santa Cruz assistant professor of philosophy.
@@ -39,9 +54,14 @@ Perceptual creatures can coordinate with what is present in an environment in a 
 
 While reason isn't required for visual perception, Orlandi next wants to explore what it takes to be rational and to create constructs of our environment.
 
-![P38 Republic](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P38-Republic-225x300.jpg)
+****
 
-**Religious Politics**
+### Religious Politics
+
+<figure>
+{% img 2016/p38-republic.jpg alt:"The Republic Unsettled: Muslim French and the Contradictions of Secularism" %}
+</figure>
+
 When governments try to separate religion and politics, they often end up with the opposite result, noted** Mayanthi Fernando**, UC Santa Cruz associate professor of anthropology.
 
 For example, in 2004, the French ban on Islamic headscarves was justified as essential to the constitutional requirement of laïcité —the separation of state and religious activities. The law defined the headscarf as a conspicuous religious sign rather than understanding this garb as a practice, as many Muslim French do.
@@ -50,8 +70,14 @@ Ironically, the state made a theological decision about the headscarf in the nam
 
 Fernando draws from a decade of ethnographic research on Islam in France to examine these conflicts in her book, _The Republic Unsettled: Muslim French and the Contradictions of Secularism_.
 
-![P38 Passages](http://dev-inquiry-magazine.pantheonsite.io/wp-content/uploads/2016/05/P38-Passages-193x300.jpg)
-**Trade Routes**
+****
+
+### Trade Routes
+
+<figure>
+{% img 2016/p38-passages.jpg alt:"Final Passages: The Intercolonial Slave Trade of British America, 1619–1807" %}
+</figure>
+
 In a book that begins where most studies of the slave trade end—with the sale of a slave at a colonial port—**Gregory O'Malley**, UC Santa Cruz associate professor of history, tracked the trade of enslaved people throughout
 the Americas.
 
