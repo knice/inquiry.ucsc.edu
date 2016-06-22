@@ -1,5 +1,5 @@
 <div class="omnibar">
-  <a href="http://www.ucsc.edu">UC Santa Cruz</a>
+  <a href="http://www.ucsc.edu">{% image 'ucsc-horizontal.svg' alt:'UC Santa Cruz' width:'160' %}</a>
 </div>
 
 <header class="site-header" role="banner">
@@ -16,10 +16,10 @@
         <span class="dropdown-trigger">Issues</span>
         <ul class="dropdown-menu">
           <li class="dropdown-menu-item">
-            <a href="/2015-16/">2015-16</a>
+            <a href="/2016-17/">Issue 2: 2016-17</a>
           </li>
           <li class="dropdown-menu-item">
-            <a href="/2016-17/">2016-17</a>
+            <a href="/2015-16/">Issue 1: 2015-16</a>
           </li>
         </ul>
       </li>
@@ -36,8 +36,7 @@
 
 {% if page.class == 'front' %}
 <div class="banner-wrapper front">
-  {% img "{{ page.banner.file }}" magick:gravity:east magick:crop:1400x400+0+0 alt:"{{ page.banner.text }}" %}
-  <div class="issue-title">{{ page.current }}</div>
+  {% img "{{ page.banner.file }}" magick:gravity:east magick:crop:1400x400+0+0 alt:"{{ page.banner.text }}" %}  
 </div>
 {% endif %}
 
