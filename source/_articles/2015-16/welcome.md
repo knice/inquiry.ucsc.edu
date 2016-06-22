@@ -14,7 +14,7 @@ Slugs earned the top slot with a citation score of 100, tying for first place wi
 
 ## The spirit of inquiry@UC Santa Cruz
 
-{% image 2015/scott-brandt.jpg resize:200 alt:"Vice chancellor of research Scott Brandt" class:"right middle" %}
+{% image 2015/scott-brandt.jpg magick:resize:200 alt:"Vice chancellor of research Scott Brandt" class:"left" %}
 
 Welcome to the inaugural issue of inquiry@UC Santa Cruz. The office of Research and University Relations are proud to sponsor this annual research magazine. The purpose of inquiry is to present a campus-wide snapshot of our world-class research and a sense of "who we are" as a community of researchers and to draw out the complex interplay between pioneering research at
 UCSC and our investigators' vision and passion.
@@ -30,8 +30,7 @@ Scott A. Brandt
 Vice Chancellor for Research  
 and Professor of Computer Science
 
-
-## Credits
+****
 
 ### University Of California Santa Cruz
 
@@ -40,9 +39,8 @@ and Professor of Computer Science
 - Vice Chancellor, Research: Scott Brandt
 - Vice Chancellor, University Relations: Keith Brant
 
-inquiry@UC Santa Cruz
+### inquiry@UC Santa Cruz, 2015–16
 
-### 2015–16
 - Editor: Elizabeth Devitt
 - Creative Director: Lisa Nielsen
 - Art Director/Designer: Linda Knudson (Cowell '76)
@@ -74,4 +72,4 @@ Produced by UC Santa Cruz Communications & Marketing
 1156 High Street
 Santa Cruz, CA 95064-1077  
 E-mail: inquiry@ucsc.edu  
-Web: research.ucsc.edu & www.ucsc.edu
+Web: [research.ucsc.edu](http://research.ucsc.edu) & [inquiry.ucsc.edu](http://inquiry.ucsc.edu)

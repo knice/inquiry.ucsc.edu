@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 issue: 2016
 category: welcome
 order: 1
@@ -17,3 +17,48 @@ Welcome to the 2016–17 edition of _inquiry@UC Santa Cruz_. We hope that it giv
 **Scott A. Brandt**  
 Vice Chancellor for Research  
 and Professor of Computer Science
+
+****
+
+## University of California Santa Cruz
+
+- Chancellor: George Blumenthal
+- Campus Provost and Executive Vice Chancellor: Alison Galloway
+- Vice Chancellor, Research: Scott Brandt
+- Vice Chancellor, University Relations: Keith Brant
+
+## inquiry@UC Santa Cruz, 2016–17
+
+- Editor: Elizabeth Devitt
+- Creative Director: Lisa Nielsen
+- Art Director/Designer: Linda Knudson (Cowell '76)
+
+### Associate Editors
+
+- Quentin Williams, _principal_
+- Jeanne Lance
+- Tedd Siegel
+- Lynne Stoops
+
+### Photography
+
+- Carolyn Lagattuta
+
+### Contributors
+
+- Eileen Campbell (SciCom '83)
+- Elizabeth Devitt (SciCom '13)
+- Blake Edgar (SciCom '89)
+- Kerry Klein (SciCom '15)
+- Greta Lorge (SciCom '03)
+- Jyoti Madhusoodanan (SciCom '14)
+- Lisa Marie Potter (SciCom '15)
+- Heather Rock Woods (SciCom '94)
+- Rina Shaikh-Lesko (SciCom '13)
+- Kim Smuga-Otto (SciCom '15)
+
+Produced by UC Santa Cruz Communications & Marketing  
+1156 High Street  
+Santa Cruz, CA 95064-1077  
+Email: inquiry@ucsc.edu  
+Web: [research.ucsc.edu](http://research.ucsc.edu) [inquiry.ucsc.edu](http://inquiry.ucsc.edu)  
