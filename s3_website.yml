@@ -21,6 +21,18 @@ max_age:
 s3_endpoint: us-east-1
 s3_reduced_redundancy: true
 
+cloudfront_distribution_id: <%= ENV['CLOUDFRONT_ID_INQUIRY'] %>
+
+cloudfront_distribution_config:
+  default_cache_behavior:
+    min_TTL: <%= 60 * 60 * 24 %>
+  aliases:
+    quantity: 1
+    items:
+      CNAME: inquiry.ucsc.edu
+
+cloudfront_invalidate_root: true
+
 concurrency_level: 100
 # Below are examples of all the available configurations.
 # See README for more detailed info on each of them.
