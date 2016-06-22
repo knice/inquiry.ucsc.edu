@@ -4,11 +4,16 @@
   margin: 0;
   padding: 0;
   z-index: 900;
+
+  ul,
+  li {
+    list-style: none;
+  }
 }
 
-ul,
-li {
-  list-style: none;
+.nav-items {
+  padding: 0;
+  text-align: center;
 }
 
 // Navigation menu
@@ -61,9 +66,9 @@ li {
   opacity: 0;
   padding: 0;
   position: absolute;
-  right: -1em;
+  right: -55%;
   text-align: right;
-  top: 2.5rem;
+  top: 2.8rem;
   transition: opacity .5s ease;
   width: 12em;
 }
