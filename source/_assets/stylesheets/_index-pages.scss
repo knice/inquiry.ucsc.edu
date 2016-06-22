@@ -1,6 +1,6 @@
 .features {
   border: 1px solid $orange;
-  border-width: 1px 0;
+  border-width: 1px 0 0;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -62,13 +62,18 @@
   }
 }
 
-.toc {
+.plain {
+  margin-top: .25em;
+
+  li {
+    margin-bottom: .25em;
+  }
 
   a {
     font-size: 1.5rem;
     font-weight: 400;
     text-decoration: none;
-
+    word-spacing: -.18em;
   }
 
   .toc-list a,
