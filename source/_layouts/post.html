@@ -32,17 +32,6 @@ class: post
 
     <footer class="post-footer">
 
-      <section class="share">
-        {% for social in site.social %}
-          {% if social.share_url != null %}
-            <a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
-              onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-            <i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
-            </a>
-          {% endif %}
-        {% endfor %}
-      </section>
-
       {% if page.author %}
       <section class="author">
         <div class="comment">
@@ -54,8 +43,8 @@ class: post
             {% endif %}
             <div class="comment-content">
               <ul class="flat-list">
-                <li>Written by: <span>{{ page.author.name }}</span></li>
-                <li>Published in <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date: "%B %Y" }}</time></li>
+                <li><span>Written by:</span> {{ page.author.name }}</li>
+                <li><span>Published:</span> {{ page.issue }}</li>
               </ul>
             </div>
           </div>
