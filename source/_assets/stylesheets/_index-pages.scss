@@ -39,12 +39,17 @@
 
     h3 {
       font-size: 1.5em;
+      font-weight: 600;
       margin-bottom: .2em;
+
+      @include media($mobile) {
+        font-size: 1.2em;
+      }
     }
 
     p {
       color: lighten($text-black, 26%);
-      font-weight: 300;
+      font-weight: 400;
       margin-bottom: .25em;
     }
 
@@ -74,6 +79,10 @@
     font-weight: 400;
     text-decoration: none;
     word-spacing: -.18em;
+
+    @include media($mobile) {
+        font-size: 1.2em;
+    }
   }
 
   .toc-list a,

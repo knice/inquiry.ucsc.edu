@@ -9,7 +9,7 @@ class: post
 
       {% if page.banner.file %}
         {% assign header_type = 'has-image' %}
-        {% img "{{ page.banner.file }}" magick:gravity:northeast magick:crop:1400x600+0+0 alt:"{{ page.banner.text | default: 'article banner' }}" %}
+        {% img "{{ page.banner.file }}" magick:gravity:east magick:crop:1400x500+0+0 alt:"{{ page.banner.text | default: 'article banner' }}" %}
       {% endif %}
 
       <div class="post-title {{ header_type | default: 'no-image' }}">

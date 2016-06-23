@@ -6,7 +6,7 @@
   padding: .75em 1em;
   width: 100%;
 
-  @include media($tablet) {
+  @include media($mobile) {
     display: flex;
     flex-direction: column;
     justify-content: center;
