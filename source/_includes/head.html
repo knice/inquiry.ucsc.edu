@@ -1,37 +1,44 @@
 <head>
   <meta charset="utf-8">
-  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.content %}{{ page.content | strip_html | truncatewords:15 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="description" content="{% if page.subhead %}{{ page.subhead }}{% else %}{{ site.description }}{% endif %}" />
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="no">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
 
   <link rel="shortcut icon" href="{% asset_path 'favicon.ico' %}">
 
   <link rel="stylesheet" type="text/css" media="screen" href="{% asset_path main.css %}" />
   <link rel="stylesheet" type="text/css" media="print" href="{% asset_path print.css %}" />
 
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  
-  <meta property="og:description" content="{% if page.content %}{{ page.content | markdownify | strip_html | truncatewords: 20, '...' }}{% else %}{{ site.description }}{% endif %}" />
-  
-
-  <meta property="og:type" content="article" />
-  <meta property="og:image" content="{{ page.img | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:site_name" content="{{ site.title }}" />
+  <!-- Social meta -->
   <meta property="fb:admins" content="1322847221,508316988" />
+  <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="article:publisher" content="https://www.facebook.com/ucsantacruz" />
-
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{% if page.subhead %}{{ page.subhead }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+  {% if page.banner %}
+  <meta property="og:image" content='{{ site.url }}{% asset_path "{{ page.banner.file }}" %}' />
+  <meta name="twitter:image" content='{{ site.url }}{% asset_path "{{ page.banner.file }}" %}' />
+  {% else %}
+  <meta property="og:image" content='{{ site.url }}{% asset_path "{{ site.cover }}" %}' />
+  <meta name="twitter:image" content='{{ site.url }}{% asset_path "{{ site.cover }}" %}' />
+  {% endif %}
+  <meta content="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+  <meta content="twitter:description" content="{% if page.subhead %}{{ page.subhead }}{% else %}{{ site.description }}{% endif %}"/>
+  <meta content="@ucsc" name="twitter:site"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" name="twitter:url"/>
+ 
   {% if page.styles %}
   <style>
     {{ page.styles }}  
