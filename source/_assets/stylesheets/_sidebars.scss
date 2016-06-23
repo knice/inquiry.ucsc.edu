@@ -27,7 +27,7 @@ aside {
 
   &.right,
   &.left {
-    @include media($tablet) {
+    @include media($mobile) {
       float: none;
       margin: $rs 0;
       width: 100%;
