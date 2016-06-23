@@ -47,7 +47,7 @@ The film's visuals are mestizo--mixed--everything from comic-book "bam-pow" styl
 
 They drove the Spanish occupiers from the Rio Grande region and reclaimed their ceremonies and culture--a respite from foreign rule that lasted for 12 years.
 
-{% include_relative sidebars/shapiro-book.html classes="right" color="#545454" bgcolor="#E37528;" %}
+{% include_relative sidebars/leanos-whitney.html classes="right" color="#ffffff" bgcolor="#E37528;" %}
 
 This account of struggle and victory is "enthralling," declared the Latin Post, an English media site. Both PBS.org and Latino Public Broadcasting presented Frontera! during National Hispanic Heritage Month in September 2014. The documentary won "Best Animation" at the 39th Annual American Indian Film Festival and "Best Short Film" at the XicanIndie Film Fest.
 
