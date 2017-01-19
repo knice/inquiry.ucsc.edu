@@ -61,4 +61,5 @@ Produced by UC Santa Cruz Communications & Marketing
 1156 High Street  
 Santa Cruz, CA 95064-1077  
 Email: inquiry@ucsc.edu  
-Web: [research.ucsc.edu](http://research.ucsc.edu) [inquiry.ucsc.edu](http://inquiry.ucsc.edu)  
+Web: [research.ucsc.edu](http://research.ucsc.edu) [inquiry.ucsc.edu](http://inquiry.ucsc.edu)
+
