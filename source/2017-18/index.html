@@ -1,0 +1,55 @@
+---
+layout: default
+class: front
+title: Inquiry @ UC Santa Cruz
+banner:
+  file: 2016/cover-photo.jpg
+  text: "Phytoplankton are microscopic marine plants that play huge roles in the ocean's food chain.  Despite their contributions to life, these tiny organisms can also produce deadly toxins."
+current: 2016-17
+---
+
+<div class="row">
+
+  <section class="two-thirds block toc">
+
+    <h1 class="issue-title">{{ page.current }}</h1>
+
+    <ul class="toc-list plain">
+      <li><a href="/{{ page.current }}/welcome/">Welcome</a></li>
+      <li><a href="/{{ page.current }}/briefs/">Brief <span class="heavy">inquiries</span></a></li>
+      <li><a href="/{{ page.current }}/books/">Pen <span class="heavy">&amp;</span> Inq</a></li>
+      <li><a href="/{{ page.current }}/contributors/">Inquiring <span class="heavy">minds</span></a></li>
+    </ul>
+
+    <h2 class="header highlight">Features</h2>
+    <div class="features">
+    
+      <ul class="toc-list">
+
+      {% assign sorted_articles = (site.articles | where: 'issue','2016' | sort: 'order') %}
+      {% for post in sorted_articles %}
+        
+        {% if post.category == 'feature' %}
+            <li>
+              <h3>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h3>
+              <p class="teaser">{{ post.subhead }}</p>
+              <p class="author">By {{ post.author.name }}</p>
+            </li>
+        {% endif %}
+
+      {% endfor %}
+      </ul>        
+
+    </div>      
+
+  </section>
+
+  <section class="one-third block">
+      
+      <h3 class="index-headline featured">Download the PDF</h3>
+      <a href="/2016-17/inquiry-2016.pdf">{% image '2016/inquiry-cover.jpg' magick:resize:380 alt:'2016 cover of Inquiry Magazine' %}</a>
+  </section>
+
+</div>
