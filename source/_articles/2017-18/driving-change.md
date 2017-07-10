@@ -112,7 +112,7 @@ While autonomous vehicles are projected to be widely used as early as 2030, much
 
 &quot;Designing the human out of the driving system altogether is probably untenable for the time being,&quot; said Michael Nees, psychology professor at Lafayette College in Pennsylvania, who studies acceptance of self-driving cars. He thinks people will want to monitor and even override self-driving cars. &quot;This is a different design philosophy than one that assumes the automation will work perfectly at all times and thus ignores the human driver altogether,&quot; he added.
 
-{% include_relative sidebars/2017-aaa-survey.html bgcolor="#F8C903" %}
+{% include_relative sidebars/2017-aaa-survey.html classes="right" bgcolor="#F8C903" %}
 
 Another unknown in a future with autonomous vehicles is how city planners will respond. &quot;If policy makers treat pedestrians as a nuisance, for example, forcing them to go into tunnels to cross streets, that could discourage walking,&quot; Millard-Ball said. Alternatively, if regulators do nothing, that could encourage walking by allowing pedestrians to play chicken with autonomous vehicles and win.
 
