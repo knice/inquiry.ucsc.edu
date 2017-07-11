@@ -84,7 +84,7 @@ Other microbes, such as viruses and some parasites, can cause infections that sp
 
 <figure class="" style="width:600px;">
   {% img 2017/p26-illumina-miseq.jpg magick:resize:600 alt:'Illumina Miseq DNA sequencer' %}
-  <figcaption>Caption: The MinION DNA sequencer sits atop a state-of-the-art next-generation sequencer. The MinION is significantly smaller than typical laboratory sequencers, which are about the size of a personal refrigerator, and not so easy to travel with. Photo courtesy of Oxford Nanopore.
+  <figcaption>The MinION DNA sequencer sits atop a state-of-the-art next-generation sequencer. The MinION is significantly smaller than typical laboratory sequencers, which are about the size of a personal refrigerator, and not so easy to travel with. Photo courtesy of Oxford Nanopore.
 </figcaption>
 </figure>
 

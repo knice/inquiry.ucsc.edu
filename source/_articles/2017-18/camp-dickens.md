@@ -16,15 +16,15 @@ banner:
 Some writers have thousands of Twitter followers; others have dedicated book clubs. At UC Santa Cruz, one 19th-century author has his very own summer camp.
 
 The Dickens Project, a UC Santa Cruz–based multi-campus research unit that promotes research and teaching on Charles Dickens, runs the Dickens Universe conference, drawing enthusiasts from around the world to discuss the author&#39;s novels.
-{% include_relative sidebars/2017-the-victorian-dnce.html classes="left" bgcolor="#FFF" %}
+{% include_relative sidebars/2017-the-victorian-dance.html classes="left" bgcolor="#FFF" %}
 
 Each summer, scholars present research, professors and graduate students teach courses—and everyone from experts to high school students and Road Scholars share dining-hall meals and dormitories for a full week of talks, festivities, and even Victorian dancing. &quot;It&#39;s a combination of a scholarly conference, a festival, and summer camp,&quot; said **John Jordan,** professor emeritus of literature and co-founder of the Dickens Project, started in 1981.
 
 Dozens of scholarly articles and 25-plus books have sprung from the event, which initially consisted of UC researchers and students but now involves more than 40 member universities. The Dickens Studies Annual, published by AMS Press in New York, has the right of first invitation for papers presented here.
 
-{% include_relative sidebars/2017-silver-toddy-ladle.html classes="right" bgcolor="#FFF" %}
-
 &quot;It&#39;s a research powerhouse,&quot; said Sharon Weltman, a Louisiana State University English professor and longtime attendee. Two of Weltman&#39;s keynote addresses are part of her forthcoming book on Broadway musicals and Victorian literature. Each of Dickens&#39;s novels deals with societal problems, whether class division or electoral corruption, so &quot;it&#39;s impossible to write about Dickens without touching on contemporary issues,&quot; she said.
+
+{% include_relative sidebars/2017-silver-toddy-ladle.html classes="right" bgcolor="#FFF" %}
 
 That&#39;s part of the author&#39;s widespread appeal, said **Murray Baumgarten,** professor emeritus of literature and a Dickens Project co-founder.
 
