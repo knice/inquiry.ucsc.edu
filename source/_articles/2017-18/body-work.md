@@ -7,9 +7,9 @@ title: Body work
 subhead: "A mathematical quest"
 author:
     name: Elizabeth Devitt
-    file: "2017/elizabeth-devitt.jpg"
+    file: "2017/elizabeth-devitt-2.jpg"
 banner:
-    file: 2017/p33-falling-cat.jpg
+    file: 2017/p33-falling-cat-2.jpg
     position: left
     
 ---

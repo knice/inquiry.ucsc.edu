@@ -7,7 +7,7 @@ title: Disarming Bacteria
 subhead: "Microbiologist searches for next-generation antibiotics"
 author:
     name: Sarah C. P. Williams
-    file: "2017/sarah-cp-williams.jpg"
+    file: "2017/sarah-cp-williams-2.jpg"
 banner:
     file: 
     position:

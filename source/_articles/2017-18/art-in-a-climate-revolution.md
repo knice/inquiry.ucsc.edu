@@ -7,7 +7,7 @@ title: Art in a climate revolution
 subhead: "Environmental crises call for creative solutions"
 author:
     name: Laura Poppick
-    file: "2017/laura-poppick.jpg"
+    file: "2017/laura-poppick-2.jpg"
 banner:
     file: 2017/p18-caribou-migration.jpg
     position: left

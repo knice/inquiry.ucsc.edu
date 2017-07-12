@@ -9,7 +9,7 @@ author:
     name: Robin Meadows
     file: "2017/robin-meadows.jpg"
 banner:
-    file: 2017/p10-self-driving.jpg
+    file: 2017/p10-self-driving-2.jpg
     position: left
     
 ---

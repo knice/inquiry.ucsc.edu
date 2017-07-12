@@ -7,7 +7,7 @@ title: Lessons from teen activists
 subhead: "Youth organizations empower students"
 author:
     name: Kim Smuga-Otto
-    file: "2017/kim-smugga-otto.jpg"
+    file: "2017/kim-smuga-otto.jpg"
 banner:
     file: 2017/p34-health-campaign.jpg
     position: left
