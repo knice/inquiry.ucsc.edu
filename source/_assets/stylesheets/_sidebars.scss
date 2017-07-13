@@ -44,7 +44,8 @@ aside {
   }
 
   figcaption {
-    color: inherit;
+    /*color: inherit;*/
+    color: lighten($text-black, 25%);
   }
 
 }
