@@ -11,6 +11,13 @@ author:
 banner:
     file: 2016/p35-cloudy.jpg
     position: left
+related:
+    - title: "Exoplanet atmospheres range from clear to cloudy in survey of 'hot Jupiters'"
+      url: https://news.ucsc.edu/2015/12/hot-jupiters.html
+    - title: "UC Santa Cruz part of NASA coalition leading search for life on distant worlds"
+      url: https://news.ucsc.edu/2015/04/exoplanet-coalition.html
+    - title: "UC Santa Cruz hosts international summer program on exoplanetary atmospheres"
+      url: https://news.ucsc.edu/2015/12/kavli-program-astrophysics.html
 ---
 
 HD 209485b would make a lousy place to live. Anything that could call this exoplanet "home" would have to withstand air temperatures hotter than the inside of a volcano and storm winds gusting faster than the speed of sound. Clouds of vaporized rock would make for sunsets of brilliant green—if only they weren't so deadly.

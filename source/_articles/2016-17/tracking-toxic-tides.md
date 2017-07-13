@@ -11,6 +11,13 @@ author:
 banner:
     file: 2016/p10-toxic-tides.jpg
     position: left
+related:
+    - title: "Spread of algal toxin through marine food web broke records in 2015"
+      url: https://news.ucsc.edu/2015/12/toxic-algae.html
+    - title: "Toxins from freshwater algae found in San Francisco Bay shellfish"
+      url: https://news.ucsc.edu/2016/10/microcystin-toxin.html
+    - title: "Scientists develop new technology for tracking algal toxins"
+      url: https://news.ucsc.edu/2009/05/2934.html
     
 ---
 

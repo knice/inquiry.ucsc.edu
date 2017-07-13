@@ -11,6 +11,10 @@ author:
 banner:
     file: 2017/p18-caribou-migration.jpg
     position: left
+related:
+    - title: "Arts Dean's Lecture Series to explore climate justice, art, activism, and the environment"
+      url: http://news.ucsc.edu/2016/03/arts-dean-series.html
+
     
 ---
 {% include_relative sidebars/2017-caribou-caption.html classes="right" bgcolor="#F5F5F5" %}

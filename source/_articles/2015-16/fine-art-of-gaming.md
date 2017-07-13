@@ -13,6 +13,15 @@ banner:
     caption: "Screenshots of characters Grace and Trip from Fa&ccedil;ade, the first fully realized interactive drama created by Michael Mateas, director of the Center for Games and Playable Media, and Andrew Stern, a programmer analyst at UCSC. This computer game was a research experiment in electronic narrative that integrated art and artificial intelligence technologies."
 quotes:
 - "'If characters can put on a meaningful performance and we can feel empathy, caring , or anger,' explained Wardrip-Fruin, 'games can open up an emotional palette that can help shape how people think about their lives.'"
+related:
+    - title: "GameSpace offers a playable visualization of 16,000 videogames"
+      url: https://news.ucsc.edu/2017/02/game-space.html
+    - title: "UC Santa Cruz creates new Department of Computational Media"
+      url: https://news.ucsc.edu/2014/10/computational-media.html
+    - title: "'Prom Week' breaks new ground in computer game design"
+      url: https://news.ucsc.edu/2012/02/prom-week.html
+    - title: "Avant-garde video-game blog earns art exhibition at UC Irvine's Beall Center"
+      url: https://news.ucsc.edu/2007/10/1653.html
 ---
 
 Computer games are growing up. The behind-the-screens technology that makes gameplay more realistic&mdash;and more fun&mdash;also paves the way for gaming to move beyond the world of shooter games and into the realms of classic literature and real-life applications.

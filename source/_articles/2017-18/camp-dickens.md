@@ -11,6 +11,12 @@ author:
 banner:
     file: 2017/p28-dickens-letters.jpg
     position: left
+related:
+    - title: "New Presidential Chair to support Dickens Project and Literature Studies at UC Santa Cruz"
+      url: https://news.ucsc.edu/2015/07/dickens-presidential-chair.html
+    - title: "UCSC’s Dickens Project featured in August issue of New Yorker
+"
+      url: https://news.ucsc.edu/2011/08/new-yorker-dickens.html
     
 ---
 Some writers have thousands of Twitter followers; others have dedicated book clubs. At UC Santa Cruz, one 19th-century author has his very own summer camp.

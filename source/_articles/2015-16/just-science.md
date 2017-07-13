@@ -13,6 +13,15 @@ banner:
 quotes:
 - "Justice is always a question. It would be ironic to presume to know what justice was beforehand, and then make sure it happens."
 - "...You can't say: I'm just building the [atomic] bomb, and what happens after that isn't my responsibility."
+related:
+    - title: "Science and Justice Training Program explores ethics of scientific research"
+      url: https://news.ucsc.edu/2013/08/science-justice-training-program.html
+    - title: "Jenny Reardon, sociologist between science and justice"
+      url: https://news.ucsc.edu/2016/01/reardon-le-monde.html
+    - title: "Conference to explore questions of precision medicine, bio-data, and ethics"
+      url: https://news.ucsc.edu/2016/05/just-data.html
+    - title: "How can health equity be ensured in the age of precision medicine?"
+      url: https://socialsciences.ucsc.edu/news-events/news/just-data-recap.html
 ---
 
 When a recent midnight screening of the 1987 film RoboCop drew sci-fi fans to a downtown Santa Cruz theater, not everyone was in line for entertainment. Two UC Santa Cruz students in an innovative research program set up the showing to provoke conversations about science and the society it's supposed to serve.

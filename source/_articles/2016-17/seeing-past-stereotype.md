@@ -8,6 +8,9 @@ subhead: "Art historian probes racial dynamics through visual media"
 author:
     name: Blake Edgar
     file: "2016/blake-edgar.jpg"
+related:
+    - title: "Second annual Arts Dean’s research lecture spotlights media and race"
+      url: https://news.ucsc.edu/2012/03/berger-arts-research.html    
 ---
 
 Clasping white-gloved hands, swaying side to side, the singer's exaggerated pale lips stand out against his jet-black face. At first glance, actor Al Jolson crooning "My Mammy" in _The Jazz Singer_ depicts an offensive image of a black performer.

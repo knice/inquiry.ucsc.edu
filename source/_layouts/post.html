@@ -27,6 +27,21 @@ class: post
     <section class="post-content">
 
       {{content}}
+      {%if page.related%}
+      <div class="">
+      <h3>Related Links</h3>
+      {%for link in page.related%}
+      
+      
+        
+        <ul class="">
+          <li><a href="{{ link.url }}">{{link.title}}</a></li>
+        </ul>
+      
+      {%endfor%}
+      </div>
+     {%endif%}
+      
 
     </section>
 

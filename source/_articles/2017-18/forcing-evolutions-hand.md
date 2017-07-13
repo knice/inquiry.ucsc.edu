@@ -11,7 +11,12 @@ author:
 banner:
     file: 
     position: 
-    
+related:
+    - title: "Mosquitofish populations with more females have greater ecological impact"
+      url: https://news.ucsc.edu/2015/10/mosquitofish.html
+    - title: "Genetic study of river herring populations identifies conservation priorities
+"
+      url: https://news.ucsc.edu/2013/10/river-herring.html
 ---
 {% include_relative sidebars/2017-alewives-encounter-a-dam.html classes="right" bgcolor="#FFF" %}
 When early settlers landed on America&#39;s eastern shores in the 1600s, most new communities did two things: they built a church and a dam. The consequences of those dams persist today.

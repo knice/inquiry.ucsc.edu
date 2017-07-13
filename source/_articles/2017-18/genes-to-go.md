@@ -11,6 +11,13 @@ author:
 banner:
     file: 2017/p23-handheld-dna-sequencer.jpg
     position: left
+related:
+    - title: "New DNA sequencer uses nanopore concepts pioneered at UCSC"
+      url: https://news.ucsc.edu/2012/02/nanopore-sequencer.html
+    - title: "Astronauts sequence DNA in space using technology developed at UC Santa Cruz"
+      url: https://news.ucsc.edu/2016/09/nanopore-in-space.html
+    - title: "UCSC researchers receive $1.6 million grant for biosensor project"
+      url: https://news.ucsc.edu/2006/03/842.html
     
 ---
 {% include_relative sidebars/2017-dna-sequencer-caption.html classes="right" bgcolor="#F5F5F5" %}

@@ -11,7 +11,9 @@ author:
 banner:
     file: 2017/p19-hawaiian-bobtail-squid.jpg
     position: left
-    
+related:
+    - title: "Proton-conducting material found in electrosensory organs of sharks"
+      url: https://news.ucsc.edu/2016/05/shark-jelly.html
 ---
 
 About the last thing one would expect to find on the laboratory website of an engineer is a recipe for calamaretti saltati piccanti, an Italian entrée of sautéed baby squid. But it makes perfect sense when the lab is run by **Marco Rolandi,** associate professor in UC Santa Cruz&#39;s Baskin School of Engineering; it&#39;s a dish Rolandi watched his mother make when he was a boy in Savona, a seaport town in northern Italy. Now, Rolandi and his lab group swap recipes for squid-centric cuisine, in tribute to the mollusks that provide a key ingredient for their research: chitin, the compound that gives cephalopod beaks and pens their toughness.

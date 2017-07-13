@@ -11,6 +11,9 @@ author:
 banner:
     file: 2017/p34-health-campaign.jpg
     position: left
+related:
+    - title: "Annual social sciences research event explores politics of change"
+      url: https://news.ucsc.edu/2016/10/research-frontiers-evening-2016.html
     
 ---
 {% include_relative sidebars/2017-lessons-from-teen-activists-caption.html classes="right" bgcolor="#F5F5F5" %}

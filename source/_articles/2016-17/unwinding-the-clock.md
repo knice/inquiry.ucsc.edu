@@ -11,6 +11,11 @@ author:
 banner:
     file: 2016/p21-circadian.jpg
     position: left
+related:
+    - title: "Scientists discover a protein that silences the biological clock"
+      url: https://news.ucsc.edu/2015/05/biological-clock.html
+    - title: "Scientists reveal how an ancient biological clock works"
+      url: https://news.ucsc.edu/2017/03/circadian-clock.html
 ---
 
 When the circadian clock stops, most healthy cells wither and cancer cells thrive. The clock is our body's 24-hour timekeeping system that helps regulate everything from insulin levels to cell division. For years, scientists wondered how cancer cells dodged the circadian cycle. Then, Carrie Partch, UC Santa Cruz assistant professor of biochemistry, discovered a protein with the unwieldly name of PER-ARNT-SIM domain containing 1 (or PASD1) and began to understand what made that clock tick.

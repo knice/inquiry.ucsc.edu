@@ -11,6 +11,13 @@ author:
 banner:
     file: 2016/p26-yanik.jpg
     position: right
+related:
+    - title: "New optofluidic platform features tunable optics and novel 'lightvalves'"
+      url: https://news.ucsc.edu/2016/09/optofluidics-platform.html
+    - title: "Chip-based technology enables reliable direct detection of Ebola virus"
+      url: https://news.ucsc.edu/2015/09/ebola-detection.html
+    - title: "Novel chip-based platform could simplify measurements of single molecules"
+      url: https://news.ucsc.edu/2014/08/nanopore-optofluidics.html
 ---
 
 In the late summer of 2014, new Ebola virus cases in West Africa jumped from around 150 to more than 500 per week. With no vaccine and no cure, quarantining infected individuals was the only hope to halt the epidemic.

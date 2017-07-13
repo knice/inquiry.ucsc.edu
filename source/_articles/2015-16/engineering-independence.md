@@ -13,6 +13,17 @@ banner:
     caption: "Caitlin Hernandez ('12), blind from birth, enjoys helping UCSC researchers test their technologies, in between pursuing a master's degree in special education, performing with a theater troupe, singing a cappella, and tap dancing. 'I like to give back when I can,' she said, 'and be part of something that could help other blind people and myself.'"
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."
+related:
+    - title: "Grant supports research on technology solutions for low vision"
+      url: https://news.ucsc.edu/2016/06/manduchi-grant.html
+    - title: "NSF funds UC Santa Cruz project to develop assisted public transit services"
+      url: https://news.ucsc.edu/2016/09/public-transit-service.html
+    - title: "UCSC engineer focuses on assistive technology for people with disabilities"
+      url: https://news.ucsc.edu/2014/05/manduchi-profile.html
+    - title: "UCSC project aims to provide a virtual speech therapist via cell phone"
+      url: https://news.ucsc.edu/2008/02/1944.html
+    - title: "Grad student unites personal passion and programming skills to help others"
+      url: https://news.ucsc.edu/2014/08/lourdes-morales-profile.html
 ---
 
 Like most folks, Kate Williams uses her cellphone for digital pictures. She can't resist snapping away during all the activities her five grandchildren enjoy. But choosing which pictures to share poses a challenge--not only because each image captures a special moment, but also because she is blind.

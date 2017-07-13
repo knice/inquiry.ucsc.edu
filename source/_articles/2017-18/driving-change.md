@@ -11,6 +11,9 @@ author:
 banner:
     file: 2017/p10-self-driving-2.jpg
     position: left
+related:
+    - title: "Humans Worry About Self-Driving Cars. Maybe It Should Be The Reverse"
+      url: http://www.npr.org/2017/01/10/509086451/humans-worry-about-self-driving-cars-maybe-it-should-be-the-reverse
     
 ---
 

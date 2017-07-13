@@ -12,6 +12,17 @@ banner:
     file: 2015/a-cold-trail-crop.jpg
 quotes:
 - "Why do these changes take place at the rates that they do? That's the key thing we need to understand--if you ever want to build reliable models of predictions of what's going to happen to an ice sheet 100 years from now."
+related:
+    - title: "Scientists find evidence for groundwater in Antarctica's Dry Valleys"
+      url: https://news.ucsc.edu/2015/04/antarctica-survey.html
+    - title: "Study finds surprisingly high geothermal heating beneath West Antarctic Ice Sheet"
+      url: https://news.ucsc.edu/2016/09/public-transit-service.html
+    - title: "Scientists drill through half mile of Antarctic ice for data on ice sheet stability"
+      url: https://news.ucsc.edu/2015/01/wissard-update.html
+    - title: "Major study assesses sea level changes due to ice sheet losses"
+      url: https://news.ucsc.edu/2013/06/ice-sheets.html
+    - title: "Scientists collect first intact samples from an Antarctic subglacial lake"
+      url: https://news.ucsc.edu/2013/01/wissard-success.html
 ---
 
 Slawek Tulaczyk keeps a shotgun case in his office. It's an odd piece of equipment for a glaciologist. More appropriate are the ice axe, crampons and helmets lying around in his room. But the case came in handy for hauling a gun to Alaska, where he was "harassed by a really weird bear." Does he take the gun to Antarctica? "No," he said. "That's the nice thing about working in Antarctica. It's a pretty safe place."

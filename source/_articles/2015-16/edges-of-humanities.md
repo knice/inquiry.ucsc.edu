@@ -14,6 +14,11 @@ banner:
 quotes:
 - "Is there a custom that when the midwife dies, all of the children whom she brought into the world accompany her funeral procession with candles in their hands?"
 - "'This is about studying what it is to be a person, a human being, studying our relationship to ideas,' he said. 'Literature, identity, language&mdash;these are fundamental things.'"
+related:
+    - title: "New book sheds light on survival of Jewish culture"
+      url: https://news.ucsc.edu/2011/09/deutschj-book-jewish-culture.html
+    - title: "Nathaniel Deutsch wins book award from Association for Jewish Studies"
+      url: https://news.ucsc.edu/2013/11/deutsch-book-award.html
 ---
 
 One night, in the early 1800s, a young girl visited her mother's grave in the small, predominantly Jewish town of Ludmir, in present day Ukraine. What follows next is a mix of lore and legend. According to some, she tripped and hit her head. Her critics claimed the girl fell into a swoon and was possessed by a malignant spirit. By the girl's own telling, she received a "higher soul." Whatever the truth, the next morning the girl awoke and began a different kind of life, one that led to her refusal to marry and, instead, devote herself to study and prayer. Although her real name is uncertain, the girl came to be called "The Maiden of Ludmir," the only woman known to have acted as a Hasidic rebbe, a charismatic Jewish leader, in recorded history.
