@@ -91,11 +91,17 @@
   }
 }
 
+//Breadcrumbs
 .breadcrumbs {
   width: 100%;
 
+  a {
+    text-decoration: none;
+  }
+
   ul {
-    padding-left:0;
+    margin-bottom: 0;
+    padding-left: 0;
   }
 
   li {
@@ -104,15 +110,16 @@
   }
 }
 
+//Back to top button
 .topbutton {
-    background-repeat:no-repeat;
-    bottom:30px;
-    display:none;
-    height:50px;
-    position:fixed;
-    right:15px;
-    width:50px;
-    z-index:99999;   
+    background-repeat: no-repeat;
+    bottom: 30px;
+    display: none;
+    height: 50px;
+    position: fixed;
+    right: 15px;
+    width: 50px;
+    z-index: 99999;   
 }
 
 .topbutton .fa {

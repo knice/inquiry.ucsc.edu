@@ -37,10 +37,7 @@ class: post
       
       {%endfor%}
       </div>
-     {%endif%}
-      <a href="#top" class=".back-to-top"><p>Back To Top</p></a>
-      <a class="topbutton" href="#"><i class="fa fa-chevron-up fa-2x"></i></a>
-
+     {%endif%}      
     </section>
 
     <footer class="post-footer">
@@ -66,5 +63,5 @@ class: post
         {% endif %} {% include social-sharing.html %}
 
     </footer>
-<a class="topbutton" href="#"><i class="fa fa-chevron-up fa-2x"></i></a>
+{% include back-to-top.html %}
 </article>
