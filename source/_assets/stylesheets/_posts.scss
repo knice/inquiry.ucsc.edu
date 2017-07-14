@@ -117,3 +117,28 @@
   margin: 0 0 1em 1em;
   max-width: 400px;
 }
+
+/**
+ * Top Button
+ *
+ * @author Jason Chafin
+ * 
+ *
+ */
+
+.topbutton {
+    height:50px;
+    width:50px;
+    position:fixed;
+    right:15px;
+    bottom:30px;
+    z-index:99999;
+    background-repeat:no-repeat;
+    display:none;
+}
+
+.topbutton .fa {
+    color: #FFF;
+    background-color: #e37526;
+    padding: 0 5px 5px;
+}
