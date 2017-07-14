@@ -7,9 +7,11 @@ aside {
     margin-top: 0;
     padding-top: 0;
   }
+
   > :last-child {
     margin-bottom: 0;
   }
+
   p {
     font-size: .9em;
     line-height: 1.3;
@@ -44,7 +46,7 @@ aside {
   }
 
   figcaption {
-    /*color: inherit;*/
+    //color: inherit;
     color: lighten($text-black, 25%);
   }
 

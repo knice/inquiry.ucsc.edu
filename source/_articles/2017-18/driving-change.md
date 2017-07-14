@@ -30,7 +30,7 @@ His project with autonomous vehicles is a perfect example. While most self-drivi
 ## Street games ##
 
 <figure class="right" style="width:300px;">
-  {% img 2017/p11-chicken.jpg magick:resize:300 alt:'Game of chicken' %}
+  {% img 2017/p11-chicken.jpg magick:resize:300 alt:'Road sign with chicken' %}
 </figure>
 
 To explore the interplay between people&#39;s behavior and self-driving cars, he developed a model based on the game of chicken. In the classic version of this dangerous road contest, two drivers zoom straight towards each other and the loser swerves—or chickens out—to avoid collision, while the winner stays on course. In a twist, Millard-Ball pitted an autonomous vehicle against a pedestrian at a crosswalk.
