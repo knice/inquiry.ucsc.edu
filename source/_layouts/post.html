@@ -3,11 +3,7 @@ layout: default
 class: post 
 ---
 
-<<<<<<< HEAD
   <article class="post" id="#top">
-=======
-<article class="post">
->>>>>>> issue-2017-18
 
     <header class="post-header">
 
@@ -27,7 +23,6 @@ class: post
 
     <section class="post-content">
 
-<<<<<<< HEAD
       {{content}}
       {%if page.related%}
       <div class="">
@@ -45,23 +40,6 @@ class: post
      {%endif%}
       <a href="#top" class=".back-to-top"><p>Back To Top</p></a>
       <a class="topbutton" href="#"><i class="fa fa-chevron-up fa-2x"></i></a>
-=======
-        {{content}} {%if page.related%}
-        <div class="">
-            <h3>Related Links</h3>
-            {%for link in page.related%}
-
-
-
-            <ul class="">
-                <li><a href="{{ link.url }}">{{link.title}}</a></li>
-            </ul>
-
-            {%endfor%}
-        </div>
-        {%endif%}
-
->>>>>>> issue-2017-18
 
     </section>
 
@@ -88,6 +66,5 @@ class: post
         {% endif %} {% include social-sharing.html %}
 
     </footer>
-
-
+<a class="topbutton" href="#"><i class="fa fa-chevron-up fa-2x">top button</i></a>
 </article>

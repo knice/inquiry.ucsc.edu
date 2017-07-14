@@ -103,3 +103,20 @@
     list-style-type: none;
   }
 }
+
+.topbutton {
+    background-repeat:no-repeat;
+    bottom:30px;
+    display:none;
+    height:50px;
+    position:fixed;
+    right:15px;
+    width:50px;
+    z-index:99999;   
+}
+
+.topbutton .fa {
+    color: $white;
+    background-color: $brand-gold;
+    padding: 0 5px 5px;
+}
