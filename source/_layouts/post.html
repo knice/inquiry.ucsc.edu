@@ -1,75 +1,69 @@
----
-layout: default
-class: post
+--- 
+layout: default 
+class: post 
 ---
 
-  <article class="post">
+<article class="post">
 
     <header class="post-header">
 
-      {% if page.banner.file %}
-        {% assign header_type = 'has-image' %}
-        {% img "{{ page.banner.file }}" magick:gravity:east magick:crop:1400x500+0+0 alt:"{{ page.banner.text | default: 'article banner' }}" %}
-      {% endif %}
+        {% if page.banner.file %} {% assign header_type = 'has-image' %} {% img "{{ page.banner.file }}" magick:gravity:east magick:crop:1400x500+0+0 alt:"{{ page.banner.text | default: 'article banner' }}" %} {% endif %}
 
-      <div class="post-title {{ header_type | default: 'no-image' }}">
+        <div class="post-title {{ header_type | default: 'no-image' }}">
+{% include breadcrumbs.html %}
+            <h1>{{ page.title }}</h1>
+            {% if page.subhead %}
+            <p>{{ page.subhead }}</p>
+            {% endif %}
 
-        <h1>{{ page.title }}</h1>
-        {% if page.subhead %}
-        <p>{{ page.subhead }}</p>
-        {% endif %}
-      
-      </div>
+        </div>
 
     </header>
 
 
     <section class="post-content">
 
-      {{content}}
-      {%if page.related%}
-      <div class="">
-      <h3>Related Links</h3>
-      {%for link in page.related%}
-      
-      
-        
-        <ul class="">
-          <li><a href="{{ link.url }}">{{link.title}}</a></li>
-        </ul>
-      
-      {%endfor%}
-      </div>
-     {%endif%}
-      
+        {{content}} {%if page.related%}
+        <div class="">
+            <h3>Related Links</h3>
+            {%for link in page.related%}
+
+
+
+            <ul class="">
+                <li><a href="{{ link.url }}">{{link.title}}</a></li>
+            </ul>
+
+            {%endfor%}
+        </div>
+        {%endif%}
+
 
     </section>
 
     <footer class="post-footer">
 
-      {% if page.author %}
-      <section class="author">
-        <div class="comment">
-          <div class="comment-container">
-            {% if page.author.file %}
-            <div class="comment-image">
-              {{ page.author.file | img : "magick:resize:180 alt:'article author'" }}
+        {% if page.author %}
+        <section class="author">
+            <div class="comment">
+                <div class="comment-container">
+                    {% if page.author.file %}
+                    <div class="comment-image">
+                        {{ page.author.file | img : "magick:resize:180 alt:'article author'" }}
+                    </div>
+                    {% endif %}
+                    <div class="comment-content">
+                        <ul class="flat-list">
+                            <li><span>Written by:</span> {{ page.author.name }}</li>
+                            <li><span>Published:</span> {{ page.issue }}</li>
+                        </ul>
+                    </div>
+                </div>
             </div>
-            {% endif %}
-            <div class="comment-content">
-              <ul class="flat-list">
-                <li><span>Written by:</span> {{ page.author.name }}</li>
-                <li><span>Published:</span> {{ page.issue }}</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
-      {% endif %}
-
-      {% include social-sharing.html %}
+        </section>
+        {% endif %} {% include social-sharing.html %}
 
     </footer>
 
 
-  </article>
+</article>

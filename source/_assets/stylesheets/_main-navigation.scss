@@ -90,3 +90,12 @@
     color: $white;
   }
 }
+
+.breadcrumbs {
+  width: 100%;
+
+  li {
+    display: inline;
+    list-style-type: none;
+  }
+}
