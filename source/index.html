@@ -27,7 +27,7 @@ current: 2017-18
     
       <ul class="toc-list">
 
-      {% assign sorted_articles = (site.articles | where: 'issue','2016' | sort: 'order') %}
+      {% assign sorted_articles = (site.articles | where: 'issue','2017' | sort: 'order') %}
       {% for post in sorted_articles %}
         
         {% if post.category == 'feature' %}
