@@ -3,7 +3,7 @@ layout: post
 issue: 2017
 category: feature
 order: 6
-title: Camp dickens
+title: Camp Dickens
 subhead: "Victorian author unites modern scholars"
 author:
     name: Cameron walker
@@ -14,7 +14,7 @@ banner:
 related:
     - title: "New Presidential Chair to support Dickens Project and Literature Studies at UC Santa Cruz"
       url: https://news.ucsc.edu/2015/07/dickens-presidential-chair.html
-    - title: "UCSC’s Dickens Project featured in August issue of New Yorker
+    - title: "UCSC's Dickens Project featured in August issue of New Yorker
 "
       url: https://news.ucsc.edu/2011/08/new-yorker-dickens.html
     
