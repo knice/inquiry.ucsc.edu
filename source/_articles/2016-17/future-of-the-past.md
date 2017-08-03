@@ -11,6 +11,9 @@ author:
 banner:
     file: 2016/p24-karnak.jpg
     position: left
+related:
+    - title: "Egyptologist awarded NEH Digital Humanities Start-Up Grant"
+      url: https://news.ucsc.edu/2015/04/sullivan-neh-grant.html
 ---
 
 <figure class="right" style="width:360px;">

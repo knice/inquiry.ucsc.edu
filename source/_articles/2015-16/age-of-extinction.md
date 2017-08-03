@@ -13,6 +13,15 @@ banner:
     position: left
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."
+related:
+    - title: "Biologist Beth Shapiro explains the science of 'de-extinction' in new book"
+      url: https://news.ucsc.edu/2015/04/shapiro-book.html
+    - title: "UC Research Catalyst Award supports conservation genomics project"
+      url: https://news.ucsc.edu/2015/12/conservation-genomics.html
+    - title: "Ice age bison fossils shed light on early human migrations in North America"
+      url: https://news.ucsc.edu/2016/06/ice-age-bison.html
+    - title: "DNA study clarifies relationship between polar bears and brown bears"
+      url: https://news.ucsc.edu/2013/03/polar-bear-genomics.html
 ---
 
 Beth Shapiro spends a lot of time on the northern end of the planet, excavating frozen bits of creatures that lived long ago. on these mucky, mosquito- infested field trips, she searches for DNA that still lingers in the bones, hair, tusks and skin of ice-age-era mammals like musk ox and mammoths. Then, back in the Paleogenomics lab at UC Santa Cruz, she calculates how old the specimens are, extracts their DNA, and carefully decodes this ancient genetic material.

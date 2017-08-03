@@ -14,6 +14,13 @@ banner:
 quotes:
 - "Hu notes that a trio of China historians in one department is rare at universities today, and that concentration of scholars bolsters the impact
 of their research."
+related:
+    - title: "UC Santa Cruz history professor elected to American Academy of Arts and Sciences"
+      url: https://news.ucsc.edu/2015/04/hershatter-academy-fellow.html
+    - title: "Gail Hershatter to deliver 47th annual UCSC Faculty Research Lecture"
+      url: https://news.ucsc.edu/2013/01/facuty-research-lecture.html
+    - title: "History Dept. to host international conference on Chinese culture"
+      url: https://news.ucsc.edu/2012/08/china-conference.html
 ---
 
 Dynasties of war, revolution, and imperial rule fill the records of China's past. Historians, both in this country and abroad, examine how the legacy of these events influenced subsequent culture. Scholars based in China tend to view that history through its relationship with their own traditions.

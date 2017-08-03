@@ -42,6 +42,7 @@
 
   h1 {
     font-size: 3.25em;
+    line-height: 1.2;
     margin: .10rem;
   }
 
@@ -116,4 +117,13 @@
   float: right;
   margin: 0 0 1em 1em;
   max-width: 400px;
+}
+
+.related-links {
+  padding-top: 20px;
+
+  h3 {
+    border-top: 2px solid $green;
+    padding-top: 10px;
+  }
 }

@@ -11,6 +11,13 @@ author:
 banner:
     file: 2016/p29-sudanese-women.jpg
     position: top
+related:
+    - title: "UCSC politics professor pioneers research on law in fragile states"
+      url: https://news.ucsc.edu/2013/07/massoud-laws-fragile-state.html
+    - title: "Finding peace in the 'world’s most displaced' country"
+      url: https://news.ucsc.edu/2014/01/massoud-sudan.html
+    - title: "Professor's book on Sudan legal system wins political science book award"
+      url: https://news.ucsc.edu/2014/09/massoud-book-award.html
 ---
 
 When peace returned to Sudan after more than two decades of civil war, **Mark Fathi Massoud** followed. After a long absence from his native country, the UC Santa Cruz professor of politics and legal studies spent a hot and dusty summer interviewing people about their encounters with law during those tumultuous years. He returned repeatedly during the next six years to question hundreds more. His goal was to uncover the way successive rulers exploited the law throughout the country's troubled history. Ultimately, his investigations revealed how law survived in the thick of political chaos.

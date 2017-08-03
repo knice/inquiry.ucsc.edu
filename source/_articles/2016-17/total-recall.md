@@ -8,6 +8,9 @@ subhead: "Do digital footprints alter our relationship to the past?"
 author:
     name: Greta Lorge
     file: "2016/greta-lorge.jpg"
+related:
+    - title: "After the breakup in a digital world: Purging social media memories"
+      url: https://news.ucsc.edu/2013/05/digital-breakup.html
 ---
 
 {% include_relative sidebars/2016-recall.html classes="right" %}

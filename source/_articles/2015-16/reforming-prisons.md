@@ -12,6 +12,15 @@ banner:
     file: 2015/reforming-prisons-crop.jpg
 quotes:
 - "The emphasis ought to be on keeping prison isolation as brief and humane as possible and only as a last resort."
+related:
+    - title: "Faculty research lecture features prison and incarceration expert Craig Haney"
+      url: https://news.ucsc.edu/2015/03/haney-research-lecture.html
+    - title: "How 4 Inmates Launched A Statewide Hunger Strike From Solitary"
+      url: http://www.npr.org/2014/03/06/286794055/how-four-inmates-launched-a-statewide-hunger-strike-from-solitary
+    - title: "UCSC prison expert Haney testifies on the perils of solitary confinement"
+      url: https://news.ucsc.edu/2012/06/haney-solitary.html
+    - title: "Experiencing the 6x9-foot world of solitary confinement"
+      url: https://news.ucsc.edu/2016/05/haney-guardian.html
 ---
 
 Imagine living in a cell barely big enough to hold a king-sized bed, a small sink, and a toilet. But there's no big bed, only a narrow bunk. There's no window either, just a fluorescent light that turns on, then off again, each day. The door opens only from the outside and it doesn't open often. This is solitary confinement, a place where prisoners lose all forms of social contact, sometimes for so many years they never regain the ability to be a friend, or part of a family, again. It's more akin to torture than reform. And it's a practice that Craig Haney, a psychology professor at UC Santa Cruz, has studied&mdash;and criticized&mdash;for more than 20 years.

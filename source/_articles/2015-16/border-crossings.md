@@ -12,6 +12,13 @@ banner:
     file: 2015/coyote-border-crossings-crop.jpg
 quotes:
 - "We can use... information to make predictions and plans about what to do for species that are being affected by climate change today."
+related:
+    - title: "UC Santa Cruz film professor’s original animation to debut on PBS.org"
+      url: https://news.ucsc.edu/2014/09/leanos-pbs-film.html
+    - title: "Film professor receives California Documentary Project grant from Cal Humanities"
+      url: https://news.ucsc.edu/2017/04/leanos-documentary-grant.html
+    - title: "UCSC film professor John Jota Leaños wins 2012 Guggenheim Fellowship"
+      url: https://news.ucsc.edu/2012/04/guggenheim-jota.html
 ---
 
 Coyote has a chorus of meanings: For many indigenous tribes, the animal represents a trickster figure; in the Southwest, it's someone who is culturally and ethnically mixed, who passes as both Latina/o and white; and it refers to people who smuggle immigrants across the Mexico-U.S. border.

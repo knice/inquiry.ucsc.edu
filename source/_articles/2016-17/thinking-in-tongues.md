@@ -8,6 +8,11 @@ subhead: "Uncommon language hints at linguistic logic"
 author:
     name: Jyoti Madhusoodanan
     file: "2016/jyoti-madhusoodanan.jpg"
+related:
+    - title: "UCSC Linguistics professors receive $300,000 NSF grant"
+      url: https://news.ucsc.edu/2013/02/linguistics-nsf-grant.html
+    - title: "Sandra Chung to deliver 51st annual Faculty Research Lecture"
+      url: https://news.ucsc.edu/2017/01/chung-faculty-research-lecture.html
 ---
 
 On the streets of Saipan, the conversations of passersby are a blur of Korean, Japanese, Russian, and&mdash;much less often&mdash;the island's native language of Chamorro. Once widely spoken across the Northern Mariana Islands and Guam, native speakers now number only in the tens of thousands, and they form isolated groups within the tiny archipelago in the western Pacific Ocean. Chamorro is on the cusp of endangerment. Before it becomes another lost language, a team of UC Santa Cruz linguists are using it to decipher how we understand sentence structure.
