@@ -5,6 +5,7 @@ guard "jekyll-plus", :serve => true do
   ignore /^source\/.asset-cache/
 end
 
+# Setup livereload
 guard 'livereload' do
   watch /^source\/*/
 end
