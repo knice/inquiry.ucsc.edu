@@ -1,0 +1,56 @@
+---
+layout: default
+class: front
+title: Inquiry @ UC Santa Cruz
+banner:
+  file: 2017/cover-photo-2.jpg
+  text: "Hawaiian bobtail squid, one of the many ocean-dwelling creatures that have beaks made of chitin, a hard substance from which UC Santa Cruz engineers are developing more efficient biosensors and novel materials."
+current: 2017-18
+---
+
+<div class="row">
+
+  <section class="two-thirds block toc">
+
+    <h1 class="issue-title">{{ page.current }}</h1>
+
+    <ul class="toc-list plain">
+      <li><a href="/{{ page.current }}/welcome/">Welcome</a></li>
+      <li><a href="/{{ page.current }}/briefs/">Brief <span class="heavy">inquiries</span></a></li>
+      <li><a href="/{{ page.current }}/books/">Pen <span class="heavy">&amp;</span> Inq</a></li>
+      <li><a href="/{{ page.current }}/contributors/">Inquiring <span class="heavy">minds</span></a></li>
+    </ul>
+
+    <h2 class="header highlight">Features</h2>
+    <div class="features">
+    
+      <ul class="toc-list">
+
+      {% assign sorted_articles = (site.articles | where: 'issue','2017' | sort: 'order') %}
+      {% for post in sorted_articles %}
+        
+        {% if post.category == 'feature' %}
+            <li>
+              <h3>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h3>
+              <p class="teaser">{{ post.subhead }}</p>
+              <p class="author">By {{ post.author.name }}</p>
+            </li>
+        {% endif %}
+
+      {% endfor %}
+      </ul>        
+
+    </div>      
+
+  </section>
+
+  <section class="one-third block">
+      
+      <h3 class="index-headline featured">Download the PDF</h3>
+      <a href="/2017-18/inquiry-2017.pdf">{% image '2017/inquiry-cover.jpg' magick:resize:380 alt:'2017 cover of Inquiry Magazine' %}</a>
+  </section>
+
+</div>
+{% include back-to-top.html %}
