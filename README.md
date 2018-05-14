@@ -9,7 +9,8 @@ Inquiry is the annual research magazine published by UC Santa Cruz. The premiere
 ## Getting Started
 
 Set up your project in your code directory
-```
+
+```shell
 git clone git@github.com:knice/inquiry.ucsc.edu.git your-project-folder
 cd your-project-folder
 git remote rm origin
@@ -17,17 +18,24 @@ git remote add origin your-repo-url
 ```
 
 Install dependencies
+
+```shell
+gem install bundle
 ```
+
+```shell
 bundle install
 ```
 
 Run the server and watch for changes in your files
-```
-jekyll serve -w
+
+```shell
+bundle exec jekyll serve -w
 ```
 
 Deploy to Github Pages
-```
+
+```shell
 jekyll build && git subtree push --prefix build origin gh-pages
 ```
 
