@@ -1,57 +1,53 @@
+
 ---
 layout: default
 class: front
 title: Inquiry @ UC Santa Cruz
 banner:
-  file: 2017/cover-photo.jpg
+  file: 2018/cover-photo.jpg
   text: "Hawaiian bobtail squid, one of the many ocean-dwelling creatures that have beaks made of chitin, a hard substance from which UC Santa Cruz engineers are developing more efficient biosensors and novel materials."
-current: 2017-18
+current: 2018-19
 ---
 
 <div class="row">
 
-  <section class="two-thirds block toc">
-    
-    <h1 class="issue-title">{{ page.current }}</h1>
+    <section class="two-thirds block toc">
 
-    <ul class="toc-list plain">
-      <li><a href="/{{ page.current }}/welcome/">Welcome</a></li>
-      <li><a href="/{{ page.current }}/briefs/">Brief <span class="heavy">inquiries</span></a></li>
-      <li><a href="/{{ page.current }}/books/">Pen <span class="heavy">&amp;</span> Inq</a></li>
-      <li><a href="/{{ page.current }}/contributors/">Inquiring <span class="heavy">minds</span></a></li>
-    </ul>
+        <h1 class="issue-title">{{ page.current }}</h1>
 
-    <h2 class="header highlight">Features</h2>
+        <ul class="toc-list plain">
+            <li><a href="/{{ page.current }}/welcome/">Welcome</a></li>
+            <li><a href="/{{ page.current }}/briefs/">Brief <span class="heavy">inquiries</span></a></li>
+            <li><a href="/{{ page.current }}/books/">Pen <span class="heavy">&amp;</span> Inq</a></li>
+            <li><a href="/{{ page.current }}/contributors/">Inquiring <span class="heavy">minds</span></a></li>
+        </ul>
 
-    <div class="features">
-    
-      <ul class="toc-list">
+        <h2 class="header highlight">Features</h2>
 
-      {% assign sorted_articles = (site.articles | where: 'issue','2017' | sort: 'order') %}
-      {% for post in sorted_articles %}
-        
-        {% if post.category == 'feature' %}
-            <li>
-              <h3>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </h3>
-              <p class="teaser">{{ post.subhead }}</p>
-              <p class="author">By {{ post.author.name }}</p>
-            </li>
-        {% endif %}
+        <div class="features">
 
-      {% endfor %}
-      </ul>        
+            <ul class="toc-list">
 
-    </div>      
+                {% assign sorted_articles = (site.articles | where: 'issue','2017' | sort: 'order') %} {% for post in sorted_articles %} {% if post.category == 'feature' %}
+                <li>
+                    <h3>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                    </h3>
+                    <p class="teaser">{{ post.subhead }}</p>
+                    <p class="author">By {{ post.author.name }}</p>
+                </li>
+                {% endif %} {% endfor %}
+            </ul>
 
-  </section>
+        </div>
 
-  <section class="one-third block">
-      
-      <h3 class="index-headline featured">Download the PDF</h3>
-      <a href="/2017-18/inquiry-2017.pdf">{% image '2017/inquiry-cover.jpg' magick:resize:380 alt:'2017 cover of Inquiry Magazine' %}</a>
-  </section>
+    </section>
+
+    <section class="one-third block">
+
+        <h3 class="index-headline featured">Download the PDF</h3>
+        <a href="/2018-19/inquiry-2017.pdf">{% image '2017/inquiry-cover.jpg' magick:resize:380 alt:'2017 cover of Inquiry Magazine' %}</a>
+    </section>
 
 </div>
 {% include back-to-top.html %}
