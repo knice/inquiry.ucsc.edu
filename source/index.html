@@ -3,8 +3,8 @@ layout: default
 class: front
 title: Inquiry @ UC Santa Cruz
 banner:
-  file: 2018/cover-photo.jpg
-  text: "Hawaiian bobtail squid, one of the many ocean-dwelling creatures that have beaks made of chitin, a hard substance from which UC Santa Cruz engineers are developing more efficient biosensors and novel materials."
+  file: 2018/cover.jpg
+  text: "The schooner Amistad is one of thousands of slave ships included in the new Intra-American Slave Trade Database. Its African captives revolted in 1839 while the Amistad was transporting them from one end of Cuba to the other, as chronicled in the 1997 Steven Spielberg blockbuster movie."
 current: 2018-19
 ---
 
@@ -27,7 +27,7 @@ current: 2018-19
 
             <ul class="toc-list">
 
-                {% assign sorted_articles = (site.articles | where: 'issue','2017' | sort: 'order') %} {% for post in sorted_articles %} {% if post.category == 'feature' %}
+                {% assign sorted_articles = (site.articles | where: 'issue','2018' | sort: 'order') %} {% for post in sorted_articles %} {% if post.category == 'feature' %}
                 <li>
                     <h3>
                         <a href="{{ post.url }}">{{ post.title }}</a>
@@ -45,7 +45,7 @@ current: 2018-19
     <section class="one-third block">
 
         <h3 class="index-headline featured">Download the PDF</h3>
-        <a href="/2018-19/inquiry-2017.pdf">{% image '2017/inquiry-cover.jpg' magick:resize:380 alt:'2017 cover of Inquiry Magazine' %}</a>
+        <a href="/2018-19/inquiry-2018.pdf">{% image '2018/inquiry-cover.jpg' magick:resize:380 alt:'2018 cover of Inquiry Magazine' %}</a>
     </section>
 
 </div>
