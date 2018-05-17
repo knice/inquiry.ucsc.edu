@@ -16,8 +16,8 @@ Welcome to the 2018–19 issue of inquiry. We hope that you enjoy its samplings 
 
 {% image 2017/p2-brandt-signature.jpg magick:resize:240 alt:'Signature' %}
 
-**Scott A. Brandt**  
-Vice Chancellor for Research  
+**Scott A. Brandt**
+Vice Chancellor for Research
 and Professor of Computer Science
 
 *Shortly before publication we received the sad news that [Joel Kubby](https://news.ucsc.edu/2018/05/joel-kubby-in-memoriam.html), professor of electrical engineering, had passed away. We are glad to be able to honor him in these pages for a life well lived advancing inquiry across many scientific fields, including, most recently, microscopy (see page 37).
@@ -31,38 +31,38 @@ and Professor of Computer Science
 - Vice Chancellor, Research: Scott Brandt
 - Vice Chancellor, University Relations: Keith Brant
 
-## inquiry@UC Santa Cruz, 2017-18
+## inquiry@UC Santa Cruz, 2018-19
 
-- Editor: Elizabeth Devitt
+- Editor: David Egerter (SciCom '88)
 - Creative Director: Lisa Nielsen
-- Art Director/Designer: Linda Knudson (Cowell '76)
+- Art Director: Linda Knudson (Cowell '76)
+- Designer: Janice Lasnier (Cowell '99)
 
 ### Associate Editors
 
 - Quentin Williams, _principal_
 - Jeanne Lance
-- Tedd Siegel
-- Lynne Stoops
-
-### Photography
-
-- Carolyn Lagattuta
 
 ### Contributors
 
-- Elizabeth Devitt (SciCom '13)
-- Melissae Fellet (SciCom '11)
-- Greta Lorge (SciCom '03)
-- Robin Meadows (SciCom '87)
-- Robin Poppick (SciCom '13)
-- Kim Smuga-Otto (SciCom '15)
-- Cameron Walker (SciCom '02)
-- Amy West (SciCom '12)
-- Sarah C. P. William (SciCom '07)
+- Sukee Bennett (SciCom ’17)
+- Ula Chrobak (SciCom ’17)
+- Emma Hiolski (SciCom ’17)	
+- Adam Mann (SciCom ’10)
+- Sarah McQuate (SciCom ’17)
+- Katharine Miller (SciCom ’01)	
+- Chris Palmer (SciCom ’13)
+- Robert Pollie (SciCom ’82)
+- Barbra A. Rodriquez (SciCom ’97)
+- Patricia Waldron (SciCom ’14)
+- Cameron Walker (SciCom ’02)
+- Amy West (SciCom ’12)
+- Sarah C. P. Williams (SciCom ’07)
+- Marcus Woo (SciCom ’07)
+- Sascha Zubryd (SciCom ’11)
 
-Produced by UC Santa Cruz Communications & Marketing  
-1156 High Street  
-Santa Cruz, CA 95064-1077  
-Email: inquiry@ucsc.edu  
+Produced by UC Santa Cruz Communications & Marketing
+1156 High Street
+Santa Cruz, CA 95064-1077
+Email: inquiry@ucsc.edu
 Web: [research.ucsc.edu](http://research.ucsc.edu) [inquiry.ucsc.edu](http://inquiry.ucsc.edu)
-
