@@ -25,6 +25,8 @@ Between the early 1500s and the mid-1860s, millions of Africans were captured, s
 
 But like the Hubble—before it was repaired by the crew of the space shuttle *Endeavour*—the TSTD suffers from a kind of myopia. True to its name, it only includes voyages that made the transatlantic crossing from Africa, the infamous “[Middle Passage](https://en.wikipedia.org/wiki/Middle_Passage).” But slave shipping didn’t stop there. It continued full throttle on this side of the Atlantic, with thousands of vessels and voyages ferrying enslaved people to and from points *within* the Americas.
 
+{% include_relative sidebars/2018-finding-amistad.html classes="right" bgcolor="#f7d29d" %}
+
 The TSTD isn’t alone in overlooking that second stage of slave shipping. “For a long time, most research on the American slave trade focused on the shipments coming into major slaveholding colonies, and those were almost all arriving directly from Africa,” said UC Santa Cruz associate professor of history [**Greg O’Malley**](https://history.ucsc.edu/faculty/profiles/singleton.php?&singleton=true&cruz_id=gomalley). “It missed a big piece of the overall picture.”
 
 The missing piece—the bustling *intra-American* slave trade—played a critical role in spreading slavery across the Western Hemisphere and embedding it deep in the economic and social foundations of the New World. To grasp the full scope of that commerce is to gain a broader understanding of the way slavery shaped life in the Americas, with repercussions that are still playing out today.
@@ -51,6 +53,12 @@ He did have a hunch. There had to be an extensive shipping system that was movin
 
 To confirm that hypothesis, O’Malley went to the only detailed records that still survive—British Naval Office shipping lists, where colonial officials dutifully logged the contents of arriving and departing ships at ports throughout British America. The innocuous-looking ledgers contained a grim accounting. Alongside entries for goods like sugar, rum, salt pork, and naval supplies, many had a column for “Negroes.”
 
+<figure class="" style="width:600px;">
+  {% img 2018/barbados-jamaica.png magick:resize:600 alt:'Slave trade routes in the Carribean' %}
+  <figcaption>The colonies of Barbados and Jamaica were the major centers of the British American trade, where slaves from Africa were reshipped to many locations in North, South, and Central America. Credit: Greg O’Malley.
+</figcaption>
+</figure>
+
 O’Malley spent a year systematically cross-checking thousands of such records (most were available on microfilm at Johns Hopkins’s Eisenhower Library), tallying the shipments and creating his own growing database, which he modeled on the TSTD. “I had the notion even then that the editors of the TSTD might someday incorporate my data,” he said.
 
 By the time he was done, he’d documented intra-American slave trading on a previously unknown scale—over 7,000 voyages from the 17th through 19th centuries. “The magnitude of it surprised even me,” he said.
@@ -58,6 +66,8 @@ By the time he was done, he’d documented intra-American slave trading on a pre
 ## Behind the numbers ##
 
 It was depressing work at times, and not only because of the sheer monotony of combing through shipping lists day in and day out. “There was a terrible tension between the boredom on the one hand and the realization that all those numbers flashing past on microfilm were human beings,” O’Malley said. “I really wanted to present a human story of what the captives suffered in this horrific business, but these documents are the opposite of humanizing.”
+
+{% include_relative sidebars/2018-by-sea-by-land.html classes="left" bgcolor="#bbe0ec" %}
 
 Eventually, by analyzing the numbers along with other sources such as merchant correspondence and [slave narratives](https://en.wikipedia.org/wiki/Slave_narrative), he was able to flesh out a fuller story. In his Ph.D. dissertation and later book, he showed how, for many enslaved Africans, the transatlantic passage was just a segment of a longer journey. He estimates that more than 400,000 of the Africans brought to British American ports between the mid-17th and early 19th centuries were promptly packed aboard other ships and dispatched to distant parts of the Americas.
 
@@ -82,6 +92,12 @@ This financial logic became clear when O’Malley studied the letters that merch
 He discovered, for example, that many of the slaves in North Carolina were being brought from Kingston, Jamaica. That helped to solve the original puzzle that started him investigating slave routes in the first place, but it begged another question. Why would anyone ship slaves all the way from Jamaica when there were plenty available in the neighboring colonies of Virginia and South Carolina? “It only makes sense if you look closely at the commerce,” O’Malley said. “Traders in North Carolina were exporting food and materials to the sugar plantations in the Caribbean, and they needed something to take back in return. North Carolina could only handle so much sugar and rum, but there was always a market for slaves.”
 
 It was the imperatives of the marketplace, O’Malley argues, that spread slavery far beyond the plantation zones to many corners of the Americas, including areas we don’t typically associate with slavery today, like New York, Massachusetts, and Pennsylvania.
+
+<figure class="" style="width:600px;">
+  {% img 2018/new-orleans-rotunda.jpg magick:resize:600 alt:'Slave trade routes in the Carribean' %}
+  <figcaption>Auction of estates, pictures, and slaves in a hotel rotunda in New Orleans. Slaves were bought and sold like any other merchandise, reflecting what O’Malley calls “human commodification.” Credit: <a href="https://commons.wikimedia.org/wiki/File:Sale_of_Estates_Pictures_and_Slaves_in_the_Rotunda_New_Orleans.jpg">Wikipedia Commons</a>.
+</figcaption>
+</figure>
 
 Slave trading greased the wheels of commerce, and helped entrepreneurs get a toehold in new markets. While demand for other goods ebbed and flowed with supply, the need for workers was nearly unquenchable. The Americas offered up a seemingly endless bounty of land and natural resources. All that was needed to reap the spoils was cheap labor. Slaves became a widely accepted medium of exchange, a bargaining chip that merchants could trade for almost anything else.
 
