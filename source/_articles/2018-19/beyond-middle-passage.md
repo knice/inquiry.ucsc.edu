@@ -20,7 +20,7 @@ related:
       url: http://www.redalyc.org/pdf/1670/167053162007.pdf
     
 ---
-
+{% include_relative sidebars/2018-middle-passage-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 Between the early 1500s and the mid-1860s, millions of Africans were captured, sold into slavery, and transported to the New World to live out their days in bondage. The [African diaspora](https://en.wikipedia.org/wiki/African_diaspora) is believed to have been the largest forced migration in human history, though “mass abduction” might be more apt. Nothing conveys the scale of it better than the Trans-Atlantic Slave Trade Database (TSTD). Hosted at [*slavevoyages.org*](http://www.slavevoyages.org/), the TSTD provides details of almost 36,000 slave-trading shipments that took place over three centuries. It’s the most complete record we have of transoceanic slave routes and an essential tool for researchers. One prominent historian likened [its impact on the study of slavery](https://www.jstor.org/stable/2674426?seq=1#page_scan_tab_contents) to that of the Hubble Space Telescope on astronomy.
 
 But like the Hubble—before it was repaired by the crew of the space shuttle *Endeavour*—the TSTD suffers from a kind of myopia. True to its name, it only includes voyages that made the transatlantic crossing from Africa, the infamous “[Middle Passage](https://en.wikipedia.org/wiki/Middle_Passage).” But slave shipping didn’t stop there. It continued full throttle on this side of the Atlantic, with thousands of vessels and voyages ferrying enslaved people to and from points *within* the Americas.
