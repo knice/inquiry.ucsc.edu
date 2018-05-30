@@ -9,7 +9,7 @@ author:
     name: Patricia Waldron
     file: "2018/patricia-waldron.jpg"
 banner:
-    file: 2018/geoengineering-dilemma-hero.jpg
+    file: 2018/geoengineering-dilemma-hero1.jpg
     position: left
 related:
     - title: "Nicholson S, Jinnah S, Gillespie A. Solar radiation management: a proposal for immediate polycentric governance. Climate Policy 2018;18(3):322-34"

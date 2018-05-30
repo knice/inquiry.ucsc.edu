@@ -9,7 +9,7 @@ author:
     name: Robert Pollie
     file: "2018/robert-pollie.jpg"
 banner:
-    file: 2018/middle-passage-hero.jpg
+    file: 2018/middle-passage-hero3.jpg
     position: left
 related:
     - title: "O'Malley G., Final Passages: The Intercolonial Slave Trade of British America, 1619-1807. Onohundro Institute and University of N. Carolina Press, Chapel Hill, NC, 2016."

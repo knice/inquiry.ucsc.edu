@@ -9,7 +9,7 @@ author:
     name: Cameron Walker
     file: "2018/cameron-walker.jpg"
 banner:
-    file: 2018/lost-landscapes-hero.jpg
+    file: 2018/lost-landscapes-hero1.jpg
     position: left
 related:
     - title: "Thousands of films are available online from The Prelinger Archives"

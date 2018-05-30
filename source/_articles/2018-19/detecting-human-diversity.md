@@ -9,7 +9,7 @@ author:
     name: Katharine Miller
     file: "2018/katharine-miller.jpg"
 banner:
-    file: 2018/detecting-diversity-hero.jpg
+    file: 2018/detecting-diversity-hero1.jpg
     position: left
 related:
     - title: "Paten B, Novak AM, Eizenga JM, Garrison E. Genome graphs and the evolution of genome inference. Genome Res 2017;27:665-76."

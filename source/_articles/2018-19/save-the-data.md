@@ -9,7 +9,7 @@ author:
     name: Amy West
     file: "2018/amy-west.jpg"
 banner:
-    file: 2018/data-hero.jpg
+    file: 2018/data-hero1.jpg
     position: left
 related:
     - title: "Beck M, Braun S, Cha R, Dillon L, et al. EDGI Annual Report 2018 EDGI, 2018"

@@ -9,7 +9,7 @@ author:
     name: Barbara A. Rodriguez
     file: "2018/barbara-rodriguez.jpg"
 banner:
-    file: 2018/crossed-currents-hero.jpg
+    file: 2018/crossed-currents-hero1.jpg
     position: left
 related:
     - title: "Williams TM, Fuiman LA, Kendall T, Berry P, et al. Exercise at depth alters bradycardia and incidence of cardiac anomalies in deep-diving marine mammals. Nat Commun 2015;6:6055 [PDF]"

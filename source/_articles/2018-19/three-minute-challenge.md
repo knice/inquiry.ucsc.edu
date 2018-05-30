@@ -9,7 +9,7 @@ author:
     name: Marcus Woo
     file: "2018/marcus-woo.jpg"
 banner:
-    file: 2018/three-minute-challenge-hero.jpg
+    file: 2018/three-minute-challenge-hero1.jpg
     position: left   
 ---
 {% include_relative sidebars/2018-three-minute-challenge-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
