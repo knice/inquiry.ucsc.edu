@@ -3,15 +3,15 @@ layout: default
 class: front
 title: Inquiry @ UC Santa Cruz
 banner:
-  file: 2017/cover-photo.jpg
-  text: "Hawaiian bobtail squid, one of the many ocean-dwelling creatures that have beaks made of chitin, a hard substance from which UC Santa Cruz engineers are developing more efficient biosensors and novel materials."
-current: 2017-18
+  file: 2018/amistad.jpg
+  text: "The schooner Amistad is one of thousands of slave ships included in the new Intra-American Slave Trade Database. Its African captives revolted in 1839 while the Amistad was transporting them from one end of Cuba to the other, as chronicled in the 1997 Steven Spielberg blockbuster movie."
+current: 2018-19
 ---
 
 <div class="row">
 
   <section class="two-thirds block toc">
-    
+
     <h1 class="issue-title">{{ page.current }}</h1>
 
     <ul class="toc-list plain">
@@ -19,15 +19,15 @@ current: 2017-18
       <li><a href="/{{ page.current }}/briefs/">Brief <span class="heavy">inquiries</span></a></li>
       <li><a href="/{{ page.current }}/books/">Pen <span class="heavy">&amp;</span> Inq</a></li>
       <li><a href="/{{ page.current }}/contributors/">Inquiring <span class="heavy">minds</span></a></li>
+      <li><a href="/{{ page.current }}/innovations/">Inquiries <span class="heavy">&amp;</span> Innovations</a></li>
     </ul>
 
     <h2 class="header highlight">Features</h2>
-
     <div class="features">
     
       <ul class="toc-list">
 
-      {% assign sorted_articles = (site.articles | where: 'issue','2017' | sort: 'order') %}
+      {% assign sorted_articles = (site.articles | where: 'issue','2018' | sort: 'order') %}
       {% for post in sorted_articles %}
         
         {% if post.category == 'feature' %}
@@ -48,9 +48,9 @@ current: 2017-18
   </section>
 
   <section class="one-third block">
-      
+      <figcaption>Above: The schooner <a href="https://en.wikipedia.org/wiki/La_Amistad"><span style="font-style:italic; font-weight:bold">Amistad</span></a> is one of thousands of slave ships included in the new <span style="font-style:italic;">Intra-American Slave Trade Database</span>. Its African captives revolted in 1839 while the <span style="font-style:italic; font-weight:bold">Amistad</span> was transporting them from one end of Cuba to the other, as chronicled in the <a href="http://www.imdb.com/title/tt0118607/">1997 Steven Spielberg blockbuster movie</a>. Credit: <a href="https://commons.wikimedia.org/wiki/File:La_Amistad_(ship).jpg">Wikipedia Commons</a>.</figcaption>
       <h3 class="index-headline featured">Download the PDF</h3>
-      <a href="/2017-18/inquiry-2017.pdf">{% image '2017/inquiry-cover.jpg' magick:resize:380 alt:'2017 cover of Inquiry Magazine' %}</a>
+      <a href="/2018-19/inquiry-2018.pdf">{% image '2018/inquiry-cover.jpg' magick:resize:380 alt:'2018 cover of Inquiry Magazine' %}</a>
   </section>
 
 </div>
