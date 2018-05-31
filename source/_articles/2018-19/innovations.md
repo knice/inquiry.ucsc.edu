@@ -2,7 +2,7 @@
 layout: page
 issue: 2018
 category: credits
-order: 5
+order: 6
 title: "Inquiries & INNOVATIONS"
 ---
 
