@@ -5,7 +5,7 @@ category: brief
 order: 7
 title: Flash in the sky
 colors:
-    tag: "#e37526"
+    tag: "#84cbd8"
 tags:
     - Astronomy and astrophysics
 ---

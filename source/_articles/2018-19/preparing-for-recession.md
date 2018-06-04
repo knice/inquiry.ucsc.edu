@@ -8,7 +8,7 @@ colors:
     background: "#f7edde"
     tag: "#84cbd8"
 tags:
-    - Economics 
+    - Economics
 ---
 <figure>
 {% img 2018/carl-walsh.jpg magick:resize:380 alt:"Carl Walsh" class:"right" %}
@@ -21,7 +21,7 @@ But due to shifts in the global economy—in particular, the emergence of China�
 
 With rates already low, the Fed won’t be able to cut them further to spur spending. “When interest rates hit an effective lower bound, monetary policy is constrained in its ability to help stabilize the economy,” said [**Carl Walsh**](https://economics.ucsc.edu/faculty/singleton.php?&singleton=true&cruz_id=walshc), distinguished professor of economics.
 
-Other safeguards may be needed. Walsh and other economists are evaluating whether central banks should move away from current policies that work to maintain a certain inflation rate. They could instead aim to keep general prices at a certain level or promise to keep future interest rates low. Such forward guidance policies are discussed in a new chapter in the recently published fourth edition of Walsh’s textbook, [*Monetary Theory and Policy*](https://mitpress.mit.edu/books/monetary-theory-and-policy-2).
+Other safeguards may be needed. Walsh and other economists are evaluating whether central banks should move away from current policies that work to maintain a certain inflation rate. They could instead aim to keep general prices at a certain level or promise to keep future interest rates low. Such forward guidance policies are discussed in a new chapter in the recently published fourth edition of Walsh’s textbook, [*Monetary Theory and Policy*](https://mitpress.mit.edu/books/monetary-theory-and-policy-fourth-edition).
 
 If and when another recession hits, investors would expect these price-level targeting policies to bump prices—and inflation—back up, Walsh said. The anticipation of higher inflation coupled with rock-bottom interest rates would incentivize people to borrow and spend, thus stabilizing the economy.
 

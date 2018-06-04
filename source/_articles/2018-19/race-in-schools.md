@@ -5,7 +5,7 @@ category: brief
 order: 10
 title: Race in schools
 colors:
-    tag: "#e37526"
+    tag: "#84cbd8"
 tags:
     - Psychology
 ---

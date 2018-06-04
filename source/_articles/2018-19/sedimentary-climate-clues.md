@@ -5,7 +5,7 @@ category: brief
 order: 3
 title: Sedimentary climate clues
 colors:
-    tag: "#e37526"
+    tag: "#84cbd8"
 tags:
     - Earth and Planetary Sciences 
 ---
@@ -18,6 +18,6 @@ Fifty-six million years ago, during the [Paleocene-Eocene Thermal Maximum](https
 </figure>
 Although the heating during the PETM didn’t occur nearly as fast as today’s human-caused climate change, such case studies can be used to inform theories about how global warming will impact future hydrology. In California, for example, Zachos’s work supports models that predict more severe droughts and storms.
 
-“We’re basically doing forensics,” said Zachos, who has been studying ancient ocean sediments for 30 years. “CO~2~ levels are going to go up, and climate specialists want to accurately predict how that will impact things like precipitation, so communities can plan.”
+“We’re basically doing forensics,” said Zachos, who has been studying ancient ocean sediments for 30 years. “CO<sub>2</sub> levels are going to go up, and climate specialists want to accurately predict how that will impact things like precipitation, so communities can plan.”
 
 *—Ula Chrobak*

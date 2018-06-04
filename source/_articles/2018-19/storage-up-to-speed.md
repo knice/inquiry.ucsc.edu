@@ -5,7 +5,7 @@ category: brief
 order: 14
 title: Bringing storage up to speed
 colors:
-    tag: "#e37526"
+    tag: "#84cbd8"
 tags:
     - Computer science
 ---

@@ -10,17 +10,17 @@ title: "The spirit of inquiry@UC Santa Cruz"
 
 The Offices of [Research](https://officeofresearch.ucsc.edu/) and [University Relations](https://urelations.ucsc.edu/) are proud to present the 4th edition of *inquiry@UC Santa Cruz*! This issue of our campus research magazine—written and edited by graduates of UCSC’s internationally renowned [Science Communication Program](https://scicom.ucsc.edu/)—continues to highlight the superb research being conducted across all disciplines on the campus. This year’s reporting covers work in the humanities aimed at generating a deeper understanding of the African slave experience in the Americas, art exploring lost urban landscapes, engineering providing innovations in microscopy\* and telescopy, physical and biological sciences probing of bacterial biofilms and stressors on marine mammals, and social sciences tackling complex issues in geoengineering and environmental politics.
 
-This issue also incorporates several new features. We have a new department, inquiries&INNOVATIONS, which highlights our campus’s intellectual property and industry partnerships. And readers will now find a robust e-magazine at [*inquiry.ucsc.edu*](http://inquiry.ucsc.edu/), with hyperlinks and references for those who want to conduct “further inquiry” into the topics presented.
+This issue also incorporates several new features. We have a new department, [**inquiries&**<span class="caps">Innovations</span>](/2018-19/innovations/), which highlights our campus’s intellectual property and industry partnerships. And readers will now find a robust e-magazine at [*inquiry.ucsc.edu*](http://inquiry.ucsc.edu/), with hyperlinks and references for those who want to conduct “further inquiry” into the topics presented.
 
 Welcome to the 2018–19 issue of inquiry. We hope that you enjoy its samplings of the breadth, depth, and creativity of the UCSC research enterprise!
 
 {% image 2017/p2-brandt-signature.jpg magick:resize:240 alt:'Signature' %}
 
-**Scott A. Brandt**
-Vice Chancellor for Research
+[**Scott A. Brandt**](https://www.soe.ucsc.edu/people/sbrandt)  
+Vice Chancellor for Research  
 and Professor of Computer Science
 
-*Shortly before publication we received the sad news that [Joel Kubby](https://news.ucsc.edu/2018/05/joel-kubby-in-memoriam.html), professor of electrical engineering, had passed away. We are glad to be able to honor him in these pages for a life well lived advancing inquiry across many scientific fields, including, most recently, microscopy (see page 37).
+<figcaption>*Shortly before publication we received the sad news that <a href="https://news.ucsc.edu/2018/05/joel-kubby-in-memoriam.html">Joel Kubby</a>, professor of electrical engineering, had passed away. We are glad to be able to honor him in these pages for a life well lived advancing inquiry across many scientific fields, including, most recently, <a href="/2018-19/guided-by-the-light/">microscopy</a>.</figcaption>
 
 ****
 

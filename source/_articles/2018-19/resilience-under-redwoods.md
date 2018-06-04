@@ -5,7 +5,7 @@ category: brief
 order: 9
 title: Resilience under redwoods
 colors:
-    tag: "#e37526"
+    tag: "#84cbd8"
 tags:
     - Ecology and evolutionary biology
 ---

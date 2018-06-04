@@ -1,20 +1,17 @@
-
 html,
 body {
-  font-family: $font-sans;
-  font-feature-settings: 'liga', 'dlig';
-  font-size: $rs;
-  font-weight: 400;
-  line-height: 1.4;
-  margin: 0;
-  overflow-y: auto;
-  padding: 0;
-
-  @include media($mobile) {
-    font-size: 16px;
+    font-family: $font-sans;
+    font-feature-settings: 'liga', 'dlig';
+    font-size: $rs;
     font-weight: 400;
-  }
-
+    line-height: 1.4;
+    margin: 0;
+    overflow-y: auto;
+    padding: 0;
+    @include media($mobile) {
+        font-size: 16px;
+        font-weight: 400;
+    }
 }
 
 header,
@@ -22,7 +19,7 @@ main,
 section,
 article,
 footer {
-  display: block;
+    display: block;
 }
 
 h1,
@@ -31,119 +28,117 @@ h3,
 h4,
 h5,
 h6 {
-  color: $orange;
-  font-weight: 400;
-  margin-bottom: .75em;
-  padding: .05em 0;
+    color: $orange;
+    font-weight: 400;
+    margin-bottom: .75em;
+    padding: .05em 0;
 }
 
 .title h1 {
-  margin: 0;
+    margin: 0;
 }
 
 .page h1 {
-  margin: 0 0 .25em;
+    margin: 0 0 .25em;
 }
 
 a {
-  color: $dark-blue;
+    color: $dark-blue;
+    &:focus,
+    &:hover,
+    &:active {
+        color: $light-blue;
+        text-decoration: underline;
+    }
+}
 
-  &:focus,
-  &:hover,
-  &:active {
-    color: $light-blue;
-    text-decoration: underline;
-  }
+.caps {
+    text-transform: uppercase;
 }
 
 i {
-  color: $text-black;
-  font-family: Georgia, serif;
+    color: $text-black;
+    font-family: Georgia, serif;
 }
 
 img {
-  height: auto;
-  max-width: 100%;
+    height: auto;
+    max-width: 100%;
 }
 
 pre,
 code {
-  border-radius: 3px;
-  font-size: 15px;
+    border-radius: 3px;
+    font-size: 15px;
 }
 
 code {
-  padding: 1px 5px;
+    padding: 1px 5px;
 }
 
 pre {
-  overflow-x: scroll;
-  padding: 8px 12px;
-
-  > code {
-    border: 0;
-    padding-left: 0;
-    padding-right: 0;
-  }
-
+    overflow-x: scroll;
+    padding: 8px 12px;
+    >code {
+        border: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
-
 
 hr {
-  border: 0;
-  border-top: 1px solid $orange;
-  clear: both;
-  display: block;
-  margin: 3em auto;
-  padding: 0;
-  width: 45%;
+    border: 0;
+    border-top: 1px solid $orange;
+    clear: both;
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    width: 45%;
 }
 
-
 figure {
-  margin: 0;
-  padding: 0 0 30px;
+    margin: 0;
+    padding: 0 0 30px;
 }
 
 figcaption {
-  color: lighten($text-black, 25%);
-  font-size: 1em;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.3;
-  outline: 0;
-  text-align: left;
-  z-index: 300;
+    color: lighten($text-black, 25%);
+    font-size: 1em;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.3;
+    outline: 0;
+    text-align: left;
+    z-index: 300;
 }
 
 .archive-item {
-  color: $light-gray;
-  list-style: none;
-  margin: 0 0 .25em;
-  padding: 0;
+    color: $light-gray;
+    list-style: none;
+    margin: 0 0 .25em;
+    padding: 0;
 }
 
 .archive-item:last-child {
-  margin: 0 0 2em;
+    margin: 0 0 2em;
 }
 
 .right {
-  float: right;
-  margin: 0 0 1em 1em;
+    float: right;
+    margin: 0 0 1em 1em;
 }
 
 .left {
-  float: left;
-  margin: 0 1em 1em 0;
+    float: left;
+    margin: 0 1em 1em 0;
 }
 
 .category-title {
-  text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .flat-list {
-  list-style: none;
-  margin: 1em 0;
-  padding: 0;
+    list-style: none;
+    margin: 1em 0;
+    padding: 0;
 }
-

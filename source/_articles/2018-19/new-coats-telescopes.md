@@ -5,7 +5,7 @@ category: brief
 order: 12
 title: New coats for telescopes
 colors:
-    tag: "#e37526"
+    tag: "#84cbd8"
 tags:
     - Electrical engineering
 ---
