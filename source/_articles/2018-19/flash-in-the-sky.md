@@ -9,6 +9,10 @@ colors:
 tags:
     - Astronomy and astrophysics
 ---
+<figure>
+{% img 2018/neutron-stars-merger.jpg magick:resize:380 alt:"Researcher wearing virtual reality headsets" class:"right" %}
+<figcaption>Artist’s depiction of the merger of two neutron stars on August 17, 2017, which generated gravitational waves and a bright <a href="https://en.wikipedia.org/wiki/Kilonova">kilonova</a> observed by UCSC astronomers and others. Credit: <a href="https://ziggy.ucolick.org/sss17a/additional_media.html">Robin Dienel, courtesy of the Carnegie Institution for Science</a>.</figcaption>
+</figure>
 Assistant professor of astronomy [**Ryan Foley**](https://www.astro.ucsc.edu/faculty/singleton.php?&singleton=true&cruz_id=foley) was enjoying an afternoon off in Copenhagen when a student texted him. [LIGO](https://www.ligo.org/), the Laser-Interferometer Gravitational Wave Observatory—which had previously detected ripples in the fabric of space-time for the first time, garnering fanfare and a [Nobel Prize](https://www.nobelprize.org/nobel_prizes/physics/laureates/2017/press.html)—had found another [gravitational-wave signal](https://spaceplace.nasa.gov/gravitational-waves/en/).
 
 This time, the signal likely came from merging [neutron stars](https://www.nasa.gov/mission_pages/GLAST/science/neutron_stars.html)—exotic, city-sized objects with the mass of one or two suns. And unlike previous detections, this cosmic crash was expected to light up.
