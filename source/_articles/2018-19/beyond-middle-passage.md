@@ -12,16 +12,16 @@ banner:
     file: 2018/middle-passage-hero3.jpg
     position: left
 related:
-    - title: "O'Malley G., Final Passages: The Intercolonial Slave Trade of British America, 1619-1807. Onohundro Institute and University of N. Carolina Press, Chapel Hill, NC, 2016."
+    - title: "O'Malley G., Final Passages: The Intercolonial Slave Trade of British America, 1619-1807. Onohundro Institute and University of N. Carolina Press, Chapel Hill, NC, 2016"
       url: https://www.amazon.com/dp/B00ZVEZWHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
     - title: "Slavevoyages.org"
       url: http://www.slavevoyages.org/
-    - title: "O’Malley GE, Borucki A. Patterns in the intercolonial slave trade across the Americas before the nineteenth century. <i>Tempo</i> 2017;23(2):314-38 [pdf]"
+    - title: "O’Malley GE, Borucki A. Patterns in the intercolonial slave trade across the Americas before the nineteenth century. <span style='font-style:italic;'>Tempo</span> 2017;23(2):314-38 [pdf]"
       url: http://www.redalyc.org/pdf/1670/167053162007.pdf
     
 ---
 {% include_relative sidebars/2018-middle-passage-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
-Between the early 1500s and the mid-1860s, millions of Africans were captured, sold into slavery, and transported to the New World to live out their days in bondage. The [African diaspora](https://en.wikipedia.org/wiki/African_diaspora) is believed to have been the largest forced migration in human history, though “mass abduction” might be more apt. Nothing conveys the scale of it better than the Trans-Atlantic Slave Trade Database (TSTD). Hosted at [*slavevoyages.org*](http://www.slavevoyages.org/), the TSTD provides details of almost 36,000 slave-trading shipments that took place over three centuries. It’s the most complete record we have of transoceanic slave routes and an essential tool for researchers. One prominent historian likened [its impact on the study of slavery](https://www.jstor.org/stable/2674426?seq=1#page_scan_tab_contents) to that of the Hubble Space Telescope on astronomy.
+Between the early 1500s and the mid-1860s, millions of Africans were captured, sold into slavery, and transported to the New World to live out their days in bondage. The [African diaspora](https://en.wikipedia.org/wiki/African_diaspora) is believed to have been the largest forced migration in human history, though “mass abduction” might be more apt. Nothing conveys the scale of it better than the _Trans-Atlantic Slave Trade Database_ (TSTD). Hosted at [*slavevoyages.org*](http://www.slavevoyages.org/), the TSTD provides details of almost 36,000 slave-trading shipments that took place over three centuries. It’s the most complete record we have of transoceanic slave routes and an essential tool for researchers. One prominent historian likened [its impact on the study of slavery](https://www.jstor.org/stable/2674426?seq=1#page_scan_tab_contents) to that of the Hubble Space Telescope on astronomy.
 
 But like the Hubble—before it was repaired by the crew of the space shuttle *Endeavour*—the TSTD suffers from a kind of myopia. True to its name, it only includes voyages that made the transatlantic crossing from Africa, the infamous “[Middle Passage](https://en.wikipedia.org/wiki/Middle_Passage).” But slave shipping didn’t stop there. It continued full throttle on this side of the Atlantic, with thousands of vessels and voyages ferrying enslaved people to and from points *within* the Americas.
 
@@ -35,9 +35,9 @@ O’Malley has spent much of his career as a historian advancing that broader un
 
 Now he’s taking another step, pooling his data with that of fellow historians to compile an even larger database, to be added to the *slavevoyages.org* site later in 2018. With information on more than 11,000 voyages, the new [*Intra-American Slave Trade Database*](https://news.ucsc.edu/2016/05/greg-omalley-slavetrade.html) will fill a crucial gap in the historical record and provide an essential complement to the TSTD.
 <figure class="right" style="width:300px;">
-  {% img 2018/olaudah-equiano.jpg magick:resize:300 alt:'Olaudah Equiano, slave memoirist' %}<figcaption>Enslaved as a sailor on intercolonial vessels, <a href="https://en.wikipedia.org/wiki/Olaudah_Equiano">Olaudah Equiano</a> witnessed the brutality of the intra-American slave trade firsthand. His best-selling 1789 memoir was one of the slave narratives associate professor of history Greg O’Malley drew on when writing his own book. Credit: ©John Carter Brown Library, Brown University, Providence, RI.</figcaption>
+  {% img 2018/olaudah-equiano.jpg magick:resize:300 alt:'Olaudah Equiano, slave memoirist' %}<figcaption>Enslaved as a sailor on intercolonial vessels, <a href="https://en.wikipedia.org/wiki/Olaudah_Equiano">Olaudah Equiano</a> witnessed the brutality of the intra-American slave trade firsthand. His best-selling 1789 memoir was one of the slave narratives associate professor of history Greg O’Malley drew on when writing his own book. Credit: ©<a href="https://jcb.lunaimaging.com/luna/servlet/detail/JCB~1~1~2057~3180004:Olaudah-Equiano,-or-Gustavus-Vassa,;JSESSIONID=ba49057a-97e9-4fd4-a4b0-445c47a4c82c?qvq=q%3Aequiano%3Bsort%3Aimage_date%2Csubject_groups%3Blc%3AJCB~1~1&sort=image_date%2Csubject_groups&mi=0&trs=2&cic=JCB~1~1">John Carter Brown Library</a>, Brown University, Providence, RI.</figcaption>
 </figure>
-“The *Intra-American Slave Trade Database* will give us a far richer picture of the slave experience,” said David Eltis, professor emeritus of history at Emory University and one of the creators of the TSTD. “I think it will inform a wide range of historical scholarship.”
+“The *Intra-American Slave Trade Database* will give us a far richer picture of the slave experience,” said <a href="https://jcb.lunaimaging.com/luna/servlet/detail/JCB~1~1~2057~3180004:Olaudah-Equiano,-or-Gustavus-Vassa,;JSESSIONID=ba49057a-97e9-4fd4-a4b0-445c47a4c82c?qvq=q%3Aequiano%3Bsort%3Aimage_date%2Csubject_groups%3Blc%3AJCB~1~1&sort=image_date%2Csubject_groups&mi=0&trs=2&cic=JCB~1~1">David Eltis</a>, professor emeritus of history at Emory University and one of the creators of the TSTD. “I think it will inform a wide range of historical scholarship.”
 
 ## An unexpected detour ##
 
@@ -95,7 +95,7 @@ It was the imperatives of the marketplace, O’Malley argues, that spread slaver
 
 <figure class="" style="width:600px;">
   {% img 2018/new-orleans-rotunda.jpg magick:resize:600 alt:'Slave trade routes in the Carribean' %}
-  <figcaption>Auction of estates, pictures, and slaves in a hotel rotunda in New Orleans. Slaves were bought and sold like any other merchandise, reflecting what O’Malley calls “human commodification.” Credit: <a href="https://commons.wikimedia.org/wiki/File:Sale_of_Estates_Pictures_and_Slaves_in_the_Rotunda_New_Orleans.jpg">Wikipedia Commons</a>.
+  <figcaption>Auction of estates, pictures, and slaves in a hotel rotunda in New Orleans. Slaves were bought and sold like any other merchandise, reflecting what O’Malley calls “human commodification.” Credit: <a href="https://commons.wikimedia.org/wiki/File:Sale_of_Estates_Pictures_and_Slaves_in_the_Rotunda_New_Orleans.jpg">Wikimedia Commons</a>.
 </figcaption>
 </figure>
 

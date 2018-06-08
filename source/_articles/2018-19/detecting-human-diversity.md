@@ -12,11 +12,11 @@ banner:
     file: 2018/detecting-diversity-hero1.jpg
     position: left
 related:
-    - title: "Paten B, Novak AM, Eizenga JM, Garrison E. Genome graphs and the evolution of genome inference. Genome Res 2017;27:665-76."
+    - title: "Paten B, Novak AM, Eizenga JM, Garrison E. Genome graphs and the evolution of genome inference. Genome Res 2017;27:665-76"
       url: https://genome.cshlp.org/content/27/5/665
     - title: "Novak AM, Hickey G, Garrison E, Blum S, et al. Genome graphs. bioRxiv 2017."
       url: https://doi.org/10.1101/101378
-    - title: "Garrison E, Sirén J, Novak AM, Hickey G, et al. Sequence variation aware genome references and read mapping with the variation graph toolkit. bioRxiv 2017."
+    - title: "Garrison E, Sirén J, Novak AM, Hickey G, et al. Sequence variation aware genome references and read mapping with the variation graph toolkit. bioRxiv 2017"
       url: https://doi.org/10.1101/234856
     
 ---
@@ -34,9 +34,9 @@ Having a great solution doesn’t mean it will be used, especially given the dee
 [Tina Graves-Lindsay](http://genome.wustl.edu/people/individual/tina-graves-lindsay/), leader of the reference genomes group at Washington University’s [McDonnell Genome Institute](http://genome.wustl.edu/) in St. Louis, agreed, “When we get to the point where they’re ready to be used, genome graphs are the future representation.”
 
 ## Genomic fake news ##
-{% include_relative sidebars/2018-genomic-graph-visualizations.html classes="left" bgcolor="#c6d1e5" %}
-Understanding the source of reference bias requires at least a passing understanding of how sequencing technology works. The most common approach to genome sequencing today relies on repeated sequencing of short stretches of DNA—typically 100–600 base pairs (the A, C, T, and G [nucleotides](https://en.wikipedia.org/wiki/Nucleotide) that make up DNA). Researchers generally try to get 10x to 30x coverage of every portion of a genome using these short “reads.” They must then piece these together to create a contiguous model of a person’s genome, a task accomplished by mapping the short reads against the latest generation of the very first genome ever sequenced—the human reference genome, now in its 20th iteration ([*GRCh38*](https://www.ncbi.nlm.nih.gov/grc/human)). During this genome assembly task, the reads are scored relative to how well they match the reference. “The more similar a read is to the reference genome, the higher probability that the mapping will be deemed correct,” Paten said. As a result, reads that diverge from the reference may map incorrectly or fail to map altogether.
 
+Understanding the source of reference bias requires at least a passing understanding of how sequencing technology works. The most common approach to genome sequencing today relies on repeated sequencing of short stretches of DNA—typically 100–600 base pairs (the A, C, T, and G [nucleotides](https://en.wikipedia.org/wiki/Nucleotide) that make up DNA). Researchers generally try to get 10x to 30x coverage of every portion of a genome using these short “reads.” They must then piece these together to create a contiguous model of a person’s genome, a task accomplished by mapping the short reads against the latest generation of the very first genome ever sequenced—the human reference genome, now in its 20th iteration ([*GRCh38*](https://www.ncbi.nlm.nih.gov/grc/human)). During this genome assembly task, the reads are scored relative to how well they match the reference. “The more similar a read is to the reference genome, the higher probability that the mapping will be deemed correct,” Paten said. As a result, reads that diverge from the reference may map incorrectly or fail to map altogether.
+{% include_relative sidebars/2018-genomic-graph-visualizations.html classes="left" bgcolor="#c6d1e5" %}
 For example, if a researcher tries to map 100–600 base-pair short reads from an individual who has a 10,000 base-pair insertion that isn’t represented in the reference, this structural variant gets a poor matching score. Essentially, there is no place to map those reads against the reference, and the insertion is ignored.
 
 It’s also true that no single reference can truly represent the genetic diversity present in a worldwide population full of varied and interesting ethnic groups. Curiously, the human reference genome used today does not even represent the set of genes from a specific human being. This mosaic model of a single set of unpaired chromosomes gets 70% of its 3-billion base-pair DNA sequence from a single male of mixed African and European ancestry, and the remaining 30% from an assortment of more than 50 individuals. “The idea at the time was that a linear reference derived from many individuals would be a good way to capture diversity,” said NCBI’s Schneider.

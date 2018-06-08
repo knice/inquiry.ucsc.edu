@@ -41,7 +41,7 @@ title: Inquiring minds
 
 </ul>
 
-With the expertise of scientists-turned-journalists, the 16 graduates of the UC Santa Cruz [Science Communication Program](https://scicom.ucsc.edu/) shown above created these stories about research that span the university’s five divisions: Arts, Humanities, Physical & Biological Sciences, Social Sciences, and Engineering. As their reporting well documents, while the academicians at UCSC may keep offices, laboratories, and studios on the redwood tree–studded campus, the breadth and depth of their work—and its impact—reaches around the world.
+With the expertise of scientists-turned-journalists, the 16 graduates of the UC Santa Cruz [Science Communication Program](https://scicom.ucsc.edu/) shown here created these stories about research that span the university’s five divisions: Arts, Humanities, Physical & Biological Sciences, Social Sciences, and Engineering. As their reporting well documents, while the academicians at UCSC may keep offices, laboratories, and studios on the redwood tree–studded campus, the breadth and depth of their work—and its impact—reaches around the world.
 
 This sizable impact also applies to the “SciCom” graduate certificate program ([*scicom.ucsc.edu*](https://scicom.ucsc.edu/)). Begun in 1981, the program has [300-plus graduates](https://scicom.ucsc.edu/students-alumni/alumni_last_name.html) who work regionally, nationally, and internationally. They communicate on science and related issues in newspapers, radio, television, online media, peer-reviewed journals, magazines, and university public relations. Required to have scientific training and experience, SciCom students spend a year on campus honing their storytelling skills in journalism training and internships now overseen by the program’s third director, [**Erika Check Hayden**](https://scicom.ucsc.edu/about/program-news-articles/2016-09-hayden.html).
 
@@ -49,4 +49,4 @@ At a time when the credibility of science and the news media remains under scrut
 
 Despite concerns about the current media climate, with the sensationalism and click-ability of “fake news” threatening to overshadow real news, Check Hayden is optimistic about the sway of UCSC’s science-savvy SciCom media specialists: “Doing our jobs as communicators means telling stories that resonate with readers, listeners, and viewers in ways that make true news far more compelling.”
 
-We hope you find compelling reading among the articles in this edition of inquiry@UC Santa Cruz.
+We hope you find compelling reading among the articles in this edition of _inquiry@UC Santa Cruz_.

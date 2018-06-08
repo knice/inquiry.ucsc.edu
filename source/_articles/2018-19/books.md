@@ -6,7 +6,7 @@ order: 2
 title: "Pen&Inq"
 ---
 
-### Oil Change
+## Emotional Gaming
 
 <figure>
 {% img 2018/how-games-move-us.jpg alt:"How Games Move Us - Emotion by Design" %}
@@ -23,7 +23,7 @@ Eschewing violent games, she instead analyzes video games designed to build empa
 
 ****
 
-### Hitting the Beach
+## Hitting the Beach
 
 <figure>
 {% img 2018/coasts-in-crisis.jpg alt:"Coasts in Crisis" %}
@@ -37,7 +37,7 @@ Griggs is also co-author, with [Kim Steinhardt](http://law.scu.edu/faculty/profi
 
 ****
 
-### Between World Wars
+## Between World Wars
 
 <figure>
 {% img 2018/global-1930s.jpg alt:"The Global 1930s" %}
@@ -51,7 +51,7 @@ Through this new lens, they illustrate pervasive global connections between thes
 
 ****
 
-### Dream Theory
+## Dream Theory
 
 <figure>
 {% img 2018/emergence-of-dreaming.jpg alt:"The Emergence of Dreaming" %}
@@ -65,13 +65,12 @@ Dreaming and mind-wandering activate specific, closely overlapping regions of th
 
 ****
 
-### Plant Sexuality
+## Plant Sexuality
 
 <figure>
 {% img 2018/flora-unveiled.jpg alt:"Living Faithfully" %}
 </figure>
-Long after sexual reproduction in animals became scientific canon, plant reproduction remained a mystery.\
-It wasn’t until the end of the 17th century that the idea of pollination and plant sex arose.
+Long after sexual reproduction in animals became scientific canon, plant reproduction remained a mystery. It wasn’t until the end of the 17th century that the idea of pollination and plant sex arose.
 
 This discovery was “hotly debated” until the middle of the 19th century, said [**Lincoln Taiz**](https://mcd.ucsc.edu/faculty/taiz.html), UC Santa Cruz professor emeritus of molecular, cell, and developmental biology. The primary objection, he said, stemmed from the strong association between plants and the female gender. Flowers and plants, like women, were supposed to be chaste and pure.
 

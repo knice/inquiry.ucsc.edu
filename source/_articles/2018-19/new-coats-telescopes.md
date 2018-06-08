@@ -11,6 +11,11 @@ tags:
 ---
 Silver makes better telescope mirrors. It reflects more visible and infrared light than aluminum, the metal most telescope mirrors are made from. But while aluminum forms a natural protective layer when exposed to air, silver doesn’t—that’s why it tarnishes.
 
+<figure>
+{% img 2018/new-coats-for-telescopes.jpg magick:resize:380 alt:"Researchers design and build prototype atomic layer deposition system" class:"left" %}
+<figcaption>UCSC researchers worked with <a href="https://www.smicvd.com/">Structured Materials Industries</a> (SMI) to design and build a prototype atomic layer deposition system large enough to fit telescope mirrors (l to r: graduate student Brian Giraldo, SMI’s Gary Provost, and postdoc David Fryauf). Credit: Nobby Kobayashi.</figcaption>
+</figure>
+
 To combat this degradation, telescope makers coat the silver with a protective layer using [physical vapor deposition](https://en.wikipedia.org/wiki/Physical_vapor_deposition), spraying, for instance, aluminum oxide vapor onto the silver. Even so, the mirrors still corrode after a couple years.
 
 The problem is that this coating method leaves pinhole-like gaps. “All kinds of stuff—oxygen, water, sulfur—those elements go through the pinholes to reach the silver,” said [**Nobby Kobayashi**](https://www.soe.ucsc.edu/people/nobby), professor of electrical engineering.

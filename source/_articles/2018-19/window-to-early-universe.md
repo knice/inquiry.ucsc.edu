@@ -12,9 +12,9 @@ banner:
     file: 2018/atacama-array.jpg
     position: left
 related:
-    - title: "Springel V, White SDM, Jenkins A, Frenk CS, et al. Simulations of the formation, evolution and clustering of galaxies. Nature 2005;435:629-36."
+    - title: "Springel V, White SDM, Jenkins A, Frenk CS, et al. Simulations of the formation, evolution and clustering of galaxies. Nature 2005;435:629-36"
       url: https://deepblue.lib.umich.edu/handle/2027.42/62586
-    - title: "Neeleman M, Kanekar N, Prochaska JX, Rafelski M, Carilli CL, Wolfe AM. C ii 158-μm emission from the host galaxies of damped Lyman-alpha systems. Science 2017;24(355):1285-88."
+    - title: "Neeleman M, Kanekar N, Prochaska JX, Rafelski M, Carilli CL, Wolfe AM. C ii 158-μm emission from the host galaxies of damped Lyman-alpha systems. Science 2017;24(355):1285-88"
       url: http://science.sciencemag.org/content/355/6331/1285
     
 ---
@@ -26,7 +26,7 @@ Teasing out the details of this active early epoch has proven difficult. It’s 
 “With these new tools we will be able to really map out the distribution of star formation in individual galaxies 12 billion years ago,” said [**J. Xavier Prochaska**](https://www.physics.ucsc.edu/faculty/singleton.php?&singleton=true&cruz_id=jxp), UC Santa Cruz professor of astronomy and astrophysics and ALMA researcher.
 
 <figure class="left" style="width:300px;">
-  {% img 2018/quasar.jpg magick:resize:300 alt:'A quasar' %}<figcaption>A <a href="https://en.wikipedia.org/wiki/Quasar">quasar</a> was originally used to indirectly find this distant galaxy (\*) in the early universe. When researchers used ALMA to directly image the object, it was 100,000 light-years off from where they thought it would be. Credit: Neeleman &amp; Prochaska (UCSC), courtesy of Xavier Prochaska.</figcaption>
+  {% img 2018/quasar.jpg magick:resize:300 alt:'A quasar' %}<figcaption>A <a href="https://en.wikipedia.org/wiki/Quasar">quasar</a> was originally used to indirectly find this distant galaxy (*) in the early universe. When researchers used ALMA to directly image the object, it was 100,000 light-years off from where they thought it would be. Credit: Neeleman &amp; Prochaska (UCSC), courtesy of Xavier Prochaska.</figcaption>
 </figure>
 
 Astronomers have used [sophisticated computer models](http://icc.dur.ac.uk/Eagle/about.php) to develop ideas about this period. Simulations of the effects of dark matter and dark energy, plus the matter content of planets and stars, show virtual galaxies [coalescing out of an unstructured fog](https://www.youtube.com/watch?v=xfgDoExbu_Q). The results suggest that uneven distributions of massive dark matter drew gas and dust into galactic knots, where the material cooled and fragmented into stars. Astronomers have long awaited physical data to corroborate or challenge these views, and ALMA—which became fully operational in 2013—has begun to deliver.
