@@ -38,6 +38,34 @@ class: post
       {%endfor%}
       </div>
      {%endif%}      
+     {%if page.further-inquiry%}
+      <div class="related-links">
+      <h3>Further Inquiry</h3>
+      {%for link in page.further-inquiry%}
+      
+      
+        
+        <ul class="">
+          <li><a href="{{ link.url }}">{{link.title}}</a></li>
+        </ul>
+      
+      {%endfor%}
+      </div>
+     {%endif%}
+     {%if page.in-the-news%}
+      <div class="related-links">
+      <h3>In The News</h3>
+      {%for link in page.in-the-news%}
+      
+      
+        
+        <ul class="">
+          <li><a href="{{ link.url }}">{{link.title}}</a></li>
+        </ul>
+      
+      {%endfor%}
+      </div>
+     {%endif%}        
     </section>
 
     <footer class="post-footer">

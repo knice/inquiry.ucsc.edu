@@ -11,7 +11,14 @@ author:
 banner:
     file: 2018/guided-by-light-hero.jpg
     position: left
-related:
+further-inquiry:
+    - title: "Azucena O, Crest J, Cao J, Sullivan W, et al. Wavefront aberration measurements and corrections through thick tissue using fluorescent microsphere reference beacons. Optics Express 2010;18(16):17521-32"
+      url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408921/
+    - title: "Ji N, Milkie DE, Betzig E. Adaptive optics via pupil segmentation for high-resolution imaging in biological tissues. Nature Methods 2010;7(2):141-7"
+      url: https://www.nature.com/articles/nmeth.1411
+    - title: "Tao X, Lin HH, Lam T, Rodriguez R, Wang JW, Kubby J. Transcutical imaging with cellular and subcellular resolution. Biomedical Optics Express 2017;8(3):1277-89"
+      url: https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-3-1277
+in-the-news:
     - title: "Azucena O, Crest J, Cao J, Sullivan W, et al. Wavefront aberration measurements and corrections through thick tissue using fluorescent microsphere reference beacons. Optics Express 2010;18(16):17521-32"
       url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3408921/
     - title: "Ji N, Milkie DE, Betzig E. Adaptive optics via pupil segmentation for high-resolution imaging in biological tissues. Nature Methods 2010;7(2):141-7"

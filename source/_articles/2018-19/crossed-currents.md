@@ -11,7 +11,16 @@ author:
 banner:
     file: 2018/crossed-currents-hero1.jpg
     position: left
-related:
+further-inquiry:
+    - title: "Williams TM, Fuiman LA, Kendall T, Berry P, et al. Exercise at depth alters bradycardia and incidence of cardiac anomalies in deep-diving marine mammals. Nat Commun 2015;6:6055 [PDF]"
+      url: https://www.nature.com/articles/ncomms7055.pdf
+    - title: "Williams TM, Blackwell SB, Richter B, Sinding MS, et al. Paradoxical escape responses by narwhales (Monodon monoceros). Science 2017;358(6368):1328-31"
+      url: http://science.sciencemag.org/content/358/6368/1328
+    - title: "Williams TM, Kendall TL, Richter BP, Ribeiro-French CR, et al. Swimming and diving energetics in dolphins: a stroke-by-stroke analysis for predicting the cost of flight responses in wild odontocetes. J Exp Biol 2017;220:1135-45 [PDF]"
+      url: http://jeb.biologists.org/content/jexbio/220/6/1135.full.pdf
+    - title: "Williams TM, Bengtson P, Stellar DL, Croll DA, Davis RW. The healthy heart: lessons from nature’s elite athletes. Physiology 2015;30:349-57"
+      url: http://www.physiology.org/doi/10.1152/physiol.00017.2015
+in-the-news:
     - title: "Williams TM, Fuiman LA, Kendall T, Berry P, et al. Exercise at depth alters bradycardia and incidence of cardiac anomalies in deep-diving marine mammals. Nat Commun 2015;6:6055 [PDF]"
       url: https://www.nature.com/articles/ncomms7055.pdf
     - title: "Williams TM, Blackwell SB, Richter B, Sinding MS, et al. Paradoxical escape responses by narwhales (Monodon monoceros). Science 2017;358(6368):1328-31"

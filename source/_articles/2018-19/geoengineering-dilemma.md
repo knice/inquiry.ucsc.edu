@@ -11,7 +11,14 @@ author:
 banner:
     file: 2018/geoengineering-dilemma-hero1.jpg
     position: left
-related:
+further-inquiry:
+    - title: "Nicholson S, Jinnah S, Gillespie A. Solar radiation management: a proposal for immediate polycentric governance. Climate Policy 2018;18(3):322-34"
+      url: https://doi.org/10.1080/14693062.2017.1400944
+    - title: "Parson EA. Starting the dialogue on climate engineering governance: A world commission. Policy Brief: Fixing Climate Governance Series, No. 8. Centre for International Governance Innovation, Waterloo, ON, Canada, 2017 [PDF]"
+      url: https://www.cigionline.org/sites/default/files/documents/Fixing%20Climate%20Governance%20PB%20no8_0.pdf
+    - title: "Keith D. A Case for Climate Engineering. MIT Press, Boston, MA, 2013"
+      url: https://mitpress.mit.edu/books/case-climate-engineering
+in-the-news:
     - title: "Nicholson S, Jinnah S, Gillespie A. Solar radiation management: a proposal for immediate polycentric governance. Climate Policy 2018;18(3):322-34"
       url: https://doi.org/10.1080/14693062.2017.1400944
     - title: "Parson EA. Starting the dialogue on climate engineering governance: A world commission. Policy Brief: Fixing Climate Governance Series, No. 8. Centre for International Governance Innovation, Waterloo, ON, Canada, 2017 [PDF]"

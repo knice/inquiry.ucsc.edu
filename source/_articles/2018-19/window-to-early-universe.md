@@ -11,7 +11,12 @@ author:
 banner:
     file: 2018/atacama-array.jpg
     position: left
-related:
+further-inquiry:
+    - title: "Springel V, White SDM, Jenkins A, Frenk CS, et al. Simulations of the formation, evolution and clustering of galaxies. Nature 2005;435:629-36"
+      url: https://deepblue.lib.umich.edu/handle/2027.42/62586
+    - title: "Neeleman M, Kanekar N, Prochaska JX, Rafelski M, Carilli CL, Wolfe AM. C ii 158-μm emission from the host galaxies of damped Lyman-alpha systems. Science 2017;24(355):1285-88"
+      url: http://science.sciencemag.org/content/355/6331/1285
+in-the-news:
     - title: "Springel V, White SDM, Jenkins A, Frenk CS, et al. Simulations of the formation, evolution and clustering of galaxies. Nature 2005;435:629-36"
       url: https://deepblue.lib.umich.edu/handle/2027.42/62586
     - title: "Neeleman M, Kanekar N, Prochaska JX, Rafelski M, Carilli CL, Wolfe AM. C ii 158-μm emission from the host galaxies of damped Lyman-alpha systems. Science 2017;24(355):1285-88"
