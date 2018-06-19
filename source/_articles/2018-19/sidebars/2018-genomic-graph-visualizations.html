@@ -1,31 +1,41 @@
 <aside class="{{ include.classes }}" style="color:{{ include.textcolor }}; background-color:{{ include.bgcolor }};">
 
 <h3>Genomic graph visualizations</h3>
+<div class="flex">
+    <div>
+      <span style="font-weight:bold">A.</span>
+        <figure>
+          {% img 2018/genomic-visualization-a.jpg magick:resize:300 alt:'human genome variation graph A' %}
+          </figure>
+          <p>In these visualizations of Paten’s human genome variation graph (created with ivg, the visualization portion of the <a href="https://github.com/vgteam/vg#vg">vg</a> toolkit), the continuous lines toward the top of the graphs represent <a href="https://en.wikipedia.org/wiki/Haplotype">haplotypes</a> (known genomic sequences from one of a given person’s two chromosomes) in a 2500-person population cohort. The shaded rectangles represent nodes (shared DNA sequences) with the node’s <a href="https://en.wikipedia.org/wiki/Nucleotide">nucleotide</a> sequence (A, C, T, or G) shown at top. The colored ribbons between the nodes are paths/edges (not sequences). When a haplotype’s path bypasses a node, this signifies a deletion of the sequence at that node.</p>
+    </div>
 
-<p>In these visualizations of Paten’s human genome variation graph (created with ivg, the visualization portion of the <a href="https://github.com/vgteam/vg#vg">vg</a> toolkit), the continuous lines toward the top of the graphs represent <a href="https://en.wikipedia.org/wiki/Haplotype">haplotypes</a> (known genomic sequences from one of a given person’s two chromosomes) in a 2500-person population cohort. The shaded rectangles represent nodes (shared DNA sequences) with the node’s <a href="https://en.wikipedia.org/wiki/Nucleotide">nucleotide</a> sequence (A, C, T, or G) shown at top. The colored ribbons between the nodes are paths/edges (not sequences). When a haplotype’s path bypasses a node, this signifies a deletion of the sequence at that node. The segmented lines below the haplotypes (in A, B, and C) are sequence reads aligned to the haplotypes. Like the haplotype paths, these sometimes bypass a node, signifying a deletion of the sequence at that node.</p>
-<figure>
-  {% img 2018/genomic-visualization-a.jpg magick:resize:300 alt:'human genome variation graph A' %}
-  <figcaption><span style="font-weight:bold">Figure A.</span></figcaption>
-</figure>
-<p><span style="font-weight:bold">A.</span> In this zoomed-in visualization of the human genome variation graph for a short sequence from human chromosome 22, the red lines represent seven haplotypes and their widths encode their prevalence in the population.</p> 
-<figure>
-  {% img 2018/genomic-visualization-b.jpg magick:resize:300 alt:'human genome variation graph B' %}
-  <figcaption><span style="font-weight:bold">Figure B.</span></figcaption>
-</figure>
-<p><span style="font-weight:bold">B.</span> In this zoomed-out visualization of a different piece of chromosome 22, the nodes are actually longer than the longest ones in A but are compressed horizontally (leaving insufficient room to label them with their nucleotide sequences). Here, 13 haplotypes are shown in gray with unvarying widths. Forward sequence reads are shown in shades of red, while backward reads (from the opposite strand of the DNA) are shown in blue.</p>
-<figure>
-  {% img 2018/genomic-visualization-c.jpg magick:resize:300 alt:'human genome variation graph C' %}
-  <figcaption><span style="font-weight:bold">Figure C.</span></figcaption>
-</figure>
-<p><span style="font-weight:bold">C.</span> Here we see a sample with higher read coverage. Haplotypes are grey, forward reads are red, backward reads are blue, and the letters on top are the sequences of the graph’s nodes. Letters, asterisks, and grey rectangles shown on the reads are, respectively, substitutions, insertions, and deletions. When viewed on a computer, one can hover the cursor over an asterisk to see the inserted sequence.</p>
-<figure>
-  {% img 2018/genomic-visualization-d.jpg magick:resize:300 alt:'human genome variation graph D' %}
-  <figcaption><span style="font-weight:bold">Figure D.</span></figcaption>
-</figure>
+    <div>
+      <span style="font-weight:bold">B.</span>
+        <figure>
+        {% img 2018/genomic-visualization-b.jpg magick:resize:300 alt:'human genome variation graph B' %}
+      </figure>
+      <p>The segmented lines below the haplotypes (in A, B, and C) are sequence reads aligned to the haplotypes. Like the haplotype paths, these sometimes bypass a node, signifying a deletion of the sequence at that node. <span style="font-weight:bold">A.</span> In this zoomed-in visualization of the human genome variation graph for a short sequence from human chromosome 22, the red lines represent seven haplotypes and their widths encode their prevalence in the population. <span style="font-weight:bold">B.</span> In this zoomed-out visualization of a different piece of chromosome 22, the nodes are actually </p>
+    </div>
+    <div>
+    <span style="font-weight:bold">C.</span>
+    <figure>
+    {% img 2018/genomic-visualization-c.jpg magick:resize:300 alt:'human genome variation graph C' %}
 
-<p><span style="font-weight:bold">D.</span> The visualization tool can also provide an intuitive graphical view of inversions, as shown by the green and red loops in this simulated example.</p>
-<figcaption>
+    </figure>
+      <p>longer than the longest ones in A but are compressed horizontally (leaving insufficient room to label them with their nucleotide sequences). Here, 13 haplotypes are shown in gray with unvarying widths. Forward sequence reads are shown in shades of red, while backward reads (from the opposite strand of the DNA) are shown in blue. <span style="font-weight:bold">C.</span> Here we see a sample with higher read coverage. Haplotypes are grey, forward reads are red, backward</p>
+    </div>
+    <div>
+    <span style="font-weight:bold">D.</span>
+    <figure>
+    {% img 2018/genomic-visualization-d.jpg magick:resize:300 alt:'human genome variation graph D' %}
+  </figure>
+  <p>reads are blue, and the letters on top are the sequences of the graph’s nodes. Letters, asterisks, and grey rectangles shown on the reads are, respectively, substitutions, insertions, and deletions. When viewed on a computer, one can hover the cursor over an asterisk to see the inserted sequence. <span style="font-weight:bold">D.</span> The visualization tool can also provide an intuitive graphical view of inversions, as shown by the green and red loops in this simulated example.</p>
+  <figcaption>
 Credit: Courtesy of Benedict Paten and Wolfgang Beyer, software developer for the <a href="https://cgl.genomics.ucsc.edu/">Computational Genomics Laboratory</a> at UCSC.</figcaption>
+    </div>
+</div> 
+
 </aside>
 
 

@@ -1,53 +1,60 @@
 aside {
-
-  font-weight: 300;
-  padding: 1.8em;
-
-  > :first-child {
-    margin-top: 0;
-    padding-top: 0;
-  }
-
-  > :last-child {
-    margin-bottom: 0;
-  }
-
-  p {
-    font-size: .9em;
-    line-height: 1.3;
-  }
-
-  &.left {
-    float: left;
-    margin-left: -20%;
-    width: 60%;
-  }
-
-  &.right {
-    float: right;
-    margin-right: -20%;
-    width: 60%;
-  }
-
-  &.right,
-  &.left {
-    @include media($mobile) {
-      float: none;
-      margin: $rs 0;
-      width: 100%;
+    font-weight: 300;
+    padding: 1.8em;
+    > :first-child {
+        margin-top: 0;
+        padding-top: 0;
     }
-  }
+    > :last-child {
+        margin-bottom: 0;
+    }
+    p {
+        font-size: .9em;
+        line-height: 1.3;
+    }
+    &.left {
+        float: left;
+        margin-left: -20%;
+        width: 60%;
+    }
+    &.right {
+        float: right;
+        margin-right: -20%;
+        width: 60%;
+    }
+    &.right,
+    &.left {
+        @include media($mobile) {
+            float: none;
+            margin: $rs 0;
+            width: 100%;
+        }
+    }
+    h1,
+    h2,
+    h3 {
+        color: inherit;
+        text-transform: lowercase;
+        &::first-letter {
+            text-transform: uppercase;
+        }
+    }
+    figcaption {
+        //color: inherit;
+        color: lighten($text-black, 25%);
+    }
+}
 
-  h1,
-  h2,
-  h3 {
-    color: inherit;
-    text-transform: uppercase;
-  }
-
-  figcaption {
-    //color: inherit;
-    color: lighten($text-black, 25%);
-  }
-
+.flex {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+    @include media($mobile) {
+        display: block;
+    }
+    div {
+        flex: 0 0 45%;
+        margin: 0 auto;
+    }
 }
