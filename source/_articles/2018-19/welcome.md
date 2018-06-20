@@ -3,7 +3,7 @@ layout: page
 issue: 2018
 category: welcome
 order: 1
-title: "The spirit of inquiry@UC Santa Cruz"
+title: "The spirit of inquiry at UC Santa Cruz"
 ---
 
 {% image 2017/p2-scott-brandt.jpg magick:resize:200 class:'left' %}
