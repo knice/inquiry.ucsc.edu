@@ -20,4 +20,4 @@ Although the heating during the PETM didn’t occur nearly as fast as today’s 
 
 “We’re basically doing forensics,” said Zachos, who has been studying ancient ocean sediments for 30 years. “CO<sub>2</sub> levels are going to go up, and climate specialists want to accurately predict how that will impact things like precipitation, so communities can plan.”
 
-*—Ula Chrobak*
+*—[Ula Chrobak](https://www.ulachrobak.com/)*

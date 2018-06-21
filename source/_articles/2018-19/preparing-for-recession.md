@@ -25,4 +25,4 @@ Other safeguards may be needed. Walsh and other economists are evaluating whethe
 
 If and when another recession hits, investors would expect these price-level targeting policies to bump prices—and inflation—back up, Walsh said. The anticipation of higher inflation coupled with rock-bottom interest rates would incentivize people to borrow and spend, thus stabilizing the economy.
 
-*—Marcus Woo*
+*—[Marcus Woo](https://about.me/marcus_woo)*

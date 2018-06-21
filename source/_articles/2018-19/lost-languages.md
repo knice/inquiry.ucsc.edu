@@ -21,4 +21,4 @@ In their research, Toosarvandani and his team collect stories, oral narratives, 
 
 Toosarvandani and his colleague, associate professor of linguistics [**Pranav Anand**](http://people.ucsc.edu/~panand/), have also partnered with the organization [Senderos](http://scsenderos.org/) to establish [Nido de Lenguas](http://wlma.ucsc.edu/nido-de-lenguas/), a nonprofit that sponsors monthly language classes and summer camps where native speakers teach their ancestral language to other Oaxacan immigrants. This work is vital, Toosarvandani said. “When we lose a language, we lose an aspect of what it means to be human. If we’re interested in saving the world’s diversity, we should be interested in saving these languages.”
 
-*—Sukee Bennett*
+*—[Sukee Bennett](https://sukee.net/)*

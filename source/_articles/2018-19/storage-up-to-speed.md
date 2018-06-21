@@ -20,4 +20,4 @@ To address this problem, the CROSS team created a uniquely programmable storage 
 
 “Open source software community efforts are allowing innovation to flow much more freely and appear much more quickly on the market than proprietary solutions,” said Maltzahn. He thinks Malacology will help enable innovation and entrepreneurship, ultimately leading to improved computers, smartphones, and other digital technology.
 
-*—Ula Chrobak*
+*—[Ula Chrobak](https://www.ulachrobak.com/)*

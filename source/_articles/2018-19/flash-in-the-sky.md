@@ -21,4 +21,4 @@ Astronomers around the world raced to find that flash of light. Just 17 minutes 
 
 It was the first time anyone measured the light from an event that also produced gravitational waves. The observations revealed that these mergers could have produced most of the elements heavier than iron in the universe. This kind of measurement also provides a new way to probe the expansion rate of the cosmos—crucial for understanding deep questions like the nature of [dark energy](https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy), Foley said. “It’s really just the beginning of a new scientific field.”
 
-*—Marcus Woo*
+*—[Marcus Woo](https://about.me/marcus_woo)*

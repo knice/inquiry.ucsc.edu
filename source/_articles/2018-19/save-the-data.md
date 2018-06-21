@@ -8,6 +8,7 @@ subhead: "Scholar activism seeks social and environmental justice"
 author:
     name: Amy West
     file: "2018/amy-west.jpg"
+    url: http://amyewest.com/
 banner:
     file: 2018/data-hero1.jpg
     position: left

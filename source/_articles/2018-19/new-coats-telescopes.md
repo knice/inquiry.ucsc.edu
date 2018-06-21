@@ -24,4 +24,4 @@ With collaborators UC Observatories astronomers [**Andrew Phillips**](http://www
 
 Because ALD systems are designed for small, thin silicon wafers, the researchers had to build a much larger one to accommodate telescope mirrors. While the prototype is still being [tested](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-3/issue-3/034001/Effect-of-intermediate-layers-on-atomic-layer-deposition-aluminum-oxide/10.1117/1.JATIS.3.3.034001.short), proof-of-principle [experiments](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9924/99240S/Corrosion-protection-of-silver-based-telescope-mirrors-using-evaporated-anti/10.1117/12.2238749.short) have shown promising results, Kobayashi said.
 
-*—Marcus Woo*
+*—[Marcus Woo](https://about.me/marcus_woo)*

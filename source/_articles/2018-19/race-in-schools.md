@@ -24,4 +24,4 @@ Byrd studies how students perceive their school environment in relation to their
 
 Her work also shows that students with a strong sense of belonging in their school’s racial climate felt more motivated compared to students who believed their racial identities were represented negatively or not at all. And crucially, strong intrinsic motivation correlated closely with academic engagement and success.
 
-*—Sascha Zubryd*
+*—[Sascha Zubryd](https://outfog.com/author/sascha-zubryd/)*

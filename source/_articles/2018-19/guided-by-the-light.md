@@ -8,6 +8,7 @@ subhead: "Stars bring biology into focus"
 author:
     name: Sarah McQuate
     file: "2018/sarah-mcquate.jpg"
+    url: https://sarahmcquate.com/
 banner:
     file: 2018/guided-by-light-hero.jpg
     position: left

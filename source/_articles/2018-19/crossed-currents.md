@@ -8,6 +8,7 @@ subhead: "Conflicting stress responses may beach marine mammals"
 author:
     name: Barbara A. Rodriguez
     file: "2018/barbara-rodriguez.jpg"
+    url: https://www.linkedin.com/in/vitalwordplay/
 banner:
     file: 2018/crossed-currents-hero1.jpg
     position: left

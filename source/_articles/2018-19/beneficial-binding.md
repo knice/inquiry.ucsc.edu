@@ -21,4 +21,4 @@ The bulky end of the prion protein binds to the surface of neurons where it modu
 
 Millhauser has been studying the prion protein structure for two decades. Of particular interest to him is how the protein binds copper ions. Scientists believe the protein binds copper to regulate the metal ion, which is essential for cellular function but extremely toxic if left unbound. Based on nuclear magnetic resonance spectroscopy, Millhauser and collaborators have now [reported](https://www.sciencedirect.com/science/article/pii/S0969212616300788?via%3Dihub) that copper, in turn, also regulates the prion protein by forcing its extended end to fold inward, thereby keeping its disease-related activity in check.
 
-*—Chris Palmer*
+*—[Chris Palmer](http://chrispalmer.squarespace.com/)*

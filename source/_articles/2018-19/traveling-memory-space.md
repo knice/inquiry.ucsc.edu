@@ -25,4 +25,4 @@ Baumgarten brings this insight to his current study of the writing of [Primo Lev
 
 “You have to look in many places, because this space has traveled, and it is also a memory space,” said Baumgarten. “It’s also a space of trauma that has changed many things.”
 
-*—Ula Chrobak*
+*—[Ula Chrobak](https://www.ulachrobak.com/)*

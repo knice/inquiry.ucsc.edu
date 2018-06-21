@@ -6,6 +6,8 @@ order: 2
 title: "Pen&Inq"
 ---
 
+By [Emma Hiolski](https://www.emmahiolski.com/)
+
 ## Emotional Gaming
 
 <figure>

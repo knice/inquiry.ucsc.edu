@@ -8,6 +8,7 @@ subhead: "Intra-American trafficking magnified slavery’s impact"
 author:
     name: Robert Pollie
     file: "2018/robert-pollie.jpg"
+    url: http://7thavenueproject.com/
 banner:
     file: 2018/middle-passage-hero3.jpg
     position: left

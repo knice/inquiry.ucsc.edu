@@ -28,4 +28,4 @@ To address this need, UC Santa Cruz researchers, working with collaborators at t
 
 “The ultimate goal is for a psychiatrist or neurologist to do precision medicine by using NeuroCave to compare a patient’s connectome with the average connectome for any number of diseases,” said [**Angus Forbes**](https://www.soe.ucsc.edu/people/angus), assistant professor of [computational media](https://www.soe.ucsc.edu/departments/computational-media) and senior author on the [paper](https://www.mitpressjournals.org/doi/pdf/10.1162/NETN_a_00044) describing the tool.
 
-*—Chris Palmer*
+*—[Chris Palmer](http://chrispalmer.squarespace.com/)*

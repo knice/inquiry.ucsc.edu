@@ -21,4 +21,4 @@ Bury and collaborators now [report](https://www.sciencedirect.com/science/articl
 
 “The scale of these changes is astounding,” Bury said. Demand is growing, with cultivation of profitable, water-intensive crops for export on the rise, and expanding cities consuming more clean water and power. “There will be a point when supply won’t meet demand,” he said. “It’s just a matter of time.”
 
-*—Sascha Zubryd*
+*—[Sascha Zubryd](https://outfog.com/author/sascha-zubryd/)*

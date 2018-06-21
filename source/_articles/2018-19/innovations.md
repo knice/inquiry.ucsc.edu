@@ -6,7 +6,7 @@ order: 5
 title: "Inquiries & INNOVATIONS"
 ---
 
-By Marcus Woo
+By [Marcus Woo](https://about.me/marcus_woo)
 
 ### Diagnosis on a chip ###
 

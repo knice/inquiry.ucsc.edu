@@ -8,6 +8,7 @@ subhead: "Home movies capture history through a personal lens"
 author:
     name: Cameron Walker
     file: "2018/cameron-walker.jpg"
+    url: http://www.cameronwalker.net/
 banner:
     file: 2018/lost-landscapes-hero1.jpg
     position: left
@@ -40,9 +41,9 @@ Prelinger, a film archivist, had been amassing a collection of “forgotten” 2
 ## Personal to public ##
 
 Home movies are typically considered second-class citizens of the film world. “Home movies have been treated by professionals and cinema experts—scholars, critics, and serious filmmakers—as something that hobbyists and amateurs did that was of, at best, documentary value,” said Prelinger’s UCSC colleague [**Jonathan Kahana**](http://film.ucsc.edu/faculty/jonathan_kahana), professor of film and digital media. People began using handheld movie cameras in the 1920s, and their use expanded in the following decades. These cameras allowed people to record their personal lives—from family birthdays to summer vacations—and to preserve and share these memories on a small scale. Capturing time, places, and people through a small lens, the resulting movies were “treated as unskilled, unpolished, unreliable, and, to anyone but their subjects, nearly unwatchable,” Kahana said.
-<figure class="" style="width:600px;">
-  {% img 2018/lost-landscape-ny.jpg magick:resize:600 alt:'Footage from Lost Landscapes of New York' %}
-  <figcaption>Still images from Prelinger’s 2017 film <a href="https://www.nytimes.com/2017/11/08/movies/lost-landscapes-of-new-york.html"><span style="font-style:italic;">Lost Landscapes of New York</span></a> capture the prewar atmosphere at a 1936 May Day parade (right) and, in postwar 1948, an informal gathering on an East Harlem street corner. Credit: <a href="https://archive.org/details/prelinger">The Prelinger Archives</a>.</figcaption>
+<figure>
+  {% img 2018/lost-landscape-ny-1.jpg magick:resize:600 alt:'Footage from Lost Landscapes of New York' %}
+  <figcaption>Still images from Prelinger’s 2017 film <a href="https://www.nytimes.com/2017/11/08/movies/lost-landscapes-of-new-york.html"><span style="font-style:italic;">Lost Landscapes of New York</span></a> capture, in postwar 1948, an informal gathering on an East Harlem street corner (right) and the prewar atmosphere at a 1936 May Day parade (left). Credit: <a href="https://archive.org/details/prelinger">The Prelinger Archives</a>.</figcaption>
 </figure>
 But as Prelinger observed in the South Dakota theater, these movies are transformed when they emerge from the family room, and so are the people watching them. “Something very interesting happens when movies made for showing on a small scale get blown up to the size of a theater screen. Details jump out. Audiences become much more contemplative,” he said. Viewers pick out buildings lost to modernization, recognize changing styles in clothing and social interactions, and become cultural ethnographers and geographers in their own right. “Home movies,” said Prelinger, “turn ordinary viewers into sophisticated visual analysts.”
 

@@ -81,8 +81,13 @@ class: post
                     {% endif %}
                     <div class="comment-content">
                         <ul class="flat-list">
+                            {% if page.author.url %}
+                            <li><span>Written by:</span> <a href="{{ page.author.url }}">{{ page.author.name }}</a></li>
+                            <li><span>Published:</span> {{ page.issue }}</li>
+                            {% else %}
                             <li><span>Written by:</span> {{ page.author.name }}</li>
                             <li><span>Published:</span> {{ page.issue }}</li>
+                            {% endif %}
                         </ul>
                     </div>
                 </div>

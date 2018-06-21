@@ -20,4 +20,4 @@ As [reported](http://onlinelibrary.wiley.com/doi/10.1111/nph.13770/epdf) in *New
 
 “People think of ferns as inferior to [angiosperms](https://en.wikipedia.org/wiki/Flowering_plant) and [conifers](https://en.wikipedia.org/wiki/Pinophyta), and that’s untrue,” Pittermann said. “Ferns are holding themselves up. They have had to be resistant to make it through 350 million years of our changing planet.”
 
-*—Sukee Bennett*
+*—[Sukee Bennett](https://sukee.net/)*

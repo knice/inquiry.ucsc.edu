@@ -8,6 +8,7 @@ subhead: "What comes first, research or governance?"
 author:
     name: Patricia Waldron
     file: "2018/patricia-waldron.jpg"
+    url: http://www.patriciawaldron.com/
 banner:
     file: 2018/geoengineering-dilemma-hero1.jpg
     position: left

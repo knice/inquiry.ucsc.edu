@@ -8,6 +8,7 @@ subhead: "Witnessing the birth of galaxies"
 author:
     name: Adam Mann
     file: "2018/adam-mann.jpg"
+    url: https://www.adamspacemann.com/
 banner:
     file: 2018/atacama-array.jpg
     position: left

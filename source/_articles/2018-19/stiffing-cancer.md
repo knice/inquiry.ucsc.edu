@@ -23,4 +23,4 @@ ECM stiffening appears to block cancer progression by maintaining a balanced sta
 
 Hinck’s research focuses on understanding this complex biology. Senior author Hinck and collaborators now [report](http://jcb.rupress.org/content/212/6/707) that normal breast epithelial cells sense and respond to increased ECM stiffness by reducing levels of the [microRNA](https://en.wikipedia.org/wiki/MicroRNA) miR-203, a short, noncoding RNA fragment that normally suppresses the Robo1 gene. This raises levels of the protein [ROBO1](https://en.wikipedia.org/wiki/Slit-Robo), which, in turn, alters the cell’s cytoskeleton and boosts production of adhesion molecules, changes that help cells retain their shape and position within the stiffened ECM. The investigators also found that breast cancer patients with low-miR-203/high-ROBO1–expressing tumors had improved survival, identifying this pathway as a potential therapeutic target.
 
-*—Chris Palmer*
+*—[Chris Palmer](http://chrispalmer.squarespace.com/)*

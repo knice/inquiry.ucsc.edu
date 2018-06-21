@@ -8,6 +8,7 @@ subhead: "Competition showcases graduate student research"
 author:
     name: Marcus Woo
     file: "2018/marcus-woo.jpg"
+    url: https://about.me/marcus_woo
 banner:
     file: 2018/three-minute-challenge-hero1.jpg
     position: left   

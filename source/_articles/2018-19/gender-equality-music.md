@@ -19,4 +19,4 @@ Merchant’s 2015 book, [*Women Musicians of Uzbekistan: From Courtyard to Conse
 
 Unfortunately, the current political climate and travel bans make it difficult for Merchant to bring dutor teachers from Uzbekistan to help “immerse” her students in Uzbek musical practices. “Ethnomusicology isn’t about sitting down, listening to sounds, and making assertions,” Merchant said. “It’s best to be embedded in the culture.”
 
-*—Sukee Bennett*
+*—[Sukee Bennett](https://sukee.net/)*

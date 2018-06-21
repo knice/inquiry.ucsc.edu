@@ -8,6 +8,7 @@ subhead: "Targeting biofilms to bust cholera"
 author:
     name: Sarah C. P. Williams
     file: "2018/sarah-williams.jpg"
+    url: http://www.sarahcpwilliams.com/
 banner:
     file: 2018/canvassing-bacterial-communities-hero1.jpg
     position: left
