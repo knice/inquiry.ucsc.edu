@@ -21,6 +21,8 @@ in-the-news:
       url: https://news.ucsc.edu/2017/03/grad-slam.html?utm_source=03-07-2017&utm_medium=email&utm_campaign=tuesday-newsday
     - title: "Enthusiasm, excitement for discovery drives Grad Slam winner"
       url: https://news.ucsc.edu/2016/04/nayak-michael-profile.html
+    - title: "Grad Slam highlights research—but also ability to explain it"
+      url: https://news.ucsc.edu/2016/04/grad-slam.html
 ---
 {% include_relative sidebars/2018-three-minute-challenge-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 As a graduate student, you spend years on your thesis or dissertation, mastering every detail of your experiments, calculations, interpretations, and analysis. Now try distilling all that expertise into a talk just three minutes long. And do it in an engaging and entertaining way with no jargon, so any intelligent person can understand it.

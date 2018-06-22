@@ -28,6 +28,8 @@ further-inquiry:
 in-the-news:
     - title: "Two UC Santa Cruz professors elected Fellows of the American Academy of Microbiology"
       url: https://news.ucsc.edu/2015/02/microbiology.html
+    - title: "UCSC cholera biofilm team wins Deloitte QB3 Award for Innovation"
+      url: https://news.ucsc.edu/2011/10/qb3-winners.html
     - title: "Cholera bacteria show adaptability to changing environments"
       url: https://news.ucsc.edu/2009/12/3429.html
     - title: "Research on cholera bacteria focuses on biofilm formation"

@@ -22,6 +22,8 @@ further-inquiry:
 in-the-news:
     - title: "Microscopes borrow tricks from astronomy to see deep into living tissues"
       url: https://news.ucsc.edu/2011/07/ao-microscopy.html
+    - title: "Twinkle, Twinkle, Little Cell"
+      url: http://sciencenotes.ucsc.edu/1001/pages/cell/cell.html
     
 ---
 {% include_relative sidebars/2018-guided-by-light-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
