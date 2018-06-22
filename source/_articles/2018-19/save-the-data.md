@@ -20,7 +20,7 @@ further-inquiry:
     - title: "Dillon L. Waste, Race, and Space: Brownfield Redevelopment and Environmental Justice at the Hunters Point Shipyard. Antipode: A Journal of Radical Geography 2014;46(5):1205-21"
       url: http://onlinelibrary.wiley.com/doi/10.1111/anti.12009/full
     - title: "Huntersview Tenants Association and Greenaction for Health & Environmental Justice. Pollution, Health, Environmental Racism and Injustice: A Toxic Inventory of Bayview Hunters Point, San Francisco [PDF]"
-      url: http://greenaction.org/wp-content/uploads/2012/08/TheStateoftheEnvironment090204Final.pdf). September, 2004
+      url: http://greenaction.org/wp-content/uploads/2012/08/TheStateoftheEnvironment090204Final.pdf
 in-the-news:
     - title: "Beck M, Braun S, Cha R, Dillon L, et al. EDGI Annual Report 2018 EDGI, 2018"
       url: https://envirodatagov.org/publication/edgi-annual-report-2018/

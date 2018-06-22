@@ -50,11 +50,20 @@ aside {
     flex-flow: wrap;
     justify-content: space-around;
     align-items: baseline;
+    margin: 0 auto;
     @include media($mobile) {
         display: block;
     }
-    div {
+    .double {
         flex: 0 0 45%;
-        margin: 0 auto;
+        // margin: 0 auto;
+    }
+    .single {
+        flex: 1 0 75%;
+        margin: 0 15px;
+        width: 100%;
+        @include media($mobile) {
+            margin: 0 auto;
+        }
     }
 }
