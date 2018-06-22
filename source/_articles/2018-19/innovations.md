@@ -8,7 +8,7 @@ title: "Inquiries & innovations"
 
 By [Marcus Woo](https://about.me/marcus_woo)
 
-### Diagnosis on a chip ###
+## Diagnosis on a chip ##
 
 To diagnose diseases like Ebola, clinicians seek viral or bacterial DNA or RNA in patient samples. Traditionally, tests used for this employ PCR ([polymerase chain reaction](https://www.genome.gov/10000207/polymerase-chain-reaction-pcr-fact-sheet/)), a method that induces those molecules to replicate, making them easier to detect.
 
@@ -20,7 +20,7 @@ The lab-on-a-chip device channels a liquid like blood or saliva containing fluor
 
 *Schmidt H, Hawkins AR. Method for amplification-free nucleic acid detection on optofluidic chips. U.S. Patent* [*9,551,667*](https://www.google.com/patents/US9551667)*, filed November 18, 2011, issued January 24, 2017.*
 
-### Time and place ###
+## Time and place ##
 
 The [Large Hadron Collider](https://home.cern/topics/large-hadron-collider) (LHC) in Switzerland slams trillions of protons together, each collision producing hundreds of particles spraying in all directions. Particle detectors must then track their trajectories.
 
@@ -30,7 +30,7 @@ The technology could also be used to improve medical imaging systems that doctor
 
 *Sadrozinski H, Seiden A, Cartiglia N. Segmented AC-coupled readout from continuous collection electrodes in semiconductor sensors. U.S. Patent* [*9,613,993*](https://www.google.com/patents/US20170069671)*, filed June 30, 2016, issued March 9, 2017.*
 
-### Dimmable LEDs ###
+## Dimmable LEDs ##
 
 In 2013, as part of a senior design engineering class, UCSC students built an LED (light-emitting diode) light bulb that would cost only \$5 to make—substantially less than what they sold for at the time.
 
@@ -42,7 +42,7 @@ They also discovered a new circuitry design that allowed the brightness of the L
 
 *Munday D, Baker R, Dahan J, Peterson R, Sloan C. Switchable luminance LED light bulb. U.S. Patent* [*9,730,282*](https://www.google.com/patents/US9730282)*, filed August 5, 2015, issued August 8, 2017.*
 
-### In a living cell ###
+## In a living cell ##
 
 Its tip is so small you can’t see it with an optical microscope. Like a tiny needle, the nanopipette pierces a living cell and extracts contents from its [organelle](https://en.wikipedia.org/wiki/Organelle) structures—all without harming the cell. The device can also inject biologically relevant chemicals, to test single-cell effects of potential drugs, for example.
 
@@ -52,7 +52,7 @@ His lab uses the nanopipette to study how a variety of dynamic processes within 
 
 *Karhanek M, Webb CD, Umehara S, Pourmand N. Functionalized nanopipette biosensor. U.S. Patent* [*9,766,204*](https://www.google.com/patents/US9766204)*, filed January 22, 2015, issued September 19, 2017.*
 
-### Superior sequencing ###
+## Superior sequencing ##
 
 Technology developed at UCSC underlies the [MinION](https://nanoporetech.com/products/minion) (see *inquiry* Vol. 3, 2017-18, [Genes to go](http://inquiry.ucsc.edu/2017-18/genes-to-go/)), a handheld gene sequencer manufactured by [Oxford Nanopore Technologies](https://nanoporetech.com/about-us) (Oxford, U.K.). The MinION reads sequences via [nucleotide](https://en.wikipedia.org/wiki/Nucleotide)-specific changes in ion current as DNA strands pass through a nanopore, a tiny hole in a polymer membrane. The nanopore approach has led to smaller, faster, and cheaper devices, expanding [access to sequencing](https://www.youtube.com/watch?v=Wq35ZXyayuU) and [invigorating genome research](https://www.forbes.com/sites/janetwburns/2018/01/29/handheld-device-gives-clearest-ever-view-of-human-genome-for-1000/#353106dc36a5).
 

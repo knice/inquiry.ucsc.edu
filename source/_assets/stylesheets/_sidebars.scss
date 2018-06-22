@@ -66,4 +66,8 @@ aside {
             margin: 0 auto;
         }
     }
+    img {
+        @include span-columns(12);
+        margin: 0 auto 1em;
+    }
 }
