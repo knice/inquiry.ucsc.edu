@@ -20,12 +20,15 @@ further-inquiry:
     - title: "O’Malley GE, Borucki A. Patterns in the intercolonial slave trade across the Americas before the nineteenth century. <span style='font-style:italic;'>Tempo</span> 2017;23(2):314-38 [pdf]"
       url: http://www.redalyc.org/pdf/1670/167053162007.pdf
 in-the-news:
-    - title: "O'Malley G., Final Passages: The Intercolonial Slave Trade of British America, 1619-1807. Onohundro Institute and University of N. Carolina Press, Chapel Hill, NC, 2016"
-      url: https://www.amazon.com/dp/B00ZVEZWHG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-    - title: "Slavevoyages.org"
-      url: http://www.slavevoyages.org/
-    - title: "O’Malley GE, Borucki A. Patterns in the intercolonial slave trade across the Americas before the nineteenth century. <span style='font-style:italic;'>Tempo</span> 2017;23(2):314-38 [pdf]"
-      url: http://www.redalyc.org/pdf/1670/167053162007.pdf
+    - title: "History professor Greg O'Malley to create new public database about the slave trade"
+      url: https://news.ucsc.edu/2016/05/greg-omalley-slavetrade.html
+    - title: "An Interview with Greg O’Malley"
+      url: https://www.virginiahumanities.org/2015/11/interview-with-greg-omalley/
+    - title: "Episode 008: Gregory E. O’Malley, Final Passages: The Intercolonial Slave Trade of British America, 1619-1807
+"
+      url: https://www.benfranklinsworld.com/008/
+    - title: "Digitizing the Past. Grant to facilitate digital integration of intra-American slave trade records"
+      url: http://www.cityonahillpress.com/2016/09/19/digitizing-the-past/ 
     
 ---
 {% include_relative sidebars/2018-middle-passage-hero-caption.html classes="right" bgcolor="#f1f1f1" %}

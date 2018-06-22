@@ -22,14 +22,14 @@ further-inquiry:
     - title: "Huntersview Tenants Association and Greenaction for Health & Environmental Justice. Pollution, Health, Environmental Racism and Injustice: A Toxic Inventory of Bayview Hunters Point, San Francisco [PDF]"
       url: http://greenaction.org/wp-content/uploads/2012/08/TheStateoftheEnvironment090204Final.pdf
 in-the-news:
-    - title: "Beck M, Braun S, Cha R, Dillon L, et al. EDGI Annual Report 2018 EDGI, 2018"
-      url: https://envirodatagov.org/publication/edgi-annual-report-2018/
-    - title: "Dillon L, Dawn W, Nicholas S, Vivian U, et al. Environmental Data Justice and the Trump Administration: Reflections from the Environmental Data and Governance Initiative. Environmental Justice 2017;10(6):186-92"
-      url: http://online.liebertpub.com/doi/abs/10.1089/env.2017.0020
-    - title: "Dillon L. Waste, Race, and Space: Brownfield Redevelopment and Environmental Justice at the Hunters Point Shipyard. Antipode: A Journal of Radical Geography 2014;46(5):1205-21"
-      url: http://onlinelibrary.wiley.com/doi/10.1111/anti.12009/full
-    - title: "Huntersview Tenants Association and Greenaction for Health & Environmental Justice. Pollution, Health, Environmental Racism and Injustice: A Toxic Inventory of Bayview Hunters Point, San Francisco [PDF]"
-      url: http://greenaction.org/wp-content/uploads/2012/08/TheStateoftheEnvironment090204Final.pdf). September, 2004
+    - title: "Trump environmental watchdog group issues third report"
+      url: https://news.ucsc.edu/2018/01/dillon-edgi.html
+    - title: "Rescuing data and shoring up environmental agencies in the Trump era"
+      url: https://news.ucsc.edu/2017/03/dillon-data.html
+    - title: "The latest Tweets from Lindsey Dillon (@lindseyld)"
+      url: https://twitter.com/lindseyld?lang=en
+    - title: "Santa Cruz County Stories: UCSC’s Lindsey Dillon provides a model of meaningful activism in the Trump era"
+      url: http://www.santacruzsentinel.com/article/NE/20170820/FEATURES/170829975
     
 ---
 {% include_relative sidebars/2018-save-the-data-hero-caption.html classes="right" bgcolor="#f1f1f1" %}

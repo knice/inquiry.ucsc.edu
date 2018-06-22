@@ -19,12 +19,16 @@ further-inquiry:
     - title: "Garrison E, Sirén J, Novak AM, Hickey G, et al. Sequence variation aware genome references and read mapping with the variation graph toolkit. bioRxiv 2017"
       url: https://doi.org/10.1101/234856
 in-the-news:
-    - title: "Paten B, Novak AM, Eizenga JM, Garrison E. Genome graphs and the evolution of genome inference. Genome Res 2017;27:665-76"
-      url: https://genome.cshlp.org/content/27/5/665
-    - title: "Novak AM, Hickey G, Garrison E, Blum S, et al. Genome graphs. bioRxiv 2017."
+    - title: "Bioinformatics leaders partner to build platform for NIH Data Commons"
+      url: https://news.ucsc.edu/2017/11/nih-data-commons.html
+    - title: "Genomics Institute joins international Human Cell Atlas Initiative"
       url: https://doi.org/10.1101/101378
-    - title: "Garrison E, Sirén J, Novak AM, Hickey G, et al. Sequence variation aware genome references and read mapping with the variation graph toolkit. bioRxiv 2017"
-      url: https://doi.org/10.1101/234856
+    - title: "BRCA Exchange aggregates publicly accessible data on breast cancer genes"
+      url: https://news.ucsc.edu/2016/04/brca-exchange.html
+    - title: "Keck Foundation awards UC Santa Cruz $2 million for human genome variation project"
+      url: https://news.ucsc.edu/2015/07/keck-grant.html
+    - title: "UC Santa Cruz to lead effort to build a new map of human genetic variation"
+      url: https://news.ucsc.edu/2015/01/genome-variation.html
     
 ---
 {% include_relative sidebars/2018-detecting-human-diversity-hero-caption.html classes="right" bgcolor="#f1f1f1" %}

@@ -22,14 +22,16 @@ further-inquiry:
     - title: "Williams TM, Bengtson P, Stellar DL, Croll DA, Davis RW. The healthy heart: lessons from nature’s elite athletes. Physiology 2015;30:349-57"
       url: http://www.physiology.org/doi/10.1152/physiol.00017.2015
 in-the-news:
-    - title: "Williams TM, Fuiman LA, Kendall T, Berry P, et al. Exercise at depth alters bradycardia and incidence of cardiac anomalies in deep-diving marine mammals. Nat Commun 2015;6:6055 [PDF]"
-      url: https://www.nature.com/articles/ncomms7055.pdf
-    - title: "Williams TM, Blackwell SB, Richter B, Sinding MS, et al. Paradoxical escape responses by narwhales (Monodon monoceros). Science 2017;358(6368):1328-31"
-      url: http://science.sciencemag.org/content/358/6368/1328
-    - title: "Williams TM, Kendall TL, Richter BP, Ribeiro-French CR, et al. Swimming and diving energetics in dolphins: a stroke-by-stroke analysis for predicting the cost of flight responses in wild odontocetes. J Exp Biol 2017;220:1135-45 [PDF]"
-      url: http://jeb.biologists.org/content/jexbio/220/6/1135.full.pdf
-    - title: "Williams TM, Bengtson P, Stellar DL, Croll DA, Davis RW. The healthy heart: lessons from nature’s elite athletes. Physiology 2015;30:349-57"
-      url: http://www.physiology.org/doi/10.1152/physiol.00017.2015
+    - title: "Stressed-Out Narwhals Don't Know Whether to Freeze or Flee, Scientists Find"
+      url: https://www.npr.org/sections/thetwo-way/2017/12/07/569160429/stressed-out-narwhals-dont-know-whether-to-freeze-or-flee-scientists-find
+    - title: "Heart monitors on wild narwhals reveal alarming responses to stress"
+      url: https://news.ucsc.edu/2017/12/narwhals.html
+    - title: "Need for speed may contribute to dolphin and whale strandings"
+      url: https://news.ucsc.edu/2017/03/cetacean-energetics.html
+    - title: "Heart arrhythmias detected in deep-diving marine mammals"
+      url: https://news.ucsc.edu/2015/01/dive-response.html
+    - title: "Exxon Valdez oil spill was a turning point for biologist Terrie Williams"
+      url: https://news.ucsc.edu/2014/03/exxon-valdez.html 
     
 ---
 {% include_relative sidebars/2018-crossed-currents-hero-caption.html classes="right" bgcolor="#f1f1f1" %}

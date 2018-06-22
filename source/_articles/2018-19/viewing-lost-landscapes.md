@@ -20,12 +20,12 @@ further-inquiry:
     - title: "The Prelinger Library, a San Francisco-based physical archive of 19th and 20th century ephemera, maps and books, founded by Richard Prelinger and Megan Prelinger"
       url: http://www.prelingerlibrary.org/home/
 in-the-news:
-    - title: "Thousands of films are available online from The Prelinger Archives"
-      url: https://archive.org/details/prelinger
-    - title: "Many of Prelinger’s Lost Landscapes films are available online, including the 2015 Lost Landscapes of San Francisco"
-      url: https://vimeo.com/178839007
-    - title: "The Prelinger Library, a San Francisco-based physical archive of 19th and 20th century ephemera, maps and books, founded by Richard Prelinger and Megan Prelinger"
-      url: http://www.prelingerlibrary.org/home/
+    - title: "Lost Landscapes address S.F.’s Future"
+      url: https://archives.sfexaminer.com/sanfrancisco/lost-landscapes-address-sfs-future/Content?oid=2913273
+    - title: "Excavating New York, Frame by Frame"
+      url: https://www.nytimes.com/2017/11/08/movies/lost-landscapes-of-new-york.html
+    - title: "Personalizing the Past: History Through Home Movies"
+      url: https://www.pbs.org/wgbh/americanexperience/features/personalizing-past-interview-rick-prelinger/
     
 ---
 {% include_relative sidebars/2018-lost-landscapes-hero-caption.html classes="right" bgcolor="#f1f1f1" %}

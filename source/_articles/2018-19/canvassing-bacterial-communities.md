@@ -26,19 +26,14 @@ further-inquiry:
     - title: "Visick KL, Schembri MA, Yildiz F, Ghigo JM. Biofilms 2015: Multidisciplinary Approaches Shed Light into Microbial Life on Surfaces. J. Bacteriol 2016;198(19):2553-63"
       url: http://jb.asm.org/content/198/19/2553.full
 in-the-news:
-    - title: "Conner JG, Zamorano-Sánchez D, Park JH, Sondermann H, Yildiz FH. [The ins and outs of cyclic di-GMP signaling in Vibrio cholerae. Curr Opin Microbiol 2017;36:20-29."
-      url: https://www.sciencedirect.com/science/article/pii/S1369527416301606?via%3Dihub
-    - title: "Fong JCN, Rogers A, Michael AK, Parsley NC, et al. Structural dynamics of RbmA governs plasticity of Vibrio cholerae biofilms. elife 2017;6:e26163"
-      url: https://elifesciences.org/articles/26163
-    - title: "Jones CJ, Utada A, Davis KR, Thongsomboon W, et al. C-di-GMP Regulates Motile to Sessile Transition by Modulating MshA Pili Biogenesis and Near-Surface Motility Behavior in Vibrio cholerae. PLoS Pathog 2015;11(10):e1005068"
-      url: http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005068
-    - title: "Teschler JK, Cheng AT, Yildiz FH. The Two-Component Signal Transduction System VxrAB Positively Regulates Vibrio cholerae Biofilm Formation. J. Bacteriol 2017;199(18):e00139-17"
-      url: http://jb.asm.org/content/199/18/e00139-17.abstract
-    - title: "Teschler JK, Zamorano-Sánchez D, Utada AS, Warner CJA, et al. Living in the matrix: assembly and control of Vibrio cholerae biofilms. Nat Rev Microbiol 2015;13(5):255-68"
-      url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4437738/
-    - title: "Visick KL, Schembri MA, Yildiz F, Ghigo JM. Biofilms 2015: Multidisciplinary Approaches Shed Light into Microbial Life on Surfaces. J. Bacteriol 2016;198(19):2553-63"
-      url: http://jb.asm.org/content/198/19/2553.full
-    
+    - title: "Two UC Santa Cruz professors elected Fellows of the American Academy of Microbiology"
+      url: https://news.ucsc.edu/2015/02/microbiology.html
+    - title: "Cholera bacteria show adaptability to changing environments"
+      url: https://news.ucsc.edu/2009/12/3429.html
+    - title: "Research on cholera bacteria focuses on biofilm formation"
+      url: https://news.ucsc.edu/2004/03/459.html
+    - title: "Yildiz Lab"
+      url: https://yildizlab.sites.ucsc.edu/research/    
 ---
 {% include_relative sidebars/2018-canvassing-bacterial-communities-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 From above, the cholera colony looks like a piece of brain or a work of modern art. Deep grooves wind between wrinkly mountains of [*Vibrio cholerae*](https://en.wikipedia.org/wiki/Vibrio_cholerae) bacteria. It’s tempting to reach out and touch this living landscape, but one swipe could kill. This is the same bacteria that [sickens millions of people around the world each year, killing many of them](http://www.who.int/mediacentre/factsheets/fs107/en/), and it’s especially dangerous in its current form: a [biofilm](https://en.wikipedia.org/wiki/Biofilm).

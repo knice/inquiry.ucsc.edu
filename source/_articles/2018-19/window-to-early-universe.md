@@ -18,10 +18,16 @@ further-inquiry:
     - title: "Neeleman M, Kanekar N, Prochaska JX, Rafelski M, Carilli CL, Wolfe AM. C ii 158-μm emission from the host galaxies of damped Lyman-alpha systems. Science 2017;24(355):1285-88"
       url: http://science.sciencemag.org/content/355/6331/1285
 in-the-news:
-    - title: "Springel V, White SDM, Jenkins A, Frenk CS, et al. Simulations of the formation, evolution and clustering of galaxies. Nature 2005;435:629-36"
-      url: https://deepblue.lib.umich.edu/handle/2027.42/62586
-    - title: "Neeleman M, Kanekar N, Prochaska JX, Rafelski M, Carilli CL, Wolfe AM. C ii 158-μm emission from the host galaxies of damped Lyman-alpha systems. Science 2017;24(355):1285-88"
-      url: http://science.sciencemag.org/content/355/6331/1285
+    - title: "Astronomer Xavier Prochaska receives Outstanding Faculty Award"
+      url: https://news.ucsc.edu/2017/11/prochaska-outstanding-faculty.html
+    - title: "Astronomers observe early stages of Milky Way-like galaxies in distant universe"
+      url: https://news.ucsc.edu/2017/03/alma-galaxies.html
+    - title: "Vast luminous nebula poses a cosmic mystery"
+      url: https://news.ucsc.edu/2017/02/mammoth-nebula.html
+    - title: "The Cosmic Web"
+      url: https://www.youtube.com/watch?v=e3NDgepWCiA
+    - title: "Astronomers' cosmic web discovery among top breakthroughs of 2014"
+      url: https://news.ucsc.edu/2014/12/physics-top-ten.html
     
 ---
 {% include_relative sidebars/2018-window-to-early-universe-hero-caption.html classes="right" bgcolor="#f1f1f1" %}

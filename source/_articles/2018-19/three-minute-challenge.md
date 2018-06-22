@@ -11,7 +11,16 @@ author:
     url: https://about.me/marcus_woo
 banner:
     file: 2018/three-minute-challenge-hero1.jpg
-    position: left   
+    position: left
+in-the-news:
+    - title: "Thanks for the sediment"
+      url: https://news.ucsc.edu/2018/04/grad-slam-competition-feature-2018.html
+    - title: "Graduate student John Felts takes second place in UC Grad Slam"
+      url: https://news.ucsc.edu/2017/05/felts-grad-slam.html
+    - title: "UCSC Grad Slam winner envisions surfing on shrimp shells"
+      url: https://news.ucsc.edu/2017/03/grad-slam.html?utm_source=03-07-2017&utm_medium=email&utm_campaign=tuesday-newsday
+    - title: "Enthusiasm, excitement for discovery drives Grad Slam winner"
+      url: https://news.ucsc.edu/2016/04/nayak-michael-profile.html
 ---
 {% include_relative sidebars/2018-three-minute-challenge-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 As a graduate student, you spend years on your thesis or dissertation, mastering every detail of your experiments, calculations, interpretations, and analysis. Now try distilling all that expertise into a talk just three minutes long. And do it in an engaging and entertaining way with no jargon, so any intelligent person can understand it.
