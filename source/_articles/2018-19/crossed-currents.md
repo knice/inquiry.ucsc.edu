@@ -6,7 +6,7 @@ order: 9
 title: Crossed currents
 subhead: "Conflicting stress responses may beach marine mammals"
 author:
-    name: Barbara A. Rodriguez
+    name: Barbra A. Rodriguez
     file: "2018/barbara-rodriguez.jpg"
     url: https://www.linkedin.com/in/vitalwordplay/
 banner:
