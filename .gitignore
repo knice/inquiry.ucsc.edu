@@ -7,3 +7,4 @@ Gemfile.lock
 vendor
 _raw
 source/_includes/javascripts.html
+node_modules
