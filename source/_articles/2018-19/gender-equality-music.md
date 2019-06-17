@@ -5,8 +5,8 @@ category: brief
 order: 13
 title: Gender equality via music
 colors:
-    background: "#f7edde"
-    tag: "#84cbd8"
+  background: "#f7edde"
+  tag: "#84cbd8"
 tags:
     - Music 
 ---

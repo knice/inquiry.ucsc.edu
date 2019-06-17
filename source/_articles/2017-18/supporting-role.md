@@ -5,8 +5,8 @@ category: brief
 order: 12
 title: Supporting role
 colors:
-    background: "#f7edde"
-    tag: "#e37526"
+  background: "#f7edde"
+  tag: "#e37526"
 tags:
     - Mollecular, Cell, and Developmental Biology
 ---
