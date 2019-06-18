@@ -11,7 +11,7 @@ tags:
     - Rachel Carson College
 ---
 <figure>
-{% img 2017/p7-peregrine-falcon.jpg magick:resize:600 alt:"Nimmo Pluto" %}
+{% asset 2017/p7-peregrine-falcon.jpg @magick:resize=600 alt:"Nimmo Pluto" %}
 <figcaption>The peregrine falcon recovery is a case study in successful conservation work, said Glenn Stewart, former director of SCPBRG, a group formed in 1975 when only two breeding pairs of the birds were known in California.</figcaption>
 </figure>
 

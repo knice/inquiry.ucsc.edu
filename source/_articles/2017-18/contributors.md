@@ -7,23 +7,23 @@ title: Inquiring minds
 ---
 
 <ul class="contributors-container">
-<li>{% img 2017/elizabeth-devitt.jpg alt:"Elizabeth Devitt ('13)" %}<span>Elizabeth Devitt ('13)</span></li>
+<li>{% asset 2017/elizabeth-devitt.jpg alt:"Elizabeth Devitt ('13)" %}<span>Elizabeth Devitt ('13)</span></li>
 
-<li>{% img 2017/melissae-fellet.jpg alt:"Melissae Fellet ('11)" %}<span>Melissae Fellet ('11)</span></li>
+<li>{% asset 2017/melissae-fellet.jpg alt:"Melissae Fellet ('11)" %}<span>Melissae Fellet ('11)</span></li>
 
-<li>{% img 2017/greta-lorge.jpg alt:"Gretta Lorge ('03)" %}<span>Gretta Lorge ('03)</span></li>
+<li>{% asset 2017/greta-lorge.jpg alt:"Gretta Lorge ('03)" %}<span>Gretta Lorge ('03)</span></li>
 
-<li>{% img 2017/robin-meadows.jpg alt:"Robin Meadows ('87)" %}<span>Robin Meadows ('87)</span></li>
+<li>{% asset 2017/robin-meadows.jpg alt:"Robin Meadows ('87)" %}<span>Robin Meadows ('87)</span></li>
 
-<li>{% img 2017/laura-poppick.jpg alt:"Laura Poppick ('13)" %}<span>Laura Poppick ('13)</span></li>
+<li>{% asset 2017/laura-poppick.jpg alt:"Laura Poppick ('13)" %}<span>Laura Poppick ('13)</span></li>
 
-<li>{% img 2017/kim-smuga-otto.jpg alt:"Kim Smuga-Otto ('15)" %}<span>Kim Smuga-Otto ('15)</span></li>
+<li>{% asset 2017/kim-smuga-otto.jpg alt:"Kim Smuga-Otto ('15)" %}<span>Kim Smuga-Otto ('15)</span></li>
 
-<li>{% img 2017/cameron-walker.jpg alt:"Cameron Walker ('02)" %}<span>Cameron Walker ('02)</span></li>
+<li>{% asset 2017/cameron-walker.jpg alt:"Cameron Walker ('02)" %}<span>Cameron Walker ('02)</span></li>
 
-<li>{% img 2017/amy-west.jpg alt:"Amy West ('12)" %}<span>Amy West ('12)</span></li>
+<li>{% asset 2017/amy-west.jpg alt:"Amy West ('12)" %}<span>Amy West ('12)</span></li>
 
-<li>{% img 2017/sarah-cp-williams.jpg alt:"Sarah C. P. Williams ('07)" %}<span>Sarah C. P. Williams ('07)</span></li>
+<li>{% asset 2017/sarah-cp-williams.jpg alt:"Sarah C. P. Williams ('07)" %}<span>Sarah C. P. Williams ('07)</span></li>
 
 <li><span></span></li>
 </ul>

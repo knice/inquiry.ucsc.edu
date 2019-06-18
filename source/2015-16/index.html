@@ -26,7 +26,7 @@ current: 2015-16
     
       <ul class="toc-list">
 
-      {% assign sorted_articles = (site.articles | where: 'issue','2015' | sort: 'order') %}
+      {% assign sorted_articles = site.articles | where: 'issue','2015' | sort: 'order' %}
       {% for post in sorted_articles %}
         
         {% if post.category == 'feature' %}
@@ -49,7 +49,7 @@ current: 2015-16
   <section class="one-third block">
       
       <h3 class="index-headline featured">Download the PDF</h3>
-      <a href="/{{ page.current }}/inquiry-2015.pdf">{% image '2015/inquiry-cover.jpg' magick:resize:380 alt:'2016 cover of Inquiry Magazine' %}</a>
+      <a href="/{{ page.current }}/inquiry-2015.pdf">{% asset '2015/inquiry-cover.jpg' @magick:resize=380 alt:'2016 cover of Inquiry Magazine' %}</a>
   </section>
 
 </div>

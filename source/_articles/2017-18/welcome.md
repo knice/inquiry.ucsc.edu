@@ -6,7 +6,7 @@ order: 1
 title: "The spirit of inquiry@UC Santa Cruz"
 ---
 
-{% image 2017/p2-scott-brandt.jpg magick:resize:200 class:'left' %}
+{% asset 2017/p2-scott-brandt.jpg @magick:resize=200 class:'left' %}
 
 Welcome to the third edition of inquiry@UC Santa Cruz! This annual research magazine is jointly sponsored by the Office of Research and University Relations, and provides updates on some of the exciting and innovative work being conducted by UC Santa Cruz researchers. It also highlights our campus’s training in public outreach: the magazine showcases features written by graduates of UC Santa Cruz’s internationally renowned Science Communication Program.
 
@@ -18,7 +18,7 @@ We hope that you enjoy the descriptions of the research enterprise at UC Santa C
 As can be seen in the features, our researchers, staff, and students all contribute to making 
 UC Santa Cruz research a bold, creative, and vibrant enterprise that pushes the frontiers of human knowledge in new and unexpected directions.
 
-{% image 2017/p2-brandt-signature.jpg magick:resize:240 alt:'Signature' %}
+{% asset 2017/p2-brandt-signature.jpg @magick:resize=240 alt:'Signature' %}
 
 **Scott A. Brandt**  
 Vice Chancellor for Research  

@@ -49,7 +49,7 @@ Despite those upheavals, he found that law wasn't absent from Sudan. In fact, it
 
 <figure>
 
-{% img 2016/p30-sudan.jpg magick:resize:650 alt:"Sudanese pyramids" %}
+{% asset 2016/p30-sudan.jpg @magick:resize=650 alt:"Sudanese pyramids" %}
 
 <figcaption>Although Sudan may be better known for its long history of conflicts, the country also has ancient pyramids which have been designated as UNESCO World Heritage sites.</figcaption>
 
@@ -106,7 +106,7 @@ Next Massoud looked for recurring words that pointed to themes in the interviews
 
 <figure>
 
-{% img 2016/p33-girl.jpg magick:resize:650 alt:"Sudanese girl with flag" %}
+{% asset 2016/p33-girl.jpg @magick:resize=650 alt:"Sudanese girl with flag" %}
 
 <figcaption>A young girl raises a flag for South Sudan, which seceded from Sudan in 2011 as part of a peace agreement made six years earlier to end Africa's longest-running civil war. Not all countries recognize this independence and conflicts continue in the country, which holds the top spot in the Fragile States Index.</figcaption>
 
@@ -139,7 +139,7 @@ Like the law, Massoud noted, religion can also be used for good or bad, so it's 
 
 <figure class="right" style="width:400px;">
 
-{% img 2016/p34-word-cloud.jpg magick:resize:400 alt:"Word cloud" %}
+{% asset 2016/p34-word-cloud.jpg @magick:resize=400 alt:"Word cloud" %}
 
 <figcaption>The academic team asked a digital artist to create a "word cloud" image based on the thematic words pulled from the interviews. They also commissioned a video installation of excerpts of the transcribed interviews read aloud by a spoken word poet. The video produced by Massoud and Moore was shown at a team-sponsored exhibit featuring work by Muslim artists at the Downtown Independent theater in Los Angeles. Preliminary results from the project were published in Boom, a journal about California life.</figcaption>
 

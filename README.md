@@ -13,10 +13,7 @@ Set up your project in your code directory
 ```shell
 git clone git@github.com:knice/inquiry.ucsc.edu.git your-project-folder
 cd your-project-folder
-git remote rm origin
-git remote add origin your-repo-url
 ```
-
 Install dependencies
 
 ```shell
@@ -30,17 +27,10 @@ bundle install
 Run the server and watch for changes in your files
 
 ```shell
-bundle exec jekyll serve -w
-```
-
-Deploy to Github Pages
-
-```shell
-jekyll build && git subtree push --prefix build origin gh-pages
+bundle exec jekyll serve --livereload
 ```
 
 Stylesheets, fonts, images, and javascript files go in the `/source/_assets/` directory.
-Vendor stylesheets and javascripts should go in each of their `/vendor/` directories.
 
 ## Issues
 
@@ -49,6 +39,6 @@ If you have problems, please create a
 
 ## Credits
 
-This site is built with [Jekyll](http://jekyllrb.com/), tested and deployed with [Travis-CI](http://travis-ci.org/), and served from a bucket on Amazon S3. This particular configuration of Jekyll is called [Proteus Jekyll](https://github.com/thoughtbot/proteus), created and maintained by [thoughtbot, inc](http://thoughtbot.com).
+This site is built with [Jekyll](http://jekyllrb.com/), tested and deployed with [Travis-CI](http://travis-ci.org/), and served from Netlify.
 
 Inquiry magazine is Copyright &copy; 2015, The Regents of the University of California.

@@ -7,37 +7,37 @@ title: Inquiring minds
 ---
 
 <ul class="contributors-container">
-<li>{% img 2018/sukee-bennett.jpg alt:"Sukee Bennett (’17)" %}<span><a href="https://sukee.net/blog/">Sukee Bennett (’17)</a></span></li>
+<li>{% asset 2018/sukee-bennett.jpg alt:"Sukee Bennett (’17)" %}<span><a href="https://sukee.net/blog/">Sukee Bennett (’17)</a></span></li>
 
-<li>{% img 2018/ula-chrobak.jpg alt:"Ula Chrobak (’17)" %}<span><a href="https://www.ulachrobak.com/">Ula Chrobak (’17)</a></span></li>
+<li>{% asset 2018/ula-chrobak.jpg alt:"Ula Chrobak (’17)" %}<span><a href="https://www.ulachrobak.com/">Ula Chrobak (’17)</a></span></li>
 
-<li>{% img 2018/david-egerter.jpg alt:"David Egerter, Editor (’88)" %}<span><a href="https://medcommstrategy.com/">David Egerter, Editor (’88)</a></span></li>
+<li>{% asset 2018/david-egerter.jpg alt:"David Egerter, Editor (’88)" %}<span><a href="https://medcommstrategy.com/">David Egerter, Editor (’88)</a></span></li>
 
-<li>{% img 2018/emma-hiolski.jpg alt:"Emma Hiolski (’17)" %}<span><a href="https://www.emmahiolski.com/">Emma Hiolski (’17)</a></span></li>
+<li>{% asset 2018/emma-hiolski.jpg alt:"Emma Hiolski (’17)" %}<span><a href="https://www.emmahiolski.com/">Emma Hiolski (’17)</a></span></li>
 
-<li>{% img 2018/adam-mann.jpg alt:"Adam Mann (’10)" %}<span><a href="https://www.adamspacemann.com/">Adam Mann (’10)</a></span></li>
+<li>{% asset 2018/adam-mann.jpg alt:"Adam Mann (’10)" %}<span><a href="https://www.adamspacemann.com/">Adam Mann (’10)</a></span></li>
 
-<li>{% img 2018/sarah-mcquate.jpg alt:"Sarah McQuate (’17)" %}<span><a href="https://sarahmcquate.com/">Sarah McQuate (’17)</a></span></li>
+<li>{% asset 2018/sarah-mcquate.jpg alt:"Sarah McQuate (’17)" %}<span><a href="https://sarahmcquate.com/">Sarah McQuate (’17)</a></span></li>
 
-<li>{% img 2018/katharine-miller.jpg alt:"Katharine Miller (’01)" %}<span>Katharine Miller (’01)</span></li>
+<li>{% asset 2018/katharine-miller.jpg alt:"Katharine Miller (’01)" %}<span>Katharine Miller (’01)</span></li>
 
-<li>{% img 2018/chris-palmer.jpg alt:"Chris Palmer (’13)" %}<span><a href="http://chrispalmer.squarespace.com/">Chris Palmer (’13)</a></span></li>
+<li>{% asset 2018/chris-palmer.jpg alt:"Chris Palmer (’13)" %}<span><a href="http://chrispalmer.squarespace.com/">Chris Palmer (’13)</a></span></li>
 
-<li>{% img 2018/robert-pollie.jpg alt:"Robert Pollie (’82)" %}<span><a href="http://7thavenueproject.com/">Robert Pollie (’82)</a></span></li>
+<li>{% asset 2018/robert-pollie.jpg alt:"Robert Pollie (’82)" %}<span><a href="http://7thavenueproject.com/">Robert Pollie (’82)</a></span></li>
 
-<li>{% img 2018/barbara-rodriguez.jpg alt:"Barbra A. Rodriguez (’97)" %}<span><a href="https://www.linkedin.com/in/vitalwordplay/">Barbra A. Rodriguez (’97)</a></span></li>
+<li>{% asset 2018/barbara-rodriguez.jpg alt:"Barbra A. Rodriguez (’97)" %}<span><a href="https://www.linkedin.com/in/vitalwordplay/">Barbra A. Rodriguez (’97)</a></span></li>
 
-<li>{% img 2018/patricia-waldron.jpg alt:"Patricia Waldron (’14)" %}<span><a href="http://www.patriciawaldron.com/">Patricia Waldron (’14)</a></span></li>
+<li>{% asset 2018/patricia-waldron.jpg alt:"Patricia Waldron (’14)" %}<span><a href="http://www.patriciawaldron.com/">Patricia Waldron (’14)</a></span></li>
 
-<li>{% img 2018/cameron-walker.jpg alt:"Cameron Walker (’02)" %}<span><a href="http://www.cameronwalker.net/">Cameron Walker (’02)</a></span></li>
+<li>{% asset 2018/cameron-walker.jpg alt:"Cameron Walker (’02)" %}<span><a href="http://www.cameronwalker.net/">Cameron Walker (’02)</a></span></li>
 
-<li>{% img 2018/amy-west.jpg alt:"Amy West (’12)" %}<span><a href="http://amyewest.com/">Amy West (’12)</a></span></li>
+<li>{% asset 2018/amy-west.jpg alt:"Amy West (’12)" %}<span><a href="http://amyewest.com/">Amy West (’12)</a></span></li>
 
-<li>{% img 2018/sarah-williams.jpg alt:"Sarah C. P. Williams ('07)" %}<span><a href="http://www.sarahcpwilliams.com/">Sarah C. P. Williams ('07)</a></span></li>
+<li>{% asset 2018/sarah-williams.jpg alt:"Sarah C. P. Williams ('07)" %}<span><a href="http://www.sarahcpwilliams.com/">Sarah C. P. Williams ('07)</a></span></li>
 
-<li>{% img 2018/marcus-woo.jpg alt:"Marcus Woo (’07)" %}<span><a href="https://about.me/marcus_woo">Marcus Woo (’07)</a></span></li>
+<li>{% asset 2018/marcus-woo.jpg alt:"Marcus Woo (’07)" %}<span><a href="https://about.me/marcus_woo">Marcus Woo (’07)</a></span></li>
 
-<li>{% img 2018/sascha-zubryd.jpg alt:"Sascha Zubryd (’11)" %}<span><a href="https://outfog.com/author/sascha-zubryd/">Sascha Zubryd (’11)</a></span></li>
+<li>{% asset 2018/sascha-zubryd.jpg alt:"Sascha Zubryd (’11)" %}<span><a href="https://outfog.com/author/sascha-zubryd/">Sascha Zubryd (’11)</a></span></li>
 
 </ul>
 

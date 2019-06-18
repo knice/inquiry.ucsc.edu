@@ -12,7 +12,7 @@ tags:
 Students who feel they belong perform better. And when students feel stereotyped in school, their academic performance suffers. Years of sociological research bear this out. But there are other, subtler elements that can contribute to a school’s [racial climate](https://byrdlab.sites.ucsc.edu/) and impact student outcomes.
 
 <figure>
-{% img 2018/race-in-schools.jpg magick:resize:380 alt:"School children" class:"right" %}
+{% asset 2018/race-in-schools.jpg @magick:resize=380 alt:"School children" class:"right" %}
 <figcaption>The quality of interactions between racial groups is crucial to whether students feel a sense of belonging at school. Credit: <a href="https://commons.wikimedia.org/wiki/File:ICS_MS_lockers.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ tags:
     - Anthropology
 ---
 <figure class="left">
-{% img 2017/p9-la-doncela.jpg magick:resize:600 alt:"La Doncela" %}
+{% asset 2017/p9-la-doncela.jpg @magick:resize=600 alt:"La Doncela" %}
 <figcaption>La Doncela is an Incan mummy that was found at Mount Llullaillaco in Argentina in 1999. Her DNA was included in the study of pre-Columbian individuals who lived 500 to 8,500 years ago, and helped archaeologists follow the movement of people to the Americas. With modern genomic tools, UC Santa Cruz biological anthropologist Lars Fehren-Schmitz follows the molecular footprints of ancient people. By analyzing DNA from prehistoric and historic human remains, he studies where—and when—our ancestors went. This genetic data can also show how disease, environment, and lifestyles affect human adaptation.</figcaption>
 </figure>
 

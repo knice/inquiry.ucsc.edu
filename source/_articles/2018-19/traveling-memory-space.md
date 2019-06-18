@@ -11,7 +11,7 @@ tags:
     - Literature 
 ---
 <figure>
-{% img 2018/venice-ghetto.jpg magick:resize:380 alt:"Venice Ghetto" class:"right" %}
+{% asset 2018/venice-ghetto.jpg @magick:resize=380 alt:"Venice Ghetto" class:"right" %}
 <figcaption>From 1516 to 1870, Jews were forced to live in the <a href="https://en.wikipedia.org/wiki/Venetian_Ghetto">Venice Ghetto</a> (view of present-day outer wall). Credit: Getty Images.</figcaption>
 </figure>
 

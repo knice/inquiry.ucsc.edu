@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure class="right" style="width:65%;">
-    {% image 2016/p8-spotted-seal.jpg magick:resize:600 alt:'Spotted seals' %}
+    {% asset 2016/p8-spotted-seal.jpg @magick:resize=600 alt:'Spotted seals' %}
     <figcaption>The two spotted seals at Long Marine Lab, Amak and Tunu, were orphaned as pups in the Arctic. NMFS Permit 14535. Photos courtesy Reichmuth Lab.</figcaption>
 </figure>
 

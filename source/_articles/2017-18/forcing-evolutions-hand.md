@@ -53,7 +53,7 @@ The anadromous populations of alewife have steadily declined since the 1970s. A 
 Palkovacs&#39; background in population genetics drove him to search for reasons why alewife numbers continued to dramatically drop along stretches of the Eastern Seaboard, despite years of improving pathways for fish, protecting water quality, and setting limits on freshwater harvests. He surmised the only thing left relatively unchecked was their vulnerability as bycatch; trawl nets targeting oceanic Atlantic herring accidentally scoop up blueback herring and alewife swimming among them.
 
 <figure class="" style="width:600px;">
-  {% img 2017/p31-herring-decline-graph.jpg magick:resize:600 alt:'Herring decline graph' %}
+  {% asset 2017/p31-herring-decline-graph.jpg @magick:resize=600 alt:'Herring decline graph' %}
   <figcaption>The decline of the herring. Total commercial landings of river herring from the U.S. Atlantic Coast, 1950-2007. Graph courtesy of National Marine Fisheries Service.
 </figcaption>
 </figure>
@@ -65,7 +65,7 @@ The results of this work showed that the threatened East Coast alewife populatio
 This DNA detective work also revealed to Palkovacs the extent to which these foot-long fish travel up and down the coast, and their susceptibility to ending up as bycatch. &quot;We can&#39;t say with 100 percent certainty that it [bycatch] caused past declines, but I can say it&#39;s contributing to their lack of recovery,&quot; he said.
 
 <figure class="" style="width:600px;">
-  {% img 2017/p31-fin-clip.jpg magick:resize:600 alt:'Photo of non-lethal clip of adipose fin' %}
+  {% asset 2017/p31-fin-clip.jpg @magick:resize=600 alt:'Photo of non-lethal clip of adipose fin' %}
   <figcaption>NOAA&#39;s John Carlos Garza shows what&#39;s needed for the genetic analyses of alewives: a non-lethal snip of an adipose fin. Photo courtesy of Amy West.
 </figcaption>
 </figure>

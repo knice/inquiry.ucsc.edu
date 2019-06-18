@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure class="right">
-{% img 2016/p5-bat.jpg magick:resize:400 alt:'Hanging bat' %}
+{% asset 2016/p5-bat.jpg @magick:resize=400 alt:'Hanging bat' %}
 <figcaption>White-nose syndrome was named for appearance of the fungus (Pseudogymnoascus destructans) around the muzzles, ears, and wing membranes of affected bats. Photo by Alan C. Hicks.</figcaption>
 </figure>
 

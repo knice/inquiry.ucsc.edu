@@ -30,7 +30,7 @@ A professor of ocean sciences, Kudela studies and tracks harmful algal blooms (H
 "From a scientific perspective, we were happy to see the bloom because we could collect the data we need to actually predict what's going on," said Kudela.
 
 <figure class="right" style="width:400px;">
-  {% img 2016/p11-lab-can.jpg magick:resize:400 alt:'A worker lowers Lab in a Can' %}
+  {% asset 2016/p11-lab-can.jpg @magick:resize=400 alt:'A worker lowers Lab in a Can' %}
   <figcaption>Kudela's team uses "lab in a can," to measure toxin levels and types of algae. Photo courtesy Kudela Lab
 </figcaption>
 </figure>

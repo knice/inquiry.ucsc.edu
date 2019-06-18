@@ -50,7 +50,7 @@ Federal records law prohibits unannounced destruction of government information.
 Take, for instance, one case involving [major website facelifts](https://www.nytimes.com/2017/10/20/climate/epa-climate-change.html?_r=0) to the EPA’s [climate action plans for cities](https://www.epa.gov/statelocalenergy). Although the EPA relocated the original pages to an accessible [online archive](https://archive.epa.gov/epa/statelocalclimate/developing-state-climate-change-action-plan.html#one), the [archive is incomplete](https://envirodatagov.org/epas-website-overhaul-continues/), ending in broken links. Changes like this are not necessarily deliberate. In some cases, agencies have rewritten climate science pages to escape defunding, so EDGI did not want to alarm people unnecessarily. “There was so much going on, it’s easy to think website changes were a conspiracy. We didn’t want to play into that,” Dillon said.
 
 <figure class="" style="width:600px;">
-  {% img 2018/hunters-point.jpg magick:resize:600 alt:'Slave trade routes in the Carribean' %}
+  {% asset 2018/hunters-point.jpg @magick:resize=600 alt:'Slave trade routes in the Carribean' %}
   <figcaption>A newly constructed condominium looks out over the Hunters Point Naval Shipyard, where workers decontaminated ships from nuclear weapons testing and disposed of radioactive waste on site. This industrial area of southeastern San Francisco, the focus of Dillon’s primary research, has also housed a power plant, sewage treatment plant, and waste transfer station, and is now vulnerable to storm surge and sea-level rise.
 </figcaption>
 </figure>
@@ -62,7 +62,7 @@ It’s important to recognize that some website manipulations can have greater n
 
 Dillon knows her way around government records. Such information provides the foundation for her primary research on the history, social, and economic dynamics of San Francisco’s Bayview–Hunters Point. Historically, this industrial neighborhood had the highest concentrations of pollutants in the city, coupled with [abnormally high rates of diseases](http://barhii.org/wp-content/uploads/2015/09/barhii_hiba.pdf), like asthma and heart failure, compared to the rest of California. In addition, radioactive and other hazardous waste contaminating the soil and water qualified the World War II Hunters Point Naval Shipyard as an [EPA superfund site](https://cumulis.epa.gov/supercpad/cursites/csitinfo.cfm?id=0902722). The area has been a hotbed of environmental justice activism; residents [have long voiced their concerns](http://www.sfweekly.com/topstories/bayview-hunters-point-leads-the-charge-against-a-rising-tide-of-pollution/) about living in San Francisco’s most polluted area. “There’s a connection between race and urban inequality in the U.S.,” said Dillon. “The place where you live really does influence your health.”
 <figure class="left" style="width:300px;">
-  {% img 2018/pollution-protest.jpg magick:resize:300 alt:'Protest against pollution and gentrification' %}
+  {% asset 2018/pollution-protest.jpg @magick:resize=300 alt:'Protest against pollution and gentrification' %}
   <figcaption>In July 2017, a protest against pollution and gentrification took place in front of the housing office for the <a href="https://thesfshipyard.com/">San Francisco Shipyard</a>, an upscale housing development being built on the former site of the Hunters Point Naval Shipyard.
 </figcaption>
 </figure>

@@ -1,4 +1,4 @@
-plugins: ['bourbon', 'neat', 'jekyll-assets']
+plugins: ['bourbon', 'neat', 'jekyll-assets', 'jekyll-seo-tag']
 
 # Structure configuration
 source: ./source
@@ -12,7 +12,7 @@ assets:
 title: "Inqury @ UC Santa Cruz"
 description: UC Santa Cruz Research Magazine
 permalink: /:year/:title/
-url: http://inquiry.ucsc.edu
+url: https://inquiry.ucsc.edu
 
 # Name of project on Github
 # baseurl: /inquiry.ucsc.edu

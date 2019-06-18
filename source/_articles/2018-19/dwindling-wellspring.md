@@ -12,7 +12,7 @@ tags:
 ---
 During Peru’s long dry season, seasonal glacier melt releases sorely needed water from frozen storage. The warming climate initially increased the flow, boosting agriculture and hydroelectric power. But Andean glaciers have continued to shrink, and so has the water supply.
 <figure>
-{% img 2018/cuchillacocha-glacier.jpg magick:resize:380 alt:"Cuchillacocha glacier in Peru" class:"right" %}
+{% asset 2018/cuchillacocha-glacier.jpg @magick:resize=380 alt:"Cuchillacocha glacier in Peru" class:"right" %}
 <figcaption>The Cuchillacocha—shown here during the dry season—and other glaciers in the Andes are receding, significantly reducing access to water in Peru, from its high mountains all the way to its coastal cities. Credit: Bryan G. Mark, courtesy of Jeffrey Bury.</figcaption>
 </figure>
 “It’s much farther along than we thought,” said [**Jeffrey Bury**](https://envs.ucsc.edu/faculty/singleton.php?&singleton=true&cruz_id=jbury), professor of environmental studies and faculty director of the [Center for Integrated Spatial Research](http://gis.ucsc.edu/). Bury’s [research](https://people.ucsc.edu/~jbury/CurrentResearchProjects.htm) focuses on how glacier loss and social factors impact access to water in Peru, from its high mountains to its coastal cities.

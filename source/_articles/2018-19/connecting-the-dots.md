@@ -11,7 +11,7 @@ tags:
     - Computational media 
 ---
 <figure>
-{% img 2018/fmri-data.jpg magick:resize:380 alt:"Functional MRI" class:"right" %}
+{% asset 2018/fmri-data.jpg @magick:resize=380 alt:"Functional MRI" class:"right" %}
 <figcaption><a href="https://github.com/CreativeCodingLab/NeuroCave">NeuroCave</a> representation of human subject functional MRI data broken into 2514 regions. The map on the right shows the anatomical clustering of the regions, while the map on the left arranges them according to specific functional characteristics. Credit: <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/NETN_a_00044">Keiriz, et al., Network Neuroscience</a>. ©2018 Massachusetts Institute of Technology, Creative Commons 4.0.</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ Widely used by clinicians for decades, noninvasive neuroimaging techniques such 
 A common task in studying neurological disorders such as Alzheimer’s disease involves comparing the connectomes of healthy and diseased groups to identify brain changes due to illness. However, no application existed that allowed robust comparisons in real-time of two or more connectome datasets.
 
 <figure style="width:600px;">
-{% img 2018/virtual-reality.jpg magick:resize:380 alt:"Researcher wearing virtual reality headsets" class:"right" %}
+{% asset 2018/virtual-reality.jpg @magick:resize=380 alt:"Researcher wearing virtual reality headsets" class:"right" %}
 <figcaption>Forbes’s collaborator <a href="https://www.psych.uic.edu/profile/alex-leow">Alex Leow</a>, a clinical psychiatrist at the University of Illinois, Chicago, dons a virtual reality headset to view 3D brain connectome datasets in the <a href="https://creativecodinglab.github.io/NeuroCave/">NeuroCave</a> software environment. Credit: <a href="https://www.mitpressjournals.org/doi/pdf/10.1162/NETN_a_00044">Keiriz et al., Network Neuroscience</a>; ©2018 Massachusetts Institute of Technology, Creative Commons 4.0.</figcaption>
 </figure>
 

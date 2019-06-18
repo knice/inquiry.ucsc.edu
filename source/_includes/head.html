@@ -13,10 +13,10 @@
 
   <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
 
-  <link rel="shortcut icon" href="{% asset_path 'favicon.ico' %}">
+  <link rel="shortcut icon" href="{% asset 'favicon.ico' @path %}">
 
-  <link rel="stylesheet" type="text/css" media="screen" href="{% asset_path main.css %}" />
-  <link rel="stylesheet" type="text/css" media="print" href="{% asset_path print.css %}" />
+  {% asset main.css %}
+  {% asset print.css %}
 
   <!-- Social meta -->
   <meta property="fb:admins" content="1322847221,508316988" />
@@ -27,11 +27,11 @@
   <meta property="og:description" content="{% if page.subhead %}{{ page.subhead }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
   {% if page.banner %}
-  <meta property="og:image" content='{{ site.url }}{% asset_path "{{ page.banner.file }}" %}' />
-  <meta name="twitter:image" content='{{ site.url }}{% asset_path "{{ page.banner.file }}" %}' />
+  <meta property="og:image" content='{{ site.url }}{% asset "{{ page.banner.file }}" @path %}' />
+  <meta name="twitter:image" content='{{ site.url }}{% asset "{{ page.banner.file }}" @path %}' />
   {% else %}
-  <meta property="og:image" content='{{ site.url }}{% asset_path "{{ site.cover }}" %}' />
-  <meta name="twitter:image" content='{{ site.url }}{% asset_path "{{ site.cover }}" %}' />
+  <meta property="og:image" content='{{ site.url }}{% asset "{{ site.cover }}" @path %}' />
+  <meta name="twitter:image" content='{{ site.url }}{% asset "{{ site.cover }}" @path %}' />
   {% endif %}
   <meta content="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
   <meta content="twitter:description" content="{% if page.subhead %}{{ page.subhead }}{% else %}{{ site.description }}{% endif %}"/>

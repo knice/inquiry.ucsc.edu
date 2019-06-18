@@ -78,7 +78,7 @@ Genome sequences provide important health information for humans, too. In August
 For serious infections like sepsis, severe pneumonia, and complicated urinary tract infections, rapid treatment with an effective antibiotic is key. MinION sequencing could identify infection-causing bacteria faster than, yet as effectively as, current culturing methods, said Justin O&#39;Grady, a medical microbiologist at the University of East Anglia, UK. The genome also contains information about antibiotic resistance, providing doctors with clues about which drugs would not effectively treat an infection.
 
 <figure class="left" style="width:400px;">
-  {% img 2017/p26-mini-ion.jpg magick:resize:400 alt:'MiniION' %}
+  {% asset 2017/p26-mini-ion.jpg @magick:resize=400 alt:'MiniION' %}
   <figcaption>Urinary tract infections could be treated more quickly and efficiently using a DNA sequencing device the size of a USB stick—according to research from the University of East Anglia. Researchers used MinION to perform nanopore sequencing to characterize bacteria from urine samples four times more quickly than traditional methods of culturing bacteria. The new method can also detect antibiotic resistance—allowing patients to be treated more effectively and improving stewardship of available antibiotics. Photo courtesy of Oxford Nanopore.
 </figcaption>
 </figure>
@@ -90,7 +90,7 @@ In February, the World Health Organization announced that the most common bacter
 Other microbes, such as viruses and some parasites, can cause infections that spread quickly, sickening hundreds to thousands of people. For Jane Carlton, a biologist at New York University, the genome of the parasite that causes malaria is a basic tool to understanding its biology, ability to cause disease, and sensitivity to drugs. She, too, was part of the first group of researchers to use the MinION, and she thought the device&#39;s portability could change how she does research in rural India. Genomic information can be limited when infectious disease outbreaks happen in countries without access to the latest DNA sequencing technology. Developing the capacity for local scientists to sequence the genomes of infectious diseases such as malaria means that precious samples do not need to be sent to foreign labs, which can be expensive, logistically difficult, and take time.
 
 <figure class="" style="width:600px;">
-  {% img 2017/p26-illumina-miseq.jpg magick:resize:600 alt:'Illumina Miseq DNA sequencer' %}
+  {% asset 2017/p26-illumina-miseq.jpg @magick:resize=600 alt:'Illumina Miseq DNA sequencer' %}
   <figcaption>The MinION DNA sequencer sits atop a state-of-the-art next-generation sequencer. The MinION is significantly smaller than typical laboratory sequencers, which are about the size of a personal refrigerator, and not so easy to travel with. Photo courtesy of Oxford Nanopore.
 </figcaption>
 </figure>

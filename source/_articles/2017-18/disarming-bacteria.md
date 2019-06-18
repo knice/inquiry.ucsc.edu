@@ -39,7 +39,7 @@ Earlier this year, the World Health Organization published a list of &quot;prior
 Named for their appearance under the microscope, these bacteria have an extra membrane surrounding them, making them especially good at keeping out existing antibiotics. That&#39;s one reason Auerbuch Stone&#39;s work with the type III secretion system is so important—the tiny syringe system is found specifically on Gram-negative bacteria, including the well-known bugs _E. coli, Chlamydia,_ and _Salmonella._
 
 <figure class="" style="width:400px;">
-  {% img 2017/p16-auerbuch-stone-lab.jpg magick:resize:400 alt:'Image of fluorescent human cells' %}
+  {% asset 2017/p16-auerbuch-stone-lab.jpg @magick:resize=400 alt:'Image of fluorescent human cells' %}
   <figcaption>Testing new drugs against the system, the Auerbuch Stone lab uses a human cell line that lights up with green fluorescence when cells encounter the Yersinia type III secretion system. Here, human cells fluoresce in the center panel when Yersinia bacteria are added, but remain dark when no bacteria are added (left) or when bacteria are added at the same time as a type III secretion system inhibitor (right). Image courtesy of Hanh Lam.
 </figcaption>
 </figure>

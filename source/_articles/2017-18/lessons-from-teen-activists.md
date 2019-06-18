@@ -32,7 +32,7 @@ Terriquez works in an emerging area of sociology, studying citizen-based organiz
 Terriquez&#39;s own politicizing moment came during the fight against passage of California Proposition 187, in the mid-1990s, which would have barred undocumented individuals from access to public services like non-emergency health care and public schools—to devastating effect in her community, she said. Ensuing work with community organizations guided her career toward &quot;understanding how people could have a voice in their communities.&quot;
 
 <figure class="" style="width:600px;">
-  {% img 2017/p35-terriquez-files.jpg magick:resize:600 alt:'Photo of Veronica Terriquez' %}
+  {% asset 2017/p35-terriquez-files.jpg @magick:resize=600 alt:'Photo of Veronica Terriquez' %}
   <figcaption>Terriquez collected nearly 4,000 surveys from the 132 BHC-affiliated youth-serving organizations in 2016. The number of BHC-affiliated organizations serving youth has grown since the initiative&#39;s inception. This report draws on data from 132 separate organizations, which run a total of 151 programs operating within the 14 BHC sites. Photo courtesy of Kim Smuga-Otto.
 </figcaption>
 </figure>
@@ -47,7 +47,7 @@ It&#39;s not easy to elicit replies from high school students, but Terriquez&#39
 She credits her high survey return rate to partnering her students with interns from the organizations she studied. The interns also collaborated on the analysis of the surveys they helped gather—resulting in 14 reports crediting a total of 25 student and intern coauthors.
 
 <figure class="" style="width:600px;">
-  {% img 2017/p36-california-students-protest.jpg magick:resize:600 alt:'Photo of California students protesting' %}
+  {% asset 2017/p36-california-students-protest.jpg @magick:resize=600 alt:'Photo of California students protesting' %}
   <figcaption>California students protest school discipline tactics such as expulsion in favor of practices that keep students in schools as part of the #SchoolsNotPrisons campaign. Photos courtesy of The California Endowment.
 </figcaption>
 </figure>
@@ -69,7 +69,7 @@ In a 2015 paper published in Sociological Perspectives, Terriquez compared the c
 One example of these experiences, noted Geordee Mae Corpuz, lead organizer for the Oakland CFJ, occurred after the elimination of willful defiance suspensions in Oakland High. Students wanted increases in staff trained in restorative justice to lead students and teachers in conflict resolution. To fund this training, students joined their district&#39;s Local Control Funding Formula Advisory Committee. Established in 2013, this California program provides extra funds to low-income school districts based on accountability plans drafted by students, parents, and community members. The process of submitting the plans is very bureaucratic, and the Oakland students relied on CFJ&#39;s expertise to navigate the system. Corpuz said the participating teenagers met with parents across the district, people in the restorative justice movement, the school superintendent, and the budgeting office to draw up plans and secure the funds.
 
 <figure class="" style="width:600px;">
-  {% img 2017/p37-slides.jpg magick:resize:600 alt:'Slides' %}
+  {% asset 2017/p37-slides.jpg @magick:resize=600 alt:'Slides' %}
 </figure>
 
 Additional qualitative data—revealed though analyses of Terriquez&#39;s trove of recorded interviews—show students from grass-roots organizations also develop strong social networks within their community. These students become knowledgeable about who their government representatives are, and often personally know the staff, she said.

@@ -1,7 +1,7 @@
 <aside class="{{ include.classes }}" style="color:{{ include.textcolor }}; background-color:{{ include.bgcolor }};">
 
 <figure>
-  {% img 2017/p15-gram-stain.jpg magick:resize:400 alt:'Image of the Gram stain' %}
+  {% asset 2017/p15-gram-stain.jpg @magick:resize=400 alt:'Image of the Gram stain' %}
   <figcaption>The Gram stain, named after microbiologist Hans Christian Gram, differentiates bacteria based on their uptake of a violet-colored dye. Gram-positive bacteria have a cell wall component that retains the dye, so they appear violet, while Gram-negative cells don&#39;t, but can be counterstained with red. In this microscopic image of dental plaque, the Gram-positive bacteria are purple and Gram-negative appear red. Image courtesy of Jessica Morgan</figcaption>
 </figure>
 <p>Examples of Gram-negative bacteria that deploy the type III secretion system to cause disease in people:</p>
