@@ -10,7 +10,7 @@ tags:
     - Sociology
 ---
 <figure class="left">
-{% img 2017/p9-bark-beetle.jpg magick:resize:600 alt:"Bark Beetle" %}
+{% asset 2017/p9-bark-beetle.jpg @magick:resize=600 alt:"Bark Beetle" %}
 <figcaption>La Doncela is an Incan mummy that was found at Mount Llullaillaco in Argentina in 1999. Her DNA was included in the study of pre-Columbian individuals who lived 500 to 8,500 years ago, and helped archaeologists follow the movement of people to the Americas. With modern genomic tools, UC Santa Cruz biological anthropologist Lars Fehren-Schmitz follows the molecular footprints of ancient people. By analyzing DNA from prehistoric and historic human remains, he studies where—and when—our ancestors went. This genetic data can also show how disease, environment, and lifestyles affect human adaptation.</figcaption>
 </figure>
 Informed consent for medical research participants didn&#39;t exist in 1951 when researchers took the cancerous cervical cells of Henrietta Lacks, a poor African American woman, and developed &quot;HeLa&quot; cell cultures for worldwide study.

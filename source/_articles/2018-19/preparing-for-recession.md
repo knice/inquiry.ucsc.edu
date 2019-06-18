@@ -11,7 +11,7 @@ tags:
     - Economics
 ---
 <figure>
-{% img 2018/carl-walsh.jpg magick:resize:380 alt:"Carl Walsh" class:"right" %}
+{% asset 2018/carl-walsh.jpg @magick:resize=380 alt:"Carl Walsh" class:"right" %}
 <figcaption>Distinguished professor of economics Carl Walsh speaks on monetary policy at Norges Bank, the central bank of Norway. Credit: Courtesy of Carl Walsh.</figcaption>
 </figure>
 

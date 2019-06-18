@@ -9,7 +9,7 @@ title: "Pen&Inq"
 ### Oil Change
 
 <figure>
-{% img 2017/p38-oil.jpg alt:"Oil, Revolution and Indigenous Citizenship in Equadorian Amazonia" %}
+{% asset 2017/p38-oil.jpg alt:"Oil, Revolution and Indigenous Citizenship in Equadorian Amazonia" %}
 </figure>
 
 When Ecuador&#39;s President Rafael Correa took office in 2007, he restructured and expanded natural resource extraction. Income from those industries, mostly oil, helped fund Correa&#39;s developmentalist vision—a &quot;Citizens Revolution&quot;—with purportedly positive social and environmental outcomes.
@@ -23,7 +23,7 @@ Lu takes a critical look at the Correa administration&#39;s &quot;21st century s
 ### Chance Encounters
 
 <figure>
-{% img 2017/p38-serendipity.jpg alt:"Serendipity" %}
+{% asset 2017/p38-serendipity.jpg alt:"Serendipity" %}
 </figure>
 
 &quot;Science may be a methodical progression of work,&quot; said **James Estes,** adjunct professor of ecology and evolutionary biology, &quot;but a lot of learning happens in a different way.&quot;
@@ -39,7 +39,7 @@ Estes hopes his book encourages students to keep their minds and eyes open to op
 ### Payment in Kind
 
 <figure>
-{% img 2017/p38-living-faithfully.jpg alt:"Living Faithfully" %}
+{% asset 2017/p38-living-faithfully.jpg alt:"Living Faithfully" %}
 </figure>
 
 After the collapse of the Soviet Union, many low-income Russians turned to church-run food banks and soup kitchens because the &quot;new&quot; capitalism eliminated most assistance programs. This survival network grew to include NGOs and government agencies, creating a powerful alternative welfare system of people who believed that doing good creates more good.
@@ -55,7 +55,7 @@ It&#39;s a self-boosting economy, too. Over and over, people told Caldwell they 
 ### Perfect Tense
 
 <figure>
-{% img 2017/p38-what-becomes-us.jpg alt:"Living Faithfully" %}
+{% asset 2017/p38-what-becomes-us.jpg alt:"Living Faithfully" %}
 </figure>
 
 In her most recent book, _What Becomes Us,_ UC Santa Cruz literature professor **Micah Perks** uses unborn twins&#39; point of view to tell their mother&#39;s story; a woman who escapes her controlling husband in Santa Cruz and flees to rural New York to teach in the local high school. There, a controversial book assignment impacts the pregnant teacher, her students, and the community.
@@ -72,7 +72,7 @@ UC Santa Cruz students benefit from Perks&#39; real and fictional experiences. S
 ### X Factor
 
 <figure>
-{% img 2017/p38-power-interrupted.jpg alt:"Living Faithfully" %}
+{% asset 2017/p38-power-interrupted.jpg alt:"Living Faithfully" %}
 </figure>
 
 &quot;Where are the women?&quot; came the shouts when an all-male panel closed the NGO Forum Against Racism In South Africa on the eve of the 2001 World Conference Against Racism, Racial Discrimination, Xenophobia, and Related Intolerance.

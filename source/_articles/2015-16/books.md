@@ -9,7 +9,7 @@ title: Pen & Inq
 ## Vote Local
 
 <figure>
-{% img 2015/cover-springer.jpg magick:resize:180 alt:"How the States Shaped the Nation" %}
+{% asset 2015/cover-springer.jpg @magick:resize=180 alt:"How the States Shaped the Nation" %}
 </figure>
 
 Among countries where citizens can vote, the United States holds one of the lowest voter turnout records. Ironically, when states restrict voting rights, those efforts are always more effective than campaigns designed to bring more voters to the ballot box. However, the same state laws that help create low turnouts may offer insights for reform, said Melanie Jean Springer, an assistant professor of politics at UCSC.
@@ -23,7 +23,7 @@ In her book, How the States Shaped the Nation: American Electoral Institutions a
 ## Green Dreams
 
 <figure>
-{% img 2015/cover-guthman.jpg magick:resize:180 alt:"Agrarian Dreams" %}
+{% asset 2015/cover-guthman.jpg @magick:resize=180 alt:"Agrarian Dreams" %}
 </figure>
 
 Early on, the organic farming movement found wide appeal among California's back-to-nature crowd. But it wasn't long before this "weird hippie interest" became a selling feature in high-end restaurants, said Julie Guthman, a UC Santa Cruz professor of social sciences.
@@ -41,7 +41,7 @@ The high cost of land puts growers under great pressure to get more crop value p
 ## Jazz Fusion
 
 <figure>
-{% img 2015/cover-watts-porter.jpg magick:resize:180 alt:"New Orleans Suite" %}
+{% asset 2015/cover-watts-porter.jpg @magick:resize=180 alt:"New Orleans Suite" %}
 </figure>
 
 It's been fourteen years since Eric Porter and Lewis Watts met as new professors at UC Santa Cruz. With a mutual passion for jazz history, their collaboration was only a matter of time. Involving New Orleans, the birthplace of jazz, was inevitable.
@@ -57,7 +57,7 @@ In black-and-white photography, Watts, a professor emeritus of arts, reveals the
 ## Carrying On
 
 <figure>
-{% img 2015/cover-rich.jpg magick:resize:180 alt:"New Queer Cinema" %}
+{% asset 2015/cover-rich.jpg @magick:resize=180 alt:"New Queer Cinema" %}
 </figure>
 
 In the early 1990s, New Queer Cinema emerged as an amalgam of art and activism.
@@ -75,7 +75,7 @@ Rich is also the editor of Film Quarterly, the film journal of the University of
 ## Looking for Law
 
 <figure>
-{% img 2015/cover-massoud.jpg magick:resize:180 alt:"Law's Fragile State" %}
+{% asset 2015/cover-massoud.jpg @magick:resize=180 alt:"Law's Fragile State" %}
 </figure>
 
 The politically unstable setting of Sudan might appear an unlikely place to investigate the power of law. But it seemed ideal to Mark Fathi Massoud, an assistant professor of politics and legal studies at UC Santa Cruz.

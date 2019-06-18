@@ -1,6 +1,6 @@
-scss_files: 'source/_assets/stylesheets/*.scss'
+scss_files: 'source/_assets/css/*.scss'
 
-exclude: 'source/_assets/stylesheets/main.scss'
+exclude: 'source/_assets/css/main.scss'
 
 linters:
   NameFormat:

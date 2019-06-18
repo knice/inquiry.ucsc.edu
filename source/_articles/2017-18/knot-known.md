@@ -11,7 +11,7 @@ tags:
     - Chemistry and Biochemistry
 ---
 <figure class="right">
-{% img 2017/p6-stone-telomerase.jpg magick:resize:600 alt:"Nimmo Pluto" %}
+{% asset 2017/p6-stone-telomerase.jpg @magick:resize=600 alt:"Nimmo Pluto" %}
 <figcaption>The RNA pseudoknot on the top of this structural model is shown moving during telomerase enzyme function (red arrow). The colorful star shapes represent the fluorescence probes attached to the molecule to follow this movement.</figcaption>
 </figure>
 

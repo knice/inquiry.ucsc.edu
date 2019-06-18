@@ -1,10 +1,9 @@
 .asset-cache
-.bundle
+.jekyll-cache
 .jekyll-assets-cache
+.bundle
 .sass-cache
 build
-Gemfile.lock
 vendor
-_raw
-source/_includes/javascripts.html
 node_modules
+_raw

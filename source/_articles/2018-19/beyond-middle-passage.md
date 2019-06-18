@@ -46,7 +46,7 @@ O’Malley has spent much of his career as a historian advancing that broader un
 
 Now he’s taking another step, pooling his data with that of fellow historians to compile an even larger database, to be added to the *slavevoyages.org* site later in 2018. With information on more than 11,000 voyages, the new [*Intra-American Slave Trade Database*](https://news.ucsc.edu/2016/05/greg-omalley-slavetrade.html) will fill a crucial gap in the historical record and provide an essential complement to the TSTD.
 <figure class="right" style="width:300px;">
-  {% img 2018/olaudah-equiano.jpg magick:resize:300 alt:'Olaudah Equiano, slave memoirist' %}<figcaption>Enslaved as a sailor on intercolonial vessels, <a href="https://en.wikipedia.org/wiki/Olaudah_Equiano">Olaudah Equiano</a> witnessed the brutality of the intra-American slave trade firsthand. His best-selling 1789 memoir was one of the slave narratives associate professor of history Greg O’Malley drew on when writing his own book. Credit: ©<a href="https://jcb.lunaimaging.com/luna/servlet/detail/JCB~1~1~2057~3180004:Olaudah-Equiano,-or-Gustavus-Vassa,;JSESSIONID=ba49057a-97e9-4fd4-a4b0-445c47a4c82c?qvq=q%3Aequiano%3Bsort%3Aimage_date%2Csubject_groups%3Blc%3AJCB~1~1&sort=image_date%2Csubject_groups&mi=0&trs=2&cic=JCB~1~1">John Carter Brown Library</a>, Brown University, Providence, RI.</figcaption>
+  {% asset 2018/olaudah-equiano.jpg @magick:resize=300 alt:'Olaudah Equiano, slave memoirist' %}<figcaption>Enslaved as a sailor on intercolonial vessels, <a href="https://en.wikipedia.org/wiki/Olaudah_Equiano">Olaudah Equiano</a> witnessed the brutality of the intra-American slave trade firsthand. His best-selling 1789 memoir was one of the slave narratives associate professor of history Greg O’Malley drew on when writing his own book. Credit: ©<a href="https://jcb.lunaimaging.com/luna/servlet/detail/JCB~1~1~2057~3180004:Olaudah-Equiano,-or-Gustavus-Vassa,;JSESSIONID=ba49057a-97e9-4fd4-a4b0-445c47a4c82c?qvq=q%3Aequiano%3Bsort%3Aimage_date%2Csubject_groups%3Blc%3AJCB~1~1&sort=image_date%2Csubject_groups&mi=0&trs=2&cic=JCB~1~1">John Carter Brown Library</a>, Brown University, Providence, RI.</figcaption>
 </figure>
 “The *Intra-American Slave Trade Database* will give us a far richer picture of the slave experience,” said <a href="https://jcb.lunaimaging.com/luna/servlet/detail/JCB~1~1~2057~3180004:Olaudah-Equiano,-or-Gustavus-Vassa,;JSESSIONID=ba49057a-97e9-4fd4-a4b0-445c47a4c82c?qvq=q%3Aequiano%3Bsort%3Aimage_date%2Csubject_groups%3Blc%3AJCB~1~1&sort=image_date%2Csubject_groups&mi=0&trs=2&cic=JCB~1~1">David Eltis</a>, professor emeritus of history at Emory University and one of the creators of the TSTD. “I think it will inform a wide range of historical scholarship.”
 
@@ -65,7 +65,7 @@ He did have a hunch. There had to be an extensive shipping system that was movin
 To confirm that hypothesis, O’Malley went to the only detailed records that still survive—British Naval Office shipping lists, where colonial officials dutifully logged the contents of arriving and departing ships at ports throughout British America. The innocuous-looking ledgers contained a grim accounting. Alongside entries for goods like sugar, rum, salt pork, and naval supplies, many had a column for “Negroes.”
 
 <figure class="" style="width:600px;">
-  {% img 2018/barbados-jamaica.png magick:resize:600 alt:'Slave trade routes in the Carribean' %}
+  {% asset 2018/barbados-jamaica.png @magick:resize=600 alt:'Slave trade routes in the Carribean' %}
   <figcaption>The colonies of Barbados and Jamaica were the major centers of the British American trade, where slaves from Africa were reshipped to many locations in North, South, and Central America. Credit: Greg O’Malley.
 </figcaption>
 </figure>
@@ -105,7 +105,7 @@ He discovered, for example, that many of the slaves in North Carolina were being
 It was the imperatives of the marketplace, O’Malley argues, that spread slavery far beyond the plantation zones to many corners of the Americas, including areas we don’t typically associate with slavery today, like New York, Massachusetts, and Pennsylvania.
 
 <figure class="" style="width:600px;">
-  {% img 2018/new-orleans-rotunda.jpg magick:resize:600 alt:'Slave trade routes in the Carribean' %}
+  {% asset 2018/new-orleans-rotunda.jpg @magick:resize=600 alt:'Slave trade routes in the Carribean' %}
   <figcaption>Auction of estates, pictures, and slaves in a hotel rotunda in New Orleans. Slaves were bought and sold like any other merchandise, reflecting what O’Malley calls “human commodification.” Credit: <a href="https://commons.wikimedia.org/wiki/File:Sale_of_Estates_Pictures_and_Slaves_in_the_Rotunda_New_Orleans.jpg">Wikimedia Commons</a>.
 </figcaption>
 </figure>

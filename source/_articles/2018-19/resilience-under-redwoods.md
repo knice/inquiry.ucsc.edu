@@ -11,7 +11,7 @@ tags:
 ---
 There’s more to redwood forests than iconic trees. On the drought-prone Central Coast, the forest understory includes a typically tropical resident—[ferns](https://en.wikipedia.org/wiki/Fern).
 <figure>
-{% img 2018/ferns.jpg magick:resize:380 alt:"Sword ferns" class:"right" %}
+{% asset 2018/ferns.jpg @magick:resize=380 alt:"Sword ferns" class:"right" %}
 <figcaption><i>Polystichum munitum</i>, commonly called sword fern, is one of the most robust species of fern on California’s Central Coast. Its leaves, called fronds, are much thicker and more resilient than those of tropical ferns. Credit: Jarmila Pittermann.</figcaption>
 </figure>
 [**Jarmila Pittermann**](https://www.eeb.ucsc.edu/faculty/singleton.php?&singleton=true&cruz_id=jpitterm), associate professor of ecology and evolutionary biology, and [**Emily Burns**](https://www.savetheredwoods.org/about-us/governance/executive-team/#Burns) of [Save the Redwoods League](https://www.savetheredwoods.org/), noticed that during persistent drought, ferns’ fronds dry out and often become infested with tiny insects called [thrips](https://en.wikipedia.org/wiki/Thrips). To unveil drought’s physiological effects and how the ferns recover during rainy spells, Pittermann’s team studied the region’s two most abundant species of fern, *Polystichum munitum* and *Dryopteris arguta*, comparing ferns growing in the forests surrounding UCSC to potted, greenhouse specimens that they periodically dried out and rehydrated.

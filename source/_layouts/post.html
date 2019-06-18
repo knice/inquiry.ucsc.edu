@@ -7,7 +7,7 @@ class: post
 
     <header class="post-header">
 
-        {% if page.banner.file %} {% assign header_type = 'has-image' %} {% img "{{ page.banner.file }}" magick:gravity:east magick:crop:1400x500+0+0 alt:"{{ page.banner.text | default: 'article banner' }}" %} {% endif %}
+        {% if page.banner.file %} {% assign header_type = 'has-image' %} {% asset "{{ page.banner.file }}" @magick:gravity=east @magick:crop=1400x500+0+0 alt:"{{ page.banner.text | default: 'article banner' }}" %} {% endif %}
 
         <div class="post-title {{ header_type | default: 'no-image' }}">
 {% include breadcrumbs.html %}
@@ -23,49 +23,45 @@ class: post
 
     <section class="post-content">
 
-      {{content}}
-      {%if page.related%}
+      {{ content }}
+
+      {% if page.related %}
       <div class="related-links">
       <h3>Related Links</h3>
-      {%for link in page.related%}
-      
-      
-        
+
+      {% for link in page.related %}      
         <ul class="">
-          <li><a href="{{ link.url }}">{{link.title}}</a></li>
-        </ul>
-      
-      {%endfor%}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        </ul>      
+      {% endfor %}
+
       </div>
-     {%endif%}      
-     {%if page.further-inquiry%}
+     {% endif %}      
+     
+     {% if page.further-inquiry %}
       <div class="related-links">
       <h3>Further Inquiry</h3>
-      {%for link in page.further-inquiry%}
-      
-      
-        
+      {% for link in page.further-inquiry %}
         <ul class="">
-          <li><a href="{{ link.url }}">{{link.title}}</a></li>
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
         </ul>
       
       {%endfor%}
       </div>
      {%endif%}
-     {%if page.in-the-news%}
+     
+     {% if page.in-the-news %}
       <div class="related-links">
       <h3>In the News</h3>
-      {%for link in page.in-the-news%}
-      
-      
-        
+
+      {% for link in page.in-the-news %}  
         <ul class="">
-          <li><a href="{{ link.url }}">{{link.title}}</a></li>
-        </ul>
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        </ul>      
+      {% endfor %}
       
-      {%endfor%}
       </div>
-     {%endif%}        
+     {% endif %}        
     </section>
 
     <footer class="post-footer">
@@ -76,7 +72,7 @@ class: post
                 <div class="comment-container">
                     {% if page.author.file %}
                     <div class="comment-image">
-                        {{ page.author.file | img : "magick:resize:180 alt:'article author'" }}
+                        {{ page.author.file | asset:"@magick:resize=180 alt='article author'" }}
                     </div>
                     {% endif %}
                     <div class="comment-content">

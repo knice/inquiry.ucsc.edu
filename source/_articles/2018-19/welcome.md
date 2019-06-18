@@ -6,7 +6,7 @@ order: 1
 title: "The spirit of inquiry at UC Santa Cruz"
 ---
 
-{% image 2017/p2-scott-brandt.jpg magick:resize:200 class:'left' %}
+{% asset 2017/p2-scott-brandt.jpg @magick:resize=200 class:'left' %}
 
 The Offices of [Research](https://officeofresearch.ucsc.edu/) and [University Relations](https://urelations.ucsc.edu/) are proud to present the 4th edition of *inquiry@UC Santa Cruz*! This issue of our campus research magazine—written and edited by graduates of UCSC’s internationally renowned [Science Communication Program](https://scicom.ucsc.edu/)—continues to highlight the superb research being conducted across all disciplines on the campus. This year’s reporting covers work in the humanities aimed at generating a deeper understanding of the African slave experience in the Americas, art exploring lost urban landscapes, engineering providing innovations in microscopy\* and telescopy, physical and biological sciences probing of bacterial biofilms and stressors on marine mammals, and social sciences tackling complex issues in geoengineering and environmental politics.
 
@@ -14,7 +14,7 @@ This issue also incorporates several new features. We have a new department, [**
 
 Welcome to the 2018–19 issue of inquiry. We hope that you enjoy its samplings of the breadth, depth, and creativity of the UCSC research enterprise!
 
-{% image 2017/p2-brandt-signature.jpg magick:resize:240 alt:'Signature' %}
+{% asset 2017/p2-brandt-signature.jpg @magick:resize=240 alt:'Signature' %}
 
 [**Scott A. Brandt**](https://www.soe.ucsc.edu/people/sbrandt)  
 Vice Chancellor for Research  

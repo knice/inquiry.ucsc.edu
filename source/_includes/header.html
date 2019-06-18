@@ -1,12 +1,12 @@
 <div class="omnibar">
-  <a href="http://www.ucsc.edu">{% image 'ucsc.svg' alt:'UC Santa Cruz' width:'160' %}</a>
+  <a href="http://www.ucsc.edu">{% asset 'ucsc.svg' alt='UC Santa Cruz' width='140' %}</a>
 </div>
 
 <header class="site-header" role="banner">
 
   <div class="logo-wrapper">
     <a href="/" class="logo">
-      {% image 'inquiry.svg' alt:'Inquiry at UC Santa Cruz' width:'400' %}
+      {% asset 'inquiry.svg' alt='Inquiry at UC Santa Cruz' width='380' %}
     </a>
   </div>
 
@@ -42,7 +42,7 @@
 
 {% if page.class == 'front' %}
 <div class="banner-wrapper front">
-  {% img "{{ page.banner.file }}" magick:gravity:east magick:crop:1400x480+0+0 alt:"{{ page.banner.text }}" %}  
+  {% asset "{{ page.banner.file }}" @magick:gravity=east @magick:crop=1400x480+0+0 alt:"{{ page.banner.text }}" %}  
 </div>
 {% endif %}
 

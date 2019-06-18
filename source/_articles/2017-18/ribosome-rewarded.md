@@ -11,7 +11,7 @@ tags:
     - Mollecular Biology 
 ---
 <figure>
-{% img 2017/p4-harry-knoller.jpg magick:resize:380 alt:"Harry Knoller" class:"right" %}
+{% asset 2017/p4-harry-knoller.jpg @magick:resize=380 alt:"Harry Knoller" class:"right" %}
 <figcaption>Harry Noller, the Sinsheimer Professor of Molecular Biology at UC Santa Cruz, won the 2017 Breakthrough Prize in Life Sciences for his decades of discoveries that revealed how RNA played a central role in ribosome function and, in turn, all of the building blocks of life.</figcaption>
 </figure>
 

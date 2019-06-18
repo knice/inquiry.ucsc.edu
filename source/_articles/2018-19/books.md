@@ -11,7 +11,7 @@ By [Emma Hiolski](https://www.emmahiolski.com/)
 ## Emotional Gaming
 
 <figure>
-{% img 2018/how-games-move-us.jpg alt:"How Games Move Us - Emotion by Design" %}
+{% asset 2018/how-games-move-us.jpg alt:"How Games Move Us - Emotion by Design" %}
 </figure>
 
 Although video games have now beguiled players for 40 years, we don’t have nuanced cultural conversations about them, said [**Katherine Isbister**](https://www.soe.ucsc.edu/people/kisbister), UC Santa Cruz professor of computational media. According to Isbister, the language to support rich discussions—like those we have about books or movies—hardly exists.
@@ -28,7 +28,7 @@ Eschewing violent games, she instead analyzes video games designed to build empa
 ## Hitting the Beach
 
 <figure>
-{% img 2018/coasts-in-crisis.jpg alt:"Coasts in Crisis" %}
+{% asset 2018/coasts-in-crisis.jpg alt:"Coasts in Crisis" %}
 </figure>
 
 [**Gary Griggs**](https://eps.ucsc.edu/faculty/Profiles/singleton.php?&singleton=true&cruz_id=griggs), UC Santa Cruz distinguished professor of Earth sciences, has spent a lifetime observing coasts. That’s where it all comes together, he said. “Over the years, I’ve worked on water pollution and dabbled in desalination, sand, dams, offshore oil, and nuclear power.”
@@ -42,7 +42,7 @@ Griggs is also co-author, with [Kim Steinhardt](http://law.scu.edu/faculty/profi
 ## Between World Wars
 
 <figure>
-{% img 2018/global-1930s.jpg alt:"The Global 1930s" %}
+{% asset 2018/global-1930s.jpg alt:"The Global 1930s" %}
 </figure>
 
 During the 1930s, globalization was on the decline: countries cut ties with one another, the Great Depression was devastating the United States, and fascism was on the rise around the world. At least that’s the perspective that history books typically offer, said [**Marc Matera**](https://history.ucsc.edu/faculty/profiles/singleton.php?&singleton=true&cruz_id=mmatera), UC Santa Cruz associate professor of history.
@@ -56,7 +56,7 @@ Through this new lens, they illustrate pervasive global connections between thes
 ## Dream Theory
 
 <figure>
-{% img 2018/emergence-of-dreaming.jpg alt:"The Emergence of Dreaming" %}
+{% asset 2018/emergence-of-dreaming.jpg alt:"The Emergence of Dreaming" %}
 </figure>
 
 “Our minds are restless,” said [**G. William Domhoff**](https://sociology.ucsc.edu/faculty/singleton.php?&singleton=true&cruz_id=domhoff), UC Santa Cruz distinguished professor emeritus of sociology and psychology. During waking hours, this is obvious: Our thoughts flit between current tasks to future errands or past problems. As it turns out, our minds do something similar when we sleep.
@@ -70,7 +70,7 @@ Dreaming and mind-wandering activate specific, closely overlapping regions of th
 ## Plant Sexuality
 
 <figure>
-{% img 2018/flora-unveiled.jpg alt:"Living Faithfully" %}
+{% asset 2018/flora-unveiled.jpg alt:"Living Faithfully" %}
 </figure>
 Long after sexual reproduction in animals became scientific canon, plant reproduction remained a mystery. It wasn’t until the end of the 17th century that the idea of pollination and plant sex arose.
 

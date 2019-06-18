@@ -13,7 +13,7 @@ To what extent has human activity contributed to today’s powerful storms and h
 
 Fifty-six million years ago, during the [Paleocene-Eocene Thermal Maximum](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) (PETM), the Earth heated up 6° C and stayed warm for 150 thousand years. In a recently published [study](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/525529/subtropical-sea-surface-warming-and-increased?redirectedFrom=fulltext), senior author Zachos and collaborators analyzed ancient [plankton](https://en.wikipedia.org/wiki/Plankton) shells from this period to reveal increasing ocean salinity and temperature. By producing greater evaporation near the equator, these changes would likely have led to more intense storms at higher latitudes and poleward shifts in dry and wet regions.
 <figure>
-{% img 2018/ancient-plankton-shell.jpg magick:resize:380 alt:"Ancient Plankton Shell" class:"right" %}
+{% asset 2018/ancient-plankton-shell.jpg @magick:resize=380 alt:"Ancient Plankton Shell" class:"right" %}
 <figcaption>Professor of Earth and planetary sciences James Zachos analyzes the chemistry of ancient plankton shells like this one (~200 microns in diameter) to infer what the climate was like when the plankton were alive. Credit: James Zachos.</figcaption>
 </figure>
 Although the heating during the PETM didn’t occur nearly as fast as today’s human-caused climate change, such case studies can be used to inform theories about how global warming will impact future hydrology. In California, for example, Zachos’s work supports models that predict more severe droughts and storms.

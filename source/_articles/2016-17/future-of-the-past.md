@@ -17,7 +17,7 @@ related:
 ---
 
 <figure class="right" style="width:360px;">
-{% img 2016/p24-present-day.jpg magick:resize:400 alt:"Karnak" %}
+{% asset 2016/p24-present-day.jpg @magick:resize=400 alt:"Karnak" %}
 <figcaption>Present-day ruins at Karnak</figcaption>
 </figure>
 
@@ -26,14 +26,14 @@ The image of the Egyptian temple is beautiful: sun-warmed stone bricks glow; the
 This likeness is a 3D virtual model of the ancient Karnak temple, a center of Egypt's spiritual life for millennia. The immense compound has been fully and accurately re-created via computer and is available online as part of the Digital Karnak Project created at UCLA with **Elaine Sullivan,** assistant professor of history at UC Santa Cruz, as a main collaborator.
 
 <figure>
-{% img 2016/p25-sullivan.jpg magick:resize:650 alt:"Karnak" %}
+{% asset 2016/p25-sullivan.jpg @magick:resize=650 alt:"Karnak" %}
 <figcaption>Professor Sullivan onsite at Saqqara</figcaption>
 </figure>
 
 Moving through such a richly detailed 3D space provides a compelling learning experience. But even more important, virtual models are scientific visualization tools that, in the same way as early telescopes, allow researchers to see in new ways and understand things that were not possible to study before. With digital tools, archaeologists can scan buildings and artifacts, map site dimensions, and peer below the ground without digging.
 
 <figure class="left">
-{% img 2016/p24-priests.jpg magick:resize:650 alt:"Priests simulation" %}
+{% asset 2016/p24-priests.jpg @magick:resize=650 alt:"Priests simulation" %}
 <figcaption>Professor Sullivan used the Karnak model to see how priests might have carried a sacred statue through the temple. Digital models, with their accurate dimensions and other characteristics, allow researchers to visualize events and test their theories about the spaces.</figcaption>
 </figure>
 
@@ -42,14 +42,14 @@ Moving through such a richly detailed 3D space provides a compelling learning ex
 The virtual model draws on more than a hundred years of archaeological work at the site. The Digital Karnak website lets users explore 2,000 years of history, watching the temple grow and change under Egypt's different rulers, from Senusret I through Ptolemy VIII and into the Roman era—adding a fourth dimension of time.
 
 <figure class="right">
-{% img 2016/p25-thutmoseiii.jpg magick:resize:650 alt:"Karnak" %}
+{% asset 2016/p25-thutmoseiii.jpg @magick:resize=650 alt:"Karnak" %}
 <figcaption>Karnak site after Thutmose III added a roof and new papyrus-style columns</figcaption>
 </figure>
 
 Alongside still shots and video fly-throughs of the model, the evolving website holds a trove of information on Karnak's buildings and other features. Users can read how ancient priests honored the gods with daily offerings, trace the routes of ritual processions through the 69-acre site, learn about quarrying stone, and discover the difference between fluted, papyrus, and Hathor-headed columns. There are photographs of the site as it looks today, artifact descriptions, downloadable materials for use in teaching, and a bibliography.
 
 <figure>
-{% img 2016/p25-saqqara.jpg magick:resize:650 alt:"Saqqara" %}
+{% asset 2016/p25-saqqara.jpg @magick:resize=650 alt:"Saqqara" %}
 <figcaption>Saqqara, a cemetery site near the Great Pyramids of Giza, is Sullivan's next target for digital modeling. She's adding landscape information to her architectural model that will allow her to study the buildings in a geographic context, clarifying things like their relationship to the Nile River and sight lines to other monuments.</figcaption>
 </figure>
 

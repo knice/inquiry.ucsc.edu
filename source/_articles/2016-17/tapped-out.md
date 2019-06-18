@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure>
-{% image 2016/p9-babile.jpg magick:resize:600 alt:'Filling water buckets' %}
+{% asset 2016/p9-babile.jpg @magick:resize=600 alt:'Filling water buckets' %}
 <figcaption>Local girls from Babile fill yellow water jugs at the area's main water source. Photo courtesy USAID WA-WASH program (West Africa Water Supply, Sanitation and Hygiene Program)</figcaption>
 </figure>
 

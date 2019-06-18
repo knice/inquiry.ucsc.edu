@@ -11,7 +11,7 @@ tags:
     - Computer Engineering
 ---
 
-{% image 2016/p7-sanfelice.jpg magick:resize:600 %}
+{% asset 2016/p7-sanfelice.jpg @magick:resize=600 %}
 
 Flying robots might not appear to have much in common with energy grids. To function smoothly, however, both use hybrid systems that combine stop-start action with continuous movement. Developing algorithms for these systems is a specialty of Ricardo Sanfelice, associate professor of computer engineering.
 

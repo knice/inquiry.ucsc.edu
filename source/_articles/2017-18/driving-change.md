@@ -30,7 +30,7 @@ His project with autonomous vehicles is a perfect example. While most self-drivi
 ## Street games ##
 
 <figure class="right" style="width:300px;">
-  {% img 2017/p11-chicken.jpg magick:resize:300 alt:'Road sign with chicken' %}
+  {% asset 2017/p11-chicken.jpg @magick:resize=300 alt:'Road sign with chicken' %}
 </figure>
 
 To explore the interplay between people&#39;s behavior and self-driving cars, he developed a model based on the game of chicken. In the classic version of this dangerous road contest, two drivers zoom straight towards each other and the loser swerves—or chickens out—to avoid collision, while the winner stays on course. In a twist, Millard-Ball pitted an autonomous vehicle against a pedestrian at a crosswalk.
@@ -68,7 +68,7 @@ To their surprise, they discovered that sprawl is on the wane: after peaking in 
 Planning policies like &quot;smart growth,&quot; which concentrate new development in the urban core, also encourage connected streets and walkability. &quot;I would probably advocate banning anything but essentially gridded road networks for new residential developments,&quot; Barrington-Leigh said. &quot;Or at least implementing a very large &quot;cul-de-tax&quot;—a tax on cul-de-sacs—disincentive on low-connectivity road-building.&quot;
 
 <figure class="left" style="width:400px;">
-  {% img 2017/p12-suburbia.jpg magick:resize:400 alt:'Cul-de-sacs and multi-lane artrial roads' %}
+  {% asset 2017/p12-suburbia.jpg @magick:resize=400 alt:'Cul-de-sacs and multi-lane artrial roads' %}
   <figcaption>The cul-de-sacs and multi-lane arterial roads of this suburban development in Colorado Springs, Colorado, hinder walking and promote sprawl. &quot;Almost any time you take a plane trip, you can look down from the air and see this pattern in just about every U.S. city,&quot; Millard-Ball said.vehicles are a turning point but we don&#39;t know how people will respond to the technology.&quot; Photo courtesy of David Shankbone.
 </figcaption>
 </figure>
@@ -94,7 +94,7 @@ Indeed, the impact of connected streets compares favorably with other strategies
 In addition, the impact of connected streets may last longer than this strategy. Developments can easily be torn down and rebuilt to be less dense. But once streets are laid down, their patterns can persist for centuries. After London&#39;s Great Fire in 1666 and San Francisco&#39;s Great Earthquake in 1906, both cities were rebuilt along the lines of the original streets. &quot;We cannot change what was already built in the past, so let&#39;s stop making more mistakes as quickly as we can,&quot; Barrington-Leigh said.
 
 <figure style="width:600px;">
-  {% img 2017/p13-connected-streets.jpg magick:resize:600 alt:'Connected Streets in Phoenix Arizona' %}
+  {% asset 2017/p13-connected-streets.jpg @magick:resize=600 alt:'Connected Streets in Phoenix Arizona' %}
   <figcaption>The connected streets laid out on a grid in Phoenix, Arizona, help reduce greenhouse gas emissions. Photo courtesy of NASA.
 </figcaption>
 </figure>

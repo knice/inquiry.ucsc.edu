@@ -28,7 +28,7 @@ There's no way to estimate how many patients might have been infected in the hol
 
 <figure>
 
-{% img 2016/p27-optofluidic.jpg magick:resize:650 alt:"An optofluidic chip" %}
+{% asset 2016/p27-optofluidic.jpg @magick:resize=650 alt:"An optofluidic chip" %}
 
 <figcaption>Several of Holger Schmidt's optofluidic chips to be used in counting molecules tagged with fluorescence.</figcaption>
 
@@ -60,7 +60,7 @@ The idea to analyze single biomolecules on a chip came from conversations with D
 The thumbnail-sized optofluidics chip resembles a piece of modern jewelry, with tiny copper cylinders rising above iridescent patches that shimmer pink to green in changing light. The cylinders hold the solution containing Ebola RNA with fluorescent tags, and then release the molecules, one by one, into liquid-filled channels that look like golden hairs etched into the chip. Other golden lines are the solid channels that carry light. Where the channels intersect, the light flows through the liquid and any passing molecule. As in RT-PCR, light is absorbed and released as a different color. But because the tagged RNA passes through single file, the optofluidic's sensor can count each flash, or, as Schmidt likes to call it, "blip."
 
 <figure>
-{% img 2016/p28-schmidt.jpg magick:resize:650 alt:"Karnak" %}
+{% asset 2016/p28-schmidt.jpg @magick:resize=650 alt:"Karnak" %}
 <figcaption>Schmidt's hybrid device integrates a microfluidic chip for sample preparation and an optofluidic chip for optical detection of individual molecules of viral RNA.</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ By the end of the year, they plan to deliver a portable external case to be inst
 Unlike viral diagnostic tests that rely on chemical reactions to make the proteins visible, Yanik's idea is to simply use light "in a label-free manner, no enzymatics, no fluorescence, to see proteins directly."
 
 <figure class="right">
-{% img 2016/p28-notes.jpg magick:resize:400 alt:"Ahmet Yanik's notes" %}
+{% asset 2016/p28-notes.jpg @magick:resize=400 alt:"Ahmet Yanik's notes" %}
 <figcaption>Ahmet Yanik's notes</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ As a postdoctoral fellow at Harvard, Yanik developed a device that worked great 
 On paper, Yanik drew two sharp peaks with almost no overlap to show the light transmitted with, and without, the attached virus. Place a filter over the device to cut out the longer wavelengths and the material with the nanoholes turns from translucent to opaque. When the virus binds, said Yanik, "you have complete darkness."
 
 <figure>
-{% img 2016/p28-liquid-hand.jpg magick:resize:650 alt:"Ahmet Yanik's lab-on-a-chip with liquid covering the three nanopore plates." %}
+{% asset 2016/p28-liquid-hand.jpg @magick:resize=650 alt:"Ahmet Yanik's lab-on-a-chip with liquid covering the three nanopore plates." %}
 
 <figcaption>Ahmet Yanik's lab-on-a-chip with liquid covering the three nanopore plates.</figcaption>
 </figure>

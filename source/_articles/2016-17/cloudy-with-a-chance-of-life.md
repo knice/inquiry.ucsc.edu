@@ -38,7 +38,7 @@ Later, Fortney collaborated with the Kepler Mission, a NASA space telescope desi
 
 <figure>
 
-{% img 2016/p36-exoplanet.jpg magick:resize:650 alt:"Exoplanet rendering" %}
+{% asset 2016/p36-exoplanet.jpg @magick:resize=650 alt:"Exoplanet rendering" %}
 
 <figcaption>An artist's rendering of how an exoplanet's atmosphere distorts the starlight passing through it.</figcaption>
 
@@ -70,7 +70,7 @@ But Garaud's passion, and Ph.D., is in astrophysics—particularly in refining m
 
 <figure>
 
-{% img 2016/p37-convection.jpg magick:resize:650 alt:"Convection diagram" %}
+{% asset 2016/p37-convection.jpg @magick:resize=650 alt:"Convection diagram" %}
 
 <figcaption>Garaud and her research group study how helium rain inside Saturn gives rise to so-called "layered convection," simulated here in cross-sections of Saturn's interior over the course of several years. Colors represent helium concentration relative to background levels (red higher, blue lower).</figcaption>
 
@@ -87,7 +87,7 @@ To make the field more robust, Garaud founded a six-week summer astrophysics pro
 ## A new era
 
 <figure class="right" style="max-width:380px;">
-{% img 2016/p37-kepler.jpg magick:resize:380 alt:"Kepler poster" %}
+{% asset 2016/p37-kepler.jpg @magick:resize=380 alt:"Kepler poster" %}
 <figcaption>Kepler-186 f—Where the Grass is Always Redder. This was the first Earth-sized planet found by Kepler, NASA's planet-hunting telescope. Although it orbits in a potentially "habitable zone" around another star, where liquid water could exist on the planet's surface, its star is much cooler and redder than our Sun, according to JPL's "travel bureau."</figcaption>
 </figure>
 

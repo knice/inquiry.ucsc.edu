@@ -11,7 +11,7 @@ tags:
     - Planetary Science 
 ---
 <figure>
-{% img 2017/p5-nimmo-pluto.jpg magick:resize:600 alt:"Nimmo Pluto" %}
+{% asset 2017/p5-nimmo-pluto.jpg @magick:resize=600 alt:"Nimmo Pluto" %}
 <figcaption>Surface images of Sputnik Planitia (an area on the heart-shaped feature of Pluto that was formerly known as Sputnik Planum), taken by NASA&#39;s New Horizons mission, bolstered the argument for a subsurface ocean on Pluto.</figcaption>
 </figure>
 

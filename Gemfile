@@ -1,22 +1,15 @@
 source 'https://rubygems.org'
 
-gem 'autoprefixer-rails'
-gem 'bourbon'
+gem 'bourbon', '4.2.7'
 gem 'jekyll'
 gem 'jekyll-paginate'
-gem 'neat'
+gem 'neat', '1.8.0'
 gem 'mini_magick'
-gem 'sass'
-gem 'thin'
-gem 'uglifier'
 gem 'jekyll-lunr-js-search'
 gem 'html-proofer'
 gem 'scss_lint'
 
-group :development do
-  gem 'guard'
-  gem 'guard-jekyll-plus'
-  gem 'guard-livereload'
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"
+  gem "jekyll-assets"
 end
-
-gem "jekyll-assets", group: :jekyll_plugins

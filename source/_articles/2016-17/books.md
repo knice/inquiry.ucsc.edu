@@ -9,7 +9,7 @@ title: "Pen&Inq"
 ### City Smarts
 
 <figure>
-{% img 2016/p38-equity.jpg alt:"Equity, Growth, and Community: What the Nation Can Learn From America's Metro Areas" %}
+{% asset 2016/p38-equity.jpg alt:"Equity, Growth, and Community: What the Nation Can Learn From America's Metro Areas" %}
 </figure>
 
 Creating economically sustainable cities may take more ideas than money.
@@ -25,7 +25,7 @@ Case studies of successful cities, such as Seattle, showed how engaging all sect
 ### Hollywood Hustle
 
 <figure>
-{% img 2016/p38-weber.jpg alt:"Lois Weber in Early Hollywood" %}
+{% asset 2016/p38-weber.jpg alt:"Lois Weber in Early Hollywood" %}
 </figure>
 
 A century ago, the top-grossing film released by Universal Pictures was written and directed by Lois Weber, a leading lady of that Hollywood era. Although she ran her own studio, formed a production company, and earned a star on the Walk of Fame, few recognize her name today.
@@ -41,7 +41,7 @@ Despite tackling controversial subjects, such as abortion and birth control, Web
 ### A New View
 
 <figure>
-{% img 2016/p38-orlandi.jpg alt:"The Innocent Eye: Why Vision Is Not a Cognitive Process" %}
+{% asset 2016/p38-orlandi.jpg alt:"The Innocent Eye: Why Vision Is Not a Cognitive Process" %}
 </figure>
 
 The way we see the world requires a reasoning-like process, according to one popular theory of vision. In this constructivist view, we can't translate the light that hits the back of our eyes into a detailed three-dimensional world without some implicit knowledge of what's in the environment.
@@ -59,7 +59,7 @@ While reason isn't required for visual perception, Orlandi next wants to explore
 ### Religious Politics
 
 <figure>
-{% img 2016/p38-republic.jpg alt:"The Republic Unsettled: Muslim French and the Contradictions of Secularism" %}
+{% asset 2016/p38-republic.jpg alt:"The Republic Unsettled: Muslim French and the Contradictions of Secularism" %}
 </figure>
 
 When governments try to separate religion and politics, they often end up with the opposite result, noted** Mayanthi Fernando**, UC Santa Cruz associate professor of anthropology.
@@ -75,7 +75,7 @@ Fernando draws from a decade of ethnographic research on Islam in France to exam
 ### Trade Routes
 
 <figure>
-{% img 2016/p38-passages.jpg alt:"Final Passages: The Intercolonial Slave Trade of British America, 1619–1807" %}
+{% asset 2016/p38-passages.jpg alt:"Final Passages: The Intercolonial Slave Trade of British America, 1619–1807" %}
 </figure>
 
 In a book that begins where most studies of the slave trade end—with the sale of a slave at a colonial port—**Gregory O'Malley**, UC Santa Cruz associate professor of history, tracked the trade of enslaved people throughout

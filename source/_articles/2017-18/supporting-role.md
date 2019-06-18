@@ -11,7 +11,7 @@ tags:
     - Mollecular, Cell, and Developmental Biology
 ---
 <figure class="left">
-{% img 2017/p8-mackensen.jpg magick:resize:600 alt:"Dendric Spines on Nerve Cells" %}
+{% asset 2017/p8-mackensen.jpg @magick:resize=600 alt:"Dendric Spines on Nerve Cells" %}
 <figcaption>Healthy dendritic spines on the surface of nerve cells.</figcaption>
 </figure>
 
