@@ -6,4 +6,5 @@
 build
 vendor
 node_modules
+Gemfile.lock
 _raw
