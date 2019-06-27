@@ -2,25 +2,23 @@
 layout: brief
 issue: 2019
 category: brief
-order: 8
-title: Protecting data privacy
+order: 9
+title: Opioid amnesia
 colors:
     tag: "#84cbd8"
 tags:
-    - Computer Science
+    - History
 ---
 <figure class="">
-  {% asset 2019/digital-noise.jpg @magick:resize=600 alt:'stylized image' %}<figcaption>Most of us have increasing concerns about the use of personal data collected from our digital footprints. Computer scientist Abhradeep Guha Thakurta has developed commercial-scale methods that help ensure privacy while also providing access to valuable data. Credit: pxhere, CC0.</figcaption>
+  {% asset 2019/opium-stacking-room.jpg @magick:resize=600 alt:'image of ancient opium storage room' %}<figcaption>Assistant Professor Benjamin Breen studies the history of drugs and how they have shaped modern society. Pharmaceuticals have been a big business for a long time. In the 18<sup>th</sup> century, opium addiction in China fueled a thriving, highly profitable trade that helped cement the dominance of the British East India Company in India as a colonial proxy for Great Britain. All the spheres in this c. 1850 lithograph are pure opium (“The Stacking Room, Opium Factory at Patna, India," W. S. Sherwell). Credit: Wellcome Collection, CC BY 4.0.</figcaption>
 </figure>
 
-What if your cell phone could assess your risk for developing diabetes? For that to be possible, a predictive model would first need to be trained on vast amounts of user data. And that poses a problem, said [**Abhradeep Guha Thakurta**](https://www.soe.ucsc.edu/people/aguhatha), assistant professor of computer science and engineering.
+It’s big news that opioid addiction in the U.S. has reached epidemic proportions. [More than 48,000 Americans died from opioid overdoses in 2017](https://www.cdc.gov/mmwr/volumes/67/wr/mm675152e1.htm), leading the Department of Health and Human Services to declare the opioid crisis a [*public health emergency*](https://www.hhs.gov/about/news/2017/10/26/hhs-acting-secretary-declares-public-health-emergency-address-national-opioid-crisis.html).
 
-“Access to this type of personal data is an insanely sensitive issue,” said Thakurta. “How do we harness such data while still protecting privacy?”
+So where did this huge problem come from? One could argue it started in 1804 when German chemist [*Friedrich Sertürner*](https://en.wikipedia.org/wiki/Friedrich_Sert%C3%BCrner) isolated and extracted morphine from opium poppies. When morphine was first sold to the US, it was marketed as a treatment for pain and opium addiction. The irony became evident during the Civil War, when morphine addiction among the enlisted grew so widespread it became known as “soldier’s disease.”
 
-Thakurta has developed [machine learning algorithms](https://en.wikipedia.org/wiki/Outline_of_machine_learning), or computational rulesets, to help solve this problem. [His approach](https://aguhatha.github.io/research.html) is based on introducing randomness into the data. Imagine your data being sent from your phone to a company server. While your actual data might reveal a family history of heart disease, Thakurta’s algorithms could replace this truth with its opposite—you don’t. “The data are intentionally a little bad,” he said.
+[***Benjamin Breen***](https://campusdirectory.ucsc.edu/cd_detail?uid=bebreen), assistant professor of history, sees our current crisis as “a continuation of an older story” that began long before Sertürner discovered morphine. In his forthcoming book, **[The Age of Intoxication: Origins of the Global Drug Trade](https://www.upenn.edu/pennpress/book/16009.html),** Breen examines the origins of the global drug trade and its role in shaping modern society.
 
-Feeding models slightly bad data turns out to be good for them—they learn the general trends, without relying on any individual’s “real” data. The method [maximizes](https://www.ieee-security.org/TC/SP2017/papers/373.pdf) data utility, while also maintaining user privacy.
+His research underscores the point that history repeats itself. “As a society, we have amnesia when it comes to these drugs,” he said. “We don’t remember the experiences of our great-grandparents' generation. They had morphine and we have Oxycontin. The two drugs are slightly different but they’re both opioids.” And they cause the same problems.
 
-Several companies are working to adapt his approach to their technology, Thakurta said. Apple, for example, is already [using it](https://www.wired.com/2016/06/apples-differential-privacy-collecting-data/) in all their devices to ensure keyboard stroke privacy.
-
-*—[Alison F. Takemura](http://alisonftakemura.info/)*
+*—Annie Roth*
