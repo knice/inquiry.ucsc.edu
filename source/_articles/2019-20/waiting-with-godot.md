@@ -7,8 +7,8 @@ title: Waiting with GODOT
 subhead: "Studying the physics of lightning requires fortitude...and patience"
 author:
     name: Anil Ananthaswamy
-    file: "2018/robert-pollie.jpg"
-    url: http://7thavenueproject.com/
+    file: "2019/anil-ananthaswamy.jpg"
+    url:
 banner:
     file: 2019/out-the-window.jpg
     position: left
@@ -49,17 +49,15 @@ The first clear indication of such high-energy strangeness came in 1994, when th
 
 An early hint that TGFs were not connected to sprites and developed from much deeper down in the atmosphere came in 2004. Dwyer, then at the Florida Institute of Technology, was studying lightning triggered by firing meter-long rockets up into thunderstorms. Normally, lightning occurs when negative and positive charges build up in clouds. When these charge centers grow big enough, they can spark, creating intra- or inter-cloud lightning. Positive charges can also accumulate on the ground during thunderstorms, and sometimes, a chunk of charge, called a leader, breaks free and moves toward the negative charge center in the clouds above. This creates a return path for lightning to strike the ground. Dwyer and his colleagues were using rockets to initiate this process. The rockets are tethered to spools of Kevlar-coated copper wire, which unspool as the rockets streak upward. The trailing copper wire creates a leader, providing the return path for lightning to come down and strike the rocket launcher. It was while observing such artificially created lightning that Dwyer’s team detected a downward gamma-ray flash. The finding suggested that if thunderstorms could beam TGFs downward, they could also beam them up to be seen from space. Maybe sprites weren’t the culprits.
 
-<figure class="left" style="width:300px;">
+<figure class="" style="width:600px;">
   {% asset 2019/getting-ready-godot.jpg @magick:resize=300 alt:'image of preparations' %}<figcaption>Getting ready to fly ADELE (Airborne Detector for Energetic Lightning Emissions) on the NSF/NCAR Gulfstream V in 2009, Bryna Hazelton, then a UCSC graduate student, now a research scientist at the University of Washington, Seattle, and Forest Martinez-McKinney, principal electronics technician at the Santa Cruz Institute for Particle Physics (SCIPP), examine newly arrived parts for the terrestrial gamma-ray detector ADELE. Credit: David Smith.</figcaption>
-</figure>
-
-<figure class="right" style="width:300px;">
-  {% asset 2019/bowers-hurricane-hunter.jpg @magick:resize=300 alt:'Image of a man in an airplane hangar' %}<figcaption>Gregory Bowers, then UCSC graduate student, now postdoctoral researcher at the Los Alamos National Laboratory in New Mexico, stands in front of NOAA's N42 Hurricane Hunter 'Miss Piggy' that flew into Hurricane Patricia with the terrestrial gamma-ray detector ADELE on board. Credit: Gregory Bowers.</figcaption>
 </figure>
 
 Smith entered the picture about that time. As an assistant research physicist at UC Berkeley in the 1990s and early 2000s, he worked on a satellite called the [Reuven Ramaty High Energy Solar Spectroscopic Imager](https://en.wikipedia.org/wiki/Reuven_Ramaty_High_Energy_Solar_Spectroscopic_Imager) (RHESSI), which launched in 2002 to study solar flares. It turns out that the exquisite [germanium detectors](https://en.wikipedia.org/wiki/Semiconductor_detector#Germanium_detectors) used in RHESSI could also capture TGFs, and Smith, soon to be hired to the UCSC faculty in 2003, and colleagues began to study them. RHESSI allowed the investigators to measure the energy spectrum of many TGFs, revealing that they originated deep within the Earth’s atmosphere and not from sprites. “RHESSI was a real game changer,” said Dwyer.
 
 ## Runaway electrons ##
+
+{% include_relative sidebars/2019-blinding-landslide.html classes="right" bgcolor="#fce5a5" %}
 
 Meanwhile, the theoretical physics that might explain TGFs was also coming into focus. The earliest work dates back to 1925 and [Charles Thomson Rees Wilson](https://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson), who won the [1927 Nobel Prize](https://www.nobelprize.org/prizes/physics/1927/wilson/biographical/) for inventing the [cloud chamber](https://en.wikipedia.org/wiki/Cloud_chamber). Wilson showed that [electrons](https://en.wikipedia.org/wiki/Electron) encountering the electric fields that exist in storm clouds can “run away” to near [relativistic speeds](https://en.wikipedia.org/wiki/Relativistic_particle) (i.e., near the speed of light) if they gain energy from the field faster than they lose energy through interactions with air molecules. When these runaway electrons hit the nuclei of atoms in the atmosphere, the collisions produce gamma rays. “The process is called ‘[bremsstrahlung](https://en.wikipedia.org/wiki/Bremsstrahlung)’,” said Smith. “It’s German for ‘braking radiation.’”
 
@@ -75,6 +73,10 @@ Then, in 2003, Dwyer suggested a possible solution: an avalanche of relativistic
 
 So, Smith and his students built ADELE at UCSC. At the heart of the instrument are devices called [scintillators](https://en.wikipedia.org/wiki/Scintillator), which emit light when stuck by particles such as gamma rays or neutrons. This light is amplified and converted into an electric current by a photomultiplier tube, providing information about the incident particles. ADELE was designed to see both faint and bright events by including multiple scintillators of varying sizes. In 2009, the first ADELE began flying aboard the modified Gulfstream V operated by the National Science Foundation (NSF) and the [National Center for Atmospheric Research](https://ncar.ucar.edu/) (NCAR). Although the effort captured that first TGF occurring about 10 kilometers away in a thunderstorm (during the flight that had Dwyer fearing for his life), there was another danger besides motion sickness (and crashing) associated with flying into storms looking for TGFs: pilots and passengers could be exposed to potentially lethal doses of gamma rays.
 
+<figure class="left" style="width:300px;">
+  {% asset 2019/bowers-hurricane-hunter.jpg @magick:resize=300 alt:'Image of a man in an airplane hangar' %}<figcaption>Gregory Bowers, then UCSC graduate student, now postdoctoral researcher at the Los Alamos National Laboratory in New Mexico, stands in front of NOAA's N42 Hurricane Hunter 'Miss Piggy' that flew into Hurricane Patricia with the terrestrial gamma-ray detector ADELE on board. Credit: Gregory Bowers.</figcaption>
+</figure>
+
 This concern led Smith and his then graduate students, **Gregory Bowers** and **Nicole Kelley**, to build another iteration of ADELE, a more compact version that flew on NASA’s unmanned [Global Hawk](https://www.nasa.gov/centers/armstrong/aircraft/GlobalHawk/index.html). Unfortunately, the work came to naught. NASA didn’t fly its drone anywhere near where you’d expect to see a TGF. “We didn’t know this when we made all the effort to get on board,” said Smith. “NASA was being very careful with a very valuable drone. They were unwilling to try to fly it into, or even over, a storm.”
 
 NASA’s primary concern wasn’t the lightning, but the convective turbulence in thunderstorms. They didn’t want their Global Hawk flying into turbulence, said Bowers. Smith then turned to the only people who dare to tackle such risky conditions: the pilots who fly the [Hurricane Hunters](https://www.omao.noaa.gov/learn/aircraft-operations/about/hurricane-hunters) for the [National Oceanic and Atmospheric Administration](https://www.noaa.gov/) (NOAA).
@@ -83,6 +85,10 @@ It was a busy hurricane season in 2015 and ADELE spent a lot of time on a Hurric
 
 In the eye wall, a column of tall, violent storms that line the eye of the hurricane, ADELE detected positrons beaming down at them, produced by terrestrial gamma rays interacting with atomic nuclei. It was another first. “We were actually underneath a TGF that was pointed upward,” said Bowers.
 
+<figure class="" style="width:600px;">
+  {% asset 2019/hurricane-patricia.jpg @magick:resize=300 alt:'aerial image of Hurricane Patricia' %}<figcaption>On October 23, 2015, ADELE flew on a NOAA Hurricane Hunter through Hurricane Patricia, at the time the strongest hurricane recorded by the National Hurricane Center, as it approached landfall on the southwest coast of Mexico. Credit: Jeff Schmaltz, LANCE/EODIS Rapid Response.</figcaption>
+</figure>
+
 Despite these successes, flying the instruments on planes poses challenges—not least because the instrument must be built both to handle intense vibrations and be fire-safe. Because of this, Smith and Bowers began to explore the possibility of placing their instruments near mountaintops.
 
 ## From the ground up ##
@@ -90,6 +96,10 @@ Despite these successes, flying the instruments on planes poses challenges—not
 Salvaging old ADELE equipment, Bowers built GODOT (for [Gamma-ray Observations During Overhead Thunderstorms](http://www.godot.jp/about/))—an instrument the team could simply install on the ground while thunderstorms raged above. The team first placed GODOT alongside the [High-Altitude Water Cherenkov](https://www.hawc-observatory.org/) (HAWC) Gamma-Ray Observatory, 4100 meters high on a plateau in the shadow of the Sierra Negra volcano near Puebla, Mexico. It waited there patiently, taking in the lightning season that lasts for three long months.
 
 Despite all the lightning, no TGFs were detected by GODOT, further confirming their rarity. GODOT did, however, observe thunderclouds glowing in gamma-rays, a phenomenon the team attributes to some acceleration of electrons and some avalanches, but not enough to produce lightning or TGFs. The gamma-ray glows last much longer than TGFs, but are a million times dimmer, said Smith.
+
+<figure class="" style="width:600px;">
+  {% asset 2019/inside-godot-and-baggage.jpg @magick:resize=600 alt:'GODOT ready for travel' %}<figcaption>Above left: A top-open view of the GODOT (Gamma-ray Observations During Overhead Thunderstorms) instrument, designed to study terrestrial gamma-ray flashes from the ground. The Lenovo notebook records data from five analog-to-digital converters on the left. The metal box in the bottom left corner is a GPS unit. Two small, shiny cylindrical detectors (each is a scintillator coupled to a photomultiplier tube) sit above two large detectors that are not visible. Above right: GODOT ready to be taken as checked-in baggage from San Francisco to Japan. Opposite page: The wind turbine and an adjacent lightning tower in Uchinada, Japan, where GODOT saw photoneutrons, which are neutrons knocked out of air molecules by the gamma rays generated during a terrestrial gamma-ray flash. Credit, all: Gregory Bowers.</figcaption>
+</figure>
 
 Another attractive location for GODOT was suggested by a collaborator in Japan: the town of Uchinada, on the western coast of the island of Honshu. The region gets hit by winter thunderstorms that are very low to the ground. A wind turbine at the mouth of a lagoon there had been repeatedly struck by lightning. The Japanese dismantled the wind turbine, erected a lightning protection tower, and reinstalled the turbine next to it. For researchers studying lightning, this was perfect. “This was a good place to look for lightning strikes from these winter thunderstorms,” said Bowers. “We knew we had a big lightning rod that was getting struck.”
 
@@ -102,15 +112,3 @@ The neutron signal turns out to be a good proxy for a TGF, said Smith, especiall
 Smith now has the funding to build a super-GODOT, an instrument with a wider range of detectors, both smaller and larger, than in the current GODOT. He hopes to deploy this instrument, tentatively called THOR, for Terrestrial High-Energy Observations of Radiation, on mountaintops, in aircraft, next to lightning towers—anywhere he can. “Every time you think of a new way to look, you discover something new,” he said. “Every time you look in a new place, you discover something new.”
 
 One such interesting new place could be detectors flown into thunderstorms in balloons, a project Smith is working on with [John Sample](http://www.physics.montana.edu/directory/faculty/1987181/john-sample), an assistant professor of physics at Montana State University. By going where pilots cannot, the balloon-based detectors should see the weak TGFs if they exist and may permit a closer inspection of the intense ones that could provide further insight into Smith’s “all-or-nothing” hypothesis. “When the balloons go up, we could be flattened or we’ll see nothing,” said Smith. “But maybe nature will surprise us, and that’ll be very exciting too.”
-
-**\[sidebar—position towards end of Runaway electrons section\]**
-
-## A blinding landslide of multiple avalanches ##
-
-Even though terrestrial gamma-ray flashes (TGF) develop deep inside the Earth’s atmosphere and then lose a lot of intensity moving out into space, they are still bright enough to saturate the detectors on satellites orbiting 400 miles above our planet. By the early 2000s, it was clear that an avalanche of electrons accelerated to near relativistic speeds by the powerful electric fields inside thunderclouds could create gamma rays (see main story). Yet, just one avalanche wasn’t enough to account for the brightness of TGFs. In 2003, [Joseph Dwyer](https://ceps.unh.edu/person/joseph-richard-dwyer), professor of physics and astronomy at the University of New Hampshire, suggested that an avalanche of electrons can initiate other avalanches—and this can explain the observed intensity of TGFs.
-
-Dwyer has proposed several possible ways avalanches might trigger new avalanches. In one, an avalanche of accelerating electrons smashes into the nuclei of atoms in the air and creates gamma rays. Some of these gamma rays scatter in the atmosphere and end up in the region where the initial avalanche started. There, the gamma rays kick off more electrons from atoms in the air, starting a new avalanche.
-
-Another possibility involves the production of pairs of particles and their anti-particles. Collisions of gamma rays with atomic nuclei can result in the formation of electron and positron (anti-electron) pairs. Being positively charged, the positrons get drawn to the region where the electron avalanche began, kicking out more electrons from atoms in the air, similarly starting a new avalanche.
-
-According to [**David Smith**](http://physics.ucsc.edu/people/faculty/smithd.html), Dwyer’s colleague and professor of physics at UC Santa Cruz, one of these processes or both could be active in thunderstorms. The theoretical calculations predict that TGFs will take up to 100 microseconds to reach full brightness, a result that is consistent with the observed data from actual TGFs.
