@@ -2,7 +2,7 @@
 layout: post
 issue: 2019
 category: feature
-order: 2
+order: 3
 title: Appraising clues from antiquity
 subhead: "Different lenses can reveal different truths"
 author:
