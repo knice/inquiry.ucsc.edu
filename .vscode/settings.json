@@ -3,4 +3,11 @@
   "files.associations": {
     "*.html": "liquid"
   }
+  "editor.wrappingColumn": 0,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  }
+  "pandoc.htmlOptString": "-s -f gfm -t html5 --css=css/style.css"
 }
