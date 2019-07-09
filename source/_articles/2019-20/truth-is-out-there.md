@@ -7,7 +7,7 @@ title: The truth is out there
 subhead: "Extracting Big Data insights to believe in"
 author:
     name: Erik Vance
-    file: "2019/ben-shouse.jpg"
+    file: "2019/erik-vance.jpg"
     url:
 banner:
     file: 2019/carlos-dobkin-truth.jpg
