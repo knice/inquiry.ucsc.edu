@@ -58,7 +58,7 @@ True vaccination was [first attempted](https://www.ncbi.nlm.nih.gov/pmc/articles
 About 90 years later, [*Louis Pasteur*](https://en.wikipedia.org/wiki/Louis_Pasteur) developed a more scalable way to protect people from viruses. Instead of finding a similar but less dangerous virus like cowpox, he used the actual disease agent he wanted to combat, [*rabies*](https://www.cdc.gov/rabies/index.html). He rendered it harmless by exposing it to dry air. Then, in another sketchy but successful test, he used an untested formulation to [inoculate two boys](https://www.the-scientist.com/foundations/the-rabies-vaccine-backstory-33441) who had been bitten by rabid dogs. Fortunately, neither developed rabies, a routinely fatal disease.
 
 The professionalism and safety of vaccine development have improved dramatically. But the underlying technology? Not so much. Most vaccines now in use were made by doing what Pasteur did: killing or weakening viruses and showing them to the immune system, like a wanted poster: “Look out for these guys!”
-
+{% include_relative sidebars/2019-rational-vaccine-design.html classes="" bgcolor="#fce5a5" %}
 ## Molecular locksmithing ##
 
 Vaccination works because the immune system can recognize invaders years or decades after being exposed to them. The human body has a cadre of “memory” cells patrolling the bloodstream. Their job is to recognize an invader, then rapidly produce proteins called antibodies to catch and neutralize it, usually with the help of a goon squad of killer immune cells. Antibodies stick only to one remembered feature on the surface of a specific invader, like a key fits a lock, and then wave a flag to bring in the killer cells.

@@ -3,5 +3,6 @@
     "MD007": false,
     "line-length": false,
     "MD026": { "punctuation": ".,;:!" },
+    "MD033": false,
     "MD041": false
 }
