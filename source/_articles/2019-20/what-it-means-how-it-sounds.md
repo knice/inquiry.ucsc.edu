@@ -17,9 +17,9 @@ further-inquiry:
       url: https://syntaxprosody.wordpress.com/
     - title: "talk by Armin Mester at a MIT workshop in 2013"
       url: https://www.youtube.com/watch?v=duYc4W4Lhp4
-    - title: "Bennett R, Elfner E. The Syntax-Prosody Interface <span style='font-style:italics'>Ann Rev Linguistics</span>. 2019;5:151-171"
+    - title: "Bennett R, Elfner E. The Syntax-Prosody Interface <span style='font-style:italic'>Ann Rev Linguistics</span>. 2019;5:151-171"
       url: https://www.annualreviews.org/doi/abs/10.1146/annurev-linguistics-011718-012503
-    - title: "Junko Ito and Armin Mester-authored 2009 book chapter from <span style='font-style:italics'>Phonological Domains. Universals and Deviations</span>: The extended prosidic word [pdf]"
+    - title: "Junko Ito and Armin Mester-authored 2009 book chapter from <span style='font-style:italic'>Phonological Domains. Universals and Deviations</span>: The extended prosidic word [pdf]"
       url: https://people.ucsc.edu/~mester/papers/2009_ito_mester_extended_prwd_pub.pdf
 in-the-news:
     - title: "NSF Grant Supports Linguistics Research at UCSC through SPOT Project"
