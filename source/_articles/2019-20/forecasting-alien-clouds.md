@@ -10,7 +10,7 @@ tags:
     - Earth AND Planetary Sciences
 ---
 <figure class="">
-  {% asset 2019/wasp-31b.jpg @magick:resize=600 alt:'hot Jupiter planet WASP-31b' %}<figcaption>Assistant professor of planetary sciences Xi Zhang's computer model simulates the formation of clouds on planets like the hot Jupiter planet WASP-31b, depicted here in an artist's illustration. Credit: ESA/Hubble & NASA, Wikimedia Commons.</figcaption>
+  {% asset 2019/wasp-31b.jpg @magick:resize=600 alt:'hot Jupiter planet WASP-31b' %}<figcaption>Assistant professor of planetary sciences Xi Zhang's computer model simulates the formation of clouds on planets like the <a href="https://en.wikipedia.org/wiki/Hot_Jupiter">hot Jupiter</a> planet <a href="https://en.wikipedia.org/wiki/WASP-31b">WASP-31b</a>, depicted here in an artist's illustration. Credit: ESA/Hubble & NASA, <a href="https://commons.wikimedia.org/wiki/File:HotJupiter-Exoplanet-WASP-31b.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 
 [**Xi Zhang**](https://websites.pmc.ucsc.edu/~xiz/file/Home.html) always has his head in the clouds...of other planets. The assistant professor of [planetary sciences](https://ucscplanetaryscience.com/) has built a powerful computer model that can simulate how individual molecules in a planet's [atmosphere](https://en.wikipedia.org/wiki/Atmosphere) coalesce and grow into billowing clouds.
