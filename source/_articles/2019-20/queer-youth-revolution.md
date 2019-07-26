@@ -10,7 +10,7 @@ tags:
     - Psychology
 ---
 <figure class="">
-  {% asset 2019/rainbow-thumbprint.png @magick:resize=600 alt:'Rainbow thumbprint' %}<figcaption>There’s a gender identity revolution among queer teens, said professor of social psychology Phillip Hammack. LGBT young people who do not fit neatly into traditional “male” or “female” gender categories are using new gender identity labels such as “gender non-binary” to describe themselves. Credit: pixabay.</figcaption>
+  {% asset 2019/rainbow-thumbprint.png @magick:resize=600 alt:'Rainbow thumbprint' %}<figcaption>There’s a gender identity revolution among queer teens, said professor of social psychology Phillip Hammack. LGBT young people who do not fit neatly into traditional “male” or “female” gender categories are using new gender identity labels such as “gender non-binary” to describe themselves. Credit: <a href="https://pixabay.com/illustrations/fingerprint-gay-flag-symbol-finger-649818/">pixabay</a>.</figcaption>
 </figure>
 
 Unexpected [results](https://sites.nationalacademies.org/DBASSE/BCYF/DBASSE_187987) emerged from an extensive [study](https://news.ucsc.edu/2017/04/hammack-lgbtq.html) examining the experiences of LGBT teens living in one historically supportive community (the San Francisco Bay Area), and another with historically more hostile attitudes toward sexual and gender diversity (the Central Valley).
