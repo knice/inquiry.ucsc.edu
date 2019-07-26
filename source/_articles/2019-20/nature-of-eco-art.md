@@ -10,7 +10,7 @@ tags:
     - Digital Art New Media
 ---
 <figure class="">
-  {% asset 2019/eco-art.jpg @magick:resize=600 alt:'Climate engineering measures under discussion' %}<figcaption>Created by professors emeriti of art Newton Harrison and his late wife Helen Mayer Harrison, the eco-art installation *The Future Garden for the Central Coast of California* at the UC Santa Cruz Arboretum and Botanic Garden serves dual purposes, as showcases for the impact of climate change and scientific experiments. Credit: C. Lagattuta.</figcaption>
+  {% asset 2019/eco-art.jpg @magick:resize=600 alt:'Climate engineering measures under discussion' %}<figcaption>Created by professors emeriti of art Newton Harrison and his late wife Helen Mayer Harrison, the eco-art installation <em>The Future Garden for the Central Coast of California</em> at the UC Santa Cruz Arboretum and Botanic Garden serves dual purposes, as showcases for the impact of climate change and scientific experiments. Credit: C. Lagattuta.</figcaption>
 </figure>
 Walk past the beds of succulents and aromatic flowers at the UC Santa Cruz Arboretum and Botanic Garden and there sit three geodesic domes. Inside each, native plants grow in climatic conditions forecast for the near future. One is drier than the California Coast today, another is wetter, and one contains plants watered intermittently. UCSC ecologists closely monitor the plants to study how native species will respond to drastic climate change. However, scientists did not initiate this project—it sprung from the imagination of ecological artists.
 
