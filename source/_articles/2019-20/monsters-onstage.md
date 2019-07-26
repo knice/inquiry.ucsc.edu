@@ -10,7 +10,7 @@ tags:
     - Theater Arts
 ---
 <figure class="">
-  {% asset 2019/monsters @magick:resize=600 alt:'1823 engraving of T. P. Cooke as "The Demon"' %}<figcaption>As a testing ground for the monstrous, theater manifests the cultural processing of fear, said Michael Chemers, professor of dramatic literature and theater arts. This 1823 engraving by Nathaniel Whittock depicts T. P. Cooke as "The Demon" in the first-ever theatrical adaptation of <span style="font-style:italic">Frankenstein</span>, entitled <span style="font-style:italic">Presumption; or, the Fate of Frankenstein</span>, by Richard Brinsely Peake. Credit: Wikimedia Commons.</figcaption>
+  {% asset 2019/monsters @magick:resize=600 alt:'1823 engraving of T. P. Cooke as "The Demon"' %}<figcaption>As a testing ground for the monstrous, theater manifests the cultural processing of fear, said Michael Chemers, professor of dramatic literature and theater arts. This 1823 engraving by Nathaniel Whittock depicts T. P. Cooke as "The Demon" in the first-ever theatrical adaptation of <span style="font-style:italic">Frankenstein</span>, entitled <span style="font-style:italic">Presumption; or, the Fate of Frankenstein</span>, by Richard Brinsely Peake. Credit: <a href="https://commons.wikimedia.org/wiki/File:Frankenstein_Cooke_1823.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 
 When Frankenstein's creature lurches onstage, or Dracula disappears into the wings, what do the audience's shudders convey? [**Michael Chemers**](http://theater.ucsc.edu/faculty/chemers), professor of dramatic literature and theater arts, sees the cultural processing of fear.
