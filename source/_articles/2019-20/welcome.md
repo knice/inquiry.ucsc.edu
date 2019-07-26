@@ -42,7 +42,7 @@ and Professor of Computer Science
 
 ### Contributors
 
-- Ania Ananthaswmy (SciCom '00)
+- Ania Ananthaswamy (SciCom '00)
 - Emma Hiolski (SciCom ’17)
 - Alla Katsnelson (SciCom '17)
 - Jane Palmer (SciCom ’10)
@@ -58,8 +58,8 @@ and Professor of Computer Science
 - Chris Woolston (SciCom '95)
 - Sascha Zubryd (SciCom '11)
 
-Produced by UC Santa Cruz Communications & Marketing
-1156 High Street
+Produced by UC Santa Cruz Communications & Marketing,
+1156 High Street,
 Santa Cruz, CA 95064-1077
 Email: [inquiry@ucsc.edu](mailto:inquiry@ucsc.edu)
 Web: [research.ucsc.edu](http://research.ucsc.edu) [inquiry.ucsc.edu](http://inquiry.ucsc.edu)
