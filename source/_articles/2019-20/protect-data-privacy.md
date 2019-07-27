@@ -10,7 +10,7 @@ tags:
     - Computer Science
 ---
 <figure class="">
-  {% asset 2019/digital-noise.jpg @magick:resize=600 alt:'stylized image' %}<figcaption>Most of us have increasing concerns about the use of personal data collected from our digital footprints. Computer scientist Abhradeep Guha Thakurta has developed commercial-scale methods that help ensure privacy while also providing access to valuable data. Credit: pxhere, CC0.</figcaption>
+  {% asset 2019/digital-noise.jpg @magick:resize=600 alt:'stylized image' %}<figcaption>Most of us have increasing concerns about the use of personal data collected from our digital footprints. Computer scientist Abhradeep Guha Thakurta has developed commercial-scale methods that help ensure privacy while also providing access to valuable data. Credit: <a href="https://pxhere.com/en/photo/742594">pxhere</a>, CC0.</figcaption>
 </figure>
 
 What if your cell phone could assess your risk for developing diabetes? For that to be possible, a predictive model would first need to be trained on vast amounts of user data. And that poses a problem, said [**Abhradeep Guha Thakurta**](https://www.soe.ucsc.edu/people/aguhatha), assistant professor of computer science and engineering.

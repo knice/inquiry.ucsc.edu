@@ -10,7 +10,7 @@ tags:
     - Electrical and Computer Entineering
 ---
 <figure class="">
-  {% asset 2019/weigang-yang-laser-setup.jpg @magick:resize=600 alt:'Relicanthus sp.' %}<figcaption>In Professor Holger Schmidt’s applied optics laboratory, postdoctoral fellow Weigang Yang adjusts the laser setup used to measure the magnetic damping in a prototype digital memory device. Credit: Mike Jaris, courtesy of Holger Schmidt.</figcaption>
+  {% asset 2019/weigang-yang-laser-setup.jpg @magick:resize=600 alt:'Relicanthus sp.' %}<figcaption>In Professor Holger Schmidt’s applied optics laboratory, postdoctoral fellow <a href="https://www.soe.ucsc.edu/people/wgyang"><strong>Weigang Yang</strong></a> adjusts the laser setup used to measure the magnetic damping in a prototype digital memory device. Credit: Mike Jaris, courtesy of Holger Schmidt.</figcaption>
 </figure>
 
 As computer memory devices shrink and become more powerful, more sophisticated methods are needed to assess performance and improve designs. Lasers can help measure the magnetic properties on which most of these advanced devices rely, said [**Holger Schmidt**](https://www.soe.ucsc.edu/people/hschmidt), a professor of electrical and computer engineering with expertise in [spintronics and ultrafast optics](https://photon.soe.ucsc.edu/). "With lasers we can measure things that happen really fast in things that are really small."
