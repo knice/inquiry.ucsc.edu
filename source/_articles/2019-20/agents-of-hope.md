@@ -13,21 +13,21 @@ banner:
     file: 2019/homeless-on-curb.jpg
     position: left
 further-inquiry:
-    - title: "Benner et al report on wage inequality in the tech industry: <span style='font-style:italics;'>Still Walking the Lifelong Tightrope: Technology, Insecurity, and the Future of Work</span>[PDF]"
+    - title: "Benner et al report on wage inequality in the tech industry: <em>Still Walking the Lifelong Tightrope: Technology, Insecurity, and the Future of Work</em> [PDF]"
       url: http://www.everettprogram.org/main/wp-content/uploads/TIGHTROPE-2018-REPORT.pdf
-    - title: "Benner co-authored book on the impact of inequality on life in America: <span style='font-style:italics;'>Equity, Growth and Community</span>"
+    - title: "Benner co-authored book on the impact of inequality on life in America: <em>Equity, Growth and Community</em>"
       url: http://growingtogethermetro.org/
-    - title: "No Place Like Home"
+    - title: "Website for No Place Like Home housing project: <em>No Place Like Home</em>"
       url: https://noplacelikehome.ucsc.edu/en/
-    - title: "Critical Sustainabilities"
+    - title: "Website for UCSC-directed interdisciplinary work focused on sustainability as a driver of change in California: <em>Critical Sustainabilities</em>"
       url: https://critical-sustainabilities.ucsc.edu/
-    - title: "McKay’s 2015 final report from a study of low-wage workers in Santa Cruz County: <span style='font-style:italics;'>Working for Dignity</span>"
+    - title: "McKay’s 2015 final report from a study of low-wage workers in Santa Cruz County: <em>Working for Dignity</em>"
       url: https://workingfordignity.ucsc.edu/
-    - title: "Final report of UCSC research on Latina mothers’ experiences with financial services: <span style='font-style:italics;'>Mamás con Más</span>[PDF]"
+    - title: "Final report of UCSC research on Latina mothers’ experiences with financial services: <em>Mamás con Más</em> [PDF]"
       url: https://blumcenter.ucsc.edu/publications/images/mcm.pdf
-    - title: "Bullock HE. <span style='font-style:italics;'>Women and Poverty: Psychology, Public Policy, and Social Justice.</span> Chichester, West Sussex, UK: Wiley-Blackwell, 2013"
+    - title: "Bullock HE. <em>Women and Poverty: Psychology, Public Policy, and Social Justice</em>. Chichester, West Sussex, UK: Wiley-Blackwell, 2013"
       url: https://www.worldcat.org/title/women-and-poverty-psychology-public-policy-and-social-justice/oclc/862828718
-    - title: "Bullock HE (Editor). Psychological perspectives on understanding socioeconomic status and social class [Special Issue]. <span style='font-style:italics;'>Translational Issues in Psychological Science.</span> 2018:4(2)."
+    - title: "Bullock HE (Editor). Psychological perspectives on understanding socioeconomic status and social class [Special Issue]. <em>Translational Issues in Psychological Science</em>. 2018:4(2)."
       url: https://psycnet.apa.org/PsycARTICLES/journal/tps/4/2
 in-the-news:
     - title: "In Silicon Valley, the Rich Get Richer While the Wages Stagnate for the Rest"
@@ -96,33 +96,41 @@ The study showed that more than 40 percent of renters spent over half their inco
 
 “In the debate about affordable housing development, the voices of those most affected are rarely heard,” said [Gretchen Regenhardt](https://www.crla.org/office-listing), a CRLA regional directing attorney. To have UCSC step in was important, she said, “Agencies like mine that deal with the legal issues affecting low-income people operate on a shoestring and don’t often have the capacity for such a wide reach.”
 
+<figure class="left" style="width:300px;">
+  {% asset 2019/sharing-findings.jpg @magick:resize=300 alt:'This is even badder' %}<figcaption>UCSC researchers with the <a href="https://noplacelikehome.ucsc.edu/en/">No Place Like Home</a> project shared their findings in numerous regional public forums on the affordable housing crisis, including this one on campus hosted by the <a href="https://socialsciences.ucsc.edu/">Division of Social Sciences</a>. “Our job is to inform local debate,” said sociology associate professor Steve McKay, who was among six scholars on a <a href="https://news.ucsc.edu/2018/10/housing-forum.html">panel</a> presenting different views on possible solutions. Credit: Aashia Bajwa. Courtesy of UCSC <a href="https://socialsciences.ucsc.edu/">Division of Social Sciences</a>.</figcaption>
+</figure>
+
 Although the final report remains in progress, many of the findings were released and posted on the [NPLH](https://noplacelikehome.ucsc.edu/en/) website (*noplacelikehome.ucsc.edu*) to help inform the Santa Cruz community as residents debated both a proposed renter-protection measure and an affordable housing bond on the November ballot. Project members also helped organize and present information at several forums on the affordable housing crisis, with some events drawing hundreds of participants.
 
 Greenberg and McKay also wrote [an op-ed in the local newspaper](https://www.santacruzsentinel.com/2018/10/14/commentary-housing-crisis-breeds-opportunity/) that included recommended solutions. The research, they said, made it clear that steps need to be taken to protect tenants “through rent control, just-cause eviction, and legal aid; preservation of existing affordable housing, through dedicated funds and land-use; and, over the long-term, production of new affordable housing, through reinvestment in social housing, expansion of workforce and student housing, and creation of nonmarket alternatives like limited-equity co-ops and community land trusts.”
 
 It remains unclear, however, when change might come to Santa Cruz. The November ballot’s [rent-control measure](https://www.santacruzsentinel.com/2018/12/05/final-election-results-housing-measures-flop-amid-record-turnout-in-santa-cruz-county/), which would have restricted evictions, limited rent increases, and created a rent board, was opposed by 62 percent of voters. The [affordable housing bond](https://www.santacruzsentinel.com/2018/12/05/final-election-results-housing-measures-flop-amid-record-turnout-in-santa-cruz-county/) similarly failed; while it was supported by 55 percent of voters, a two-thirds majority was needed for passage.
 
-## Un- and Underbanked ##
+## Un- and underbanked ##
 {% include_relative sidebars/2019-student-powered-research.html classes="right" bgcolor="#abd9e8" %}
-<figure class="left" style="width:300px;">
-  {% asset 2019/sharing-findings.jpg @magick:resize=300 alt:'This is even badder' %}<figcaption>UCSC researchers with the <a href="https://noplacelikehome.ucsc.edu/en/">No Place Like Home</a> project shared their findings in numerous regional public forums on the affordable housing crisis, including this one on campus hosted by the <a href="https://socialsciences.ucsc.edu/">Division of Social Sciences</a>. “Our job is to inform local debate,” said sociology associate professor Steve McKay, who was among six scholars on a <a href="https://news.ucsc.edu/2018/10/housing-forum.html">panel</a> presenting different views on possible solutions. Credit: Aashia Bajwa. Courtesy of UCSC <a href="https://socialsciences.ucsc.edu/">Division of Social Sciences</a>.</figcaption>
-</figure>
+
 Raisa Sanchez grew up in the rural town of Watsonville south of Santa Cruz surrounded by a family with agricultural roots. A child of immigrants, she knows firsthand the difficulties of navigating new cultures, with their different languages, skills, and traditions. She now draws on this life experience in her work helping low-income Watsonville residents as a senior program manager with the affordable housing enterprise [MidPen Housing Corp](https://www.midpen-housing.org/what-we-do/services/). One of the most important systems to access and navigate, said Sanchez, is banking services. Otherwise, it's tough to get out of poverty.
 
 "The financial system in the United States and internationally depends on credit and your ability to build it," said [Maria Cadenas](https://www.linkedin.com/in/mariacadenas), executive director of the nonprofit financial services organization [Santa Cruz Community Ventures](https://www.sccvonline.org/) (SCCV). To build wealth, "it's important to understand credit and leverage it." This typically means having savings and loans accounts within the traditional banking system. But low-income workers in particular don’t have them or use them infrequently, so they become the “unbanked or underbanked.”
-<figure class="" style="width:600px;">
-  {% asset 2019/hope-agents.png @magick:resize=600 alt:'Hope Agents' %}<figcaption>Data from the <a href="https://www.sccvonline.org/mamas.html">Mamás con Más</a> report show how much banking opportunities can differ between communities. Researchers found a larger number of asset-poor households in Watsonville than in Santa Cruz, and many more were unbanked or underbanked. To meet pressing money needs, these households often use more accessible alternative financial services, such as check cashing, payday loans, and pawn shops, that can charge exorbitant rates and fees. Credit: Courtesy of <a href="https://blumcenter.ucsc.edu/">UCSC Blum Center on Poverty, Social Enterprise, and Participatory Governance</a> and <a href="https://www.sccvonline.org/">Santa Cruz Community Ventures</a>.</figcaption>
-</figure>
+
 To investigate the challenges of this group, SCCV and the UC Santa Cruz [Blum Center on Poverty, Social Enterprise, and Participatory Governance](https://blumcenter.ucsc.edu/) partnered together. "Nationally, we know that families who are unbanked and/or underbanked are especially likely to turn to alternative lenders to meet basic financial needs and that the exorbitant rates charged by these services deepens hardship. We wanted to learn more about this problem locally and what could be done to foster greater economic inclusion," said psychology professor [**Heather Bullock**](https://psychology.ucsc.edu/about/people/faculty.php?uid=hbullock), Blum Center director and coprincipal investigator with postdoctoral researcher and lecturer [**Erin Toolis**](https://psychology.ucsc.edu/about/people/grad-directory.php?uid=eetoolis).
 
 Latinas who managed households appeared to be among those facing the greatest barriers, so the team decided to focus on them. More than 100 women in the region shared their experiences with the researchers. The resulting report, [*Mamás con Más*](https://www.sccvonline.org/mamas.html) (Mothers with More), identifies obstacles as well as possible solutions. What stood out, the authors noted, was that most of the mothers have a strong understanding of money management but encounter significant barriers to using mainstream banking services. Barriers included feeling unwelcome in banks as well as dealing with language gaps, requested documentation, and a lack of transparency regarding fees. Many found the institutional processes and documents confusing and off-putting. And then there were those whose budgets and income were so limited that they couldn't afford, or see the sense in, monthly account charges or other fees.
 
 Ofelia, for instance, is a single mother of two who makes money working in the fields and in child care. She went without a banking account for four years, she said, because she didn't have enough money to support a minimum account balance. After participating in one of the study’s listening circles and having a lot of her questions answered, she found herself motivated to try again. She discovered a local bank that treats her well, with bilingual staff who recognize and greet her.
+
+If the mothers in the project didn't use banks but needed financial help, they turned to alternative services. These include payday loans, check-cashing services, money transfers, rent-to-own services, and car-title loans—services often considered predatory because they can charge steep fees and high interest rates.
+
+<figure class="" style="width:600px;">
+  {% asset 2019/hope-agents.png @magick:resize=600 alt:'Hope Agents' %}<figcaption>Data from the <a href="https://www.sccvonline.org/mamas.html">Mamás con Más</a> report show how much banking opportunities can differ between communities. Researchers found a larger number of asset-poor households in Watsonville than in Santa Cruz, and many more were unbanked or underbanked. To meet pressing money needs, these households often use more accessible alternative financial services, such as check cashing, payday loans, and pawn shops, that can charge exorbitant rates and fees. Credit: Courtesy of <a href="https://blumcenter.ucsc.edu/">UCSC Blum Center on Poverty, Social Enterprise, and Participatory Governance</a> and <a href="https://www.sccvonline.org/">Santa Cruz Community Ventures</a>.</figcaption>
+</figure>
+
 <figure class="left" style="width:300px;">
   {% asset 2019/predatory-lenders.jpg @magick:resize=300 alt:'Sign: We cash checks' %}<figcaption>Alternative lenders, such as check-cashing services, are often concentrated in communities with low-income residents and people of color. While street signs offer easy services, they don’t advertise the high rates and fees being charged. Using these lenders can push families further into debt and poverty and should be limited or banned, according to the authors of the <a href="https://www.sccvonline.org/mamas.html">Mamás con Más</a> report. Credit: Karen Apricot, <a href="https://commons.wikimedia.org/wiki/File:We_Cash_Checks_-_Follow_Me_-_New_Orleans_signs.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
-If the mothers in the project didn't use banks but needed financial help, they turned to alternative services. These include payday loans, check-cashing services, money transfers, rent-to-own services, and car-title loans—services often considered predatory because they can charge steep fees and high interest rates.
 
 What the researchers found was that Watsonville had more than twice as many alternative lenders as the city of Santa Cruz. Using these lenders can push families further into debt, so their availability should be limited or banned, the report recommended. In addition, there should be improved access to mainstream financial services. Unfortunately, said Cadenas, government social-service asset limit policies often discourage their use. “Various programs and policies designed to assist the poor actually discourage them from building credit and financial assets.” To address this potential barrier, the report recommended eliminating asset limits that can discourage families from using mainstream financial services. Providing useful and specific information such as this is helpful, said Robert Singleton, executive director of the [Santa Cruz County Business Council](https://sccbusinesscouncil.com/). It can guide the development of business practices and policies that improve the region’s economy and “collective quality of life.”
+
+
 
 For Victoria, an agricultural worker and mother of three, supports such as the ones identified by the study have gone far. She is benefiting from bank classes held by the Santa Cruz Community Credit Union as well as by MidPen. "Both helped me out a lot," she said, adding that the credit union makes her feel safe and comfortable. The process of getting a car loan was difficult, but has made her more organized and careful, she said. "It's a good thing to prepare for the future."

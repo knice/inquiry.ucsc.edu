@@ -3,15 +3,15 @@ layout: page
 issue: 2019
 category: credits
 order: 1
-title: Inquiring minds
+title: "INQUIRING <strong>minds</strong>"
 ---
 
 <ul class="contributors-container">
 <li>{% asset 2019/anil-ananthaswamy.jpg alt:"Anil Ananthaswamy (’00)" %}<span>Anil Ananthaswamy (’00)</span></li>
 
-<li>{% asset 2018/david-egerter.jpg alt:"David Egerter, Editor (’88)" %}<span><a href="https://medcommstrategy.com/">David Egerter, Editor (’88)</a></span></li>
+<li>{% asset 2018/david-egerter.jpg alt:"David Egerter, Editor (’88)" %}<span>David Egerter, Editor (’88)</span></li>
 
-<li>{% asset 2018/emma-hiolski.jpg alt:"Emma Hiolski (’17)" %}<span><a href="https://www.emmahiolski.com/">Emma Hiolski (’17)</a></span></li>
+<li>{% asset 2018/emma-hiolski.jpg alt:"Emma Hiolski (’17)" %}<span>Emma Hiolski (’17)</span></li>
 
 <li>{% asset 2019/alla-katsnelson.jpg alt:"Alla Katsnelson (’07)" %}<span>Alla Katsnelson (’07)</span></li>
 
@@ -23,21 +23,21 @@ title: Inquiring minds
 
 <li>{% asset 2019/ben-shouse.jpg alt:"Ben Shouse (’01)" %}<span>Ben Shouse (’01)</span></li>
 
-<li>{% asset 2019/alison-takemura.jpg alt:"Alison F. Takemura (’16)" %}<span>Barbra A. Rodriguez (’97)</span></li>
+<li>{% asset 2019/alison-takemura.jpg alt:"Alison F. Takemura (’16)" %}<span>Alison F. Takemura (’16)</span></li>
 
 <li>{% asset 2019/erik-vance.jpg alt:"Erik Vance (’06)" %}<span>Eric Vance (’06)</span></li>
 
-<li>{% asset 2018/cameron-walker.jpg alt:"Cameron Walker (’02)" %}<span><a href="http://www.cameronwalker.net/">Cameron Walker (’02)</a></span></li>
+<li>{% asset 2018/cameron-walker.jpg alt:"Cameron Walker (’02)" %}<span>Cameron Walker (’02)</span></li>
 
 <li>{% asset 2019/km-watson.jpg alt:"K. M. Watson (’84)" %}<span>K. M. Watson (’84)</span></li>
 
 <li>{% asset 2019/leslie-willoughby.jpg alt:"Leslie Willoughby (’15)" %}<span>Leslie Willoughby ('15)</span></li>
 
-<li>{% asset 2018/marcus-woo.jpg alt:"Marcus Woo (’07)" %}<span><a href="https://about.me/marcus_woo">Marcus Woo (’07)</a></span></li>
+<li>{% asset 2018/marcus-woo.jpg alt:"Marcus Woo (’07)" %}<span>Marcus Woo (’07)</span></li>
 
 <li>{% asset 2019/chris-woolston.jpg alt:"Chris Woolston (’95)" %}<span>Chris Woolston (’95)</span></li>
 
-<li>{% asset 2018/sascha-zubryd.jpg alt:"Sascha Zubryd (’11)" %}<span><a href="https://outfog.com/author/sascha-zubryd/">Sascha Zubryd (’11)</a></span></li>
+<li>{% asset 2018/sascha-zubryd.jpg alt:"Sascha Zubryd (’11)" %}<span>Sascha Zubryd (’11)</span></li>
 
 </ul>
 

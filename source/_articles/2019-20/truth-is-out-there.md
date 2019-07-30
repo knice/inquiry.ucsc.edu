@@ -13,11 +13,13 @@ banner:
     file: 2019/carlos-dobkin-truth.jpg
     position: left
 further-inquiry:
-    - title: "<span style='font-style:italic'>The Effect of Alcohol Consumption on Mortality: Regression Discontinuity Evidence from the Minimum Drinking Age</span>[PDF]"
+    - title: "Carpenter C, Dobkin C. The Effect of Alcohol Consumption on Mortality: Regression Discontinuity Evidence from the Minimum Drinking Age. Amer Econ J Appl Econ. 2009;1:164-182."
       url: https://people.ucsc.edu/~cdobkin/Papers/2009%20The%20Effect%20of%20Alcohol%20Consumption%20on%20Mortality%20Regression%20Discontinuity%20Evidence%20from%20the%20Minimum%20Drinking%20Age.pdf
-    - title: "The Economic Consequences of Hospital Admissions[PDF]"
+    - title: "Dobkin C, Finkelstein A, Kluender R, Notowidigdo MJ. The Economic Consequences of Hospital Admissions. September 2017."
       url: https://people.ucsc.edu/~cdobkin/Papers/2018%20The%20Economic%20Consequences%20of%20Hospital%20Admissions.pdf
-    - title: "Does Medicare Save Lives?"
+    - title: Dobkin C, Finkelstein A, Kluender R, Notowidigdo MJ. Myth and Measurement – The Case of Medical Bankruptcies. N Engl J Med. 2018;378:1076-1078.
+      url: https://www.nejm.org/doi/pdf/10.1056/NEJMp1716604
+    - title: "Card D, Dobkin C, Maestas N. Does Medicare Save Lives? NBER Working Paper No. 13668. November 2007."
       url: https://www.nber.org/papers/w13668
 in-the-news:
     - title: "The truth about medical bankruptcies"

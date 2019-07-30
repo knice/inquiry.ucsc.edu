@@ -13,33 +13,30 @@ banner:
     file: 2019/rsv.jpg
     position: left
 further-inquiry:
-    - title: "<span style='font-style:italic'>Structures of respiratory syncytial virus G antigen bound to broadly neutralizing antibodies</span>"
+    - title: "Structures of respiratory syncytial virus G antigen bound to broadly neutralizing antibodies"
       url: http://immunology.sciencemag.org/content/3/21/eaar3534
     - title: "Structure of a Human Astrovirus Capsid-Antibody Complex and Mechanistic Insights into Virus Neutralization"
       url: https://www.ncbi.nlm.nih.gov/pubmed/27807234?dopt=Abstract
     - title: "A short film on DuBois’ work"
       url: https://vimeo.com/260174682
-    - title: "<span style='font-style:italic'>Designing vaccines for the 21<sup>st</sup> century</span>"
+    - title: "Designing vaccines for the 21<sup>st</sup> century"
       url: https://www.frontiersin.org/articles/10.3389/fimmu.2014.00012/full
-    - title: "<span style='font-style:italic'>Influenza: The search for a universal vaccine</span>"
+    - title: "Influenza: The search for a universal vaccine"
       url: https://theconversation.com/influenza-the-search-for-a-universal-vaccine-90908
     - title: "Respiratory Syncytial Virus: Targeting the G Protein Provides a New Approach for an Old Problem"
       url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5774885/
 in-the-news:
-    - title: "<span style='font-style:italic'>Antigen study supports new approach to vaccine for respiratory syncytial virus</span>"
+    - title: "Antigen study supports new approach to vaccine for respiratory syncytial virus"
       url: https://news.ucsc.edu/2018/03/rsv-antibodies.html
-    - title: "<span style='font-style:italic'>Structure of human astrovirus could lead to antiviral therapies, vaccines</span>"
+    - title: "Structure of human astrovirus could lead to antiviral therapies, vaccines"
       url: https://news.ucsc.edu/2016/11/astrovirus.html
-    - title: "<span style='font-style:italic'>Respiratory Virus Study Points to Likely Vaccine Target</span>"
+    - title: "Respiratory Virus Study Points to Likely Vaccine Target"
       url: https://als.lbl.gov/respiratory-virus-study-points-to-likely-vaccine-target/
-    - title: "<span style='font-style:italic'>J&J dumps Alios RSV drug, wiping remaining $900M off value</span>"
+    - title: "J&J dumps Alios RSV drug, wiping remaining $900M off value"
       url: https://www.fiercebiotech.com/biotech/j-j-dumps-alios-rsv-drug-wiping-remaining-900m-off-value?mkt_tok=eyJpIjoiWmpNM04yRTNObU5oWTJGaiIsInQiOiJ3Q0l2Yng1T2NQVUhya0ZyYTBKajR6TjJcL1wvT3AxUFJRRzJvdlwvMG0xZG5JTFJQUHpmTFVHVCtnN0hSaUJFaWJ0RlNtRXBHKzlcL2lCdGhkUFZTQ2FyXC9wM2FLYmpSdzA4MHBKRlQ2YUNZRmxUenh6YlVBWTZFQlFSbE9yRW92Qnh2In0=&mrkid=815923&utm_medium=nl&utm_source=internal
 
 ---
 {% include_relative sidebars/2019-vaccine-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
-## Built from scratch ##
-
-Improving vaccines with molecular insights
 
 Vaccines are one of history’s most important medical advances, shielding large swaths of humanity from more than a dozen diseases. Worldwide, experts estimate that measles vaccinations alone have saved more than 17 million lives since the year 2000. In the United States, as a *[National Academies](http://www.nationalacademies.org/) [report](https://www.nap.edu/read/10390/chapter/4%252342)* put it in 2003, vaccines are a major reason that “death in childhood is no longer expected.”
 
@@ -51,14 +48,18 @@ One of the scientists making those leaps is [***Rebecca DuBois***](https://www.s
 
 ## Centuries old ##
 
-The current approach is old indeed, and in some ways not terribly scientific. The earliest recorded version of vaccination—in 16^th^-century China—is called *variolation*. It involved grinding up smallpox scabs and either blowing them up a person’s nose or injecting them under their skin. This proved fatal in about one in a hundred people, but that was much better than the 30 percent rate of death from natural infections, according to the [*U.S. National Library of Medicine*](https://www.nlm.nih.gov/exhibition/smallpox/sp_variolation.html).
-{% include_relative sidebars/2019-rational-vaccine-design.html classes="right" bgcolor="#fce5a5" %}
+The current approach is old indeed, and in some ways not terribly scientific. The earliest recorded version of vaccination—in 16th century China—is called *variolation*. It involved grinding up smallpox scabs and either blowing them up a person’s nose or injecting them under their skin. This proved fatal in about one in a hundred people, but that was much better than the 30 percent rate of death from natural infections, according to the [*U.S. National Library of Medicine*](https://www.nlm.nih.gov/exhibition/smallpox/sp_variolation.html).
+
+{% include_relative sidebars/2019-rational-vaccine-design.html classes="" bgcolor="#fce5a5" %}
+
 True vaccination was [first attempted](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/) in 1796 by Jenner. At the time, it was widely believed that people who regularly milked cows were immune to smallpox because they had been exposed to [*cowpox*](https://en.wikipedia.org/wiki/Cowpox). Jenner, a surgeon then working in Gloucestershire, England, took material from cowpox lesions and inoculated an 8-year-old boy. In a test that would give modern ethicists the vapors, he exposed that boy to fresh smallpox a few months later, thankfully with no ill effects. His initial paper about this episode was rejected, but after more rigorous work by Jenner and others, the practice became widespread in Europe by 1800. Jenner dubbed it “vaccination,” from “vacca,” the Latin word for cow.
 
 About 90 years later, [*Louis Pasteur*](https://en.wikipedia.org/wiki/Louis_Pasteur) developed a more scalable way to protect people from viruses. Instead of finding a similar but less dangerous virus like cowpox, he used the actual disease agent he wanted to combat, [*rabies*](https://www.cdc.gov/rabies/index.html). He rendered it harmless by exposing it to dry air. Then, in another sketchy but successful test, he used an untested formulation to [inoculate two boys](https://www.the-scientist.com/foundations/the-rabies-vaccine-backstory-33441) who had been bitten by rabid dogs. Fortunately, neither developed rabies, a routinely fatal disease.
 
 The professionalism and safety of vaccine development have improved dramatically. But the underlying technology? Not so much. Most vaccines now in use were made by doing what Pasteur did: killing or weakening viruses and showing them to the immune system, like a wanted poster: “Look out for these guys!”
-{% include_relative sidebars/2019-rational-vaccine-design.html classes="" bgcolor="#fce5a5" %}
+
+{% include_relative sidebars/2019-new-infections-my.html classes="" bgcolor="#fce5a5" %}
+
 ## Molecular locksmithing ##
 
 Vaccination works because the immune system can recognize invaders years or decades after being exposed to them. The human body has a cadre of “memory” cells patrolling the bloodstream. Their job is to recognize an invader, then rapidly produce proteins called antibodies to catch and neutralize it, usually with the help of a goon squad of killer immune cells. Antibodies stick only to one remembered feature on the surface of a specific invader, like a key fits a lock, and then wave a flag to bring in the killer cells.
@@ -94,8 +95,10 @@ Once DuBois had the antibody, she wanted to study how it attacked RSV, trying to
 The final step may be the most maddening: pulling a single microscopic crystal out of the solution. DuBois’s strategy for that involves cat whiskers, which, for some reason, work better than just about anything else. Something about them is just right for grabbing a protein crystal, she said, dragging it away from the rest, and then releasing it onto a plate of glass. The cat whiskers aren’t purchased at a scientific supply company, which adds a bit more meaning to the phrase, “built from scratch.” “My cat, Zuzu, a fluffy calico who is quite annoying and meows a lot, occasionally sheds whiskers,” DuBois said. “I always save them and bring them to the lab.”
 
 ## A larger toolbox ##
-{% include_relative sidebars/2019-thwarting-rsv.html classes="right" bgcolor="#fce5a5" %}
+
 The hard, meticulous work paid off in March 2018, when DuBois, graduate student [***Stanislav Fedechkin***](https://www.linkedin.com/in/stanislav-fedechkin-77862294/), Kauvar, and coauthors, [*published*](http://immunology.sciencemag.org/content/3/21/eaar3534) their work describing how the antibody attacks RSV in the prestigious journal *Science Immunology*. Trellis, for its part, plans to start clinical trials of its anti-G protein antibody treatment in the next year or so. If proven safe and effective, it would be given directly to infants who come to the emergency room with RSV. This is a potential improvement over the only current product for RSV, which is given preventively to high-risk premature babies. Success would also be a promising sign for a vaccine targeting the G protein.
+
+{% include_relative sidebars/2019-thwarting-rsv.html classes="" bgcolor="#fce5a5" %}
 
 But that vaccine is not yet in hand. It can’t be made from the G protein alone, because that protein is known to weaken the body’s immune response, which would make it unsafe in its current form. To get around this problem, DuBois and her colleagues must mutate the protein to eliminate the unwanted effects and save the good ones. There are lots of potential routes to achieve this. Perhaps a short, harmless fragment of the protein would be enough to key the immune system, or maybe a computer simulation will reveal a tweak that does the job.
 
@@ -106,3 +109,5 @@ If the RSV efforts of DuBois and her collaborators pan out (see sidebar), the fi
 Rational design could also help reduce the impacts of other viruses for which there currently is no vaccine, like astrovirus. Americans mostly experience astrovirus as a mild nuisance, DuBois said. “It’s different in developing countries. The infections last longer, there’s no clean water, and children develop co-infections. Ultimately, it can send them to the hospital and affect their growth.”
 
 Indeed, many poorer countries have not received the full benefits of vaccination, and DuBois said she is driven partly by the desire to help children in such places. With that inspiration—and with luck, funding, and tenacity—a loftier goal may be in sight. If vaccines can reach more people and fight more diseases, perhaps everyone, not just the fortunate, will eventually be able to say that “death in childhood is no longer expected.”
+
+

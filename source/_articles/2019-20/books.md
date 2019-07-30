@@ -3,7 +3,7 @@ layout: page
 issue: 2019
 category: credits
 order: 2
-title: "Pen&Inq"
+title: "PEN&INQ"
 ---
 
 By [Emma Hiolski](https://www.emmahiolski.com/)
@@ -28,7 +28,7 @@ Deciding what genetic information is valuable, and who gets to make those decisi
 {% asset 2019/standing-up.jpg alt:"Coasts in Crisis" %}
 </figure>
 
-[**Renya Ramirez**](https://campusdirectory.ucsc.edu/cd_detail?uid=renya), UC Santa Cruz professor of anthropology, inherited the drive to document her grandparents’ lives and activism from her mother. Ramirez’s grandparents, [Henry Cloud](https://en.wikipedia.org/wiki/Henry_Roe_Cloud), a Ho-Chunk, and [Elizabeth Bender Cloud](https://en.wikipedia.org/wiki/Elizabeth_Bender_Roe_Cloud), an Ojibwe, were intellectuals and fierce advocates for Native American rights during the first half of the 20^th^ century.
+[**Renya Ramirez**](https://campusdirectory.ucsc.edu/cd_detail?uid=renya), UC Santa Cruz professor of anthropology, inherited the drive to document her grandparents’ lives and activism from her mother. Ramirez’s grandparents, [Henry Cloud](https://en.wikipedia.org/wiki/Henry_Roe_Cloud), a Ho-Chunk, and [Elizabeth Bender Cloud](https://en.wikipedia.org/wiki/Elizabeth_Bender_Roe_Cloud), an Ojibwe, were intellectuals and fierce advocates for Native American rights during the first half of the 20th century.
 
 Starting with boxes of documents collected by her mother, Ramirez blended her roles as both a scholar and a descendant of the Clouds. Other, non-Native scholars had already written about them, she said, but had omitted important tribal and family perspectives.
 
@@ -42,7 +42,7 @@ The result of Ramirez’s efforts is a family-tribal history, [**Standing Up to 
 {% asset 2019/roots-racism.jpg alt:"The Global 1930s" %}
 </figure>
 
-During the late 19<sup>th</sup> century, antisemitism was widespread in Europe but especially virulent in France, said [**Dorian Bell**](https://campusdirectory.ucsc.edu/cd_detail?uid=dbell1), associate professor of literature. Rather than simply forming within France’s borders, he argues, this ugliness flared in response to—and supported—French colonial expansion.
+During the late 19th century, antisemitism was widespread in Europe but especially virulent in France, said [**Dorian Bell**](https://campusdirectory.ucsc.edu/cd_detail?uid=dbell1), associate professor of literature. Rather than simply forming within France’s borders, he argues, this ugliness flared in response to—and supported—French colonial expansion.
 
 For example, granting French citizenship to 35,000 indigenous Algerian Jews in 1870 through the [Crémieux Decree](https://en.wikipedia.org/wiki/Cr%C3%A9mieux_Decree) helped stoke wide acceptance of international Jewish conspiracy theories. In [**Globalizing Race: Antisemitism and Empire in French and European Culture**](https://www.amazon.com/dp/0810136880/ref=rdr_ext_tmb), Bell reflects on how different forms of racism interact across space and time, and how French history in particular foretells modern antisemitism and Europe’s increasing anti-immigrant xenophobia.
 

@@ -25,6 +25,8 @@ in-the-news:
 
 
 ---
+{% include_relative sidebars/2019-responsible-data-caption.html classes="right" bgcolor="#f1f1f1" %}
+
 The accelerating use of digital technology over the last decade has raised thorny questions about ownership, privacy, accuracy, and bias. To address these issues, some concerned scientists have begun to call for “responsible data science”—a new approach that requires thinking critically about the increasing interactions between people and digital technology.
 
 “The potential benefits to society of improved data-driven discovery and decision making are clear,” said [**Lise Getoor**](https://getoor.soe.ucsc.edu/home), UC Santa Cruz professor of computer science, director of the [D3 Data Science Research Center](https://d3.ucsc.edu/), and a leader of this nascent call-to-action. “But we also need to take into account unintended societal effects of technological systems and seek a deeper understanding of the ethical implications.”

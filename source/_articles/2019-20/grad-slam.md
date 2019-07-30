@@ -3,7 +3,7 @@ layout: post
 issue: 2019
 category: feature
 order: 4
-title: UC Santa Cruz goes to town
+title: UC Santa Cruz <br/>goes to town
 subhead: "Grad Slam contest spotlights graduate research"
 author:
     name: Emma Hiolski
@@ -22,7 +22,6 @@ further-inquiry:
 
 ---
 {% include_relative sidebars/2019-grad-slam-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
-Grad Slam contest spotlights graduate research
 
 Applause and appreciative laughter spilled through the doors of the [Kuumbwa Jazz](https://www.kuumbwajazz.org/) center and into the cool evening air of March in downtown Santa Cruz. By audience demand, **Caitlin Kroeger**, a Ph.D. student in ocean sciences, demonstrated an albatross mating dance after presenting a three-minute summary of her research on seabird resilience to climate change. Emcee [**Lori Kletzer**](https://graddiv.ucsc.edu/about/contact-us.php?uid=lkletzer), interim campus provost and executive vice chancellor, and host for the evening, gamely followed along, bobbing and shaking her head.
 
