@@ -3,7 +3,7 @@ layout: page
 issue: 2019
 category: credits
 order: 2
-title: "PEN&INQ"
+title: "PEN & INQ"
 ---
 
 By [Emma Hiolski](https://www.emmahiolski.com/)
