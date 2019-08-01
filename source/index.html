@@ -3,9 +3,9 @@ layout: default
 class: front
 title: Inquiry @ UC Santa Cruz
 banner:
-  file: 2018/amistad.jpg
-  text: "The schooner Amistad is one of thousands of slave ships included in the new Intra-American Slave Trade Database. Its African captives revolted in 1839 while the Amistad was transporting them from one end of Cuba to the other, as chronicled in the 1997 Steven Spielberg blockbuster movie."
-current: 2018-19
+  file: 2019/lightning.jpg
+  text: "Lightning lights up the Tucscon, AZ, night sky in a single, seven-minute exposure captured from Babad Do'ag Vista Point during an August 2014 storm. Researchers studying the enigmatic physics of lightning are making surprising discoverises abput this common and spectacular display of nature."
+current: 2019-20
 ---
 
 <div class="row">
@@ -25,12 +25,12 @@ current: 2018-19
 
     <h2 class="header highlight">Features</h2>
     <div class="features">
-    
+
       <ul class="toc-list">
 
-      {% assign sorted_articles = site.articles | where: 'issue','2018' | sort: 'order' %}
+      {% assign sorted_articles = site.articles | where: 'issue','2019' | sort: 'order' %}
       {% for post in sorted_articles %}
-        
+
         {% if post.category == 'feature' %}
             <li>
               <h3>
@@ -42,16 +42,16 @@ current: 2018-19
         {% endif %}
 
       {% endfor %}
-      </ul>        
+      </ul>
 
-    </div>      
+    </div>
 
   </section>
 
   <section class="one-third block">
-      <figcaption>Above: The schooner <a href="https://en.wikipedia.org/wiki/La_Amistad"><span style="font-style:italic; font-weight:bold">Amistad</span></a> is one of thousands of slave ships included in the new <span style="font-style:italic;">Intra-American Slave Trade Database</span>. Its African captives revolted in 1839 while the <span style="font-style:italic; font-weight:bold">Amistad</span> was transporting them from one end of Cuba to the other, as chronicled in the <a href="http://www.imdb.com/title/tt0118607/">1997 Steven Spielberg blockbuster movie</a>. Credit: <a href="https://commons.wikimedia.org/wiki/File:La_Amistad_(ship).jpg">Wikimedia Commons</a>.</figcaption>
+      <figcaption>Above: Lightning lights up the Tucson, AZ, night sky in a single, seven-minute exposure captured from Babad Do'ag Vista Point during an August 2014 storm. Researchers studying the enigmatic physics of lightning are making surprising discoveries about this common and spectacular dislay of nature. Credit: Josh Wallace.</figcaption>
       <h3 class="index-headline featured">Download the PDF</h3>
-      <a href="/2018-19/inquiry-2018.pdf">{% asset '2018/inquiry-cover.jpg' @magick:resize=380 alt:'2018 cover of Inquiry Magazine' %}</a>
+      <a href="/2019-20/inquiry-2019.pdf">{% asset '2019/inquiry-cover.jpg' @magick:resize=380 alt:'2018 cover of Inquiry Magazine' %}</a>
   </section>
 
 </div>

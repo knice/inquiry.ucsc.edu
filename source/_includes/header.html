@@ -16,6 +16,9 @@
         <a href="#" class="dropdown-trigger">Issues</a>
         <ul class="dropdown-menu">
           <li class="dropdown-menu-item">
+            <a href="/2019-20/">Issue 5: 2019-20</a>
+          </li>
+          <li class="dropdown-menu-item">
             <a href="/2018-19/">Issue 4: 2018-19</a>
           </li>
           <li class="dropdown-menu-item">
@@ -36,13 +39,13 @@
 </header>
 
 
-  
+
 
 <!-- header end -->
 
 {% if page.class == 'front' %}
 <div class="banner-wrapper front">
-  {% asset "{{ page.banner.file }}" @magick:gravity=east @magick:crop=1400x480+0+0 alt:"{{ page.banner.text }}" %}  
+  {% asset "{{ page.banner.file }}" @magick:gravity=east @magick:crop=1400x480+0+0 alt:"{{ page.banner.text }}" %}
 </div>
 {% endif %}
 
