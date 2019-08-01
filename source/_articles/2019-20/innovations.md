@@ -3,7 +3,7 @@ layout: page
 issue: 2019
 category: credits
 order: 5
-title: "<strong>Inquiries &</strong> INNOVATIONS"
+title: "Inquiries & INNOVATIONS"
 ---
 
 By [Marcus Woo](https://about.me/marcus_woo)

@@ -3,7 +3,7 @@ layout: page
 issue: 2019
 category: credits
 order: 1
-title: "INQUIRING <strong>minds</strong>"
+title: "INQUIRING minds"
 ---
 
 <ul class="contributors-container">
