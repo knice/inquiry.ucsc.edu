@@ -1,6 +1,6 @@
 .asset-cache
 .jekyll-cache
-.jekyll-assets-cache
+.jekyll-metadata
 .bundle
 .sass-cache
 build

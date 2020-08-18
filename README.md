@@ -1,7 +1,5 @@
 # Inquiry @ UC Santa Cruz
 
-[![Build Status](https://travis-ci.org/knice/inquiry.ucsc.edu.svg?branch=master)](https://travis-ci.org/knice/inquiry.ucsc.edu)
-
 Inquiry is the annual research magazine published by UC Santa Cruz. The premiere issue was published in June 2015. This repository contains all of the content for the Inquiry magazine web site.
 
 - [Build specification](https://github.com/knice/inquiry.ucsc.edu/wiki)
