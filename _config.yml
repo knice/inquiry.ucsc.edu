@@ -1,4 +1,9 @@
-plugins: ['bourbon', 'neat', 'jekyll-assets', 'jekyll-seo-tag']
+plugins:
+  - 'bourbon'
+  - 'neat'
+  - 'jekyll-assets'
+  - 'jekyll-seo-tag'
+  - 'jekyll-sitemap'
 
 # Structure configuration
 source: ./source
