@@ -9,6 +9,7 @@ gem 'jekyll-lunr-js-search'
 gem 'html-proofer'
 gem 'scss_lint'
 gem 'sprockets', '~> 3.7'
+gem 'kramdown-parser-gfm'
 
 group :jekyll_plugins do
   gem "jekyll-seo-tag"

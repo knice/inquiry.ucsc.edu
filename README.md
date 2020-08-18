@@ -6,6 +6,10 @@ Inquiry is the annual research magazine published by UC Santa Cruz. The premiere
 
 - [Build specification](https://github.com/knice/inquiry.ucsc.edu/wiki)
 
+## Local Development
+
+This repo is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker](https://www.docker.com/)).
+
 ## Getting Started
 
 Set up your project in your code directory
@@ -14,20 +18,11 @@ Set up your project in your code directory
 git clone git@github.com:knice/inquiry.ucsc.edu.git your-project-folder
 cd your-project-folder
 ```
-Install dependencies
+
+Fire it up.
 
 ```shell
-gem install bundle
-```
-
-```shell
-bundle install
-```
-
-Run the server and watch for changes in your files
-
-```shell
-bundle exec jekyll serve --livereload
+docker-compose up
 ```
 
 Stylesheets, fonts, images, and javascript files go in the `/source/_assets/` directory.
