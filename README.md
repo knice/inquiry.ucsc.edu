@@ -10,8 +10,6 @@ Inquiry is the annual research magazine published by UC Santa Cruz. The premiere
 
 This repo is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker](https://www.docker.com/)).
 
-## Getting Started
-
 Set up your project in your code directory
 
 ```shell
