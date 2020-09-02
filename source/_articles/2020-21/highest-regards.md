@@ -10,7 +10,7 @@ tags:
     - All Divisions
 ---
 <figure class="">
-  {% asset 2019/weigang-yang-laser-setup.jpg @magick:resize=600 alt:'Relicanthus sp.' %}<figcaption>Cynthia K. Larive was confirmed as the eleventh chancellor of University of California, Santa Cruz, by the UC Board of Regents on May 16, 2019. She began her tenure on July 1, 2019. Credit: C. Lagattuta.</figcaption>
+  {% asset 2020/larive.jpg @magick:resize=600 alt:'UC Santa Cruz Chancellor Cynthia Larivie' %}<figcaption>Cynthia K. Larive was confirmed as the eleventh chancellor of University of California, Santa Cruz, by the UC Board of Regents on May 16, 2019. She began her tenure on July 1, 2019. Credit: C. Lagattuta.</figcaption>
 </figure>
 When [**Cynthia Larive**](https://chancellor.ucsc.edu/about/) began her
 tenure at UC Santa Cruz in July 2019 as the new chancellor, she already
