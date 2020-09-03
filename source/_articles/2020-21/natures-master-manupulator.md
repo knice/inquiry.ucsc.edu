@@ -38,6 +38,7 @@ in-the-news:
     - title: "How to Beat Dengue and Zika: Add a Microbe to Mosquitoes (*The Atlantic*, August 8, 2016)"
       url: https://www.theatlantic.com/science/archive/2016/08/how-to-beat-dengue-and-zika-add-a-microbe-to-mosquitoes/494036/
 ---
+{% include_relative sidebars/natures-master-manipulator-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 Calling a lowly microbe intelligent may seem over the top, but you can
 forgive a little hyperbole when [**Bill
 Sullivan**](https://mcd.ucsc.edu/faculty/sullivan.html) describes the
@@ -105,7 +106,7 @@ since the late 1990s. "But at the big international meetings, people
 still look to Bill when it comes to the cell biology of *Wolbachia*."
 
 ## Microscopic moviemaking ##
-
+{% include_relative sidebars/learning-by-breaking.html classes="right" bgcolor="#f1f1f1" %}
 In retrospect it was a natural fit. Sullivan was schooled in the
 genetics of *Drosophila melanogaster*, the classic laboratory fruit fly
 (online he's been known to use the screen name "Count Drosophila"). And
@@ -304,7 +305,7 @@ system. Together, Calibr and Sullivan's lab have now identified several
 promising drug candidates while screening more than 300,000 compounds.
 
 ## The dark side of symbiosis ##
-
+{% include_relative sidebars/weaponizing-wolbachia.html classes="left" bgcolor="#f1f1f1" %} 
 While Calibr and other organizations continue to search for new drugs,
 Sullivan has gone back to more fundamental questions. The nature of the
 worm-germ symbiosis, for example: it's obvious what *Wolbachia* gets out
