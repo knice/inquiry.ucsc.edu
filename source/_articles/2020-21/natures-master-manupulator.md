@@ -65,7 +65,16 @@ end-around and keeps on coming.
 
 ## The great pandemic ##
 
-That maneuver, discovered by Sullivan and colleagues, is just one of
+<figure class="left" style="width:300px;">
+  {% asset 2020/fruit-fly.jpg @magick:resize=300 alt:'Graph: arrests per 10,000 vs age at time of arrest' %}<figcaption>A common fruit fly, *Drosophila melanogaster*, seen here feeding on a
+banana, frequently shows up as an unwanted guest in kitchens, gardens,
+orchards, and vineyards worldwide. It also continues to serve as a
+widely-used model organism for biological research, including
+*Wolbachia* studies in the laboratory of UCSC distinguished professor of molecular, cell, and developmental biology Bill Sullivan. Credit:
+[Sanjay Acharya, Wikimedia
+Commons](https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg)
+(CC BY-SA 4.0).</figcaption>
+</figure>That maneuver, discovered by Sullivan and colleagues, is just one of
 many exploits that have made *Wolbachia* one of the most successful
 parasites on Earth. It's believed to infect roughly half the world's
 several million insect species. Stick a butterfly or beetle, wasp or
@@ -131,7 +140,12 @@ Infected females, on the other hand, can reproduce successfully with any
 male, infected or not. With this big advantage in the mating game,
 *Wolbachia*-carrying females outbreed their competition and can quickly
 take over populations.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/wolbachia-in-drosophila.png @magick:resize=600 alt:'Walbachia in drosophilia egg 1' %}<figcaption>*Wolbachia* is an endosymbiont, a symbiotic organism that only lives
+inside the cells of its hosts. Here, *Wolbachia* (large ovals) crowd the
+cytoplasm of a fruit fly cell. Credit: Alain Debec, Institute of Ecology
+and Environmental Sciences, Sorbonne University, with permission.</figcaption>
+</figure>
 But exactly how CI scuppers the infected male/uninfected female crosses
 wasn't known. Using their moviemaking chops, Sullivan and then-postdoc
 [**Uyen Tram**](https://molgen.osu.edu/people/tram.1) (now a research
@@ -146,6 +160,12 @@ chromosomes. But in the case of CI, the father's chromosomes are late to
 the party. They're slow to replicate and fail to line up in time for
 cleavage. This leaves the daughter cells with only half the chromosomes
 they need. The embryo is DOA.
+<figure class="" style="width:600px;">
+  {% asset 2020/polar-express.png @magick:resize=600 alt:'Walbachia in drosophilia egg 2' %}<figcaption>Polar express: *Wolbachia* (tiny red specks) are seen here flocking to
+the posterior pole (lower right) of a fertilized *Drosophila* egg,
+putting themselves in position to get incorporated into the next
+generation of eggs. Credit: Laura Serbus, with permission.</figcaption>
+</figure>
 
 Sullivan and Tram submitted their findings to the journal [*Science* in
 2002](https://www.ncbi.nlm.nih.gov/pubmed/12004132). The paper was
@@ -320,7 +340,11 @@ scrambled, the embryos fatally deformed. In adult worms,
 [apoptosis](https://en.wikipedia.org/wiki/Apoptosis)---a type of
 programmed cell death that organisms use to cull unwanted cells---went
 wild, leading to the mass suicide of normal cells.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows *Wolbachia* (green
+specks) in the developing eggs. Credit: Frederic Landmann, with
+permission.</figcaption>
+</figure>
 No wonder the worms need *Wolbachia* to live; it seems to play a role in
 regulating several essential processes. But for Sullivan, that left a
 nagging question. Why do the nematodes rely on a bacterium to do things
@@ -347,7 +371,12 @@ ultimately a dependence on its presence. Simply by its presence, the box
 store created a need where none previously existed. Both in society and
 in biology, addictive symbiosis may be the rule rather than the
 exception."
-
+<figure class="" style="width:600px;">
+  {% asset 2020/drug-screaning-setup.jpg @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>Automated screening of anti-*Wolbachia* drugs at UC Santa Cruz was
+performed using the high-throughput facility shown here, implemented
+with the help of professor of chemistry Scott Lokey. Credit: Roger
+Linington, with permission.</figcaption>
+</figure>
 Whether it's a cozy alliance or hostile takeover, worm and germ may be
 headed for a full-blown merger. Sullivan and others speculate that
 *Wolbachia* might someday become an intrinsic feature of its nematode
