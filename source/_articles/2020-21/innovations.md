@@ -8,52 +8,133 @@ title: "Inquiries & INNOVATIONS"
 
 By [Marcus Woo](https://about.me/marcus_woo)
 
-## Safer plastics ##
+## Inhibiting inflammatory enzymes ##
 
-Without a chemical called a plasticizer, PVC—the third most commonly used plastic—remains brittle. To make commercial-grade plastics, PVC is typically pulverized and then melted together with plasticizers. But over time, the plasticizer can leach out—a problem because many plasticizers are [phthalates](https://toxtown.nlm.nih.gov/chemicals-and-contaminants/phthalates), chemicals the body can mistake for hormones. Research has shown potential worrisome associations between phthalates and disorders such as reproductive abnormalities, cancer, and obesity.
+Enzymes called
+[lipoxygenases](https://en.wikipedia.org/wiki/Lipoxygenase) help control
+the body\'s inflammatory responses. \"We\'re realizing their role in
+human disease is quite significant,\" said professor of biochemistry
+[**Ted
+Holman**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=holman),
+part of a group awarded two related patents for inhibitors of the
+lipoxygenases 12-LOX and 15-LOX-1.
 
-"It's a huge problem worldwide, both for humans and other species," said [**Rebecca Braslau**](http://braslau.chemistry.ucsc.edu/professor-braslau.html), professor of chemistry and biochemistry.
+Inhibiting 12-LOX could prevent a dangerous condition that afflicts some
+surgery patients, potentially saving lives in rare cases where
+[heparin](https://en.wikipedia.org/wiki/Heparin), a drug commonly used
+to prevent blood clots during surgery, instead induces
+[platelets](https://en.wikipedia.org/wiki/Platelet) to aggregate
+excessively, triggering stroke and bleeding. And inhibiting 15-LOX-1
+could help stroke patients. After an [ischemic
+stroke](https://medlineplus.gov/ischemicstroke.html), blood returns to
+the brain as the patient recovers. But the oxygen in the returning blood
+can also be harmful, and blocking 15-LOX-1 may limit the damage this can
+cause.
 
-Her solution is to chemically bind the plasticizer onto the polymer chain of PVC, which prevents it from leaching out. Braslau has shown success with two phthalates whose chemical structure [resembles tadpoles and frogs](https://onlinelibrary.wiley.com/toc/10990518/2018/56/21). More tests are needed, she says, but the biggest challenge might be getting industry on board.
+*Maloney D, Luci D, Jadhav A, Holman T, Nadler J, Holinstat M,
+Taylor-Fishwick D, Simeonov A, Yasgar A, McKenzie S.
+4-((2-hydroxy-3-methoxybenyzl)amino)benzenesulfonamide derivatives as
+potent and selective inhibitors of 12-lipoxygenase. [U.S. Patent
+10,266,488](https://patents.justia.com/patent/10266488), filed October
+10, 2014, issued April 23, 2019; and Van Leyen K, Holman T, Maloney D,
+Jadhav A, Simeonov A, Rai G. Inhibitors of human 12/15-lipoxygenase.
+[U.S. Patent 10,287,279](https://patents.justia.com/patent/10287279),
+filed February 19, 2016, issued May 14, 2019.*
 
-*Braslau R. Dialkylcarboxylate-aromatic-functionalized polymers that do not release endocrine disrupting compounds. U.S. Patent Application [20180155464](https://www.freshpatents.com/-dt20180607ptan20180155464.php), filed November 27, 2017, published June 7, 2018.*
+## Cancer treatment maps ##
 
-## Full genome decoding ##
+A cancer cell is a cell that has run amok. Exactly how this happens
+depends on an immense set of possible cancer-causing errors that occur
+with great variability among cancer types and individual patients. But
+identifying the specific errors could help doctors choose the best
+treatments---to "personalize" therapy for each patient.
 
-To fully understand a genome, you have to know how the whole thing fits together. One major research goal is to find genome assembly techniques—ways to reconstruct sequenced DNA—that are more accurate, cheaper, and faster.
+To accomplish this, the patented algorithm developed by professor of
+biomolecular engineering [**Josh
+Stuart**](https://jstuart.soe.ucsc.edu/) and collaborators compares the
+genomic blueprints of tumor and healthy cells. The resulting dynamic
+pathway map pinpoints the errors that led to the cancer---and thus
+possible targets for therapy. \"The invention takes very complex data
+and focuses attention on likely treatment alternatives for patients,\"
+Stuart said.
 
-"We have developed a method that makes it better on all those fronts," said [**Ed Green**](https://www.soe.ucsc.edu/people/ed), associate professor of biomolecular engineering.
+*Vaske C, Benz S, Stuart J, Haussler D. Method of generating a dynamic
+pathway map. [U.S. Patent
+10,192,641](https://patents.justia.com/patent/10192641), filed October
+26, 2011, issued January 29, 2019.*
 
-With their technique, the researchers randomly slice up the genome and glue the pieces back together. Only segments that were originally close to each other are near enough to stick. Not only does this method identify neighboring sections, but it also reveals how far apart they are at all distance scales—something previous techniques couldn't do.
+## More efficient networks ##
 
-*Green RE, Lareau LF. Methods for genome assembly and haplotype phasing. U.S. Patent [10,089,437](https://patents.google.com/patent/US10089437B2/en?oq=10%2c089%2c437), filed January 31, 2014, issued October 2, 2018 (also U.S. Patents [9,411,930](https://patents.google.com/patent/US9411930B2/en?oq=9%2c411%2c930) and [9,910,955](https://patents.google.com/patent/US9910955B2/en?oq=9%2c910%2c955)).*
+In internet networks, databases called [routing
+tables](https://en.wikipedia.org/wiki/Routing_table) tell each node
+where to route data. When the network is large and dynamic, efficiently
+updating the routing tables becomes critical. \"The goal is to reduce
+the amount of time and to reduce the amount of messages that have to be
+exchanged,\" said [**J. J.
+Garcia-Luna-Aceves**](https://www.soe.ucsc.edu/people/jj), professor of
+computer science and engineering.
 
-## Power-saving clocking ##
+His patented method organizes nodes into hierarchical groups, so that
+not every node has to store and send every message about how to update
+the tables. The approach would be especially useful for special-purpose
+wireless networks that are constantly changing, such as ones used for
+disaster relief or on the battlefield.
 
-In every computer processing unit, a component sends electrical signals that dictate how fast the chip runs—its clock speed.
+*Garcia-Luna-Aceves J, Li Q. Method for distance-vector routing using
+adaptive publish-subscribe mechanisms. [U.S. Patent
+10,091,094](https://patents.justia.com/patent/10091094), filed October
+16, 2014, issued October 2, 2018.*
 
-"It's the signal that synchronizes everything and makes it do computations," said [**Matt Guthaus**](https://www.soe.ucsc.edu/people/mrg), professor of computer science and engineering. "It's the heartbeat of the chip."
+## Finding gut leaks ##
 
-Guthaus helped create a way for the chip to receive and interpret those signals using up to 90 percent less power. To achieve this, his approach detects the signals by measuring the flow of electricity through the wire (the current) instead of the amount of electricity (the voltage), as conventional chips do. Measuring the voltage requires draining the electricity—power that's lost forever. The invention has the potential to greatly improve the performance of central and graphic processing units.
+The sugar substitute
+[sucralose](https://en.wikipedia.org/wiki/Sucralose) can\'t be digested,
+so it usually exits the body via the bowel. But finding it in urine or
+blood could signal a leak in the gut, due to inflammation from [Crohn\'s
+disease](https://www.crohnscolitisfoundation.org/what-is-crohns-disease)
+or another gastrointestinal disorder. Doctors typically perform
+[colonoscopy](https://www.asge.org/home/for-patients/patient-information/understanding-colonoscopy)
+to evaluate such leaks. But measuring sucralose could be simpler,
+quicker, and cheaper---perhaps as an initial screening.
 
-*Guthaus M, Islam R. Current-mode clock distribution. U.S. Patent [10,097,168](https://patents.google.com/patent/US10097168B2/en?oq=10%2c097%2c168+), filed September 11, 2017, issued October 9, 2018 (also U.S. Patent [9,787,293](https://patents.google.com/patent/US9787293B2/en)).*
+To readily detect and measure sucralose in urine or blood, professor of
+organic chemistry [**Baktham
+Singaram**](https://www.chemistry.ucsc.edu/faculty/index.php?uid=singaram)
+and collaborators invented a chemical process that causes a sample to
+glow with a brightness proportional to the sucralose concentration. In
+addition, the time between sucralose ingestion and its appearance in
+urine or blood reveals the leak's location. \"Using our procedure, we
+can say globally where the leak is,\" Singaram said.
 
-## Efficient current conversion ##
+*Singaram B, Resendez A, Webb D. Fluorescence method for sensing
+chlorinated disaccharides. [U.S. Patent
+10,274,483](https://patents.justia.com/patent/10274483), filed June 5,
+2015, issued April 30, 2019.*
 
-The direct current (DC) from any power source must be converted to the alternating current (AC) used by most devices. But when that power source fluctuates—such as with solar power—the varying DC must first be converted to a steady one.
+## RNA-targeted therapy ##
 
-To bypass that step—and the extra circuitry and costs—[**Ricardo Sanfelice**](https://www.soe.ucsc.edu/people/ricardo), professor of electrical and computer engineering, helped to create an algorithm that performs the conversion directly.
+A cancer cell or virus can be inhibited by severing its
+[RNA](https://en.wikipedia.org/wiki/RNA), the coiled molecule that
+transmits its genetic material. But to prevent toxic side effects and
+the development of resistance, the RNA has to be cut in specific places
+along its sequence. Such precise slicing can be done with ribozymes, a
+type of RNA that acts like an enzyme.
 
-The algorithm is implemented on top of existing hardware. "The beauty is that it doesn't change the architecture of standard conversion systems," Sanfelice said.
+To get the right ribozymes, [**William
+Scott**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=wgscott),
+professor of chemistry, and [**Sara
+O\'Rourke**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=sorourke),
+project scientist, invented a way to engineer simplified "hammerhead"
+ribozymes. \"It really increases our flexibility to design a potent
+inhibitor for pretty much any RNA molecule you could want to target,\"
+Scott said. The researchers are applying their technique to develop
+drugs for [chronic myelogenous
+leukemia](https://www.cancer.org/cancer/chronic-myeloid-leukemia.html)
+and RNA-based viruses, like the
+[Covid-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
+coronavirus.
 
-*Sanfilece RG, Chai J. Robust single-phase DC/AC inverter for highly varying DC voltages. U.S. Patent [9,876,442](https://patents.google.com/patent/US9876442B2/en?oq=9%2c876%2c442+), filed October 9 2015, issued January 23, 2018.*
-
-## Much needed antibiotics ##
-
-Many disease-causing [gram-negative bacteria](https://en.wikipedia.org/wiki/Gram-negative_bacteria) like salmonella, shigella, yersinia (plague), and chlamydia share a common mechanism—called a [type III secretion system](https://en.wikipedia.org/wiki/Type_three_secretion_system) (TTSS)—that hijacks host cells by inserting needle-like structures into them and injecting proteins that drive infection. [**Vicki Auerbuch Stone**](https://www.metx.ucsc.edu/faculty/), associate professor of microbiology and environmental toxicology, and colleagues discovered several compounds (piericidin and a derivative) that can block TTSS function by preventing the needles from forming.
-
-The compounds are toxic, however, so in their current form they don't make useful drugs, Stone said. But studying how they work could lead to safer compounds, potential new antibiotics against which these important pathogens may be less likely to develop [resistance](https://www.niaid.nih.gov/research/gram-negative-bacteria).
-
-"This is a first step to developing urgently needed new antibiotics that are effective against multi-drug resistant bacteria," Stone said.
-
-*Stone VA, Linington RG, Wong WR, Duncan MC. Piericidin bacterial inhibitors. U.S. Patent [10,080,745](https://patents.google.com/patent/US10080745B2/en?oq=10%2c080%2c745), filed November 24, 2014, issued September 25, 2018.*
+*O\'Rourke S, Scott W. Catalytic strands of minimal hammerhead ribozymes
+and methods of using the same. [U.S. Patent
+10,301,626](https://patents.justia.com/patent/10301626), filed March 1,
+2016, issued May 28, 2019.*
