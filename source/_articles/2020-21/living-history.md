@@ -42,377 +42,257 @@ in-the-news:
     - title: "Isaac Julien, artist -- portrait of the artist (<em>The Guardian</em>, November 26, 2013)"
       url: https://www.theguardian.com/culture/2013/nov/26/isaac-julien-film-portrait-artist
 ---
-{% include_relative sidebars/natures-master-manipulator-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
-Calling a lowly microbe intelligent may seem over the top, but you can
-forgive a little hyperbole when [**Bill
-Sullivan**](https://mcd.ucsc.edu/faculty/sullivan.html) describes the
-bacterium [*Wolbachia*](https://en.wikipedia.org/wiki/Wolbachia) as
-"really smart." Sullivan, UC Santa Cruz distinguished professor of
-molecular, cell, and developmental biology, is explaining how the
-intracellular parasite sneaks its way through the embryos of certain
-fruit flies and into their nascent eggs, allowing it to pass from one
-generation of flies to the next. *Wolbachia* appears to do this by
-hitching rides on the fly's motor proteins, which carry supplies to the
-egg-producing region of the embryo. The proteins march along a system of
-microtubules, like porters lugging cargo up the gangways of ships.
+{% include_relative sidebars/living-history-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 
-Partway through the proceedings, the embryo does a 180, flipping the
-polarity of the microtubules. Motor proteins that had been trooping
-toward the egg-zone do an about-face and start heading away. Getting to
-the mothership now requires hopping aboard a different type of motor
-protein, designed to seek the "plus" end of the microtubule instead of
-the "minus" end. And---here's the really smart part---that's exactly
-what *Wolbachia* does, deftly rejiggering binding sites on its surface
-to make the switch. If, as Sullivan suspects, the embryo's microtubular
-reversal is meant to deflect invading parasites, *Wolbachia* does an
-end-around and keeps on coming.
-
-## The great pandemic ##
-
+The 19th-century visionary and orator [Frederick
+Douglass](https://www.history.com/topics/black-history/frederick-douglass)
+established his place in history by chronicling his life as a series of
+revealing events: enslaved childhood, self-education, escape, and an
+unending fight for justice and equality. Douglass's remarkable life
+provides a powerful canvas for the multifaceted, archive-based art of UC
+Santa Cruz distinguished professor of the arts [**[Isaac
+Julien]{.underline}**](https://danm.ucsc.edu/people/isaac-julien). Using
+innovative new and emerging media techniques and technologies that bring
+his historical subjects to life, Julien aims for others to see
+them---now including the lifelong activist Douglass---as he does,
+through a lens of 21st-century sensibility and perspective.
 <figure class="left" style="width:300px;">
-  {% asset 2020/fruit-fly.jpg @magick:resize=300 alt:'Graph: arrests per 10,000 vs age at time of arrest' %}<figcaption>A common fruit fly, *Drosophila melanogaster*, seen here feeding on a
-banana, frequently shows up as an unwanted guest in kitchens, gardens,
-orchards, and vineyards worldwide. It also continues to serve as a
-widely-used model organism for biological research, including
-*Wolbachia* studies in the laboratory of UCSC distinguished professor of molecular, cell, and developmental biology Bill Sullivan. Credit:
-[Sanjay Acharya, Wikimedia
-Commons](https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg)
-(CC BY-SA 4.0).</figcaption>
-</figure>That maneuver, discovered by Sullivan and colleagues, is just one of
-many exploits that have made *Wolbachia* one of the most successful
-parasites on Earth. It's believed to infect roughly half the world's
-several million insect species. Stick a butterfly or beetle, wasp or
-fly, ant or bedbug under a sufficiently powerful microscope, and there's
-a decent chance you'll find *Wolbachia* in some of its cells, tucked
-into the cytoplasm like tapioca pearls in pudding. *Wolbachia* shacks up
-in other invertebrates, too, including mites, ticks, spiders, and some
-nematode worms. Its sheer ubiquity has led some scientists to dub the
-contagion ["one of the great pandemics in the history of
-Life."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3775348/)
-
-*Wolbachia* doesn't directly infect humans, but it has a way of getting
-into the heads of biologists captivated by its machinations, its global
-conquests, and increasingly, its potential as a weapon against some of
-humanity's greatest scourges. "It's an amazing organism," said [**Laura
-Serbus**](https://case.fiu.edu/about/directory/profiles/serbus-laura.html),
-a former postdoc of Sullivan's who now studies *Wolbachia* in her own
-lab as assistant professor of biological sciences at Florida
-International University. "It's teaching us so much about how infections
-and cells themselves work."
-
-Sullivan's own relationship with *Wolbachia* started casually enough. He
-was teaching an undergraduate genetics course and looking to liven
-things up with field trips. When he read that a bacterium, *Wolbachia*,
-was sweeping northward through California's fruit fly population, he
-hatched a plan: he and his students would hit up local wineries and
-apple orchards, collect the swarming flies and analyze them to see if
-the infection had reached Santa Cruz County (it had).
-
-That was 20 years ago, and what began as a fling has become a lasting
-passion. Today, Sullivan is recognized as a leading expert on
-*Wolbachia*, at a time when worldwide interest in the bacterium is
-exploding. "The field has gotten so much more crowded and competitive
-than it used to be," said population biologist [Michael
-Turelli](https://cpb.ucdavis.edu/people/michael-turelli), distinguished
-professor of genetics at UC Davis, who's been researching *Wolbachia*
-since the late 1990s. "But at the big international meetings, people
-still look to Bill when it comes to the cell biology of *Wolbachia*."
-
-## Microscopic moviemaking ##
-{% include_relative sidebars/learning-by-breaking.html classes="right" bgcolor="#f1f1f1" %}
-In retrospect it was a natural fit. Sullivan was schooled in the
-genetics of *Drosophila melanogaster*, the classic laboratory fruit fly
-(online he's been known to use the screen name "Count Drosophila"). And
-he was adept at methods used to probe the innermost workings of cells.
-As a postdoc in the 1980s, he'd cut his teeth in live fluorescent
-microscopy, tagging proteins with dyes that light up under the
-microscope, then watching, and filming, cellular events as they played
-out in real time. Sullivan refers to it as "making movies," and his lab
-has produced thousands of [short
-films](https://sullivan.mcdb.ucsc.edu/images-movies.html) over the years
-(example titles: *Syncytial Divisions*, and the sequel, *Syncytial
-Divisions II*).
-
-The first *Wolbachia*-related problem he applied those skills to is
-something called cytoplasmic incompatibility (CI), one of the ploys
-*Wolbachia* uses to spread among insects. *Wolbachia* is transmitted
-hereditarily via insects' eggs, so the more *Wolbachia*-infected females
-there are, the more the bacteria propagate. *Wolbachia* helps things
-along by turning infected males into a form of selective birth control.
-When these males mate with uninfected females, the pairing is sterile.
-Infected females, on the other hand, can reproduce successfully with any
-male, infected or not. With this big advantage in the mating game,
-*Wolbachia*-carrying females outbreed their competition and can quickly
-take over populations.
-<figure class="" style="width:600px;">
-  {% asset 2020/wolbachia-in-drosophila.png @magick:resize=600 alt:'Walbachia in drosophilia egg 1' %}<figcaption>*Wolbachia* is an endosymbiont, a symbiotic organism that only lives
-inside the cells of its hosts. Here, *Wolbachia* (large ovals) crowd the
-cytoplasm of a fruit fly cell. Credit: Alain Debec, Institute of Ecology
-and Environmental Sciences, Sorbonne University, with permission.</figcaption>
+  {% asset 2020/julien-in-gallery.jpg @magick:resize=300 alt:'Walbachia in nematode oocyte' %}<figcaption>Julien describes creating his art as involvement in poetry. "My work is
+very much a poetic quest for a language to express experiences which are
+part of the everyday experience of people like myself," he once told the
+[[Tate]{.underline}](https://www.youtube.com/watch?v=hcQxjc0mcK0).
+"Dance, theater, music, sculpture, painting---all of these different
+modes of art-making are encapsulated into my practice, which is why I
+chose film as a medium for making my work." Credit: [[Jonathan
+Binstock]{.underline}](http://mag.rochester.edu/about/directors-letter/),
+courtesy of [[Memorial Art
+Gallery]{.underline}](https://mag.rochester.edu/), University of
+Rochester.</figcaption>
 </figure>
-But exactly how CI scuppers the infected male/uninfected female crosses
-wasn't known. Using their moviemaking chops, Sullivan and then-postdoc
-[**Uyen Tram**](https://molgen.osu.edu/people/tram.1) (now a research
-associate at the Ohio State University), traced the problem to a timing
-glitch at the very beginning of embryogenesis, just after the egg is
-fertilized by sperm and starts dividing. When things are working
-properly, paternal chromosomes from the sperm and maternal chromosomes
-from the egg are in lockstep as they replicate and line up together in
-the middle of the cell. At that point the egg begins cleaving,
-ultimately creating two new cells with identical sets of mom and pop
-chromosomes. But in the case of CI, the father's chromosomes are late to
-the party. They're slow to replicate and fail to line up in time for
-cleavage. This leaves the daughter cells with only half the chromosomes
-they need. The embryo is DOA.
+{% include_relative sidebars/words-to-fuel-action.html classes="left" bgcolor="#f1f1f1" %}
+"I'm very interested in how we can look at these past figures and
+contemporize them for a whole new audience," said the moving-image
+artist, known globally for his path-breaking work in films and video
+installation. To do this in the recently exhibited *[[Lessons of the
+Hour---Frederick
+Douglas](https://www.isaacjulien.com/projects/37/)s]{.underline}*,
+Julien included disparate elements, sometimes all simultaneously:
+visualizations of the famous abolitionist in some of his most poignant
+moments, broadcasts of his oratory that resonate with today's issues,
+and displays of movement surrounding Douglass that can be soothing,
+intriguing, and even jarring. The intent, Julien said, is to utilize new
+media and cinema technologies, along with new archival research and
+understandings, "to create an active relationship between past and
+present, as a way of commenting on the moment that we inhabit."
 <figure class="" style="width:600px;">
-  {% asset 2020/polar-express.png @magick:resize=600 alt:'Walbachia in drosophilia egg 2' %}<figcaption>Polar express: *Wolbachia* (tiny red specks) are seen here flocking to
-the posterior pole (lower right) of a fertilized *Drosophila* egg,
-putting themselves in position to get incorporated into the next
-generation of eggs. Credit: Laura Serbus, with permission.</figcaption>
+  {% asset 2020/on-train.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>While making *Lessons of the Hour*, Julien worked with experts in the
+history of photography at the [[Eastman
+Museum]{.underline}](https://www.eastman.org/) to research and recreate
+authentic imagery. Actors portraying Douglass and Anna Murray-Douglass
+(who encouraged Douglass to escape from slavery and later married him)
+were filmed in a set built to show traveling by railroad, a symbol for
+both the Underground Railroad and Douglass's extensive travels. Pictured
+here: *The North Star,* 2019, framed photograph on gloss inkjet paper
+mounted on aluminum, 160 × 213.29 cm. Credit: Courtesy of the artist
+([[Isaac Julien]{.underline}](https://www.isaacjulien.com/)); [[Jessica
+Silverman Gallery]{.underline}](https://jessicasilvermangallery.com/),
+San Francisco; [[Metro Pictures
+Gallery]{.underline}](https://www.metropictures.com/), New York; and
+[[Victoria Miro Gallery]{.underline}](https://www.victoria-miro.com/),
+London/Venice.</figcaption>
 </figure>
+The result is a compelling mesh of past and present that provokes the
+audience to consider possible connections between the two. This type of
+engagement is one of the hallmarks of Julien's work, which spans decades
+and covers widely varying social and cultural subjects, including the
+Harlem Renaissance poet [[Langston
+Hughes]{.underline}](https://www.poetryfoundation.org/poets/langston-hughes)
+in the film [*[Looking for
+Langston]{.underline}*](https://www.isaacjulien.com/projects/looking-for-langston/)
+(1989) and the crisis of migration into Europe in his work [*[Western
+Union Small
+Boats]{.underline}*](https://www.isaacjulien.com/projects/western-union-small-boats/)
+(2007). "Isaac has a way of synthesizing our understanding of the past
+that brings its relevance into the present and helps us to understand
+how we all connect in the context of history," said [[Jonathan
+Binstock]{.underline}](http://mag.rochester.edu/about/directors-letter/),
+director of the University of Rochester's [[Memorial Art
+Gallery]{.underline}](https://mag.rochester.edu/), during a [[public
+talk]{.underline}](https://www.youtube.com/watch?v=DJDRSmaQ5eU) about
+the Douglass exhibition.
 
-Sullivan and Tram submitted their findings to the journal [*Science* in
-2002](https://www.ncbi.nlm.nih.gov/pubmed/12004132). The paper was
-quickly greenlighted without further revision---a rare feat in the
-persnickety world of top-tier science publications. After that
-auspicious beginning, Sullivan and team went on to work out a more
-detailed model that's a leading theory of how CI works. It explains not
-only why normal females can't breed with infected males, but why
-infected females can: *Wolbachia* seems to delay the maternal
-chromosomes to match the late-arriving paternal ones, ensuring that all
-pieces are in place before division occurs.
+*Lessons of the Hour* project curator [[John
+Hanhardt]{.underline}](https://en.wikipedia.org/wiki/John_Hanhardt)
+described Julien's work as a type of "philosophical cinema" that brings
+ideas, issues of representation and understanding, and knowledge as a
+kind of fluid movement between memory and direct experience. "This is
+not a linear narrative projected on a single screen. It's 10
+screens---different positions, sizes---where you follow the action and
+are shaped by the action, just as you are shaped by the visual
+experiences you have in your daily life."
 
-## Evolutionary ingenuity ##
+Born in London to parents from Saint Lucia in the Caribbean, Julien
+previously had limited exposure to Douglass, except for what he had
+discovered while on a teaching appointment (1998--2002) at Harvard
+University. To begin the project, commissioned in 2017 by the Memorial
+Art Gallery as part of an initiative to build its collection of moving
+images and also supported by UCSC, Julien explored
+Rochester---Douglass's longtime home in New York---and dove into the
+university's archives. He and his assistants scoured old books, papers,
+magazines, drawings, and photographs, searching for clues to a deeper
+understanding of Douglass and his time. Julien found "there was this
+inner Douglass world that was fascinating." He also uncovered a
+"symbiotic relationship" with Douglass while reading the activist's
+"[*[Lecture on
+Pictures]{.underline}*](https://www.loc.gov/resource/mfd.22004/?sp=1)."
+Called the most photographed American of the 19th century, Douglass,
+like Julien, was fascinated by photography and its power to influence
+others.
 
-That was the first of many Wolbachian mysteries explored by Sullivan and
-his collaborators. In 2004, along with postdocs Laura Serbus and
-[**Shelbi
-Russell**](https://www.linkedin.com/in/shelbi-russell-30baba16) and
-then-Ph.D. student **[Patrick
-Ferree](https://www.kecksci.claremont.edu/faculty/profile.asp?FacultyID=231)**
-(now an associate professor of biology at Claremont McKenna College), he
-began tackling another puzzle: how *Wolbachia* gets into the germ line,
-the cells that give rise to eggs and sperm. It's a trek the microbes
-have to make in each new generation of insects they infect. They start
-out scattered throughout the egg cell inherited from the infected
-mother, but soon after fertilization, the bacteria begin migrating to
-the posterior end of the egg, the part that will become the germ tissue
-of the embryonic fly.
+## Shaking the dust off ##
 
-Using the tools of knockout genetics (see sidebar) on *Drosophila
-melanogaster*, Sullivan and team were able to piece together the
-[molecular
-mechanics](https://sullivan.mcdb.ucsc.edu/pdf/Serbus_2007.pdf) described
-in the opening paragraphs above: how *Wolbachia* infiltrates cellular
-supply lines, latches onto motor proteins, and changes horses in
-mid-stream to get to the rear of the egg.
+The process that Julien uses for his work is the basis for a new lab he
+and longtime collaborator and partner [**[Mark
+Nash]{.underline}**](https://danm.ucsc.edu/people/mark-nash), professor
+of film and digital media, have established on campus. The [[Isaac
+Julien
+Lab]{.underline}](https://danm.ucsc.edu/project_group/isaac-julien-lab)
+(IJ Lab), modeled in part after Julien's [[London
+studio]{.underline}](https://www.isaacjulien.com/), prizes the use of
+archival material as an intrinsic part of the creative method. It also
+intentionally addresses the university's three [[academic
+priorities]{.underline}](https://sap.ucsc.edu/apa/): Justice in a
+Changing World, Digital Interventions, and Earth Futures. Its first crop
+of students in a Master of Fine Arts program, to begin in fall of 2020,
+will be asked to propose a project that involves one or more of these
+themes. For Julien's work in particular, issues of social justice are a
+common thread.
 
-It's a bravura display of evolutionary ingenuity, and not least because
-*Wolbachia* strikes such a delicate balance. While it binds to some of
-the available motor proteins, it also leaves plenty of slots open for
-the embryo's own supplies. "[As Shelbi Russell has
-shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6110520/),
-*Wolbachia* seems to have evolved as a weak competitor for the
-attachment sites, so it doesn't impair the embryo's development,"
-Sullivan said. Playing nice with hosts is good parasite policy. If they
-thrive, so does *Wolbachia*.
+With its history of inventive thinking in its Humanities and Arts
+Divisions, UCSC makes sense as a place for a new media lab that prides
+itself on developing ideas and artistic innovations that will "shake the
+dust off" traditional ways of creating and viewing art, said Julien. In
+addition, its proximity to the San Francisco Bay Area's technological
+innovations and world-class art collections, such as the [[Kramlich
+Collection]{.underline}](https://www.kramlichcollection.org/) of media
+art and the [[Joyner/Giuffrida
+Collection]{.underline}](https://www.nytimes.com/2016/10/17/arts/design/righting-wrongs-and-generating-attention-for-art-of-the-african-diaspora.html)
+of abstract art, provides vital pools of creativity. This wealth of
+resources, Julien said, can stimulate younger people who want to become
+artists, as well as those interested in the business aspects of art,
+helping to shape a "type of entrepreneurial creator who is able to
+navigate the art world as it's constituted today."
 
-Sullivan and his team weren't just uncovering the secrets of
-*Wolbachia*; they were developing new tools and techniques for
-*Wolbachia* research. Since *Wolbachia* can't live outside of cells,
-studying it had previously meant working with whole infected insects:
-breeding them, subjecting them to various treatments, dissecting out the
-tissues of interest, and eyeballing the samples under the microscope to
-see the effects on *Wolbachia*. It was laborious and complicated. With
-the help of the cell biologist [Alain
-Debec](https://www.ijm.fr/en/185/research-groups/team.htm) of the
-[Institute of Ecology and Environmental
-Sciences](https://ieesparis.ufr918.upmc.fr/?lang=en) at the Sorbonne
-University in Paris, Sullivan's group radically simplified matters by
-developing the first *Wolbachia*-infected *Drosophila* [cell
-line](https://www.sciencedirect.com/topics/medicine-and-dentistry/cell-line):
-cells containing *Wolbachia* that could be raised in vitro. "You can
-grow them indefinitely, freeze them, thaw them out whenever you need
-them, and do all sorts of neat things," Sullivan said.
+In a good example of the practical experience students can expect to
+gain, those enrolled in one of Julien's spring classes were slated,
+before the Covid-19 shutdown, to help launch a new installation of
+*Lessons of the Hour* at the [[McEvoy Foundation for the
+Arts]{.underline}](https://www.mcevoyarts.org/) in San Francisco (see
+[www.mcevoy.arts](http://www.mcevoy.arts)). The collaboration was
+intended to expose students to various aspects of producing an
+exhibition, such as helping to organize and set up the gallery space,
+and tackling the intricacies of a complex installation that involves
+many complicated digital technologies. UCSC students had a similar
+engagement with the Douglass project in 2019, said Nash, when
+"production of the single-screen version of the work introduced some
+students to a specialized editing and sound process, and gave them
+access to Julien's expert collaborators." That version of *Lessons of
+the Hour* was exhibited at [[Art
+Basel]{.underline}](https://www.artbasel.com/miami-beach) in Miami Beach
+in December 2019.
 
-One of the neat things Sullivan did was to apply new "high throughput"
-lab technology---implemented by UC Santa Cruz professor of chemistry
-[**Scott
-Lokey**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=slokey)---to
-streamline testing and assays. Instead of wrangling flies, manually
-manipulating them and inspecting specimens one by one, he and his team
-could process hundreds of cell samples in batches using robotic handling
-systems. Mechanized microscopes could scan the samples and analyze the
-results. This automated approach made procedures like knockout genetics
-hundreds of times faster. "We could accomplish in weeks what would have
-taken years," Sullivan said.
+## Past is present ##
 
-## The worm turns ##
-
-In the mid-2000s, Sullivan's research took another turn when he learned
-that *Wolbachia* had been implicated in two major human maladies:
-[onchocerciasis](https://www.cdc.gov/parasites/onchocerciasis/gen_info/faqs.html)
-and [lymphatic
-filariasis](https://www.cdc.gov/parasites/lymphaticfilariasis/gen_info/faqs.html),
-better known, respectively, as river blindness and elephantiasis. The
-two diseases, which afflict more than 150 million people in tropical
-regions, are caused by parasitic filarial nematodes transmitted by
-blood-feeding insects. Once in humans, the threadlike adult worms pump
-out larvae that circulate through the body and can get stuck in tissues,
-causing grievous damage: permanent vision loss in river blindness and
-horrific swelling of the limbs and genitals in elephantiasis.
-
-Now researchers were reporting that *Wolbachia* living in the worms was
-at least partly to blame. The bacteria, leaking from the nematodes,
-seemed to trigger a hyper-immune reaction and severe inflammation
-responsible for some of the worst symptoms. What's more, the worms
-depended on *Wolbachia* for their very survival. In filarial nematodes,
-*Wolbachia* is an "[obligate mutualistic
-endosymbiont](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/mutualism),"
-a symbiotic sidekick the worms can't live without.
-
-The corollary was clear: kill the germ, and you could kill the worm.
-This was a potential game-changer. No drug existed that could safely rid
-sufferers of the adult nematodes. Instead, the standard treatment
-consists of killing the larvae with "microfilaricide" medications. Since
-the adult worms continue to churn out new larvae and can live in humans
-for a decade or more, keeping symptoms in check means patients have to
-take microfilaricides for years. But what if you could kill the adult
-worms after all, by dispatching the *Wolbachia* inside them using
-anti-bacterial meds? Then a real cure might finally be at hand.
-
-Initial tests were encouraging. One study found that a six-week course
-of the antibiotic doxycycline could sharply reduce filarial nematodes in
-elephantiasis patients. That was a major step forward, but still not the
-magic bullet researchers were hoping for. Doxycycline isn't safe for
-children and pregnant women, and six weeks of drug therapy isn't
-practical for the kind of mass administration programs needed to reach
-millions of people in underdeveloped areas. The hunt was on for new
-compounds that offered speedier, simpler treatment. The effort got a big
-boost from the [Bill & Melinda Gates
-Foundation](https://www.gatesfoundation.org/), which was pouring
-hundreds of millions of dollars into the fight against river blindness,
-elephantiasis, and other [neglected tropical
-diseases](https://www.gatesfoundation.org/what-we-do/global-health/neglected-tropical-diseases)
-that affect the world's poorest people.
-
-Sullivan was no expert on tropical medicine, or nematode worms for that
-matter (he is a fly guy), but he knew a lot about *Wolbachia* and
-thought he might have something to contribute. Attending a conference on
-tropical diseases in 2007, he met scientists from the [Anti-Wolbachia
-Consortium (A•WOL)](https://awol.lstmed.ac.uk/), which had begun drug
-discovery with Gates Foundation backing. "The problem was that they were
-using older, slower assay methods," said Sullivan. "I told them we had a
-better way." As luck would have it, the cell line and high-throughput
-automated assay system used by Sullivan's team were tailor-made for
-testing potential anti-*Wolbachia* drugs.
-
-Two months later, with support from A•WOL and funding by the Gates
-Foundation, Sullivan had his own drug-screening operation up and running
-on Lokey's high-throughput equipment. Over the next few years, Sullivan
-and his team checked almost 5,000 substances, looking for compounds that
-could kill *Wolbachia* without harming the host *Drosophila* cells. They
-found one,
-[albendazole](https://sullivan.mcdb.ucsc.edu/pdf/Serbus_2012.pdf), that
-showed promise. Subsequent studies by A•WOL-affiliated researchers
-demonstrated that in combination with doxycycline, albendazole was able
-to shorten treatment times from six weeks to one. Larger clinical trials
-are underway.
-
-After that initial success, it was time to scale up. The Lokey lab was
-at capacity, so Sullivan reached out to [the California Institute for
-Biomedical
-Research](https://www.scripps.edu/science-and-medicine/calibr/)
-([Calibr](https://calibr.org/)), a nonprofit that develops
-next-generation medicines, and set them up with the cell line and assay
-system. Together, Calibr and Sullivan's lab have now identified several
-promising drug candidates while screening more than 300,000 compounds.
-
-## The dark side of symbiosis ##
-{% include_relative sidebars/weaponizing-wolbachia.html classes="left" bgcolor="#f1f1f1" %} 
-While Calibr and other organizations continue to search for new drugs,
-Sullivan has gone back to more fundamental questions. The nature of the
-worm-germ symbiosis, for example: it's obvious what *Wolbachia* gets out
-of the deal---room and board---but what does it bring to the table? To
-answer the question, Sullivan and postdoc [**Frederic
-Landmann**](http://www.crbm.cnrs.fr/en/team/mechanisms-of-symbiosis-with-wolbachia/)
-(now an assistant professor at the [Montpellier Cell Biology Research
-Center](http://www.crbm.cnrs.fr/en/) in southern France) treated
-filarial nematodes with antibiotics, wiping out the *Wolbachia* inside
-them. With the bacteria purged, development of young worms was
-scrambled, the embryos fatally deformed. In adult worms,
-[apoptosis](https://en.wikipedia.org/wiki/Apoptosis)---a type of
-programmed cell death that organisms use to cull unwanted cells---went
-wild, leading to the mass suicide of normal cells.
+Combining gallery pieces and film on multiple screens, the original
+Douglass exhibition provides a vivid illustration of the complex work
+that goes into creating these media projects. Julien and his team not
+only researched Douglass and influential people in his life using
+archival materials, they consulted with Douglass scholar [[Celeste-Marie
+Bernier]{.underline}](https://www.ed.ac.uk/profile/celeste-marie-bernier),
+and investigated historical photographic processes, and settings and
+sounds of the past. To learn more about how photographs were made at the
+time, for instance, they turned to experts at the [[George Eastman
+Museum]{.underline}](https://www.eastman.org/), located on the
+photography and motion picture film pioneer's Rochester estate. Tintype
+specialists guided them in the creation of authentic photographs similar
+to those of the Douglass era. Royal Shakespeare Company actor [[Ray
+Fearon]{.underline}](https://bbashakespeare.warwick.ac.uk/people/ray-fearon),
+who portrayed Douglass, took lessons so he would speak with the correct
+accent as he gave life to sections of Douglass's autobiography and
+excerpts from three of his hundreds of lectures delivered across the
+country and in the United Kingdom: "[[Lessons of the
+Hour]{.underline}](https://www.loc.gov/item/mfd.26001/)," "[[What to the
+Slave Is the 4th of
+July?]{.underline}](https://www.thenation.com/article/archive/what-slave-fourth-july-frederick-douglass/),"
+and "[[Lecture on
+Pictures]{.underline}](https://www.loc.gov/item/mfd.22004/)." A
+combination of environmental sounds, such as the sharp lashing of a
+whip, and original scoring inspired by music of the time fill the space
+around Douglass's words. For backdrops, Julien and his team created sets
+based on their research and traveled to key shooting locations such as
+Scotland, where Douglass had exiled himself from 1845--1847 until
+supporters raised \$711.66 to buy his freedom.
 <figure class="" style="width:600px;">
-  {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows *Wolbachia* (green
-specks) in the developing eggs. Credit: Frederic Landmann, with
-permission.</figcaption>
+  {% asset 2020/rapture.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>A sense of place resonates throughout *Lessons of the Hour* with vivid
+imagery and sounds. Pictured here is part of a re-enactment of Douglass
+during his self-imposed exile overseas as a fugitive slave,
+[[reflecting]{.underline}](https://glc.yale.edu/letter-william-lloyd-garrison-january-1-1846)
+on the beauty of America in contrast to the ugliness of its
+slaveholding. *Rapture 1846,* 2019, photograph on matte structured paper
+mounted on aluminum, 150 × 210 cm. Credit: Courtesy of the artist
+([[Isaac Julien]{.underline}](https://www.isaacjulien.com/)); [[Jessica
+Silverman Gallery]{.underline}](https://jessicasilvermangallery.com/),
+San Francisco; [[Metro Pictures
+Gallery]{.underline}](https://www.metropictures.com/), New York; and
+[[Victoria Miro Gallery]{.underline}](https://www.victoria-miro.com/),
+London/Venice.</figcaption>
 </figure>
-No wonder the worms need *Wolbachia* to live; it seems to play a role in
-regulating several essential processes. But for Sullivan, that left a
-nagging question. Why do the nematodes rely on a bacterium to do things
-that other species, including the worms' own evolutionary forebearers,
-could handle quite well on their own? Sullivan believes that something
-less benign is at work than the win-win partnership implied by
-"mutualistic symbiosis." Instead of providing a service to nematodes in
-need, *Wolbachia* may have muscled its way into machinery that was
-already working just fine, shoving aside existing components and making
-itself indispensable for its own selfish ends.
+Julien's work reminds his audiences that issues and struggles of the
+past, such as the fight for equality and social justice, continue to
+play out. One example is when the actor Fearon, as Douglass, addresses
+an audience seated in a [[Royal Academy of
+Arts]{.underline}](https://www.royalacademy.org.uk/) lecture hall.
+Members dressed in both contemporary and 19th-century clothing listen
+intently as Douglass delivers passages from "*What to the Slave Is the
+4th of July?*" At the same time on other screens around the room, aerial
+drone shots emerge of modern-day Baltimore, the site of the 2015 Freddie
+Gray protests and riots that fueled the [[Black Lives
+Matter]{.underline}](https://blacklivesmatter.com/) movement against
+violence and systemic racism.
 
-Sullivan calls this "addictive symbiosis" (a phrase he borrowed from the
-book [*The Symbiotic
-Habit*](https://press.princeton.edu/books/paperback/9780691113425/the-symbiotic-habit),
-by entomologist [Angela E.
-Douglas](https://entomology.cals.cornell.edu/people/angela-e-douglas/)),
-and he thinks it may be far more common in nature than assumed by
-conventional biological thinking, with its "comforting mutualistic
-kumbaya view." [He
-writes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5576898/), "I would
-argue that many obligate endosymbiotic relationships are more akin to a
-big-box store locating in a town: much outcry and displacement, but
-ultimately a dependence on its presence. Simply by its presence, the box
-store created a need where none previously existed. Both in society and
-in biology, addictive symbiosis may be the rule rather than the
-exception."
+Striking the right tone and making Douglass come alive for today's
+audiences was a demanding undertaking, said Julien, in part because of
+Douglass's formidable historic stature. "The biggest challenge was to
+make a work that would be convincing. He's a very tall order." In his
+time, Douglass proved to be a powerful and indefatigable man of
+influence in the fight against slavery and for equality and justice, and
+his legacy continues more than 200 years after he was born. "There is a
+strong connection between the kind of quest that Douglass was demanding
+and striving for and, if you like, the unfinished business of these
+issues in the 21st century," Julien said.
 <figure class="" style="width:600px;">
-  {% asset 2020/drug-screaning-setup.jpg @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>Automated screening of anti-*Wolbachia* drugs at UC Santa Cruz was
-performed using the high-throughput facility shown here, implemented
-with the help of professor of chemistry Scott Lokey. Credit: Roger
-Linington, with permission.</figcaption>
+  {% asset 2020/douglass-home.jpg @magick:resize=600 alt:'Fredrick Douglass home' %}<figcaption>Photographs filled the house in Washington, DC, where Frederick Douglass
+spent his final years. Intrigued by the emerging technology and called
+the most photographed American of the 19^th^ century, Douglass talked
+about his fascination with photography in his "[[Lecture on
+Pictures]{.underline}](https://www.loc.gov/resource/mfd.22004/?sp=1)."
+During his research into Douglass, Julien discovered their mutual
+interest in picture-making and its power to influence human relations.
+Credit: K. M. Watson.</figcaption>
 </figure>
-Whether it's a cozy alliance or hostile takeover, worm and germ may be
-headed for a full-blown merger. Sullivan and others speculate that
-*Wolbachia* might someday become an intrinsic feature of its nematode
-hosts, like the ancient bacteria that long ago invaded our single-celled
-ancestors and became mitochondria---the intracellular "power houses"
-that all higher life forms depend on.
-
-That example points out just how fluid and negotiable roles like
-[parasite, pathogen, and
-mutualist](https://study.com/academy/lesson/symbiotic-relationships-mutualism-commensalism-amensalism.html)
-can be. *Wolbachia* blurs the bright lines between those categories, and
-between organisms themselves. It tends to fuzz the boundaries between
-scientific domains, too. **"**The work that Bill's done has given us new
-insight into how Wolbachia does its thing, and in the long run my bet is
-that it's going to help us understand how symbionts in general do their
-thing," said [Barton
-Slatko](https://www.linkedin.com/in/barton-slatko-42960612), a molecular
-parasitologist at [New England Biolabs](https://www.neb.com/) who
-studies *Wolbachia* in nematodes. "It goes beyond cell biology and has
-implications for population biology, ecology, and evolution."
-
-Exploring those implications is the goal of Sullivan's next big
-*Wolbachia* venture, a collaboration with population biologists Michael
-Turelli at UC Davis and [Brandon
-Cooper](http://www.cooper-lab.org/people.html), an assistant professor
-of biological sciences at the University of Montana. Their goal is what
-Turelli calls a "grand synthesis" connecting Wolbachia's microscopic
-meddling to its large-scale effects on species and ecosystems.
-
-For Sullivan it's just one more twist in a mostly accidental journey. "I
-was fascinated by what *Wolbachia* does to cells and had no idea our
-work would have biomedical and ecological relevance," he said. "It's
-really a story of where curiosity can take you." Curiosity, and,
-Sullivan admits, maybe a little something else: "It could be a case of
-addictive symbiosis."
+Douglass's great-great-great grandson Kenneth B. Morris, Jr., saw this
+connection as well when he cofounded the Atlanta-based nonprofit
+[[Frederick Douglass Family
+Initiatives]{.underline}](http://www.fdfi.org/). The organization's
+efforts focus on modern-day slavery and the global problem of human
+trafficking. "When you look at slavery today there are many parallels to
+historic slavery," Morris [[has
+said]{.underline}](https://matteroffact.tv/descendants-frederick-douglass-still-fighting-slavery-today/).
+"It's about profit. It's about exploiting the most vulnerable among us."
+Morris now leads the fight for freedom in the same way as his famous
+distant relative, through education. Julien said that meeting Morris and
+hearing his reaction to *Lessons of the Hour*---he told Julien he was
+"extremely moved"---made him feel like he had been successful in making
+Douglass come to life in a meaningful way. "As an artist, you have a
+responsibility for how you are going to translate feelings, words, and
+actions, and do them justice."
