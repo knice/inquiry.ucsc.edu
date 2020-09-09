@@ -42,22 +42,18 @@ in-the-news:
     - title: "Open Forum: On the legacy of AIDS --- trauma and shame get in the way of HIV prevention (<em>San Francisco Chronicle</em>, March 28, 2019)"
       url: https://www.sfchronicle.com/opinion/openforum/amp/Open-Forum-On-the-legacy-of-AIDS-trauma-and-13721123.php
 ---
-{% include_relative sidebars/living-history-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
+{% include_relative sidebars/pronouns-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 
 <figure class="left" style="width:300px;">
-  {% asset 2020/julien-in-gallery.jpg @magick:resize=300 alt:'Walbachia in nematode oocyte' %}<figcaption>Julien describes creating his art as involvement in poetry. "My work is
-very much a poetic quest for a language to express experiences which are
-part of the everyday experience of people like myself," he once told the
-[[Tate]{.underline}](https://www.youtube.com/watch?v=hcQxjc0mcK0).
-"Dance, theater, music, sculpture, painting---all of these different
-modes of art-making are encapsulated into my practice, which is why I
-chose film as a medium for making my work." Credit: [[Jonathan
-Binstock]{.underline}](http://mag.rochester.edu/about/directors-letter/),
-courtesy of [[Memorial Art
-Gallery]{.underline}](https://mag.rochester.edu/), University of
-Rochester.</figcaption>
+  {% asset 2020/restroom-sign.jpg @magick:resize=300 alt:'All gener restroom sign' %}<figcaption>According to Hammack, the gender binary of "male" and "female" is a
+thing of the past, as documented by this sign outside an all-gender
+restroom at the San Diego airport in California. Hammack studies the
+increasing fluidity and diversity of gender identities among U.S. youth.
+Credit: [Wikimedia
+Commons](https://commons.wikimedia.org/wiki/File:All_gender_restroom_sign_San_Diego_airport.jpg)
+(CC BY-SA 3.0).</figcaption>
 </figure>
-{% include_relative sidebars/words-to-fuel-action.html classes="left" bgcolor="#f1f1f1" %}
+
 As choices for gender and sexual identities expand, the world slowly
 changes
 
@@ -120,7 +116,16 @@ doctors, and medicine as sources of expertise on these topics. And
 because we were limited to that basis of how knowledge was constructed
 and disseminated, it was hard to challenge the stigma associated with
 that framework.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/pride-flag-supreme-court.jpg @magick:resize=600 alt:'All gener restroom sign' %}<figcaption>A man waves a Pride flag outside the United States Supreme Court in
+Washington, DC, during deliberations on the Obergefell vs. Hodges case
+for same-sex marriage on April 28, 2015. Two months later, the Supreme
+Court ruled to end marriage discrimination. According to a five-year
+study conducted by Hammack and colleagues, marriage equality in the U.S.
+hasn't eliminated discrimination against LGB community members. Credit:
+[Ted Eytan](https://www.flickr.com/photos/taedc/17113823229) (CC BY-SA
+2.0).</figcaption>
+</figure>
 But then came the internet, and eventually social media. The latter was
 pivotal to the creation of nonbinary thinking. It has allowed people to
 find one another. You can now educate yourself using Wikipedia, of all
