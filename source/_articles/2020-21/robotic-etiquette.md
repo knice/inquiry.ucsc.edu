@@ -30,15 +30,13 @@ in-the-news:
     - title: Tug, the busy little robot nurse, will see you now. (<em>Wired</em>, November 10, 2017).
       url: https://www.wired.com/story/tug-the-busy-little-robot-nurse-will-see-you-now/
 ---
-{% include_relative sidebars/river-of-life-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 
-<figure class="" style="width:600px;">
-  {% asset 2020/nile-from-space.jpg @magick:resize=600 alt:'Image of the Nile from space' %}<figcaption>The green ribbon of the Nile River, seen from orbit, flows northward to
-the Mediterranean Sea. More than 95 percent of Egyptians live within a
-few miles of the river, which has made the surrounding land fertile and
-prosperous for thousands of years. Credit: [[Jeff Schmaltz, NASA Visible
-Earth]{.underline}](https://water.usgs.gov/edu/gallery/watercyclekids/freshwater-nile.html)
-(public domain).</figcaption>
+<figure class="left" style="width:300px;">
+  {% asset 2020/leila-takayama.jpg @magick:resize=300 alt:'Associate professor of computational media Leila Takayama' %}<figcaption>Associate professor of computational media Leila Takayama works in the
+growing field of human-robot interaction, which seeks to improve this
+interaction by studying robots, like the one sitting here in Takayama's
+hand, and their human users to better understand the dynamics on both
+sides of the relationship. Credit: Melissa De Witte.</figcaption>
 </figure>
 
 Most people don't know what to do when they first encounter a robot.
