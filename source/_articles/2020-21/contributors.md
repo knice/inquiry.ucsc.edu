@@ -4,49 +4,98 @@ issue: 2020
 category: credits
 order: 1
 title: Inquiring minds
+contributors:
+  - name-year: Bethany Aguiliere (’16)
+    file: 2020/bethany-augliere.jpg
+  - name-year: Erica K. Carlson ('19)
+    file: 2020/erika-k-carlson
+  - name-year: Ula Chrobak (’17)
+    file: 2020/ula-chrobak.jpg
+    url: https://www.ulachrobak.com/
+  - name-year: Tom Garlinghouse ('19)
+    file: 2020/tom-garlinghouse.jpg
+  - name-year: Emma Hiolski (’17)
+    file: 2020/emma-hiolski.jpg
+    url: https://www.emmahiolski.com/
+  - name-year: Dana Mackenzie ('97)
+    file: 2020/dana-mackenzie.jpg
+  - name-year: Jyoti Madhusoodanan (’14)
+    file: 2020/jyoti-madhusoodanan.jpg
+  - name-year: Robert Pollie (’82)
+    file: 2018/robert-pollie.jpg
+    url: http://7thavenueproject.com/
+  - name-year: Ramin Skibba (‘16)
+    file: 2020/ramin-skibba.jpg
+  - name-year: Cameron Walker (’02)
+    file: 2018/cameron-walker.jpg
+    url: http://www.cameronwalker.net/
+  - name-year: K. M. Watson (‘84)
+    file: 2020/k-m-watson.jpg
+  - name-year: Lindzi Wessel (‘16)
+    file: 2020/lindzi-wessel.jpg
+  - name-year: Sarah C. P. Williams ('07)
+    file: 2018/sarah-williams.jpg
+    url: http://www.sarahcpwilliams.com/
+  - name-year: Marcus Woo (’07)
+    file: 2018/marcus-woo.jpg
+    url: https://about.me/marcus_woo
+  - name-year: Aylin Woodward (‘17)
+    file: 2020/aylin-woodward.jpg
+  - name-year: Mike Wooldridge (’92)
+    file: 2020/mike-wooldridge.jpg
 ---
-
 <ul class="contributors-container">
-<li>{% asset 2018/sukee-bennett.jpg alt:"Sukee Bennett (’17)" %}<span><a href="https://sukee.net/blog/">Sukee Bennett (’17)</a></span></li>
-
-<li>{% asset 2018/ula-chrobak.jpg alt:"Ula Chrobak (’17)" %}<span><a href="https://www.ulachrobak.com/">Ula Chrobak (’17)</a></span></li>
-
-<li>{% asset 2018/david-egerter.jpg alt:"David Egerter, Editor (’88)" %}<span><a href="https://medcommstrategy.com/">David Egerter, Editor (’88)</a></span></li>
-
-<li>{% asset 2018/emma-hiolski.jpg alt:"Emma Hiolski (’17)" %}<span><a href="https://www.emmahiolski.com/">Emma Hiolski (’17)</a></span></li>
-
-<li>{% asset 2018/adam-mann.jpg alt:"Adam Mann (’10)" %}<span><a href="https://www.adamspacemann.com/">Adam Mann (’10)</a></span></li>
-
-<li>{% asset 2018/sarah-mcquate.jpg alt:"Sarah McQuate (’17)" %}<span><a href="https://sarahmcquate.com/">Sarah McQuate (’17)</a></span></li>
-
-<li>{% asset 2018/katharine-miller.jpg alt:"Katharine Miller (’01)" %}<span>Katharine Miller (’01)</span></li>
-
-<li>{% asset 2018/chris-palmer.jpg alt:"Chris Palmer (’13)" %}<span><a href="http://chrispalmer.squarespace.com/">Chris Palmer (’13)</a></span></li>
-
-<li>{% asset 2018/robert-pollie.jpg alt:"Robert Pollie (’82)" %}<span><a href="http://7thavenueproject.com/">Robert Pollie (’82)</a></span></li>
-
-<li>{% asset 2018/barbara-rodriguez.jpg alt:"Barbra A. Rodriguez (’97)" %}<span><a href="https://www.linkedin.com/in/vitalwordplay/">Barbra A. Rodriguez (’97)</a></span></li>
-
-<li>{% asset 2018/patricia-waldron.jpg alt:"Patricia Waldron (’14)" %}<span><a href="http://www.patriciawaldron.com/">Patricia Waldron (’14)</a></span></li>
-
-<li>{% asset 2018/cameron-walker.jpg alt:"Cameron Walker (’02)" %}<span><a href="http://www.cameronwalker.net/">Cameron Walker (’02)</a></span></li>
-
-<li>{% asset 2018/amy-west.jpg alt:"Amy West (’12)" %}<span><a href="http://amyewest.com/">Amy West (’12)</a></span></li>
-
-<li>{% asset 2018/sarah-williams.jpg alt:"Sarah C. P. Williams ('07)" %}<span><a href="http://www.sarahcpwilliams.com/">Sarah C. P. Williams ('07)</a></span></li>
-
-<li>{% asset 2018/marcus-woo.jpg alt:"Marcus Woo (’07)" %}<span><a href="https://about.me/marcus_woo">Marcus Woo (’07)</a></span></li>
-
-<li>{% asset 2018/sascha-zubryd.jpg alt:"Sascha Zubryd (’11)" %}<span><a href="https://outfog.com/author/sascha-zubryd/">Sascha Zubryd (’11)</a></span></li>
-
+{% if page.contributors %}
+  {% for contributor in page.contributors %}
+  
+  <li>{% asset {{contributor.file}} alt:"{{contributor.name-year}}" %}
+  <span>
+  {% if contributor.url %}
+<a href="{{contributor.url}}">{{contributor.name-year}}</a>
+{% else%}
+{{contributor.name-year}}
+  {%endif%}
+  </span>
+  </li>
+{%endfor%}
+{% endif %}
 </ul>
+With the distinctive expertise of scientists-turned-journalists, the 16
+writers shown above, all graduates of the UC Santa Cruz [Science
+Communication Program](https://scicom.ucsc.edu/index.html), created the
+stories that grace these pages. Directed by editor [**Dave
+Egerter**](https://medcommstrategy.com/) ('88), their reporting captures
+the great scope, creativity, and global reach of the research being
+performed across UCSC's five academic divisions.
 
-With the expertise of scientists-turned-journalists, the 16 graduates of the UC Santa Cruz [Science Communication Program](https://scicom.ucsc.edu/) shown here created these stories about research that span the university’s five divisions: Arts, Humanities, Physical & Biological Sciences, Social Sciences, and Engineering. As their reporting well documents, while the academicians at UCSC may keep offices, laboratories, and studios on the redwood tree–studded campus, the breadth and depth of their work—and its impact—reaches around the world.
+Upgraded last year (2019) to award a master's degree, the "SciCom"
+program uniquely trains former scientists to use their expertise to
+foster the public understanding of science, health, technology, and the
+environment. The urgency of this mission stepped up a notch with the
+arrival of Covid-19. Like all UCSC instruction, the SciCom curriculum
+moved online. Program instructors, led by director and veteran
+journalist [**Erika Check
+Hayden**](https://scicom.ucsc.edu/faculty/index.html), taught courses
+via Zoom. The nine-student class of 2020 (eight less Stanford Ph.D.
+immunologist [**Jonathan Wosen**](https://muckrack.com/jonathan-wosen),
+hired early out of the program by the *San Diego Union-Tribune* as a
+biotech reporter) gained real-world experience in both their classwork
+and remotely-conducted internships. While working flat-out to keep up
+with Covid-19 developments as a reporter at *BuzzFeed*, lecturer in
+policy and investigative reporting [**Peter
+Aldhous**](https://scicom.ucsc.edu/faculty/index.html) redirected his
+spring-quarter class to support science reporters at the *San Jose
+Mercury News*. Through that collaboration, the SciCom students helped
+cover the pandemic's impact in the Bay Area.
 
-This sizable impact also applies to the “SciCom” graduate certificate program ([*scicom.ucsc.edu*](https://scicom.ucsc.edu/)). Begun in 1981, the program has [300-plus graduates](https://scicom.ucsc.edu/students-alumni/alumni_last_name.html) who work regionally, nationally, and internationally. They communicate on science and related issues in newspapers, radio, television, online media, peer-reviewed journals, magazines, and university public relations. Required to have scientific training and experience, SciCom students spend a year on campus honing their storytelling skills in journalism training and internships now overseen by the program’s third director, [**Erika Check Hayden**](https://scicom.ucsc.edu/about/program-news-articles/2016-09-hayden.html).
+The pandemic is also being professionally chronicled by many of the
+program's 350-plus graduates in their work for local, regional,
+national, and international media outlets, in newspapers, radio,
+television, online media, peer-reviewed journals, magazines, and
+university public relations. Covid-19 and near-constant attacks on the
+credibility of science and the news media make the accurate, engaging
+science journalism practiced by SciCom graduates---as exemplified by
+their writing herein---more important than ever.
 
-At a time when the credibility of science and the news media remains under scrutiny, the SciCom program and its mission to “strive to use accurate and engaging science journalism to improve society,” is more important than ever, said Check Hayden, an international investigative reporter and social media expert. “Through our students, alumni, and instructors, we have a huge role to play in promoting well-informed dialogue on science.”
-
-Despite concerns about the current media climate, with the sensationalism and click-ability of “fake news” threatening to overshadow real news, Check Hayden is optimistic about the sway of UCSC’s science-savvy SciCom media specialists: “Doing our jobs as communicators means telling stories that resonate with readers, listeners, and viewers in ways that make true news far more compelling.”
-
-We hope you find compelling reading among the articles in this edition of _inquiry@UC Santa Cruz_.
+In these abruptly trying times, we hope you stay safe and enjoy reading
+this year's *inquiry\@UC Santa Cruz.*
