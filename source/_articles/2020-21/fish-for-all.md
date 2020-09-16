@@ -177,7 +177,7 @@ by hand, three times a day for 12 weeks. "We pay attention to make sure
 that feed waste is minimized," said Sarker. "We distribute the feed to
 the tank very slowly and ensure every pellet has been received by the
 fish."
-
+{% include_relative sidebars/waste-as-resource.html classes="right" bgcolor="#f1f1f1" %}
 In a
 [[study]{.underline}](https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0201315)
 published in *PLOS One* (July 2018), the researchers fed the tilapia a
