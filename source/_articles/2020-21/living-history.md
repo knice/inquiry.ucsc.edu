@@ -56,20 +56,7 @@ innovative new and emerging media techniques and technologies that bring
 his historical subjects to life, Julien aims for others to see
 them---now including the lifelong activist Douglass---as he does,
 through a lens of 21st-century sensibility and perspective.
-<figure class="left" style="width:300px;">
-  {% asset 2020/julien-in-gallery.jpg @magick:resize=300 alt:'Walbachia in nematode oocyte' %}<figcaption>Julien describes creating his art as involvement in poetry. "My work is
-very much a poetic quest for a language to express experiences which are
-part of the everyday experience of people like myself," he once told the
-[[Tate]{.underline}](https://www.youtube.com/watch?v=hcQxjc0mcK0).
-"Dance, theater, music, sculpture, painting---all of these different
-modes of art-making are encapsulated into my practice, which is why I
-chose film as a medium for making my work." Credit: [[Jonathan
-Binstock]{.underline}](http://mag.rochester.edu/about/directors-letter/),
-courtesy of [[Memorial Art
-Gallery]{.underline}](https://mag.rochester.edu/), University of
-Rochester.</figcaption>
-</figure>
-{% include_relative sidebars/words-to-fuel-action.html classes="left" bgcolor="#f1f1f1" %}
+
 "I'm very interested in how we can look at these past figures and
 contemporize them for a whole new audience," said the moving-image
 artist, known globally for his path-breaking work in films and video
@@ -85,21 +72,22 @@ media and cinema technologies, along with new archival research and
 understandings, "to create an active relationship between past and
 present, as a way of commenting on the moment that we inhabit."
 <figure class="" style="width:600px;">
-  {% asset 2020/on-train.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>While making *Lessons of the Hour*, Julien worked with experts in the
-history of photography at the [[Eastman
-Museum]{.underline}](https://www.eastman.org/) to research and recreate
+  {% asset 2020/on-train.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>While making <em>Lessons of the Hour</em>, Julien worked with experts in the
+history of photography at the <a href="https://www.eastman.org/">[Eastman
+Museum]{.underline}</a> to research and recreate
 authentic imagery. Actors portraying Douglass and Anna Murray-Douglass
 (who encouraged Douglass to escape from slavery and later married him)
 were filmed in a set built to show traveling by railroad, a symbol for
-both the Underground Railroad and Douglass's extensive travels. Pictured
-here: *The North Star,* 2019, framed photograph on gloss inkjet paper
+both the Underground Railroad and Douglass&#39;s extensive travels. Pictured
+here: <em>The North Star,</em> 2019, framed photograph on gloss inkjet paper
 mounted on aluminum, 160 × 213.29 cm. Credit: Courtesy of the artist
-([[Isaac Julien]{.underline}](https://www.isaacjulien.com/)); [[Jessica
-Silverman Gallery]{.underline}](https://jessicasilvermangallery.com/),
-San Francisco; [[Metro Pictures
-Gallery]{.underline}](https://www.metropictures.com/), New York; and
-[[Victoria Miro Gallery]{.underline}](https://www.victoria-miro.com/),
-London/Venice.</figcaption>
+(<a href="https://www.isaacjulien.com/">[Isaac Julien]{.underline}</a>); <a href="https://jessicasilvermangallery.com/">[Jessica
+Silverman Gallery]{.underline}</a>,
+San Francisco; <a href="https://www.metropictures.com/">[Metro Pictures
+Gallery]{.underline}</a>, New York; and
+<a href="https://www.victoria-miro.com/">[Victoria Miro Gallery]{.underline}</a>,
+London/Venice.
+</figcaption>
 </figure>
 The result is a compelling mesh of past and present that provokes the
 audience to consider possible connections between the two. This type of
@@ -119,7 +107,20 @@ Binstock]{.underline}](http://mag.rochester.edu/about/directors-letter/),
 director of the University of Rochester's [[Memorial Art
 Gallery]{.underline}](https://mag.rochester.edu/), during a [[public
 talk]{.underline}](https://www.youtube.com/watch?v=DJDRSmaQ5eU) about
-the Douglass exhibition.
+<figure class="left" style="width:300px;">
+  {% asset 2020/julien-in-gallery.jpg @magick:resize=300 alt:'Walbachia in nematode oocyte' %}<figcaption>Julien describes creating his art as involvement in poetry. &quot;My work is
+very much a poetic quest for a language to express experiences which are
+part of the everyday experience of people like myself,&quot; he once told the
+<a href="https://www.youtube.com/watch?v=hcQxjc0mcK0">[Tate]{.underline}</a>.
+&quot;Dance, theater, music, sculpture, painting---all of these different
+modes of art-making are encapsulated into my practice, which is why I
+chose film as a medium for making my work.&quot; Credit: <a href="http://mag.rochester.edu/about/directors-letter/">[Jonathan
+Binstock]{.underline}</a>,
+courtesy of <a href="https://mag.rochester.edu/">[Memorial Art
+Gallery]{.underline}</a>, University of
+Rochester.
+</figcaption>
+</figure>
 
 *Lessons of the Hour* project curator [[John
 Hanhardt]{.underline}](https://en.wikipedia.org/wiki/John_Hanhardt)
@@ -150,7 +151,8 @@ like Julien, was fascinated by photography and its power to influence
 others.
 
 ## Shaking the dust off ##
-
+the Douglass exhibition.
+{% include_relative sidebars/words-to-fuel-action.html classes="right" bgcolor="#f1f1f1" %}
 The process that Julien uses for his work is the basis for a new lab he
 and longtime collaborator and partner [**[Mark
 Nash]{.underline}**](https://danm.ucsc.edu/people/mark-nash), professor
