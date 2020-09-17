@@ -15,27 +15,26 @@ banner:
 further-inquiry:
     - title: "Sullivan Lab at UC Santa Cruz"
       url: https://sullivan.mcdb.ucsc.edu/
-    - title: "Serbus LR, Casper-Lindley C, Landmann F, Sullivan W, The Genetics And Cell Biology of Wolbachia-Host, *Annual Review Of Genetics.* 2008; 42:683-707
-    Interactions"
+    - title: "Serbus LR, Casper-Lindley C, Landmann F, Sullivan W, The Genetics And Cell Biology of Wolbachia-Host, <em>Annual Review Of Genetics.</em> 2008; 42:683-707 Interactions"
       url: https://www.annualreviews.org/doi/full/10.1146/annurev.genet.41.110306.130354
     - title: "Sullivan W, O'Neill SL, Manipulation Of The
-    Manipulators. *Nature*. 2017; **543**:182-183."
+    Manipulators. <em>Nature</em>. 2017; 543:182-183."
       url: https://www.nature.com/articles/nature21509
     - title: "Russell SL, Lemseffer N, Sullivan WT, Wolbachia And Host Germline
     Components Compete For Kinesin-Mediated Transport To The Posterior
     Pole Of The Drosophila
-    Oocyte. *PLoS Pathogens*. 2018; 5:14."
+    Oocyte. <em>PLoS Pathogens</em>. 2018; 5:14."
       url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007216
 in-the-news:
     - title: "Basic research in fruit flies leads to potential drug for diseases afflicting millions (UCSC
     News, July 12, 2018)"
       url: https://news.ucsc.edu/2018/07/river-blindness.html
-    - title: "Mosquitoes armed with bacteria beat back dengue virus (*Science Daily Newsletter*, November 22, 2019)"
+    - title: "Mosquitoes armed with bacteria beat back dengue virus (<em>Science Daily Newsletter</em>, November 22, 2019)"
       url: https://www.sciencemag.org/news/2019/11/mosquitoes-armed-bacteria-beat-back-dengue-virus
     - title: "Bacteria of the Flies: Tracing the Spread of Disease-Controlling
     Wolbachia (UC Davis News, March 9, 2018)"
       url: https://biology.ucdavis.edu/news/bacteria-flies-tracing-spread-disease-controlling-wolbachia
-    - title: "How to Beat Dengue and Zika: Add a Microbe to Mosquitoes (*The Atlantic*, August 8, 2016)"
+    - title: "How to Beat Dengue and Zika: Add a Microbe to Mosquitoes (<em>The Atlantic</em>, August 8, 2016)"
       url: https://www.theatlantic.com/science/archive/2016/08/how-to-beat-dengue-and-zika-add-a-microbe-to-mosquitoes/494036/
 ---
 {% include_relative sidebars/natures-master-manipulator-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
@@ -66,13 +65,13 @@ end-around and keeps on coming.
 ## The great pandemic ##
 
 <figure class="left" style="width:300px;">
-  {% asset 2020/fruit-fly.jpg @magick:resize=300 alt:'Graph: arrests per 10,000 vs age at time of arrest' %}<figcaption>A common fruit fly, *Drosophila melanogaster*, seen here feeding on a
+  {% asset 2020/fruit-fly.jpg @magick:resize=300 alt:'Graph: arrests per 10,000 vs age at time of arrest' %}<figcaption>A common fruit fly, <em>Drosophila melanogaster</em>, seen here feeding on a
 banana, frequently shows up as an unwanted guest in kitchens, gardens,
 orchards, and vineyards worldwide. It also continues to serve as a
 widely-used model organism for biological research, including
-*Wolbachia* studies in the laboratory of UCSC distinguished professor of molecular, cell, and developmental biology Bill Sullivan. Credit:
-[Sanjay Acharya, Wikimedia
-Commons](https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg)
+<em>Wolbachia</em> studies in the laboratory of UCSC distinguished professor of molecular, cell, and developmental biology Bill Sullivan. Credit:
+<a href="https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg">Sanjay Acharya, Wikimedia
+Commons</a>
 (CC BY-SA 4.0).</figcaption>
 </figure>That maneuver, discovered by Sullivan and colleagues, is just one of
 many exploits that have made *Wolbachia* one of the most successful
@@ -141,8 +140,8 @@ male, infected or not. With this big advantage in the mating game,
 *Wolbachia*-carrying females outbreed their competition and can quickly
 take over populations.
 <figure class="" style="width:600px;">
-  {% asset 2020/wolbachia-in-drosophila.png @magick:resize=600 alt:'Walbachia in drosophilia egg 1' %}<figcaption>*Wolbachia* is an endosymbiont, a symbiotic organism that only lives
-inside the cells of its hosts. Here, *Wolbachia* (large ovals) crowd the
+  {% asset 2020/wolbachia-in-drosophila.png @magick:resize=600 alt:'Walbachia in drosophilia egg 1' %}<figcaption><em>Wolbachia</em> is an endosymbiont, a symbiotic organism that only lives
+inside the cells of its hosts. Here, <em>Wolbachia</em> (large ovals) crowd the
 cytoplasm of a fruit fly cell. Credit: Alain Debec, Institute of Ecology
 and Environmental Sciences, Sorbonne University, with permission.</figcaption>
 </figure>
@@ -161,8 +160,8 @@ the party. They're slow to replicate and fail to line up in time for
 cleavage. This leaves the daughter cells with only half the chromosomes
 they need. The embryo is DOA.
 <figure class="" style="width:600px;">
-  {% asset 2020/polar-express.png @magick:resize=600 alt:'Walbachia in drosophilia egg 2' %}<figcaption>Polar express: *Wolbachia* (tiny red specks) are seen here flocking to
-the posterior pole (lower right) of a fertilized *Drosophila* egg,
+  {% asset 2020/polar-express.png @magick:resize=600 alt:'Walbachia in drosophilia egg 2' %}<figcaption>Polar express: <em>Wolbachia</em> (tiny red specks) are seen here flocking to
+the posterior pole (lower right) of a fertilized <em>Drosophila</em> egg,
 putting themselves in position to get incorporated into the next
 generation of eggs. Credit: Laura Serbus, with permission.</figcaption>
 </figure>
@@ -341,7 +340,7 @@ scrambled, the embryos fatally deformed. In adult worms,
 programmed cell death that organisms use to cull unwanted cells---went
 wild, leading to the mass suicide of normal cells.
 <figure class="" style="width:600px;">
-  {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows *Wolbachia* (green
+  {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows <em>Wolbachia</em> (green
 specks) in the developing eggs. Credit: Frederic Landmann, with
 permission.</figcaption>
 </figure>
@@ -372,7 +371,7 @@ store created a need where none previously existed. Both in society and
 in biology, addictive symbiosis may be the rule rather than the
 exception."
 <figure class="" style="width:600px;">
-  {% asset 2020/drug-screaning-setup.jpg @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>Automated screening of anti-*Wolbachia* drugs at UC Santa Cruz was
+  {% asset 2020/drug-screaning-setup.jpg @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>Automated screening of anti-<em>Wolbachia</em> drugs at UC Santa Cruz was
 performed using the high-throughput facility shown here, implemented
 with the help of professor of chemistry Scott Lokey. Credit: Roger
 Linington, with permission.</figcaption>
