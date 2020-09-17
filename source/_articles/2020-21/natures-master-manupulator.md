@@ -64,16 +64,7 @@ end-around and keeps on coming.
 
 ## The great pandemic ##
 
-<figure class="left" style="width:300px;">
-  {% asset 2020/fruit-fly.jpg @magick:resize=300 alt:'Graph: arrests per 10,000 vs age at time of arrest' %}<figcaption>A common fruit fly, <em>Drosophila melanogaster</em>, seen here feeding on a
-banana, frequently shows up as an unwanted guest in kitchens, gardens,
-orchards, and vineyards worldwide. It also continues to serve as a
-widely-used model organism for biological research, including
-<em>Wolbachia</em> studies in the laboratory of UCSC distinguished professor of molecular, cell, and developmental biology Bill Sullivan. Credit:
-<a href="https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg">Sanjay Acharya, Wikimedia
-Commons</a>
-(CC BY-SA 4.0).</figcaption>
-</figure>That maneuver, discovered by Sullivan and colleagues, is just one of
+That maneuver, discovered by Sullivan and colleagues, is just one of
 many exploits that have made *Wolbachia* one of the most successful
 parasites on Earth. It's believed to infect roughly half the world's
 several million insect species. Stick a butterfly or beetle, wasp or
@@ -84,6 +75,17 @@ in other invertebrates, too, including mites, ticks, spiders, and some
 nematode worms. Its sheer ubiquity has led some scientists to dub the
 contagion ["one of the great pandemics in the history of
 Life."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3775348/)
+
+<figure class="left" style="width:300px;">
+  {% asset 2020/fruit-fly.jpg @magick:resize=300 alt:'Graph: arrests per 10,000 vs age at time of arrest' %}<figcaption>A common fruit fly, <em>Drosophila melanogaster</em>, seen here feeding on a
+banana, frequently shows up as an unwanted guest in kitchens, gardens,
+orchards, and vineyards worldwide. It also continues to serve as a
+widely-used model organism for biological research, including
+<em>Wolbachia</em> studies in the laboratory of UCSC distinguished professor of molecular, cell, and developmental biology Bill Sullivan. Credit:
+<a href="https://commons.wikimedia.org/wiki/File:Drosophila_melanogaster_Proboscis.jpg">Sanjay Acharya, Wikimedia
+Commons</a>
+(CC BY-SA 4.0).</figcaption>
+</figure>
 
 *Wolbachia* doesn't directly infect humans, but it has a way of getting
 into the heads of biologists captivated by its machinations, its global
@@ -114,7 +116,7 @@ since the late 1990s. "But at the big international meetings, people
 still look to Bill when it comes to the cell biology of *Wolbachia*."
 
 ## Microscopic moviemaking ##
-{% include_relative sidebars/learning-by-breaking.html classes="right" bgcolor="#f1f1f1" %}
+
 In retrospect it was a natural fit. Sullivan was schooled in the
 genetics of *Drosophila melanogaster*, the classic laboratory fruit fly
 (online he's been known to use the screen name "Count Drosophila"). And
@@ -256,7 +258,7 @@ blood-feeding insects. Once in humans, the threadlike adult worms pump
 out larvae that circulate through the body and can get stuck in tissues,
 causing grievous damage: permanent vision loss in river blindness and
 horrific swelling of the limbs and genitals in elephantiasis.
-
+{% include_relative sidebars/learning-by-breaking.html classes="right" bgcolor="#f1f1f1" %}
 Now researchers were reporting that *Wolbachia* living in the worms was
 at least partly to blame. The bacteria, leaking from the nematodes,
 seemed to trigger a hyper-immune reaction and severe inflammation
