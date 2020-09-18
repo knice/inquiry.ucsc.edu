@@ -235,18 +235,18 @@ based on their research and traveled to key shooting locations such as
 Scotland, where Douglass had exiled himself from 1845--1847 until
 supporters raised \$711.66 to buy his freedom.
 <figure class="" style="width:600px;">
-  {% asset 2020/rapture.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>A sense of place resonates throughout *Lessons of the Hour* with vivid
+  {% asset 2020/rapture.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>A sense of place resonates throughout <em>Lessons of the Hour</em> with vivid
 imagery and sounds. Pictured here is part of a re-enactment of Douglass
 during his self-imposed exile overseas as a fugitive slave,
-[[reflecting]{.underline}](https://glc.yale.edu/letter-william-lloyd-garrison-january-1-1846)
+<a href="https://glc.yale.edu/letter-william-lloyd-garrison-january-1-1846">[reflecting]{.underline}</a>
 on the beauty of America in contrast to the ugliness of its
-slaveholding. *Rapture 1846,* 2019, photograph on matte structured paper
+slaveholding. <em>Rapture 1846,</em> 2019, photograph on matte structured paper
 mounted on aluminum, 150 × 210 cm. Credit: Courtesy of the artist
-([[Isaac Julien]{.underline}](https://www.isaacjulien.com/)); [[Jessica
-Silverman Gallery]{.underline}](https://jessicasilvermangallery.com/),
-San Francisco; [[Metro Pictures
-Gallery]{.underline}](https://www.metropictures.com/), New York; and
-[[Victoria Miro Gallery]{.underline}](https://www.victoria-miro.com/),
+(<a href="https://www.isaacjulien.com/">[Isaac Julien]{.underline}</a>); <a href="https://jessicasilvermangallery.com/">[Jessica
+Silverman Gallery]{.underline}</a>,
+San Francisco; <a href="https://www.metropictures.com/">[Metro Pictures
+Gallery]{.underline}</a>, New York; and
+<a href="https://www.victoria-miro.com/">[Victoria Miro Gallery]{.underline}</a>,
 London/Venice.</figcaption>
 </figure>
 Julien's work reminds his audiences that issues and struggles of the
@@ -276,8 +276,8 @@ issues in the 21st century," Julien said.
   {% asset 2020/douglass-home.jpg @magick:resize=600 alt:'Fredrick Douglass home' %}<figcaption>Photographs filled the house in Washington, DC, where Frederick Douglass
 spent his final years. Intrigued by the emerging technology and called
 the most photographed American of the 19^th^ century, Douglass talked
-about his fascination with photography in his "[[Lecture on
-Pictures]{.underline}](https://www.loc.gov/resource/mfd.22004/?sp=1)."
+about his fascination with photography in his &quot;<a href="https://www.loc.gov/resource/mfd.22004/?sp=1">[Lecture on
+Pictures]{.underline}</a>.&quot;
 During his research into Douglass, Julien discovered their mutual
 interest in picture-making and its power to influence human relations.
 Credit: K. M. Watson.</figcaption>

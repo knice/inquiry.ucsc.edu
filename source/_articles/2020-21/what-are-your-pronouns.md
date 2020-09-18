@@ -44,16 +44,6 @@ in-the-news:
 ---
 {% include_relative sidebars/pronouns-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 
-<figure class="left" style="width:300px;">
-  {% asset 2020/restroom-sign.jpg @magick:resize=300 alt:'All gener restroom sign' %}<figcaption>According to Hammack, the gender binary of "male" and "female" is a
-thing of the past, as documented by this sign outside an all-gender
-restroom at the San Diego airport in California. Hammack studies the
-increasing fluidity and diversity of gender identities among U.S. youth.
-Credit: [Wikimedia
-Commons](https://commons.wikimedia.org/wiki/File:All_gender_restroom_sign_San_Diego_airport.jpg)
-(CC BY-SA 3.0).</figcaption>
-</figure>
-
 As choices for gender and sexual identities expand, the world slowly
 changes
 
@@ -81,7 +71,15 @@ directs the Sexual and Gender Diversity Lab, has devoted his career to
 understanding the diversity of sexual and gender identities. His more
 recent research explores what nonbinary thinking and the proliferation
 of identities mean for intimate relationships.
-
+<figure class="left" style="width:300px;">
+  {% asset 2020/restroom-sign.jpg @magick:resize=300 alt:'All gener restroom sign' %}<figcaption>According to Hammack, the gender binary of &quot;male&quot; and &quot;female&quot; is a
+thing of the past, as documented by this sign outside an all-gender
+restroom at the San Diego airport in California. Hammack studies the
+increasing fluidity and diversity of gender identities among U.S. youth.
+Credit: <a href="https://commons.wikimedia.org/wiki/File:All_gender_restroom_sign_San_Diego_airport.jpg">Wikimedia
+Commons</a>
+(CC BY-SA 3.0).</figcaption>
+</figure>
 Despite major victories like marriage equality, Hammack and his
 collaborators have discovered that bias and discrimination remain a
 problem for lesbian, gay, and bisexual (LGB) individuals, with many
@@ -122,8 +120,8 @@ Washington, DC, during deliberations on the Obergefell vs. Hodges case
 for same-sex marriage on April 28, 2015. Two months later, the Supreme
 Court ruled to end marriage discrimination. According to a five-year
 study conducted by Hammack and colleagues, marriage equality in the U.S.
-hasn't eliminated discrimination against LGB community members. Credit:
-[Ted Eytan](https://www.flickr.com/photos/taedc/17113823229) (CC BY-SA
+hasn&#39;t eliminated discrimination against LGB community members. Credit:
+<a href="https://www.flickr.com/photos/taedc/17113823229">Ted Eytan</a> (CC BY-SA
 2.0).</figcaption>
 </figure>
 But then came the internet, and eventually social media. The latter was
