@@ -99,10 +99,10 @@ was extensively mined throughout California during the Gold Rush era to
 provide quicksilver (right), liquid elemental mercury (Hg^0^) that
 played a key role in placer mining for gold. Gold mining and coal energy
 production have contributed to a substantial amount of this toxic
-element contaminating the environment. Credit: cinnabar, [H.
-Zell](https://commons.wikimedia.org/wiki/File:Cinnabarit_01.jpg) (CC
+element contaminating the environment. Credit: cinnabar, <a href="https://commons.wikimedia.org/wiki/File:Cinnabarit_01.jpg">H.
+Zell</a> (CC
 BY-SA 3.0); quicksilver,
-[Bionerd](https://en.wikipedia.org/wiki/File:Pouring_liquid_mercury_bionerd.jpg)
+<a href="https://en.wikipedia.org/wiki/File:Pouring_liquid_mercury_bionerd.jpg">Bionerd</a>
 (CC BY 3.0).</figcaption>
 </figure>
 
@@ -141,10 +141,10 @@ coastal, and seafloor sediments, bacteria convert mercuric ions into
 form of mercury, but it sits there as a reservoir that bleeds out into
 the rest of your tissues."
 <figure class="left" style="width:300px;">
-  {% asset 2020/sushi.jpg @magick:resize=300 alt:'Sushi' %}<figcaption>Looks good, but perhaps you shouldn't eat it too often; some types of
+  {% asset 2020/sushi.jpg @magick:resize=300 alt:'Sushi' %}<figcaption>Looks good, but perhaps you shouldn&#39;t eat it too often; some types of
 tuna contain potentially concerning levels of mercury that end up in
-you. Credit: [public
-domain](https://www.goodfreephotos.com/food/tuna-fish-sushi-on-a-plate.jpg.php)
+you. Credit: <a href="https://www.goodfreephotos.com/food/tuna-fish-sushi-on-a-plate.jpg.php">public
+domain</a>
 (CC0).</figcaption>
 </figure>
 That methylmercury comes mostly from eating fish, especially top
@@ -276,9 +276,9 @@ its characteristic red color). "It should make us all nervous," said
 Lamborg. "If we messed with that system in some way, that could make
 that mercury suddenly bioavailable to methylating bacteria."
 <figure class="" style="width:600px;">
-  {% asset 2020/geotraces.jpg @magick:resize=600 alt:'Cinnabar and quicksilver' %}<figcaption>Scientists on a [GEOTRACES](https://www.geotraces.org/) cruise
-retrieve ocean water samples from an instrument called the [CTD
-Rosette](https://en.wikipedia.org/wiki/CTD_(instrument)). GEOTRACES
+  {% asset 2020/geotraces.jpg @magick:resize=600 alt:'Cinnabar and quicksilver' %}<figcaption>Scientists on a <a href="https://www.geotraces.org/">GEOTRACES</a> cruise
+retrieve ocean water samples from an instrument called the <a href="https://en.wikipedia.org/wiki/CTD_(instrument">CTD
+Rosette</a>). GEOTRACES
 expeditions have allowed researchers, including associate professor of
 ocean sciences and mercury biogeochemistry expert Carl Lamborg, to
 measure the concentration of mercury and other trace metals at various
