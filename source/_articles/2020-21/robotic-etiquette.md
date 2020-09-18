@@ -155,13 +155,13 @@ received no warning. "The participants in the low-expectation setting
 recovered more quickly from the errors, regaining trust in the robot and
 improving their perceptions of its reliability," Riek said.
 <figure class="" style="width:600px;">
-  {% asset 2020/robot.jpg @magick:resize=600 alt:'PR2 Robot' %}<figcaption>Humans commonly misread a robot's intentions, as was the case when
+  {% asset 2020/robot.jpg @magick:resize=600 alt:'PR2 Robot' %}<figcaption>Humans commonly misread a robot&#39;s intentions, as was the case when
 Takayama first encountered a PR2 robot, like the one shown here, and it
 surprised her by appearing to run away. No longer in business, Willow
-Garage, the robot\'s Palo Alto--based maker, spent years investing in
-robotics research that produced the PR2's sophisticated visual and
-tactile sensors and open-source software. Credit: [Oleg
-Alexandrov](https://commons.wikimedia.org/wiki/File:PR2_robot_with_advanced_grasping_hands.JPG)
+Garage, the robot\&#39;s Palo Alto--based maker, spent years investing in
+robotics research that produced the PR2&#39;s sophisticated visual and
+tactile sensors and open-source software. Credit: <a href="https://commons.wikimedia.org/wiki/File:PR2_robot_with_advanced_grasping_hands.JPG">Oleg
+Alexandrov</a>
 (CC BY-SA 3.0).</figcaption>
 </figure>
 The implication is that people's unrealistic expectations can hamper
