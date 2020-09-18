@@ -44,16 +44,16 @@ tempering its effects.
 
 In the face of this denial, city mayors and other local politicians
 across the globe are taking matters into their own hands. More than half
-the world's population reside in urban centers, with [[one in eight
+the world's population reside in urban centers, with [one in eight
 people living in megacities of more than 10 million
-inhabitants]{.underline}](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html).
+inhabitants](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html).
 As elected representatives of this vast congregation, city leaders have
 banded together, amassing their collective clout and power to confront
 the climate crisis.
 
 This local-goes-global movement is the focus of research for UC Santa
-Cruz assistant professor of politics [**[David
-Gordon]{.underline}**](https://politics.ucsc.edu/news-events/profiles/david-gordon-featured-profile.html),
+Cruz assistant professor of politics [**David
+Gordon**](https://politics.ucsc.edu/news-events/profiles/david-gordon-featured-profile.html),
 one of a growing number of political scientists studying how cities
 wield their influence. Gordon wants to know how cities as dramatically
 different as Ghana's Accra, Vietnam's Hanoi, and Canada's Montreal can
@@ -62,13 +62,13 @@ power over one another and no ability to impose penalties or coerce one
 another," he said. "How do they agree on anything and coordinate their
 actions to achieve something collectively?"
 
-To answer this question, Gordon examines organizations like the [[C40
+To answer this question, Gordon examines organizations like the [C40
 Cities Climate Leadership
-Group]{.underline}](https://www.c40.org/about), a network of cities from
+Group](https://www.c40.org/about), a network of cities from
 six continents. C40 member cities have pledged to curb emissions, work
-towards a carbon-neutral future, and, in accordance with the [[2015
+towards a carbon-neutral future, and, in accordance with the [2015
 United Nations Paris
-Agreement]{.underline}](https://unfccc.int/process-and-meetings/the-paris-agreement/what-is-the-paris-agreement),
+Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/what-is-the-paris-agreement),
 limit global warming to no more than 1.5° C by 2050. The group shares
 strategies and blueprints for implementing climate projects and policies
 and leverages their collective voice in the hopes of influencing
@@ -83,24 +83,24 @@ future of increasing drought, extreme heat, and vector-borne diseases
 driven by climate change. It also includes
 [Melbourne](https://staging.c40.org/cities/melbourne), which, already
 working to troubleshoot sea-level rise, recently saw itself surrounded
-by flames as [[record breaking
-fires]{.underline}](https://www.nytimes.com/2020/03/04/climate/australia-wildfires-climate-change.html)
+by flames as [record breaking
+fires](https://www.nytimes.com/2020/03/04/climate/australia-wildfires-climate-change.html)
 raged across Australia. Both cities joined C40, in spite of federal
 leadership that denies man-made climate change. Miami, where residents
 now regularly trudge through downtown flooding and the number of
-dangerously hot days is expected to [[quadruple by
-2050]{.underline}](https://www.wlrn.org/post/its-going-feel-100-degrees-florida-lot-more-often-study-finds#stream/0),
+dangerously hot days is expected to [quadruple by
+2050](https://www.wlrn.org/post/its-going-feel-100-degrees-florida-lot-more-often-study-finds#stream/0),
 stepped around their own conservative state and federal governments to
 become one of the most recent C40 members in January 2020.
 
 Other city networks are similarly focused on climate change. For
-example, [[the Global Covenant of Mayors for Climate &
-Energy]{.underline}](https://www.globalcovenantofmayors.org/), formed
-[[when two pre-existing city initiatives merged in
-2016]{.underline}](https://www.uclg.org/en/media/news/compact-mayors-covenant-mayors-formally-merge),
+example, [the Global Covenant of Mayors for Climate &
+Energy](https://www.globalcovenantofmayors.org/), formed
+[when two pre-existing city initiatives merged in
+2016](https://www.uclg.org/en/media/news/compact-mayors-covenant-mayors-formally-merge),
 links more than 10,000 cities whose leaders are taking steps to prepare
-for the eventual impacts of climate change. And the [[Carbon Disclosure
-Project]{.underline}](https://www.cdp.net/en), headquartered in London,
+for the eventual impacts of climate change. And the [Carbon Disclosure
+Project](https://www.cdp.net/en), headquartered in London,
 tracks carbon emissions from more than 700 cities.
 
 Such groups are attractive not just for cities already dealing with real
@@ -114,8 +114,8 @@ public transportation, Gordon said.
 
 Displaying the beneficial outcomes of adopting such "green" models can
 also be a way for cities and their leaders to establish international
-standing. But it's a delicate balance, said [[Sara
-Hughes]{.underline}](https://saramhughes.com/), assistant professor of
+standing. But it's a delicate balance, said [Sara
+Hughes](https://saramhughes.com/), assistant professor of
 environment and sustainability at the University of Michigan in Ann
 Arbor. Too much focus on international issues can exacerbate resentment
 of officials who neglect problems within their cities. For example,
@@ -128,8 +128,8 @@ some of this work is still an open question."
 
 In fact, overstepping local issues for global ones can backfire
 drastically, as illustrated by the fall of Toronto's one-time mayor,
-[[David
-Miller]{.underline}](https://www.weforum.org/people/david-miller). Now
+[David
+Miller](https://www.weforum.org/people/david-miller). Now
 the North American director for the C40 Group, Miller was slammed for
 spending too much of his time as mayor on building connections outside
 of Toronto instead of dealing with problems plaguing the city's working
@@ -147,8 +147,8 @@ Futures</a>
 (CC BY-NC-SA 2.0).</figcaption>
 </figure>
 A similar tipping point was reached last October in Santiago, Chile,
-another C40 city, as it prepared to host the [[U.N.'s 25th international
-Climate Change Conference]{.underline}](https://unfccc.int/cop25). While
+another C40 city, as it prepared to host the [U.N.'s 25th international
+Climate Change Conference](https://unfccc.int/cop25). While
 researchers and environmentalists geared up for the chance to position
 Santiago as a climate leader on the global stage, long-simmering anger
 about inequality exploded into weeks of rioting, paralyzing the city and
@@ -184,14 +184,14 @@ Soon after, Miami city leaders side-stepped its climate-denying state
 and national governments to become one of the newest members of the C40
 Group coalition of cities from around the world working to fight climate
 change. Credit: <a href="https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg">[Wikimedia
-Commons]{.underline}</a>
+Commons</a>
 (CC BY-SA 4.0).</figcaption>
 </figure>
 Because this field of research is relatively new, when it comes to what
 brings success, there are many more questions than answers, said Gordon,
 whose new book (April 2020), [*[Cities on the World Stage: The Politics
 of Global Urban Climate
-Governance]{.underline}*](https://www.cambridge.org/core/books/cities-on-the-world-stage/6CBDF737BC07DD72592728134CF211FA),
+Governance*](https://www.cambridge.org/core/books/cities-on-the-world-stage/6CBDF737BC07DD72592728134CF211FA),
 explores these questions. Many cities have made bold climate
 commitments, but will they actually be able to deliver? What happens if
 their positions conflict with those of their state or national
@@ -203,7 +203,7 @@ climate change?
 
 "We really need to better understand what makes city climate action
 succeed, and David\'s work in that regard is very important," said
-[[Sander Chan]{.underline}](http://sanderchan.nl/), a political science
+[Sander Chan](http://sanderchan.nl/), a political science
 researcher studying global climate action at the German Development
 Institute in Bonn, Germany. "What cities do, and their action or
 inaction is vital."

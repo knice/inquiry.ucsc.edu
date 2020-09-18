@@ -50,8 +50,8 @@ established his place in history by chronicling his life as a series of
 revealing events: enslaved childhood, self-education, escape, and an
 unending fight for justice and equality. Douglass's remarkable life
 provides a powerful canvas for the multifaceted, archive-based art of UC
-Santa Cruz distinguished professor of the arts [**[Isaac
-Julien]{.underline}**](https://danm.ucsc.edu/people/isaac-julien). Using
+Santa Cruz distinguished professor of the arts [**Isaac
+Julien**](https://danm.ucsc.edu/people/isaac-julien). Using
 innovative new and emerging media techniques and technologies that bring
 his historical subjects to life, Julien aims for others to see
 them---now including the lifelong activist Douglass---as he does,
@@ -60,9 +60,9 @@ through a lens of 21st-century sensibility and perspective.
 "I'm very interested in how we can look at these past figures and
 contemporize them for a whole new audience," said the moving-image
 artist, known globally for his path-breaking work in films and video
-installation. To do this in the recently exhibited *[[Lessons of the
+installation. To do this in the recently exhibited *[Lessons of the
 Hour---Frederick
-Douglas](https://www.isaacjulien.com/projects/37/)s]{.underline}*,
+Douglas](https://www.isaacjulien.com/projects/37/)s*,
 Julien included disparate elements, sometimes all simultaneously:
 visualizations of the famous abolitionist in some of his most poignant
 moments, broadcasts of his oratory that resonate with today's issues,
@@ -74,18 +74,18 @@ present, as a way of commenting on the moment that we inhabit."
 <figure class="" style="width:600px;">
   {% asset 2020/on-train.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>While making <em>Lessons of the Hour</em>, Julien worked with experts in the
 history of photography at the <a href="https://www.eastman.org/">[Eastman
-Museum]{.underline}</a> to research and recreate
+Museum</a> to research and recreate
 authentic imagery. Actors portraying Douglass and Anna Murray-Douglass
 (who encouraged Douglass to escape from slavery and later married him)
 were filmed in a set built to show traveling by railroad, a symbol for
 both the Underground Railroad and Douglass&#39;s extensive travels. Pictured
 here: <em>The North Star,</em> 2019, framed photograph on gloss inkjet paper
 mounted on aluminum, 160 × 213.29 cm. Credit: Courtesy of the artist
-(<a href="https://www.isaacjulien.com/">[Isaac Julien]{.underline}</a>); <a href="https://jessicasilvermangallery.com/">[Jessica
-Silverman Gallery]{.underline}</a>,
+(<a href="https://www.isaacjulien.com/">[Isaac Julien</a>); <a href="https://jessicasilvermangallery.com/">[Jessica
+Silverman Gallery</a>,
 San Francisco; <a href="https://www.metropictures.com/">[Metro Pictures
-Gallery]{.underline}</a>, New York; and
-<a href="https://www.victoria-miro.com/">[Victoria Miro Gallery]{.underline}</a>,
+Gallery</a>, New York; and
+<a href="https://www.victoria-miro.com/">[Victoria Miro Gallery</a>,
 London/Venice.
 </figcaption>
 </figure>
@@ -93,37 +93,37 @@ The result is a compelling mesh of past and present that provokes the
 audience to consider possible connections between the two. This type of
 engagement is one of the hallmarks of Julien's work, which spans decades
 and covers widely varying social and cultural subjects, including the
-Harlem Renaissance poet [[Langston
-Hughes]{.underline}](https://www.poetryfoundation.org/poets/langston-hughes)
+Harlem Renaissance poet [Langston
+Hughes](https://www.poetryfoundation.org/poets/langston-hughes)
 in the film [*[Looking for
-Langston]{.underline}*](https://www.isaacjulien.com/projects/looking-for-langston/)
+Langston*](https://www.isaacjulien.com/projects/looking-for-langston/)
 (1989) and the crisis of migration into Europe in his work [*[Western
 Union Small
-Boats]{.underline}*](https://www.isaacjulien.com/projects/western-union-small-boats/)
+Boats*](https://www.isaacjulien.com/projects/western-union-small-boats/)
 (2007). "Isaac has a way of synthesizing our understanding of the past
 that brings its relevance into the present and helps us to understand
-how we all connect in the context of history," said [[Jonathan
-Binstock]{.underline}](http://mag.rochester.edu/about/directors-letter/),
-director of the University of Rochester's [[Memorial Art
-Gallery]{.underline}](https://mag.rochester.edu/), during a [[public
-talk]{.underline}](https://www.youtube.com/watch?v=DJDRSmaQ5eU) about
+how we all connect in the context of history," said [Jonathan
+Binstock](http://mag.rochester.edu/about/directors-letter/),
+director of the University of Rochester's [Memorial Art
+Gallery](https://mag.rochester.edu/), during a [public
+talk](https://www.youtube.com/watch?v=DJDRSmaQ5eU) about
 <figure class="left" style="width:300px;">
   {% asset 2020/julien-in-gallery.jpg @magick:resize=300 alt:'Walbachia in nematode oocyte' %}<figcaption>Julien describes creating his art as involvement in poetry. &quot;My work is
 very much a poetic quest for a language to express experiences which are
 part of the everyday experience of people like myself,&quot; he once told the
-<a href="https://www.youtube.com/watch?v=hcQxjc0mcK0">[Tate]{.underline}</a>.
+<a href="https://www.youtube.com/watch?v=hcQxjc0mcK0">[Tate</a>.
 &quot;Dance, theater, music, sculpture, painting---all of these different
 modes of art-making are encapsulated into my practice, which is why I
 chose film as a medium for making my work.&quot; Credit: <a href="http://mag.rochester.edu/about/directors-letter/">[Jonathan
-Binstock]{.underline}</a>,
+Binstock</a>,
 courtesy of <a href="https://mag.rochester.edu/">[Memorial Art
-Gallery]{.underline}</a>, University of
+Gallery</a>, University of
 Rochester.
 </figcaption>
 </figure>
 
-*Lessons of the Hour* project curator [[John
-Hanhardt]{.underline}](https://en.wikipedia.org/wiki/John_Hanhardt)
+*Lessons of the Hour* project curator [John
+Hanhardt](https://en.wikipedia.org/wiki/John_Hanhardt)
 described Julien's work as a type of "philosophical cinema" that brings
 ideas, issues of representation and understanding, and knowledge as a
 kind of fluid movement between memory and direct experience. "This is
@@ -145,7 +145,7 @@ understanding of Douglass and his time. Julien found "there was this
 inner Douglass world that was fascinating." He also uncovered a
 "symbiotic relationship" with Douglass while reading the activist's
 "[*[Lecture on
-Pictures]{.underline}*](https://www.loc.gov/resource/mfd.22004/?sp=1)."
+Pictures*](https://www.loc.gov/resource/mfd.22004/?sp=1)."
 Called the most photographed American of the 19th century, Douglass,
 like Julien, was fascinated by photography and its power to influence
 others.
@@ -154,16 +154,16 @@ others.
 the Douglass exhibition.
 {% include_relative sidebars/words-to-fuel-action.html classes="right" bgcolor="#f1f1f1" %}
 The process that Julien uses for his work is the basis for a new lab he
-and longtime collaborator and partner [**[Mark
-Nash]{.underline}**](https://danm.ucsc.edu/people/mark-nash), professor
-of film and digital media, have established on campus. The [[Isaac
+and longtime collaborator and partner [**Mark
+Nash**](https://danm.ucsc.edu/people/mark-nash), professor
+of film and digital media, have established on campus. The [Isaac
 Julien
-Lab]{.underline}](https://danm.ucsc.edu/project_group/isaac-julien-lab)
-(IJ Lab), modeled in part after Julien's [[London
-studio]{.underline}](https://www.isaacjulien.com/), prizes the use of
+Lab](https://danm.ucsc.edu/project_group/isaac-julien-lab)
+(IJ Lab), modeled in part after Julien's [London
+studio](https://www.isaacjulien.com/), prizes the use of
 archival material as an intrinsic part of the creative method. It also
-intentionally addresses the university's three [[academic
-priorities]{.underline}](https://sap.ucsc.edu/apa/): Justice in a
+intentionally addresses the university's three [academic
+priorities](https://sap.ucsc.edu/apa/): Justice in a
 Changing World, Digital Interventions, and Earth Futures. Its first crop
 of students in a Master of Fine Arts program, to begin in fall of 2020,
 will be asked to propose a project that involves one or more of these
@@ -175,10 +175,10 @@ Divisions, UCSC makes sense as a place for a new media lab that prides
 itself on developing ideas and artistic innovations that will "shake the
 dust off" traditional ways of creating and viewing art, said Julien. In
 addition, its proximity to the San Francisco Bay Area's technological
-innovations and world-class art collections, such as the [[Kramlich
-Collection]{.underline}](https://www.kramlichcollection.org/) of media
-art and the [[Joyner/Giuffrida
-Collection]{.underline}](https://www.nytimes.com/2016/10/17/arts/design/righting-wrongs-and-generating-attention-for-art-of-the-african-diaspora.html)
+innovations and world-class art collections, such as the [Kramlich
+Collection](https://www.kramlichcollection.org/) of media
+art and the [Joyner/Giuffrida
+Collection](https://www.nytimes.com/2016/10/17/arts/design/righting-wrongs-and-generating-attention-for-art-of-the-african-diaspora.html)
 of abstract art, provides vital pools of creativity. This wealth of
 resources, Julien said, can stimulate younger people who want to become
 artists, as well as those interested in the business aspects of art,
@@ -188,8 +188,8 @@ navigate the art world as it's constituted today."
 In a good example of the practical experience students can expect to
 gain, those enrolled in one of Julien's spring classes were slated,
 before the Covid-19 shutdown, to help launch a new installation of
-*Lessons of the Hour* at the [[McEvoy Foundation for the
-Arts]{.underline}](https://www.mcevoyarts.org/) in San Francisco (see
+*Lessons of the Hour* at the [McEvoy Foundation for the
+Arts](https://www.mcevoyarts.org/) in San Francisco (see
 [www.mcevoy.arts](http://www.mcevoy.arts)). The collaboration was
 intended to expose students to various aspects of producing an
 exhibition, such as helping to organize and set up the gallery space,
@@ -199,8 +199,8 @@ engagement with the Douglass project in 2019, said Nash, when
 "production of the single-screen version of the work introduced some
 students to a specialized editing and sound process, and gave them
 access to Julien's expert collaborators." That version of *Lessons of
-the Hour* was exhibited at [[Art
-Basel]{.underline}](https://www.artbasel.com/miami-beach) in Miami Beach
+the Hour* was exhibited at [Art
+Basel](https://www.artbasel.com/miami-beach) in Miami Beach
 in December 2019.
 
 ## Past is present ##
@@ -209,25 +209,25 @@ Combining gallery pieces and film on multiple screens, the original
 Douglass exhibition provides a vivid illustration of the complex work
 that goes into creating these media projects. Julien and his team not
 only researched Douglass and influential people in his life using
-archival materials, they consulted with Douglass scholar [[Celeste-Marie
-Bernier]{.underline}](https://www.ed.ac.uk/profile/celeste-marie-bernier),
+archival materials, they consulted with Douglass scholar [Celeste-Marie
+Bernier](https://www.ed.ac.uk/profile/celeste-marie-bernier),
 and investigated historical photographic processes, and settings and
 sounds of the past. To learn more about how photographs were made at the
-time, for instance, they turned to experts at the [[George Eastman
-Museum]{.underline}](https://www.eastman.org/), located on the
+time, for instance, they turned to experts at the [George Eastman
+Museum](https://www.eastman.org/), located on the
 photography and motion picture film pioneer's Rochester estate. Tintype
 specialists guided them in the creation of authentic photographs similar
-to those of the Douglass era. Royal Shakespeare Company actor [[Ray
-Fearon]{.underline}](https://bbashakespeare.warwick.ac.uk/people/ray-fearon),
+to those of the Douglass era. Royal Shakespeare Company actor [Ray
+Fearon](https://bbashakespeare.warwick.ac.uk/people/ray-fearon),
 who portrayed Douglass, took lessons so he would speak with the correct
 accent as he gave life to sections of Douglass's autobiography and
 excerpts from three of his hundreds of lectures delivered across the
-country and in the United Kingdom: "[[Lessons of the
-Hour]{.underline}](https://www.loc.gov/item/mfd.26001/)," "[[What to the
+country and in the United Kingdom: "[Lessons of the
+Hour](https://www.loc.gov/item/mfd.26001/)," "[What to the
 Slave Is the 4th of
-July?]{.underline}](https://www.thenation.com/article/archive/what-slave-fourth-july-frederick-douglass/),"
-and "[[Lecture on
-Pictures]{.underline}](https://www.loc.gov/item/mfd.22004/)." A
+July?](https://www.thenation.com/article/archive/what-slave-fourth-july-frederick-douglass/),"
+and "[Lecture on
+Pictures](https://www.loc.gov/item/mfd.22004/)." A
 combination of environmental sounds, such as the sharp lashing of a
 whip, and original scoring inspired by music of the time fill the space
 around Douglass's words. For backdrops, Julien and his team created sets
@@ -238,28 +238,28 @@ supporters raised \$711.66 to buy his freedom.
   {% asset 2020/rapture.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>A sense of place resonates throughout <em>Lessons of the Hour</em> with vivid
 imagery and sounds. Pictured here is part of a re-enactment of Douglass
 during his self-imposed exile overseas as a fugitive slave,
-<a href="https://glc.yale.edu/letter-william-lloyd-garrison-january-1-1846">[reflecting]{.underline}</a>
+<a href="https://glc.yale.edu/letter-william-lloyd-garrison-january-1-1846">[reflecting</a>
 on the beauty of America in contrast to the ugliness of its
 slaveholding. <em>Rapture 1846,</em> 2019, photograph on matte structured paper
 mounted on aluminum, 150 × 210 cm. Credit: Courtesy of the artist
-(<a href="https://www.isaacjulien.com/">[Isaac Julien]{.underline}</a>); <a href="https://jessicasilvermangallery.com/">[Jessica
-Silverman Gallery]{.underline}</a>,
+(<a href="https://www.isaacjulien.com/">[Isaac Julien</a>); <a href="https://jessicasilvermangallery.com/">[Jessica
+Silverman Gallery</a>,
 San Francisco; <a href="https://www.metropictures.com/">[Metro Pictures
-Gallery]{.underline}</a>, New York; and
-<a href="https://www.victoria-miro.com/">[Victoria Miro Gallery]{.underline}</a>,
+Gallery</a>, New York; and
+<a href="https://www.victoria-miro.com/">[Victoria Miro Gallery</a>,
 London/Venice.</figcaption>
 </figure>
 Julien's work reminds his audiences that issues and struggles of the
 past, such as the fight for equality and social justice, continue to
 play out. One example is when the actor Fearon, as Douglass, addresses
-an audience seated in a [[Royal Academy of
-Arts]{.underline}](https://www.royalacademy.org.uk/) lecture hall.
+an audience seated in a [Royal Academy of
+Arts](https://www.royalacademy.org.uk/) lecture hall.
 Members dressed in both contemporary and 19th-century clothing listen
 intently as Douglass delivers passages from "*What to the Slave Is the
 4th of July?*" At the same time on other screens around the room, aerial
 drone shots emerge of modern-day Baltimore, the site of the 2015 Freddie
-Gray protests and riots that fueled the [[Black Lives
-Matter]{.underline}](https://blacklivesmatter.com/) movement against
+Gray protests and riots that fueled the [Black Lives
+Matter](https://blacklivesmatter.com/) movement against
 violence and systemic racism.
 
 Striking the right tone and making Douglass come alive for today's
@@ -277,19 +277,19 @@ issues in the 21st century," Julien said.
 spent his final years. Intrigued by the emerging technology and called
 the most photographed American of the 19^th^ century, Douglass talked
 about his fascination with photography in his &quot;<a href="https://www.loc.gov/resource/mfd.22004/?sp=1">[Lecture on
-Pictures]{.underline}</a>.&quot;
+Pictures</a>.&quot;
 During his research into Douglass, Julien discovered their mutual
 interest in picture-making and its power to influence human relations.
 Credit: K. M. Watson.</figcaption>
 </figure>
 Douglass's great-great-great grandson Kenneth B. Morris, Jr., saw this
 connection as well when he cofounded the Atlanta-based nonprofit
-[[Frederick Douglass Family
-Initiatives]{.underline}](http://www.fdfi.org/). The organization's
+[Frederick Douglass Family
+Initiatives](http://www.fdfi.org/). The organization's
 efforts focus on modern-day slavery and the global problem of human
 trafficking. "When you look at slavery today there are many parallels to
-historic slavery," Morris [[has
-said]{.underline}](https://matteroffact.tv/descendants-frederick-douglass-still-fighting-slavery-today/).
+historic slavery," Morris [has
+said](https://matteroffact.tv/descendants-frederick-douglass-still-fighting-slavery-today/).
 "It's about profit. It's about exploiting the most vulnerable among us."
 Morris now leads the fight for freedom in the same way as his famous
 distant relative, through education. Julien said that meeting Morris and

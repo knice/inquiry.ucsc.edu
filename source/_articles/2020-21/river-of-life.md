@@ -54,7 +54,7 @@ in-the-news:
 the Mediterranean Sea. More than 95 percent of Egyptians live within a
 few miles of the river, which has made the surrounding land fertile and
 prosperous for thousands of years. Credit: <a href="https://water.usgs.gov/edu/gallery/watercyclekids/freshwater-nile.html">[Jeff Schmaltz, NASA Visible
-Earth]{.underline}</a>
+Earth</a>
 (public domain).</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ shows the oral and ventral suckers of the larger male (top). The
 enveloped female (smaller, below, in groove), continuously produces as
 many as 300 eggs each day, equivalent in total to its body weight.
 Credit: <a href="https://commons.wikimedia.org/wiki/File:Schistosome_Parasite_SEM.jpg">[Bruce Wetzel, National Cancer
-Institute]{.underline}</a>
+Institute</a>
 (public domain).</figcaption>
 </figure>
 The lives of the people along the Nile, too, swayed to this seasonal
@@ -92,8 +92,8 @@ different and more demanding beat. In the 1820s, increased interest in
 cash crops like cotton drove construction of deep irrigation canals to
 extend the growing season. Then came the first big dam. Built by British
 engineers and more than 10,000 laborers about 1,000 kilometers upstream
-from Cairo, the [[Khazan Aswan (or Aswan Low)
-Dam]{.underline}](https://muse.jhu.edu/chapter/370649) was completed in
+from Cairo, the [Khazan Aswan (or Aswan Low)
+Dam](https://muse.jhu.edu/chapter/370649) was completed in
 1902, four years after construction started in 1898. The resulting
 changes in the Nile shifted farming along the river from the ebb and
 flow of flood, winter, spring, and summer to a year-round calendar of
@@ -102,14 +102,14 @@ water turned the bodies of Egyptians, particularly the men who worked
 the land, into new colonies of constant, debilitating disease.
 {% include_relative sidebars/breaking-the-cycle.html classes="right" bgcolor="#f1f1f1" %}
 The research of UC Santa Cruz associate professor of history
-[**[Jennifer
-Derr]{.underline}**](https://history.ucsc.edu/faculty/profiles/index.php?uid=jderr)
+[**Jennifer
+Derr**](https://history.ucsc.edu/faculty/profiles/index.php?uid=jderr)
 focuses on this period of transformation, tying together colonial
 politics, the altered Nile, and the changing health of the people who
 had for centuries flourished on the river's flood plain. In her recently
 published (July 2019) book, [*[The Lived Nile: Environment, Disease, and
 Material Colonial Economy in
-Egypt]{.underline}*](https://www.sup.org/books/title/?id=29529), Derr
+Egypt*](https://www.sup.org/books/title/?id=29529), Derr
 writes about how changes in the Nile triggered new plagues that
 afflicted many Egyptians until the late 20th century. In her book and
 continuing research, Derr searches for connections between people and
@@ -137,16 +137,16 @@ something, I always want to know the backstory. History is central to
 how I understand politics and the dynamics of our contemporary world."
 
 One of the major backstories Derr explores in her book concerns
-[[schistosomiasis]{.underline}](https://www.who.int/news-room/fact-sheets/detail/schistosomiasis),
+[schistosomiasis](https://www.who.int/news-room/fact-sheets/detail/schistosomiasis),
 a disease caused by parasitic flatworms with a complex life cycle
 involving two hosts, humans and freshwater snails. Two species of the
 parasite, *Schistosoma haematobium* and *S. mansoni*, cause the disease
 in Egypt. More debilitating than deadly, schistosomiasis nonetheless
 remains a substantial problem in the developing world. Massive public
 health campaigns against schistosomiasis, also called bilharzia, have
-been undertaken in Egypt, including a [[recent \$10 million eradication
+been undertaken in Egypt, including a [recent \$10 million eradication
 effort supported by the World Health
-Organization]{.underline}](https://www.who.int/neglected_diseases/news/Egypt_leverages_domestic_funding_to_eliminate_schistosomiasis/en/).
+Organization](https://www.who.int/neglected_diseases/news/Egypt_leverages_domestic_funding_to_eliminate_schistosomiasis/en/).
 
 The changes in the Nile substantially exacerbated the impact of
 schistosomiasis. Studies in the Nile Delta and Valley in the 1930s found
@@ -167,15 +167,15 @@ history of the Nile River, its changing political, economic, and
 environmental landscapes, and the lives of the people who worked in and
 around its waters. "Jennifer\'s work sheds light on the historical
 intersections of disease, water management, and social policy in modern
-Egypt," said assistant professor of history [**[Alma
-Heckman]{.underline}**](https://history.ucsc.edu/faculty/profiles/index.php?uid=aheckman),
+Egypt," said assistant professor of history [**Alma
+Heckman**](https://history.ucsc.edu/faculty/profiles/index.php?uid=aheckman),
 who studies modern Jewish history in North Africa and the Middle East.
 
-In records found in the [[Egyptian National Library and
-Archives]{.underline}](https://en.wikipedia.org/wiki/Egyptian_National_Library_and_Archives)
+In records found in the [Egyptian National Library and
+Archives](https://en.wikipedia.org/wiki/Egyptian_National_Library_and_Archives)
 in Cairo, state archives in the United Kingdom and France, and a variety
-of smaller collections including those of the [[Institution of Civil
-Engineers]{.underline}](https://www.ice.org.uk/) in London and the
+of smaller collections including those of the [Institution of Civil
+Engineers](https://www.ice.org.uk/) in London and the
 [Rockefeller Foundation](https://www.rockefellerfoundation.org/), Derr
 traced the changing Nile, starting in the early 1800s, when Egyptian
 viceroy Mehmed Ali began to corral more water to grow cotton to sell on
@@ -196,14 +196,14 @@ and, ultimately for many, bladder cancer, those most severely afflicted
 might develop debilitating large growths in sensitive areas of their
 bodies. The constant irrigation promoted other diseases as well,
 including
-[[hookworm]{.underline}](https://www.cdc.gov/parasites/hookworm/index.html),
+[hookworm](https://www.cdc.gov/parasites/hookworm/index.html),
 associated with moist soil, and
-[[pellagra]{.underline}](https://www.sciencedirect.com/topics/medicine-and-dentistry/pellagra),
+[pellagra](https://www.sciencedirect.com/topics/medicine-and-dentistry/pellagra),
 a nutritional deficiency linked to changing food staples. By connecting
 the altered Nile to the emergence of disease, Derr's work shows "just
 how deeply and viscerally humans are connected to their environment,"
-said [[Alan
-Mikhail]{.underline}](https://history.yale.edu/people/alan-mikhail),
+said [Alan
+Mikhail](https://history.yale.edu/people/alan-mikhail),
 professor and chair of the Department of History at Yale University.
 "What is in the water of the Nile courses through the human body," said
 Mikhail, an expert on Egypt during the time of the Ottoman Empire.
@@ -215,8 +215,8 @@ pathogens can flow to cause disease. But these channels were yet to be
 discovered at the time the Nile began taking its modern shape. "People
 didn't understand disease through the model of infection and contagion,"
 Derr said. In Egypt and elsewhere, people believed disease resulted from
-"[[imbalances in
-humors]{.underline}](https://en.wikipedia.org/wiki/Humorism)" within the
+"[imbalances in
+humors](https://en.wikipedia.org/wiki/Humorism)" within the
 body wrought, in part, by outside influences, such as the season or the
 alignment of planets. Illness was also associated with native peoples
 and the places they lived, with schistosomiasis known as a disease of
@@ -226,8 +226,8 @@ As the Nile changed and schistosomiasis became more widespread, the
 views and attention of scientists also shifted. European scientists
 studied the disease during the colonial period, but their interest waned
 with the fading of that era, and schistosomiasis became just one of many
-"[[neglected tropical
-diseases]{.underline}](https://www.cdc.gov/globalhealth/ntd/diseases/index.html)."
+"[neglected tropical
+diseases](https://www.cdc.gov/globalhealth/ntd/diseases/index.html)."
 One facet of Derr's research endeavors to uncover the work of Egyptian
 scientists who continued to study the disease. In the 1920s, Egyptian
 physician Muhammad Khalil led the Bilharzia Research Section of the
@@ -244,45 +244,45 @@ Schistosomiasis also provides a backstory for a larger narrative Derr
 plans to tell about the history of Egypt through the bodies of its
 people. As the Nile continued to change in the 20th century, the disease did too. Infections with *S. mansoni*, the species that can damage the
 liver, were previously seen in limited areas on the Nile. But with the
-construction of the [[Aswan High
-Dam]{.underline}](https://www.britannica.com/topic/Aswan-High-Dam),
+construction of the [Aswan High
+Dam](https://www.britannica.com/topic/Aswan-High-Dam),
 completed in 1970, "newly created upstream water reservoirs, as well as
 altered river currents and sedimentation, markedly affected the relative
 distribution of snails carrying different Schistosoma species," said
-[[Sanaa
-Antonios]{.underline}](http://tdb2.tanta.edu.eg/staff/StaffDetails_en.aspx?staff_id=2640),
+[Sanaa
+Antonios](http://tdb2.tanta.edu.eg/staff/StaffDetails_en.aspx?staff_id=2640),
 a professor of parasitology at Tanta University in Egypt. And where the
 snails go, so goes the disease, with a resulting boom in *S. mansoni*
 infections.
 <figure class="left" style="width:300px;">
   {% asset 2020/pyramids.jpg @magick:resize=300 alt:'Nile and pyramids' %}<figcaption>In the 1930s, a man stands in the Nile while using a
-<a href="https://www.britannica.com/technology/shaduf"><em>[shaduf]{.underline}</em></a>
+<a href="https://www.britannica.com/technology/shaduf"><em>[shaduf</em></a>
 to lift water from the river to irrigate a field of cotton. The three
 pyramids of Giza are seen in the background. Credit: <a href="https://www.loc.gov/resource/matpc.00437/">[Library of
-Congress]{.underline}</a>
+Congress</a>
 (public domain).</figcaption>
 </figure>
 Thanks in large part to this surge in *S. mansoni* infections, liver
 disease emerged as a major health problem in Egypt in the second half of
 the 20th century. Untreated, *S. mansoni* infections can lead to liver
 cancer. In addition, from the 1920s until the 1980s, health-care workers
-often treated schistosomiasis with multiple injections of [[tartar
-emetic]{.underline}](https://en.wikipedia.org/wiki/Antimony_potassium_tartrate),
+often treated schistosomiasis with multiple injections of [tartar
+emetic](https://en.wikipedia.org/wiki/Antimony_potassium_tartrate),
 unintentionally introducing another assault on the liver. Extensive
 needle reuse and poor sterilization associated with these
 injections---and treatment of other conditions---led to the spread of
 the hepatitis C virus and the insidious liver disease it causes. Until
 its [very recent mass treatment
 campaign](https://www.nejm.org/doi/full/10.1056/NEJMp1915818), Egypt
-reported the highest prevalence of [[hepatitis
-C]{.underline}](https://www.cdc.gov/hepatitis/hcv/index.htm) of any
+reported the highest prevalence of [hepatitis
+C](https://www.cdc.gov/hepatitis/hcv/index.htm) of any
 country in the world.
 <figure class="" style="width:600px;">
   {% asset 2020/pyramids.jpg @magick:resize=600 alt:'Nile and pyramids' %}<figcaption>A 1908 stereograph shows people crossing the Nile by way of the Khazan
 Aswan Dam, completed in 1902. This first large dam controlling the Nile
 would be raised two times to meet the increasing demand for irrigation.
 The much larger Aswan High Dam was completed in 1970. Credit: <a href="https://www.loc.gov/item/2009631297/">[Library
-of Congress]{.underline}</a> (public
+of Congress</a> (public
 domain).</figcaption>
 </figure>
 Derr's next book will chronicle the history of liver disease in
@@ -300,9 +300,9 @@ to play out on the Nile today. Although upstream users control the water
 on most rivers, Egypt has been the exception. "Egypt is the furthest
 downstream, and, yet, throughout the course of history, it has been in
 charge of how the Nile's resources have been used," said Mikhail. But
-now Ethiopia, Egypt's southern neighbor, will soon complete the [[Grand
+now Ethiopia, Egypt's southern neighbor, will soon complete the [Grand
 Ethiopian Renaissance
-Dam]{.underline}](https://www.salini-impregilo.com/en/projects/dams-hydroelectric-plants/grand-ethiopian-renaissance-dam-project)
+Dam](https://www.salini-impregilo.com/en/projects/dams-hydroelectric-plants/grand-ethiopian-renaissance-dam-project)
 on the Blue Nile, allowing it to contain the Nile at its upper reaches.
 As of late March 2020, tense---and sometimes aborted---discussions over
 the new dam continued between the two countries. To lessen the potential
@@ -320,8 +320,8 @@ Davis**](https://humanities.ucsc.edu/academics/faculty/index.php?uid=muhdavis),
 who studies development, decolonization, and race in North Africa. The
 connections between these North African nations and their neighbors have
 recently become part of Derr's academic remit, as she directs the newly
-launched (early 2020) UCSC [[Center for the Middle East and North
-Africa]{.underline}](https://thi.ucsc.edu/centers/middle-east-and-north-africa/).
+launched (early 2020) UCSC [Center for the Middle East and North
+Africa](https://thi.ucsc.edu/centers/middle-east-and-north-africa/).
 
 Looking outward from North Africa, Derr said, "the question of how we
 treat the environment is fundamentally also a question of what will

@@ -12,14 +12,14 @@ tags:
 <figure class="">
   {% asset 2020/tanzania-market.jpg @magick:resize=600 alt:'Mamba market in Tanzania' %}<figcaption>
 In the Mamba market in Tanzania, associate professor Jonathan Robinson
-and collaborators that included Associate Professor [**[Alan
-Spearot]{.underline}**](https://economics.ucsc.edu/faculty/ladder-faculty.php?uid=aspearot),
-chair of the Economics Department, current doctoral student [**[D. J.
-Jeong]{.underline}**](https://people.ucsc.edu/~dajeong/), former
-doctoral student [**[Brian
-Giera]{.underline}**](https://www.linkedin.com/in/brian-giera-05205a59/),
-now an economist at Amazon, and former doctoral student [**[Shilpa
-Aggarwal]{.underline}**](https://www.isb.edu/faculty/shilpa_aggarwal/),
+and collaborators that included Associate Professor [**Alan
+Spearot**](https://economics.ucsc.edu/faculty/ladder-faculty.php?uid=aspearot),
+chair of the Economics Department, current doctoral student [**D. J.
+Jeong**](https://people.ucsc.edu/~dajeong/), former
+doctoral student [**Brian
+Giera**](https://www.linkedin.com/in/brian-giera-05205a59/),
+now an economist at Amazon, and former doctoral student [**Shilpa
+Aggarwal**](https://www.isb.edu/faculty/shilpa_aggarwal/),
 now an assistant professor at the Indian School of Business in
 Hyderabad, India, recorded food prices and surveyed buyers and sellers
 to quantify travel costs and times from various villages. Credit: David
@@ -35,15 +35,15 @@ courtesy of Jonathan Robinson.</figcaption>
 </figure>
 
 In the fight against global poverty, rigorous field research can provide
-important insights. This conclusion determined the [[2019 Nobel Prize in
+important insights. This conclusion determined the [2019 Nobel Prize in
 Economic
-Sciences]{.underline}](https://www.nobelprize.org/uploads/2019/10/press-economicsciences2019-2.pdf),
+Sciences](https://www.nobelprize.org/uploads/2019/10/press-economicsciences2019-2.pdf),
 awarded to three researchers---Abhijit Banerjee, Esther Duflo, and
 Michael Kremer---for their pioneering efforts in applying this approach
 to the study of economics in developing countries. This rigorous,
 quantitative methodology also drives the work of associate professor and
-development economist [**[Jonathan
-Robinson]{.underline}**](https://economics.ucsc.edu/faculty/ladder-faculty.php?uid=jmrtwo).
+development economist [**Jonathan
+Robinson**](https://economics.ucsc.edu/faculty/ladder-faculty.php?uid=jmrtwo).
 
 Robinson's collaborative research with Duflo and Kremer, among others,
 focuses on understanding why potentially life-changing agricultural

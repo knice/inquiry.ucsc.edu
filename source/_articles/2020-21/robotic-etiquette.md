@@ -41,13 +41,13 @@ sides of the relationship. Credit: Melissa De Witte.</figcaption>
 
 Most people don't know what to do when they first encounter a robot.
 Some swarm around it. Some stand back. And some misinterpret its
-behavior. That's what happened to [**[Leila
-Takayama]{.underline}**](https://www.soe.ucsc.edu/people/takayama), UC
+behavior. That's what happened to [**Leila
+Takayama**](https://www.soe.ucsc.edu/people/takayama), UC
 Santa Cruz associate professor of computational media, when she first
-met PR2 (Personal Robot 2), a [[social
-robot]{.underline}](https://en.wikipedia.org/wiki/Social_robot) built by
-the robotics company [[Willow
-Garage]{.underline}](https://en.wikipedia.org/wiki/Willow_Garage).
+met PR2 (Personal Robot 2), a [social
+robot](https://en.wikipedia.org/wiki/Social_robot) built by
+the robotics company [Willow
+Garage](https://en.wikipedia.org/wiki/Willow_Garage).
 
 When she walked through the front door of the company's Palo Alto
 headquarters, the PR2 rolled up to her and paused. She expected a
@@ -59,8 +59,8 @@ but feel insulted."
 It's natural to misread a robot's intentions, both because of how robots
 are currently designed and also our usually inflated expectations of
 what they can do, said Takayama, who aims to improve both sides of this
-stilted relationship with her research on [[human-robot
-interaction]{.underline}](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction).
+stilted relationship with her research on [human-robot
+interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction).
 This growing field of study, driven by rapid advances in both artificial
 intelligence and robotics engineering, employs a broad set of
 disciplines to explore a wide range of challenging subjects, from how
@@ -90,8 +90,8 @@ important.
 
 For example, in order to conserve power, engineers typically build
 robots to be efficient with their motions. But that can be a problem,
-said [[Wendy
-Ju]{.underline}](https://tech.cornell.edu/people/wendy-ju/), an
+said [Wendy
+Ju](https://tech.cornell.edu/people/wendy-ju/), an
 assistant professor of information science at Cornell University and
 frequent Takayama collaborator. "The unintended effect is that robots
 seem stiff, even kind of snotty. Robots need to move around to seem
@@ -117,12 +117,12 @@ these "curious" robots, but assessed competence drops when these robots
 deviate too far from their task.
 
 In an earlier
-[[project]{.underline}](http://www.leilatakayama.org/downloads/Takayama.Animation_HRI2011_prepress.pdf),
+[project](http://www.leilatakayama.org/downloads/Takayama.Animation_HRI2011_prepress.pdf),
 Takayama tapped an expert animator to help generate movements for a
 robot that allowed people to understand its intentions, to open a door
 or pick up a bottle, for instance. "Takayama showed how a robot can be
-incredibly expressive," said [[Anca
-Dragan]{.underline}](https://people.eecs.berkeley.edu/~anca/), an
+incredibly expressive," said [Anca
+Dragan](https://people.eecs.berkeley.edu/~anca/), an
 assistant professor of electrical engineering and computer sciences at
 UC Berkeley. Dragan was developing algorithms that enable robots to work
 with, around, and in support of people, and Takayama's demonstration
@@ -140,12 +140,12 @@ and both need to anticipate the other to avoid accidents.
 
 Importantly, when humans and robots both learn, both benefit.
 Human-robot interactions improve when people have more informed and
-realistic expectations of a robot's abilities, said [[Laurel
-Riek]{.underline}](https://cseweb.ucsd.edu/~lriek/), an associate
+realistic expectations of a robot's abilities, said [Laurel
+Riek](https://cseweb.ucsd.edu/~lriek/), an associate
 professor of computer science and emergency medicine at UC San Diego.
 
-In a [[recent
-study]{.underline}](http://cseweb.ucsd.edu/~lriek/papers/washburn-adeleye-an-riek-THRI-2020.pdf),
+In a [recent
+study](http://cseweb.ucsd.edu/~lriek/papers/washburn-adeleye-an-riek-THRI-2020.pdf),
 which supports the findings in Takayama's work, Riek asked people to
 collaborate with a mobile robot to cooperatively hang a large banner.
 Unbeknownst to participants, the robot was intentionally programmed to
@@ -166,8 +166,8 @@ Alexandrov</a>
 </figure>
 The implication is that people's unrealistic expectations can hamper
 their interactions with robots. The videos they see online, such as the
-popular YouTube clips of the [[robots built by Boston
-Dynamics]{.underline}](https://www.youtube.com/watch?v=YdnJI9T-yXI),
+popular YouTube clips of the [robots built by Boston
+Dynamics](https://www.youtube.com/watch?v=YdnJI9T-yXI),
 give the wrong impression, Takayama said. "I wish they'd show more of
 the blooper reels, the 199 takes before the demo finally worked. This
 stuff is hard. Robots are actually not that capable," she said.
@@ -194,14 +194,14 @@ those expectations," she said. "Why not make a Roomba instead?"
 
 Portrayals of robots in popular culture have also contributed to the
 misconceptions. East Asian science fiction, like the Japanese series
-[*[Astro Boy]{.underline}*](https://en.wikipedia.org/wiki/Astro_Boy),
+[*[Astro Boy*](https://en.wikipedia.org/wiki/Astro_Boy),
 has promoted both hope and fear about artificial intelligence and
 robots. More recent Western movies like [*[Robot &
-Frank]{.underline}*](https://en.wikipedia.org/wiki/Robot_%26_Frank) and
-series like [*[Westworld]{.underline}*](https://www.hbo.com/westworld)
+Frank*](https://en.wikipedia.org/wiki/Robot_%26_Frank) and
+series like [*[Westworld*](https://www.hbo.com/westworld)
 ask nuanced questions about potential relationships with robots, but
 robot portrayals in earlier ones, like Hal in [*[2001: A Space
-Odyssey]{.underline}*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)),
+Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)),
 primarily warned about the potential dangers of a robotic future,
 Takayama said.
 
