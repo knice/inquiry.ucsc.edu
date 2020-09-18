@@ -105,10 +105,7 @@ We spoke with Hammack at UC Santa Cruz's Stevenson College to discuss
 the gender and sexual diversity movement, and what his research reveals
 about it.
 
-## What's behind the emerging embrace of gender and sexual diversity? ##
-
- I
-think the real, decisive change we see is related to information---how
+**What's behind the emerging embrace of gender and sexual diversity?** I think the real, decisive change we see is related to information---how
 people access and control it. In the 20th century, we looked to science,
 doctors, and medicine as sources of expertise on these topics. And
 because we were limited to that basis of how knowledge was constructed
@@ -137,10 +134,7 @@ possible for gender and sexual identity is no longer top-down, but
 instead bottom-up, which is why we've seen this huge explosion of
 language.
 
-## How does this "explosion of language" help? ##
-
-I call it a time of
-radical authenticity. You can really embody what feels true and right in
+**How does this "explosion of language" help?** I call it a time of radical authenticity. You can really embody what feels true and right in
 a way you couldn't in the 20th century. It used to be you had the way
 you felt but didn't know what you should call this identity. Now, you
 can communicate so much about yourself using this language. People ask,
@@ -149,9 +143,7 @@ are much more diverse than the language historically used to describe
 them. We are now slowly accumulating the language necessary to capture
 the range of our experiences.
 
-## So, is using the LGBTQ+ moniker still okay? ##
-
-I intentionally avoid
+**So, is using the LGBTQ+ moniker still okay?** I intentionally avoid
 the acronym LGBTQIA because it's identity based---each letter is an
 identity---and it's always going to exclude someone's experience.
 
@@ -185,9 +177,7 @@ versus 30 years ago in the throes of the AIDS epidemic? The impact of
 growing up in one era compared to the other should have ramifications
 for the rest of your life.
 
-## What did you observe? ##
-
-There's a relationship between prejudice and
+**What did you observe?** There's a relationship between prejudice and
 health. People who experienced stigma had more of what we call minority
 stress, and due to this they experienced more mental and physical health
 problems.
@@ -199,10 +189,7 @@ men as disease carriers who were inevitably going to die, whereas the
 older and younger generations shared an openness around sex because that
 rhetoric was absent.
 
-## Why are things still difficult for LGB youth? ##
-
-Ilan believed that the
-younger cohort would have had less minority stress than the older
+**Why are things still difficult for LGB youth?** Ilan believed that the younger cohort would have had less minority stress than the older
 generation, but we observed that the way stigma works in people's lives
 has just been rearranged. There's now more opportunity to be out, but
 that comes with more opportunity for discrimination. Certainly, the
