@@ -142,8 +142,8 @@ of Miller's environmental ideals.
 more than 90 cities from around the world, the time for cities to act on
 climate change is now. An estimated 80 percent of global emissions come
 from cities, and the C40 Group supports city leaders in their efforts to
-reduce these emissions and reverse climate change. Credit: [Green Energy
-Futures](https://www.flickr.com/photos/greenenergyfutures/37056768006/in/photostream/)
+reduce these emissions and reverse climate change. Credit: <a href="https://www.flickr.com/photos/greenenergyfutures/37056768006/in/photostream/">Green Energy
+Futures</a>
 (CC BY-NC-SA 2.0).</figcaption>
 </figure>
 A similar tipping point was reached last October in Santiago, Chile,
@@ -158,7 +158,7 @@ living in and around your city, there\'s a real problem with the
 viability of the whole thing," Gordon said. "That can really throw
 everything off the rails in a big hurry."
 
-**Juggling needs**
+## Juggling needs ##
 
 In fact, how cities juggle the immediate needs of their citizens with
 the longer-term, global challenges posed by climate change may be one
@@ -183,8 +183,8 @@ here, the city of Miami declared a climate emergency in November 2019.
 Soon after, Miami city leaders side-stepped its climate-denying state
 and national governments to become one of the newest members of the C40
 Group coalition of cities from around the world working to fight climate
-change. Credit: [[Wikimedia
-Commons]{.underline}](https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg)
+change. Credit: <a href="https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg">[Wikimedia
+Commons]{.underline}</a>
 (CC BY-SA 4.0).</figcaption>
 </figure>
 Because this field of research is relatively new, when it comes to what
