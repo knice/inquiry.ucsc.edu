@@ -135,7 +135,7 @@ late 1800s and early 1900s. Modern history drew her attention because it
 aligns with how she attempts to understand the world: "When I encounter
 something, I always want to know the backstory. History is central to
 how I understand politics and the dynamics of our contemporary world."
-{% include_relative sidebars/dam-drawbacks.html classes="left" bgcolor="#f1f1f1" %}
+
 One of the major backstories Derr explores in her book concerns
 [[schistosomiasis]{.underline}](https://www.who.int/news-room/fact-sheets/detail/schistosomiasis),
 a disease caused by parasitic flatworms with a complex life cycle
@@ -184,7 +184,7 @@ ambitious ideas of large-scale engineering and profits that shaped and
 rapidly changed Egypt in the decades to come.
 
 ## Greater contact ##
-
+{% include_relative sidebars/dam-drawbacks.html classes="left" bgcolor="#f1f1f1" %}
 Even before the first large dam tamed the Nile, the new focus on summer
 irrigation put Egyptian laborers into greater contact with the water,
 standing knee-deep as they operated the manual irrigation tools that
