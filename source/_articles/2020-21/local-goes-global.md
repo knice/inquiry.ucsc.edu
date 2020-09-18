@@ -183,13 +183,13 @@ here, the city of Miami declared a climate emergency in November 2019.
 Soon after, Miami city leaders side-stepped its climate-denying state
 and national governments to become one of the newest members of the C40
 Group coalition of cities from around the world working to fight climate
-change. Credit: <a href="https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg">[Wikimedia
+change. Credit: <a href="https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg">Wikimedia
 Commons</a>
 (CC BY-SA 4.0).</figcaption>
 </figure>
 Because this field of research is relatively new, when it comes to what
 brings success, there are many more questions than answers, said Gordon,
-whose new book (April 2020), [*[Cities on the World Stage: The Politics
+whose new book (April 2020), [*Cities on the World Stage: The Politics
 of Global Urban Climate
 Governance*](https://www.cambridge.org/core/books/cities-on-the-world-stage/6CBDF737BC07DD72592728134CF211FA),
 explores these questions. Many cities have made bold climate

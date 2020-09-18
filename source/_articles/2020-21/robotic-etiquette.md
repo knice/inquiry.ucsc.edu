@@ -194,13 +194,13 @@ those expectations," she said. "Why not make a Roomba instead?"
 
 Portrayals of robots in popular culture have also contributed to the
 misconceptions. East Asian science fiction, like the Japanese series
-[*[Astro Boy*](https://en.wikipedia.org/wiki/Astro_Boy),
+[*Astro Boy*](https://en.wikipedia.org/wiki/Astro_Boy),
 has promoted both hope and fear about artificial intelligence and
-robots. More recent Western movies like [*[Robot &
+robots. More recent Western movies like [*Robot &
 Frank*](https://en.wikipedia.org/wiki/Robot_%26_Frank) and
-series like [*[Westworld*](https://www.hbo.com/westworld)
+series like [*Westworld*](https://www.hbo.com/westworld)
 ask nuanced questions about potential relationships with robots, but
-robot portrayals in earlier ones, like Hal in [*[2001: A Space
+robot portrayals in earlier ones, like Hal in [*2001: A Space
 Odyssey*](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)),
 primarily warned about the potential dangers of a robotic future,
 Takayama said.

@@ -16,7 +16,7 @@ further-inquiry:
     - title: "Sarker PK, Kapuscinski AR, Lanois AJ, et al. (2016 Towards sustainable aquafeeds: Complete substitution of fish oil with marine microalga <em>Schizochytrium sp.</em> improves growth and fatty acid deposition in juvenile Nile tilapia (<em>Oreochromis
 niloticus</em>. <em>PLoS One</em>. 2016;11(6):e0156684."
       url: https://www.sciencedirect.com/science/article/pii/S1877343517300775
-    - title: "Sarker P, Gamble M, Kelson S, Kapuscinski AR. [Nile tilapia
+    - title: "Sarker P, Gamble M, Kelson S, Kapuscinski AR. Nile tilapia
 (<em>Oreochromis niloticus</em>) show high digestibility of lipid and
 fatty acids from marine <em>Schizochytrium sp.</em> and of protein and essential amino acids from freshwater <em>Spirulina sp.</em> feed
 ingredients. <em>Aquacult Nutr</em>. 2016;22:109-119."
@@ -54,7 +54,7 @@ here, the city of Miami declared a climate emergency in November 2019.
 Soon after, Miami city leaders side-stepped its climate-denying state
 and national governments to become one of the newest members of the C40
 Group coalition of cities from around the world working to fight climate
-change. Credit: <a href="https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg">[Wikimedia
+change. Credit: <a href="https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg">Wikimedia
 Commons</a>
 (CC BY-SA 4.0).</figcaption>
 </figure>
@@ -142,7 +142,7 @@ currently uses feeds that contain substantial amounts of fishmeal and
 fish oil derived from wild fish. Such feeds are wasteful and ultimately
 unsustainable, and---as research performed by Kapuscinski and her team
 is showing---can likely be replaced with more environmentally-friendly
-fish-free feeds. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/267218/">[M. Reantaso, courtesy of FAO Aquaculture
+fish-free feeds. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/267218/">M. Reantaso, courtesy of FAO Aquaculture
 Photo
 Library</a>.</figcaption>
 </figure>
@@ -194,7 +194,7 @@ of the fishmeal," Kapuscinski said.
   {% asset 2020/nile-tilapia.jpg @magick:resize=300 alt:'Nile tilapia' %}<figcaption>The Nile tilapia, an important food for ancient Egyptians, remains a
 staple throughout northern Africa today. Mostly farmed on a local level
 in small ponds, the fish is also Kapuscinski and Sarker&#39;s primary
-research subject. Credit: <a href="https://commons.wikimedia.org/wiki/File:Oreochromis-niloticus-Nairobi.JPG">[Bjørn Christian
+research subject. Credit: <a href="https://commons.wikimedia.org/wiki/File:Oreochromis-niloticus-Nairobi.JPG">Bjørn Christian
 Tørrissen</a>
 (CC BY-SA 3.0).</figcaption>
 </figure>
@@ -226,7 +226,7 @@ undigested, meaning increased pollution from the resulting sewage.
   {% asset 2020/rice-tilapia-farming.jpg @magick:resize=600 alt:'Rice-Tilapia farming' %}<figcaption>Integrating agriculture and aquaculture can increase food yields while
 reducing waste and environmental impacts. Here, in Yogyakarta,
 Indonesia, juvenile tilapia feed in a rice field planted according to an
-integrated practice of rice-fish farming. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/1260095/">[A. Stankus, courtesy
+integrated practice of rice-fish farming. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/1260095/">A. Stankus, courtesy
 of FAO Aquaculture Photo
 Library</a>.</figcaption>
 </figure>
@@ -289,7 +289,7 @@ China and the Korean Peninsula.
 fish oil from their farmed feed. Globally, salmon farms, like this one
 in the sea at Loch Ainort off the Isle of Skye in Scotland, consume an
 estimated half of all fishmeal, and a quarter of all fish oil produced
-today. Credit: <a href="https://commons.wikimedia.org/wiki/File:Loch_Ainort_fish_farm_-_geograph.org.uk_-_1800327.jpg">[Richard Dorrell, Loch Ainort fish
+today. Credit: <a href="https://commons.wikimedia.org/wiki/File:Loch_Ainort_fish_farm_-_geograph.org.uk_-_1800327.jpg">Richard Dorrell, Loch Ainort fish
 farm</a>
 (CC BY-SA 2.0).</figcaption>
 </figure>

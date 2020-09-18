@@ -53,7 +53,7 @@ in-the-news:
   {% asset 2020/nile-from-space.jpg @magick:resize=600 alt:'Image of the Nile from space' %}<figcaption>The green ribbon of the Nile River, seen from orbit, flows northward to
 the Mediterranean Sea. More than 95 percent of Egyptians live within a
 few miles of the river, which has made the surrounding land fertile and
-prosperous for thousands of years. Credit: <a href="https://water.usgs.gov/edu/gallery/watercyclekids/freshwater-nile.html">[Jeff Schmaltz, NASA Visible
+prosperous for thousands of years. Credit: <a href="https://water.usgs.gov/edu/gallery/watercyclekids/freshwater-nile.html">Jeff Schmaltz, NASA Visible
 Earth</a>
 (public domain).</figcaption>
 </figure>
@@ -73,7 +73,7 @@ in the veins of their human host. This scanning electron micrograph
 shows the oral and ventral suckers of the larger male (top). The
 enveloped female (smaller, below, in groove), continuously produces as
 many as 300 eggs each day, equivalent in total to its body weight.
-Credit: <a href="https://commons.wikimedia.org/wiki/File:Schistosome_Parasite_SEM.jpg">[Bruce Wetzel, National Cancer
+Credit: <a href="https://commons.wikimedia.org/wiki/File:Schistosome_Parasite_SEM.jpg">Bruce Wetzel, National Cancer
 Institute</a>
 (public domain).</figcaption>
 </figure>
@@ -107,7 +107,7 @@ Derr**](https://history.ucsc.edu/faculty/profiles/index.php?uid=jderr)
 focuses on this period of transformation, tying together colonial
 politics, the altered Nile, and the changing health of the people who
 had for centuries flourished on the river's flood plain. In her recently
-published (July 2019) book, [*[The Lived Nile: Environment, Disease, and
+published (July 2019) book, [*The Lived Nile: Environment, Disease, and
 Material Colonial Economy in
 Egypt*](https://www.sup.org/books/title/?id=29529), Derr
 writes about how changes in the Nile triggered new plagues that
@@ -256,9 +256,9 @@ snails go, so goes the disease, with a resulting boom in *S. mansoni*
 infections.
 <figure class="left" style="width:300px;">
   {% asset 2020/pyramids.jpg @magick:resize=300 alt:'Nile and pyramids' %}<figcaption>In the 1930s, a man stands in the Nile while using a
-<a href="https://www.britannica.com/technology/shaduf"><em>[shaduf</em></a>
+<a href="https://www.britannica.com/technology/shaduf"><em>shaduf</em></a>
 to lift water from the river to irrigate a field of cotton. The three
-pyramids of Giza are seen in the background. Credit: <a href="https://www.loc.gov/resource/matpc.00437/">[Library of
+pyramids of Giza are seen in the background. Credit: <a href="https://www.loc.gov/resource/matpc.00437/">Library of
 Congress</a>
 (public domain).</figcaption>
 </figure>
@@ -281,7 +281,7 @@ country in the world.
   {% asset 2020/pyramids.jpg @magick:resize=600 alt:'Nile and pyramids' %}<figcaption>A 1908 stereograph shows people crossing the Nile by way of the Khazan
 Aswan Dam, completed in 1902. This first large dam controlling the Nile
 would be raised two times to meet the increasing demand for irrigation.
-The much larger Aswan High Dam was completed in 1970. Credit: <a href="https://www.loc.gov/item/2009631297/">[Library
+The much larger Aswan High Dam was completed in 1970. Credit: <a href="https://www.loc.gov/item/2009631297/">Library
 of Congress</a> (public
 domain).</figcaption>
 </figure>

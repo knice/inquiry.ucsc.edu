@@ -31,7 +31,7 @@ predicting exactly what will happen? Yes. That\'s a retreat, but that\'s
 the way it is: Nature permits us to calculate only probabilities. Yet
 science has not collapsed.*
 
----Richard Feynman, [*[QED: The Strange Theory of Light and
+---Richard Feynman, [*QED: The Strange Theory of Light and
 Matter*](https://press.princeton.edu/books/paperback/9780691164090/qed)
 <figure class="left" style="width:300px;">
   {% asset 2020/multiple-globes.jpg @magick:resize=300 alt:'Weighing fish' %}<figcaption>This image depicts the sample-then-propagate method for weather forecasting. Shown here are a subset of 50 slightly different estimates for the current weather conditions that have been propagated forward in time, creating 50 considerably different forecasts a few days later. Credit: ©European Centre for Medium-Range Weather Forecasts (CC BY-SA
@@ -65,16 +65,17 @@ through the equations," Venturi said. "Based on the outcome, they might
 say there is a 30 percent chance of rain. That just means that three
 simulations out of ten produced rain."
 <figure class="" style="width:600px;">
-  {% asset 2020/simulation-1aR.jpg @magick:resize=600 alt:'Globes' %}<figcaption>In the current "sample-then-propagate" approach to simulating natural
+  {% asset 2020/simulation-1aR.jpg @magick:resize=600 alt:'Globes' %}<figcaption>In the current &quot;sample-then-propagate&quot; approach to simulating natural
 phenomena, such as the weather, an initially uncertain measurement is
 taken. Several initial conditions are randomly chosen within the range
 of uncertainty, then propagated through a deterministic differential
 equation. These are assumed to provide a representative sample of the
-final state, up to uncertainty (blue region). Venturi's work aims to
-compute the blue region directly, using a non-deterministic "functional
-differential equation." Credit: Adapted from [Met Office, United
-Kingdom](https://www.metoffice.gov.uk/research/weather/ensemble-forecasting/what-is-an-ensemble-forecast)
-(public domain).</figcaption>
+final state, up to uncertainty (blue region). Venturi&#39;s work aims to
+compute the blue region directly, using a non-deterministic &quot;functional
+differential equation.&quot; Credit: Adapted from <a href="https://www.metoffice.gov.uk/research/weather/ensemble-forecasting/what-is-an-ensemble-forecast">Met Office, United
+Kingdom</a>
+(public domain).
+</figcaption>
 </figure>
 We could call this approach "sample-then-propagate." It's a necessary
 kludge because differential equations can only transport points to
@@ -93,11 +94,11 @@ equations"](https://en.wikipedia.org/wiki/Functional_differential_equation)
 <figure class="" style="width:600px;">
   {% asset 2020/simulation2.jpg @magick:resize=600 alt:'Neural network' %}<figcaption>In a deep neural network for image recognition the purple input layer
 collects the raw pixel data. The yellow output layer gives the
-computer's guess on whether the image is a dog or a cat. The strength of
+computer&#39;s guess on whether the image is a dog or a cat. The strength of
 the connections between hidden layers are indicated by the widths of the
-lines. These strengths, or "weights," are tuned in a way that maximizes
-the frequency of correct guesses. Credit: [Ziv
-Goldfeld](https://www.ece.cornell.edu/faculty-directory/ziv-goldfeld),
+lines. These strengths, or &quot;weights,&quot; are tuned in a way that maximizes
+the frequency of correct guesses. Credit: <a href="https://www.ece.cornell.edu/faculty-directory/ziv-goldfeld">Ziv
+Goldfeld</a>,
 with permission.</figcaption>
 </figure>
 For math nerds, there is one difference between FDE and ordinary DE that is almost a showstopper. Ordinary DE involve finitely many variables, the dimensions of space and time that points move around in. But probability distributions live in an infinite-dimensional space because

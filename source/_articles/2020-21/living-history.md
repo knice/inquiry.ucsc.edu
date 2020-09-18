@@ -73,7 +73,7 @@ understandings, "to create an active relationship between past and
 present, as a way of commenting on the moment that we inhabit."
 <figure class="" style="width:600px;">
   {% asset 2020/on-train.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>While making <em>Lessons of the Hour</em>, Julien worked with experts in the
-history of photography at the <a href="https://www.eastman.org/">[Eastman
+history of photography at the <a href="https://www.eastman.org/">Eastman
 Museum</a> to research and recreate
 authentic imagery. Actors portraying Douglass and Anna Murray-Douglass
 (who encouraged Douglass to escape from slavery and later married him)
@@ -81,11 +81,11 @@ were filmed in a set built to show traveling by railroad, a symbol for
 both the Underground Railroad and Douglass&#39;s extensive travels. Pictured
 here: <em>The North Star,</em> 2019, framed photograph on gloss inkjet paper
 mounted on aluminum, 160 × 213.29 cm. Credit: Courtesy of the artist
-(<a href="https://www.isaacjulien.com/">[Isaac Julien</a>); <a href="https://jessicasilvermangallery.com/">[Jessica
+(<a href="https://www.isaacjulien.com/">Isaac Julien</a>); <a href="https://jessicasilvermangallery.com/">Jessica
 Silverman Gallery</a>,
-San Francisco; <a href="https://www.metropictures.com/">[Metro Pictures
+San Francisco; <a href="https://www.metropictures.com/">Metro Pictures
 Gallery</a>, New York; and
-<a href="https://www.victoria-miro.com/">[Victoria Miro Gallery</a>,
+<a href="https://www.victoria-miro.com/">Victoria Miro Gallery</a>,
 London/Venice.
 </figcaption>
 </figure>
@@ -95,9 +95,9 @@ engagement is one of the hallmarks of Julien's work, which spans decades
 and covers widely varying social and cultural subjects, including the
 Harlem Renaissance poet [Langston
 Hughes](https://www.poetryfoundation.org/poets/langston-hughes)
-in the film [*[Looking for
+in the film [*Looking for
 Langston*](https://www.isaacjulien.com/projects/looking-for-langston/)
-(1989) and the crisis of migration into Europe in his work [*[Western
+(1989) and the crisis of migration into Europe in his work [*Western
 Union Small
 Boats*](https://www.isaacjulien.com/projects/western-union-small-boats/)
 (2007). "Isaac has a way of synthesizing our understanding of the past
@@ -111,12 +111,12 @@ talk](https://www.youtube.com/watch?v=DJDRSmaQ5eU) about
   {% asset 2020/julien-in-gallery.jpg @magick:resize=300 alt:'Walbachia in nematode oocyte' %}<figcaption>Julien describes creating his art as involvement in poetry. &quot;My work is
 very much a poetic quest for a language to express experiences which are
 part of the everyday experience of people like myself,&quot; he once told the
-<a href="https://www.youtube.com/watch?v=hcQxjc0mcK0">[Tate</a>.
+<a href="https://www.youtube.com/watch?v=hcQxjc0mcK0">Tate</a>.
 &quot;Dance, theater, music, sculpture, painting---all of these different
 modes of art-making are encapsulated into my practice, which is why I
-chose film as a medium for making my work.&quot; Credit: <a href="http://mag.rochester.edu/about/directors-letter/">[Jonathan
+chose film as a medium for making my work.&quot; Credit: <a href="http://mag.rochester.edu/about/directors-letter/">Jonathan
 Binstock</a>,
-courtesy of <a href="https://mag.rochester.edu/">[Memorial Art
+courtesy of <a href="https://mag.rochester.edu/">Memorial Art
 Gallery</a>, University of
 Rochester.
 </figcaption>
@@ -144,7 +144,7 @@ magazines, drawings, and photographs, searching for clues to a deeper
 understanding of Douglass and his time. Julien found "there was this
 inner Douglass world that was fascinating." He also uncovered a
 "symbiotic relationship" with Douglass while reading the activist's
-"[*[Lecture on
+"[*Lecture on
 Pictures*](https://www.loc.gov/resource/mfd.22004/?sp=1)."
 Called the most photographed American of the 19th century, Douglass,
 like Julien, was fascinated by photography and its power to influence
@@ -238,15 +238,15 @@ supporters raised \$711.66 to buy his freedom.
   {% asset 2020/rapture.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>A sense of place resonates throughout <em>Lessons of the Hour</em> with vivid
 imagery and sounds. Pictured here is part of a re-enactment of Douglass
 during his self-imposed exile overseas as a fugitive slave,
-<a href="https://glc.yale.edu/letter-william-lloyd-garrison-january-1-1846">[reflecting</a>
+<a href="https://glc.yale.edu/letter-william-lloyd-garrison-january-1-1846">reflecting</a>
 on the beauty of America in contrast to the ugliness of its
 slaveholding. <em>Rapture 1846,</em> 2019, photograph on matte structured paper
 mounted on aluminum, 150 × 210 cm. Credit: Courtesy of the artist
-(<a href="https://www.isaacjulien.com/">[Isaac Julien</a>); <a href="https://jessicasilvermangallery.com/">[Jessica
+(<a href="https://www.isaacjulien.com/">Isaac Julien</a>); <a href="https://jessicasilvermangallery.com/">Jessica
 Silverman Gallery</a>,
-San Francisco; <a href="https://www.metropictures.com/">[Metro Pictures
+San Francisco; <a href="https://www.metropictures.com/">Metro Pictures
 Gallery</a>, New York; and
-<a href="https://www.victoria-miro.com/">[Victoria Miro Gallery</a>,
+<a href="https://www.victoria-miro.com/">Victoria Miro Gallery</a>,
 London/Venice.</figcaption>
 </figure>
 Julien's work reminds his audiences that issues and struggles of the
@@ -276,7 +276,7 @@ issues in the 21st century," Julien said.
   {% asset 2020/douglass-home.jpg @magick:resize=600 alt:'Fredrick Douglass home' %}<figcaption>Photographs filled the house in Washington, DC, where Frederick Douglass
 spent his final years. Intrigued by the emerging technology and called
 the most photographed American of the 19^th^ century, Douglass talked
-about his fascination with photography in his &quot;<a href="https://www.loc.gov/resource/mfd.22004/?sp=1">[Lecture on
+about his fascination with photography in his &quot;<a href="https://www.loc.gov/resource/mfd.22004/?sp=1">Lecture on
 Pictures</a>.&quot;
 During his research into Douglass, Julien discovered their mutual
 interest in picture-making and its power to influence human relations.
