@@ -97,7 +97,25 @@ frequent Takayama collaborator. "The unintended effect is that robots
 seem stiff, even kind of snotty. Robots need to move around to seem
 natural and make people feel more comfortable. That's something that
 only someone who studies people would think of," she said.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/robot-collage.png @magick:resize=600 alt:'PR2 Robot' %}<figcaption>False impressions and unrealistic expectations stemming from media and
+popular culture portrayals have promoted hope, hype, and fear about
+robots and artificial intelligence, said Takayama. Robots in science
+fiction, like in (top row, L to R) the <em>Doctor Who</em> TV series and the
+<em>Star Wars</em> and <em>Terminator</em> movies, are far more capable than currently
+available robot technology. Most of today&#39;s robots, like (bottom row, L
+to R) the Roomba vacuum cleaner, the da Vinci surgical robot, and the
+Robomower, are made to excel only at a single task. Credits: <a href="https://commons.wikimedia.org/wiki/File:Doctor_Who_50th_Celebration_-_Cyberman_(11001236893"><em>Doctor
+Who</em></a>),
+<a href="https://commons.wikimedia.org/wiki/File:Terminator.JPG"><em>Terminator</em></a>,
+<a href="https://commons.wikimedia.org/wiki/File:IRobot_Roomba_870_(15860914940">Roomba</a>)
+(CC BY 2.0); <a href="http://pngimg.com/download/28371"><em>Star Wars</em></a> (CC BY-NC
+4.0); <a href="https://commons.wikimedia.org/wiki/File:WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg">da
+Vinci</a>
+(public domain);
+<a href="https://commons.wikimedia.org/wiki/File:Robomow_110_City_2012-06-05.jpg">Robomower</a>
+(CC BY-SA 3.0).</figcaption>
+</figure>
 To improve robot manners, Takayama and her team are working to help them
 take cues from people. When a robot trundles into an elevator, it
 typically does the selfish thing and sits smack in the center, leaving
