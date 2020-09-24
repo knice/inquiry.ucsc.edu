@@ -18,7 +18,14 @@ Caused by the fungus *Pseudogymnoascus destructans*, the disease attacks
 bats when they are hibernating, said Professor [**Marm
 Kilpatrick**](http://kilpatrick.eeb.ucsc.edu/). The disease appears as a
 white powder on the bats' skin, hence its name.
-
+<figure class="">
+  {% asset 2020/little-brown-bat @magick:resize=600 alt:'Little Brown Bat' %}<figcaption>Little brown bats in hibernation show early growth of white-nose
+syndrome. The disease---a focus of research for professor and disease
+ecologist Marm Kilpatrick---has devastated bat populations across North
+America. Credit: <a href="https://commons.wikimedia.org/wiki/File:White-nose_syndrome_growth_in_Myotis_lucifugus.JPG">Larisa Bishop-Boros, Wikimedia
+Commons</a>
+(CC BY-SA 3.0).</figcaption>
+</figure>
 Kilpatrick, a disease ecologist, was interested in how the fungus spread
 between and among different bat species never observed in social groups
 or in contact with each other. To study this, Kilpatrick and [**Joseph
@@ -34,15 +41,6 @@ strangers coming together in planes or subway cars, or in stores or
 cafes, might spread human pathogens, like the coronavirus in the
 [Covid-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
 pandemic, Kilpatrick said.
-
-<figure class="">
-  {% asset 2020/little-brown-bat @magick:resize=600 alt:'Little Brown Bat' %}<figcaption>Little brown bats in hibernation show early growth of white-nose
-syndrome. The disease---a focus of research for professor and disease
-ecologist Marm Kilpatrick---has devastated bat populations across North
-America. Credit: [Larisa Bishop-Boros, Wikimedia
-Commons](https://commons.wikimedia.org/wiki/File:White-nose_syndrome_growth_in_Myotis_lucifugus.JPG)
-(CC BY-SA 3.0).</figcaption>
-</figure>
 
 The overall prognosis for bat species in North America is dire, said
 Kilpatrick, who is also researching [potential

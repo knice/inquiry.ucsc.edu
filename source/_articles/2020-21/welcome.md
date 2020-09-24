@@ -15,7 +15,7 @@ across its five academic divisions.
 As in previous years, the stories in these pages were crafted by alumni
 of the world-renowned UC Santa Cruz [Science Communication Master\'s
 Program](https://scicom.ucsc.edu/) (see
-[INQUIRING**minds**](https://inquiry.ucsc.edu/2019-20/contributors/)).
+[INQUIRING**minds**](/2020-21/contributors/)).
 Their writing this year invites you to: view an artist's work that asks
 us to contemplate history from a modern perspective; mind your manners
 when interacting with robots; plunge into the politics of multi-city
@@ -29,17 +29,17 @@ the Nile via a historical exploration of how its changing course has
 impacted human health; and, in our cover story, admire a ubiquitous
 bacterium whose wily ways are unexpectedly providing valuable insights
 into the complexities of cell biology and solutions to age-old scourges.
-In addition, in [PEN**&**INQ](https://inquiry.ucsc.edu/2019-20/books/)
+In addition, in [PEN**&**INQ](/2020-21/books/)
 you'll find selected books authored by our faculty; likewise, you'll
 find recent inventions highlighted in
-[**inquiries&**INNOVATIONS](https://inquiry.ucsc.edu/2019-20/innovations/).
+[**inquiries&**INNOVATIONS](/2020-21/innovations/).
 
 Importantly, this year we celebrate our new chancellor---professor of
 chemistry Cynthia Larive, a highly accomplished researcher and
 educator---as well as our new membership in the Association of American
 Universities (AAU), a prestigious and influential group composed of
 America's 65 leading research universities (see [BRIEF
-**inquiries**](https://inquiry.ucsc.edu/2019-20/briefs/)). The
+**inquiries**](/2020-21/briefs/)). The
 outstanding breadth, depth, and creativity of the UC Santa Cruz research
 enterprise provides a wealth of intellectual adventures to share with
 you. We hope you enjoy this sampling!

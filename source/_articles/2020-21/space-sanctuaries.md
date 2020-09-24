@@ -12,10 +12,10 @@ tags:
 <figure class="">
   {% asset 2020/batalha.jpg @magick:resize=600 alt:'James Webb Space Telescope' %}<figcaption>Professor of astronomy and astrophysics Natalie Batalha will be
 collecting data from the James Webb Space Telescope, shown here in an
-artist's impression, as part of her search for extraterrestrial life.
+artist&#39;s impression, as part of her search for extraterrestrial life.
 The new space telescope is scheduled for launch in 2021. Credit:
-[Northrop
-Grumman/NASA](https://www.flickr.com/photos/nasawebbtelescope/16678793810/in/album-72157624413830771/)
+<a href="https://www.flickr.com/photos/nasawebbtelescope/16678793810/in/album-72157624413830771/">Northrop
+Grumman/NASA</a>
 (CC BY 2.0).</figcaption>
 </figure>
 [**Natalie

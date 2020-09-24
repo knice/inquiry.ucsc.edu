@@ -10,16 +10,15 @@ tags:
     - Economics
 ---
 <figure class="">
-  {% asset 2020/tanzania-market.jpg @magick:resize=600 alt:'Mamba market in Tanzania' %}<figcaption>
-In the Mamba market in Tanzania, associate professor Jonathan Robinson
-and collaborators that included Associate Professor [**Alan
-Spearot**](https://economics.ucsc.edu/faculty/ladder-faculty.php?uid=aspearot),
-chair of the Economics Department, current doctoral student [**D. J.
-Jeong**](https://people.ucsc.edu/~dajeong/), former
-doctoral student [**Brian
-Giera**](https://www.linkedin.com/in/brian-giera-05205a59/),
-now an economist at Amazon, and former doctoral student [**Shilpa
-Aggarwal**](https://www.isb.edu/faculty/shilpa_aggarwal/),
+  {% asset 2020/tanzania-market.jpg @magick:resize=600 alt:'Mamba market in Tanzania' %}<figcaption>In the Mamba market in Tanzania, associate professor Jonathan Robinson
+and collaborators that included Associate Professor <a href="https://economics.ucsc.edu/faculty/ladder-faculty.php?uid=aspearot"><strong>Alan
+Spearot</strong></a>,
+chair of the Economics Department, current doctoral student <a href="https://people.ucsc.edu/~dajeong/"><strong>D. J.
+Jeong</strong></a>, former
+doctoral student <a href="https://www.linkedin.com/in/brian-giera-05205a59/"><strong>Brian
+Giera</strong></a>,
+now an economist at Amazon, and former doctoral student <a href="https://www.isb.edu/faculty/shilpa_aggarwal/"><strong>Shilpa
+Aggarwal</strong></a>,
 now an assistant professor at the Indian School of Business in
 Hyderabad, India, recorded food prices and surveyed buyers and sellers
 to quantify travel costs and times from various villages. Credit: David

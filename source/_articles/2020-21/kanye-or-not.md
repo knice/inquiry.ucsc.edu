@@ -31,9 +31,9 @@ on a "far less ridiculous binary": Kanye West? (or not Kanye West?).
 
 <figure class="">
   {% asset 2020/game.jpg @magick:resize=600 alt:'Rebecca
-Covarrubia and family' %}<figcaption>*'ye or nay?*, a game created by Assistant Professor A. M. Darke, a
-conceptual artist and activist, reimagines the classic game *Guess Who?*
-All the game's cards depict black men, and half of them are Kanye West.
+Covarrubia and family' %}<figcaption><em>&#39;ye or nay?</em>, a game created by Assistant Professor A. M. Darke, a
+conceptual artist and activist, reimagines the classic game <em>Guess Who?</em>
+All the game&#39;s cards depict black men, and half of them are Kanye West.
 Credit: A. M. Darke, with permission.</figcaption>
 </figure>
 

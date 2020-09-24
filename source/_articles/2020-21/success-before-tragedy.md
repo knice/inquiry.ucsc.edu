@@ -10,12 +10,11 @@ tags:
     - Writing program
 ---
 <figure class="">
-  {% asset 2020/jonestown-list.jpg @magick:resize=600 alt:'Wild raspberry and rust fungus' %}<figcaption>
-A memo headed by "Verbal orders don't go---write it!" lists items to be
+  {% asset 2020/jonestown-list.jpg @magick:resize=600 alt:'Wild raspberry and rust fungus' %}<figcaption>A memo headed by &quot;Verbal orders don&#39;t go---write it!&quot; lists items to be
 packed for the fateful move to Jonestown. Teaching professor of writing
-Heather Shearer's [study of
-records](https://nr.ucpress.edu/content/22/2/65.short) from the Peoples
-Temple reveals how such written communications were key to the group's
+Heather Shearer&#39;s <a href="https://nr.ucpress.edu/content/22/2/65.short">study of
+records</a> from the Peoples
+Temple reveals how such written communications were key to the group&#39;s
 impressive success that preceded its tragic failure. Credit: Heather
 Shearer, with permission.</figcaption>
 </figure>

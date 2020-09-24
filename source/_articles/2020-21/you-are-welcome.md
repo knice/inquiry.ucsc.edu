@@ -17,7 +17,14 @@ her off for her freshman year, and once again when she graduated with
 her doctorate. The university was so unfamiliar to them as to be "almost
 unwelcoming," she said. "Home was only a two-hour drive away, but it
 felt like worlds apart."
-
+<figure class="">
+  {% asset 2020/los-angeles-college-first-gen-studens.jpg @magick:resize=600 alt:'First Gen college students' %}<figcaption>At East Los Angeles College, families of first-gen college students
+attend a Regional Family Conference, a free, bilingual event for
+low-income, first-gen families to meet parents of graduated students
+with similar backgrounds. Credit: <a href="https://hsi.ucsc.edu/building-equity/MAPA%20Grant%20Programs/mapa-regional-conference.html">Regional Family
+Conferences</a>,
+courtesy of Rebecca Covarrubias.</figcaption>
+</figure>
 It was initially unfamiliar and hard for Covarrubias, too. She now aims
 to make this cultural mashup---a challenge for many "first-gen" college
 students like herself---more visible and less stressful.
@@ -31,16 +38,14 @@ renders these connections invisible," said Covarrubias, whose
 [research](https://rcovarrubias.sites.ucsc.edu/) focuses on issues of
 identity, culture, health, and educational quality/access for
 underrepresented and diverse individuals.
-
 <figure class="">
-  {% asset 2020/los-angeles-college-first-gen-studens.jpg @magick:resize=600 alt:'First Gen college students' %}<figcaption>At East Los Angeles College, families of first-gen college students
-attend a Regional Family Conference, a free, bilingual event for
-low-income, first-gen families to meet parents of graduated students
-with similar backgrounds. Credit: [Regional Family
-Conferences](https://hsi.ucsc.edu/building-equity/MAPA%20Grant%20Programs/mapa-regional-conference.html),
-courtesy of Rebecca Covarrubias.</figcaption>
+  {% asset 2020/covarrubias-family.jpg @magick:resize=600 alt:'Rebecca
+Covarrubia and family' %}<figcaption>At the graduation ceremony in Tucson where she received her doctorate
+from the University of Arizona, first-gen college graduate Rebecca
+Covarrubias, now UC Santa Cruz associate professor of psychology,
+celebrated her achievement with her family. Credit: Courtesy of Rebecca
+Covarrubias.</figcaption>
 </figure>
-
 To help bridge the divide, Covarrubias works with the [Hispanic-Serving
 Institutions initiative's Sense of Belonging
 team](https://hsi.ucsc.edu/get-involved/index.html) to organize a free,
@@ -52,14 +57,5 @@ director of the [Student Success Equity Research
 Center](https://sserc.ucsc.edu/). "We can give students tools to
 navigate academia, but we also need to create a culture that reflects
 students' varied backgrounds and ways of being."
-
-<figure class="">
-  {% asset 2020/covarrubias-family.jpg @magick:resize=600 alt:'Rebecca
-Covarrubia and family' %}<figcaption>At the graduation ceremony in Tucson where she received her doctorate
-from the University of Arizona, first-gen college graduate Rebecca
-Covarrubias, now UC Santa Cruz associate professor of psychology,
-celebrated her achievement with her family. Credit: Courtesy of Rebecca
-Covarrubias.</figcaption>
-</figure>
 
 *---Jyoti Madhusodanan*

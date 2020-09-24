@@ -10,8 +10,8 @@ tags:
     - Biomolecular Engineering
 ---
 <figure class="">
-  {% asset 2020/stephanie-smith-berdan.jpg @magick:resize=600 alt:'UC Santa Cruz research specialist Stephanie Smith Berdan' %}<figcaption>Research specialist [**Stephanie
-Smith-Berdan**](https://www.soe.ucsc.edu/people/stephaniesb), first
+  {% asset 2020/stephanie-smith-berdan.jpg @magick:resize=600 alt:'UC Santa Cruz research specialist Stephanie Smith Berdan' %}<figcaption>Research specialist <a href="https://www.soe.ucsc.edu/people/stephaniesb"><strong>Stephanie
+Smith-Berdan</strong></a>, first
 author of a report describing a new method for collecting blood stem
 cells needed to treat patients with blood cancers, performs benchwork in
 the laboratory of professor of biomolecular engineering Camilla

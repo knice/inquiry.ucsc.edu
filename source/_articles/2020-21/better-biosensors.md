@@ -31,7 +31,7 @@ Covarrubia and family' %}<figcaption>Professor of electrical engineering Marco R
 a metal-based biosensor for measuring glucose in pH-neutral fluids like
 those found in the human body. Here, Rolandi points to an enlarged image
 of the device in his laboratory while (left to right) doctoral students
-**Harika Dechiraju**, **Manping Jia**, and **John Selberg** look on.
+<strong>Harika Dechiraju</strong>, <strong>Manping Jia</strong>, and <strong>John Selberg</strong> look on.
 Credit: C. Lagattuta.</figcaption>
 </figure>
 

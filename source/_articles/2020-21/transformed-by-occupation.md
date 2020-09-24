@@ -25,12 +25,12 @@ that occurred as Okinawan society rapidly transformed from very
 traditional to very modern.
 <figure class="">
   {% asset 2020/occupation.png @magick:resize=600 alt:'Okinawan woman and child' %}<figcaption>Children experienced a much-changed world from the traditional one of
-their elders on Okinawa, which rapidly modernized following the island's
+their elders on Okinawa, which rapidly modernized following the island&#39;s
 1945 occupation by the U.S. military that continues to this day. This
 photograph of likely grandmother and granddaughter (names unknown) is a
-favorite of **Geri Gail**, a former UCSC staff member who [donated the
-collection](https://news.ucsc.edu/2017/09/gail-project-exhibition.html)
-of her father's snapshots of Okinawa in the early 1950s to UCSC in 2013.
+favorite of <strong>Geri Gail</strong>, a former UCSC staff member who <a href="https://news.ucsc.edu/2017/09/gail-project-exhibition.html">donated the
+collection</a>
+of her father&#39;s snapshots of Okinawa in the early 1950s to UCSC in 2013.
 Credit: The Gail Project ©Geri Gail, with permission.</figcaption>
 </figure>
 The research chronicles, for example, the impact of a surge in high-tech

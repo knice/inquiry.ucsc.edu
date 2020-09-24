@@ -12,13 +12,13 @@ tags:
 Poets consider music to be humankind's universal language. But deep
 divides of race and income at times split its makers---at least those
 who were members of the [American Federation of
-Musicians](https://www.afm.org/) (AFM)---in the early 20^th^ century.
+Musicians](https://www.afm.org/) (AFM)---in the early 20<sup>th</sup> century.
 [**Leta Miller**](https://music.ucsc.edu/people/leta-miller), professor
 emerita of music, discovered a piece of this [troubled
 past](https://www.cambridge.org/core/journals/journal-of-the-society-for-american-music/article/racial-segregation-and-the-san-francisco-musicians-union-192360/AF0DDC13BFB01F3B76E11C881103F85B)
 in San Francisco's history, where black and white musicians formed
 separate, competing union local chapters.
-<figure class="">
+<figure class="right">
   {% asset 2020/discordant.jpg @magick:resize=600 alt:'Map of San Francisco Clubs' %}<figcaption>Clubs in San Francisco's Fillmore district (shown in white) provided work to black musicians during the 1950s, following earlier territorial scuffles between the black and white musicians' unions. Professor emerita of music Leta Miller uncovered the details of this history through her research into the widespread segregation in the unions that persisted into the 1970s in some U.S. cities. Credit: Courtesy of Leta Miller.</figcaption>
 </figure>
 
@@ -28,9 +28,9 @@ control all gigs. State laws eventually forced the two to merge in 1960.
 But Miller found that similarly segregated union locals were commonplace
 across dozens of U.S. cities---and some even persisted into the early
 1970s. "I was quite astonished at how many there were," Miller said.
-<figure class="">
-  {% asset 2020/earl-watkins.jpg @magick:resize=600 alt:'Jazz drummer Earl Watkins' %}<figcaption>Jazz drummer [Earl
-Watkins](https://afm6.org/member-profile/earl-watkins-mr-lucky/)
+<figure class="left">
+  {% asset 2020/earl-watkins.jpg @magick:resize=600 alt:'Jazz drummer Earl Watkins' %}<figcaption>Jazz drummer <a href="https://afm6.org/member-profile/earl-watkins-mr-lucky/">Earl
+Watkins</a>
 represented the black musicians during merger discussions when state
 laws forced the separate black and white union local chapters in San
 Francisco to join together in 1960. Credit: Courtesy of Leta Miller.</figcaption>

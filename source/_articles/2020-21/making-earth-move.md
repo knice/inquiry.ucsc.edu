@@ -13,8 +13,8 @@ tags:
   {% asset 2020/emily-brodsky.jpg @magick:resize=600 alt:'UC Santa Cruz professor Emily Brodsky' %}<figcaption>Professor Emily Brodsky and the UC Santa Cruz seismology group study how
 injecting water underground, such as occurs with wastewater during
 fossil fuel production, can trigger earthquakes. Here, graduate student
-[**Travis
-Alongi**](https://websites.pmc.ucsc.edu/~seisweb/people/travis.php)
+<a href="https://websites.pmc.ucsc.edu/~seisweb/people/travis.php"><strong>Travis
+Alongi</strong></a>
 deploys an instrument for measuring subterranean fluid pressure. Credit:
 Courtesy of Emily Brodsky.</figcaption>
 </figure>
