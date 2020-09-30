@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 12
 title: Boosting blood cells
+author:
+  name: Thomas Garlinghouse
+  url: https://tsgarlin.wixsite.com/garlinghouse
 colors:
     tag: "#84cbd8"
 tags:
@@ -53,4 +56,8 @@ whose wide-ranging research focuses on the molecular biology of
 cells](https://en.wikipedia.org/wiki/Hematopoietic_stem_cell). "The lab
 is where we can do new and crazy things and make discoveries."
 
-*---Thomas Garlinghouse*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

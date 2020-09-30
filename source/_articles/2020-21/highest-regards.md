@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 1
 title: Highest regards
+author:
+  name: Sarah C. P. Williams
+  url: http://www.sarahcpwilliams.com/
 colors:
     tag: "#84cbd8"
 tags:
@@ -57,5 +60,8 @@ Moving forward, Larive plans to fully support UCSC faculty in their
 hands-on approach to shaping the university's research program&mdash;they're
 the ones who can spot areas ripe for new research and collaborations,
 she said. "We're on a great trajectory already."
-
-*---Sarah C. P. Williams*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 5
 title: Kanye? Or Not?
+author:
+  name: Erica K. Carlson
+  url: https://erikak.ca/
 colors:
     tag: "#84cbd8"
 tags:
@@ -45,5 +48,8 @@ represented in a broader way than in mainstream, white-dominated
 culture, they said. "*'ye or nay?* is just as much about celebrating
 black male beauty as it is about examining the language we build around
 blackness."
-
-*---Erika K. Carlson*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

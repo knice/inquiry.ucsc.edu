@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 9
 title: Urban farming
+author:
+  name: Erika K. Carlson
+  url: https://erikak.ca/
 colors:
     tag: "#84cbd8"
 tags:
@@ -59,5 +62,8 @@ insecurity](https://www.ers.usda.gov/topics/food-nutrition-assistance/food-secur
 Philpott said. "There\'s a lot of demand for space in cities and many
 interests competing for its use," Philpott said. "Our research shows
 that gardens are important spaces."
-
-*---Erika K. Carlson*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

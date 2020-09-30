@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 10
 title: Making the earth move
+author:
+  name: Mike Wooldridge
+  url: https://www.amazon.com/Mike-Wooldridge/e/B001HCYOJ8
 colors:
     tag: "#84cbd8"
 tags:
@@ -49,5 +52,8 @@ increasing the chances of disturbing faults. Oil companies are better
 off injecting into basement rock, especially if they can pinpoint areas
 free of major faults, Brodsky said.
 
-*---[Mike
-Wooldridge](https://www.amazon.com/Mike-Wooldridge/e/B001HCYOJ8)*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

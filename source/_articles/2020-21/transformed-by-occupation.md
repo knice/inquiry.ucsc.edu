@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 8
 title: Transformed by occupation
+author:
+  name: Thomas Garlinghouse
+  url: https://tsgarlin.wixsite.com/garlinghouse
 colors:
     tag: "#84cbd8"
 tags:
@@ -51,4 +54,8 @@ photographs, and archival records found in both Okinawa and Washington,
 DC. "The changes that happened here are historically significant, and
 well worth understanding," Christy said.
 
-*---Thomas Garlinghouse*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

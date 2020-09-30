@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 8
 title: Discordant compositions
+author:
+  name: Jyoti Madhusoodanan
+  url: https://muckrack.com/jyoti-madhusoodanan
 colors:
     tag: "#84cbd8"
 tags:
@@ -45,5 +48,8 @@ competition. Each local also garnered a seat at the AFM national
 convention, so "having their own local ensured that black musicians were
 guaranteed a voice at the meeting," Miller said. "That was probably very
 important."
-
-*---Jyoti Madhusoodanan*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

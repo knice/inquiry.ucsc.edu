@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 13
 title: Not just plants
+author:
+  name: Sarah C. P. Williams
+  url: http://www.sarahcpwilliams.com/
 colors:
     tag: "#84cbd8"
 tags:
@@ -44,4 +47,8 @@ hopes his research, besides illuminating the less obvious, will help
 inform such actions by improving our understanding of the biology
 through which plants and fungi interact.
 
-*---Sarah C. P. Williams*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

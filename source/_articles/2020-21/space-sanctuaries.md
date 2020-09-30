@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 7
 title: Space sanctuaries
+author:
+  name: Sarah C. P. Williams
+  url: http://www.sarahcpwilliams.com/
 colors:
     tag: "#84cbd8"
 tags:
@@ -51,5 +54,8 @@ curiosity, Batalha said, but also questions about what it takes for
 planets&mdash;including Earth&mdash;to sustain life. "We need to make sure our
 own planet continues to be a habitable sanctuary for humanity," she
 said.
-
-*---Sarah C. P. Williams*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 2
 title: You are welcome
+author:
+  name: Jyoti Madhusodanan
+  url: https://muckrack.com/jyoti-madhusoodanan
 colors:
     tag: "#84cbd8"
 tags:
@@ -57,5 +60,9 @@ director of the [Student Success Equity Research
 Center](https://sserc.ucsc.edu/). "We can give students tools to
 navigate academia, but we also need to create a culture that reflects
 students' varied backgrounds and ways of being."
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}
 
-*---Jyoti Madhusodanan*

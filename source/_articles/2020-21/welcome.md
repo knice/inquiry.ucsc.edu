@@ -75,7 +75,7 @@ and Professor of Computer Science
 - Bethany Augliere (SciCom '16)
 - Erika K. Carlson (SciCom '19)
 - Ula Chrobak (SciCom '17)
-- Tom Garlinghouse (SciCom '19)
+- Thomas Garlinghouse (SciCom '19)
 - Emma Hiolski (SciCom '17)
 - Dana Mackenzie (SciCom '97)
 - Jyoti Madhusoodanan (SciCom '14)

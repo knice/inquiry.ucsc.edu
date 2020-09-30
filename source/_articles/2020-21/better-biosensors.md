@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 6
 title: Better biosensors
+author:
+  name: Mike Wooldridge
+  url: https://www.amazon.com/Mike-Wooldridge/e/B001HCYOJ8
 colors:
     tag: "#84cbd8"
 tags:
@@ -47,6 +50,8 @@ The metal-based biosensor could offer advantages over current glucose
 monitors for diabetics, which typically last only months as the enzymes
 on which they rely eventually degrade. In addition, such a device
 implanted in the body may be less tissue-reactive, Rolandi said.
-
----[Mike
-Wooldridge](https://www.amazon.com/Mike-Wooldridge/e/B001HCYOJ8)
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

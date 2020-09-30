@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 15
 title: Success before tragedy
+author:
+  name: Jyoti Madhusoodanan
+  url: https://muckrack.com/jyoti-madhusoodanan
 colors:
     tag: "#84cbd8"
 tags:
@@ -48,4 +51,8 @@ communications, Shearer said. "They had noble aspirations. The documents
 show how much they wanted to build a better society and how hard they
 worked for it."
 
-*---Jyoti Madhusoodanan*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

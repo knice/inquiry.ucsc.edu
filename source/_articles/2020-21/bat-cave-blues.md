@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 4
 title: Bat cave blues
+author:
+  name: Thomas Garlinghouse
+  url: https://tsgarlin.wixsite.com/garlinghouse
 colors:
     tag: "#84cbd8"
 tags:
@@ -51,4 +54,8 @@ has suffered population declines of more than 99 percent; three other
 species have also been heavily affected but will likely persist. "The
 disease has caused massive, enormous declines," Kilpatrick said.
 
-*---Thomas Garlinghouse *
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

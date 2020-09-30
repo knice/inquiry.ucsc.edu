@@ -4,6 +4,9 @@ issue: 2020
 category: brief
 order: 16
 title: Fertilizing development
+author:
+  name: Erika K. Carlson
+  url: https://erikak.ca/
 colors:
     tag: "#84cbd8"
 tags:
@@ -63,4 +66,8 @@ ultimately choose to adopt inputs like fertilizer based on
 profitability," Robinson said. "Even if fertilizer increases yields,
 farmers may reject it because the costs of access are too high."
 
-*---Erika K. Carlson*
+{% if page.author.url %}
+ *&mdash;[{{ page.author.name }}]({{ page.author.url }})*
+{% else %}
+*&mdash;{{ page.author.name }}*
+{% endif %}

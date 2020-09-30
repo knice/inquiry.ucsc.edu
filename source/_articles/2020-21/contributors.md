@@ -9,11 +9,13 @@ contributors:
     file: 2020/bethany-augliere.jpg
   - name-year: Erica K. Carlson ('19)
     file: 2020/erika-k-carlson
+    url: https://erikak.ca/
   - name-year: Ula Chrobak (’17)
     file: 2020/ula-chrobak.jpg
     url: https://www.ulachrobak.com/
-  - name-year: Tom Garlinghouse ('19)
+  - name-year: Thomas Garlinghouse ('19)
     file: 2020/tom-garlinghouse.jpg
+    url: https://tsgarlin.wixsite.com/garlinghouse
   - name-year: Emma Hiolski (’17)
     file: 2020/emma-hiolski.jpg
     url: https://www.emmahiolski.com/
@@ -21,6 +23,7 @@ contributors:
     file: 2020/dana-mackenzie.jpg
   - name-year: Jyoti Madhusoodanan (’14)
     file: 2020/jyoti-madhusoodanan.jpg
+    url: https://muckrack.com/jyoti-madhusoodanan
   - name-year: Robert Pollie (’82)
     file: 2018/robert-pollie.jpg
     url: http://7thavenueproject.com/
