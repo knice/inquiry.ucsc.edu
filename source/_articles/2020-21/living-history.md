@@ -54,14 +54,14 @@ Santa Cruz distinguished professor of the arts [**Isaac
 Julien**](https://danm.ucsc.edu/people/isaac-julien). Using
 innovative new and emerging media techniques and technologies that bring
 his historical subjects to life, Julien aims for others to see
-them---now including the lifelong activist Douglass---as he does,
+them&mdash;now including the lifelong activist Douglass&mdash;as he does,
 through a lens of 21st-century sensibility and perspective.
 
 "I'm very interested in how we can look at these past figures and
 contemporize them for a whole new audience," said the moving-image
 artist, known globally for his path-breaking work in films and video
 installation. To do this in the recently exhibited *[Lessons of the
-Hour---Frederick
+Hour&mdash;Frederick
 Douglas](https://www.isaacjulien.com/projects/37/)s*,
 Julien included disparate elements, sometimes all simultaneously:
 visualizations of the famous abolitionist in some of his most poignant
@@ -112,7 +112,7 @@ talk](https://www.youtube.com/watch?v=DJDRSmaQ5eU) about
 very much a poetic quest for a language to express experiences which are
 part of the everyday experience of people like myself,&quot; he once told the
 <a href="https://www.youtube.com/watch?v=hcQxjc0mcK0">Tate</a>.
-&quot;Dance, theater, music, sculpture, painting---all of these different
+&quot;Dance, theater, music, sculpture, painting&mdash;all of these different
 modes of art-making are encapsulated into my practice, which is why I
 chose film as a medium for making my work.&quot; Credit: <a href="http://mag.rochester.edu/about/directors-letter/">Jonathan
 Binstock</a>,
@@ -128,7 +128,7 @@ described Julien's work as a type of "philosophical cinema" that brings
 ideas, issues of representation and understanding, and knowledge as a
 kind of fluid movement between memory and direct experience. "This is
 not a linear narrative projected on a single screen. It's 10
-screens---different positions, sizes---where you follow the action and
+screens&mdash;different positions, sizes&mdash;where you follow the action and
 are shaped by the action, just as you are shaped by the visual
 experiences you have in your daily life."
 
@@ -138,7 +138,7 @@ discovered while on a teaching appointment (1998--2002) at Harvard
 University. To begin the project, commissioned in 2017 by the Memorial
 Art Gallery as part of an initiative to build its collection of moving
 images and also supported by UCSC, Julien explored
-Rochester---Douglass's longtime home in New York---and dove into the
+Rochester&mdash;Douglass's longtime home in New York&mdash;and dove into the
 university's archives. He and his assistants scoured old books, papers,
 magazines, drawings, and photographs, searching for clues to a deeper
 understanding of Douglass and his time. Julien found "there was this

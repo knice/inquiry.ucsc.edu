@@ -43,7 +43,7 @@ biodiversity of insects. </figcaption>
 </figure>
 
 <figure class="">
-  {% asset 2020/tidy-garden.jpg @magick:resize=600 alt:'Tidy garden' %}<figcaption>In a "tidy" garden---also in Monterey,
+  {% asset 2020/tidy-garden.jpg @magick:resize=600 alt:'Tidy garden' %}<figcaption>In a "tidy" garden&mdash;also in Monterey,
 while wood chip mulching might look nice, it can discourage nesting by
 bumblebees and visits by other pollinators. But it could attract other
 beneficial arthropods, like spiders. Credit: Stacy Philpott, with

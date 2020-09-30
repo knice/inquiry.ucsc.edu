@@ -10,7 +10,7 @@ tags:
     - Electrical and Computer Engineering
 ---
 Efforts to improve sensors that can measure biological substances in or
-on the body---for monitoring glucose in diabetics, for example---face
+on the body&mdash;for monitoring glucose in diabetics, for example&mdash;face
 the challenge of working at the pH (hydrogen ion) levels found in living
 organisms. Human blood, sweat, and tears typically have a pH of around
 '7'. "Unfortunately, many metals that are good at measuring substances

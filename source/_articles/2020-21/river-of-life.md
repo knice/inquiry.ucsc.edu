@@ -31,7 +31,7 @@ further-inquiry:
     - title: "UC Santa Cruz Center for the Middle East and North
     Africa"
       url: https://thi.ucsc.edu/centers/middle-east-and-north-africa/
-    - title: "Haseltine, WA. Universal disease screening and treatment---the
+    - title: "Haseltine, WA. Universal disease screening and treatment&mdash;the
     Egyptian example. N Engl J Med. 2020; 382;12:1081-1083."
       url: https://www.nejm.org/doi/full/10.1056/NEJMp1915818
    
@@ -189,7 +189,7 @@ Even before the first large dam tamed the Nile, the new focus on summer
 irrigation put Egyptian laborers into greater contact with the water,
 standing knee-deep as they operated the manual irrigation tools that
 lifted water to their crops. More time in the water meant more exposure
-to the *Schistosoma* cercariae---the infectious form of the parasite.
+to the *Schistosoma* cercariae&mdash;the infectious form of the parasite.
 Workers with higher worm loads in their systems suffered more painful
 manifestations of disease. In addition to the tell-tale bloody urine
 and, ultimately for many, bladder cancer, those most severely afflicted
@@ -270,7 +270,7 @@ often treated schistosomiasis with multiple injections of [tartar
 emetic](https://en.wikipedia.org/wiki/Antimony_potassium_tartrate),
 unintentionally introducing another assault on the liver. Extensive
 needle reuse and poor sterilization associated with these
-injections---and treatment of other conditions---led to the spread of
+injections&mdash;and treatment of other conditions&mdash;led to the spread of
 the hepatitis C virus and the insidious liver disease it causes. Until
 its [very recent mass treatment
 campaign](https://www.nejm.org/doi/full/10.1056/NEJMp1915818), Egypt
@@ -290,8 +290,8 @@ Derr's next book will chronicle the history of liver disease in
 world, interviewing physicians, and attending scientific meetings on
 liver disease. In addition to investigating the connections between the
 environment and liver disease, she plans to explore how Egyptian
-scientists---often relegated to second-class status in global medical
-circles---have contributed to the field of tropical medicine.
+scientists&mdash;often relegated to second-class status in global medical
+circles&mdash;have contributed to the field of tropical medicine.
 
 Looking at history through an environmental lens allows Derr to see the
 interaction of large and small, how country-wide decisions about water
@@ -304,7 +304,7 @@ now Ethiopia, Egypt's southern neighbor, will soon complete the [Grand
 Ethiopian Renaissance
 Dam](https://www.salini-impregilo.com/en/projects/dams-hydroelectric-plants/grand-ethiopian-renaissance-dam-project)
 on the Blue Nile, allowing it to contain the Nile at its upper reaches.
-As of late March 2020, tense---and sometimes aborted---discussions over
+As of late March 2020, tense&mdash;and sometimes aborted&mdash;discussions over
 the new dam continued between the two countries. To lessen the potential
 impact on the Nile downstream, Egypt has asked for a slow fill of the
 new dam's huge reservoir.

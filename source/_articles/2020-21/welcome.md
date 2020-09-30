@@ -34,9 +34,9 @@ you'll find selected books authored by our faculty; likewise, you'll
 find recent inventions highlighted in
 [**inquiries&**INNOVATIONS](/2020-21/innovations/).
 
-Importantly, this year we celebrate our new chancellor---professor of
+Importantly, this year we celebrate our new chancellor&mdash;professor of
 chemistry Cynthia Larive, a highly accomplished researcher and
-educator---as well as our new membership in the Association of American
+educator&mdash;as well as our new membership in the Association of American
 Universities (AAU), a prestigious and influential group composed of
 America's 65 leading research universities (see [BRIEF
 **inquiries**](/2020-21/briefs/)). The

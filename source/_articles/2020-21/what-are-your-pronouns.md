@@ -54,12 +54,12 @@ unexercised, indeed often culturally taboo, for many people. You are
 either man or woman, "she" or "he," and your genetic makeup biologically
 forbids you from being anything but one of two genders.
 
-But the world is changing. Increasingly, individuals---especially from
-younger generations---are bucking the gender binary. Their
+But the world is changing. Increasingly, individuals&mdash;especially from
+younger generations&mdash;are bucking the gender binary. Their
 self-identification as either nonbinary or genderqueer, and use of
 pronouns including "they" and "ze," means they experience their gender
 identity as falling outside the categories of man and woman. The same
-goes for sexual identity---an individual's orientation can be more than
+goes for sexual identity&mdash;an individual's orientation can be more than
 just the dyad of heterosexual or homosexual preferences. Accordingly,
 many have begun to verbalize their attractions to people regardless of
 gender.
@@ -105,7 +105,7 @@ We spoke with Hammack at UC Santa Cruz's Stevenson College to discuss
 the gender and sexual diversity movement, and what his research reveals
 about it.
 
-**What's behind the emerging embrace of gender and sexual diversity?** I think the real, decisive change we see is related to information---how
+**What's behind the emerging embrace of gender and sexual diversity?** I think the real, decisive change we see is related to information&mdash;how
 people access and control it. In the 20th century, we looked to science,
 doctors, and medicine as sources of expertise on these topics. And
 because we were limited to that basis of how knowledge was constructed
@@ -144,8 +144,8 @@ them. We are now slowly accumulating the language necessary to capture
 the range of our experiences.
 
 **So, is using the LGBTQ+ moniker still okay?** I intentionally avoid
-the acronym LGBTQIA because it's identity based---each letter is an
-identity---and it's always going to exclude someone's experience.
+the acronym LGBTQIA because it's identity based&mdash;each letter is an
+identity&mdash;and it's always going to exclude someone's experience.
 
 Viewing sexual and gender diversity as a spectrum rather than composed
 of separate categories invites a broader range of people into the
@@ -182,8 +182,8 @@ health. People who experienced stigma had more of what we call minority
 stress, and due to this they experienced more mental and physical health
 problems.
 
-Unsurprisingly, we found that the middle group---of which I am a
-part---who grew up during the height of AIDS internalized more stigma
+Unsurprisingly, we found that the middle group&mdash;of which I am a
+part&mdash;who grew up during the height of AIDS internalized more stigma
 around having sex. They experienced a rhetoric that characterized gay
 men as disease carriers who were inevitably going to die, whereas the
 older and younger generations shared an openness around sex because that
@@ -203,7 +203,7 @@ say "Everything's better!" doesn't account for the fact that it's
 "better" in the context of having your worth debated publicly. The
 Generations study showed that marriage equality and social progress
 haven't made as big a difference in people's day-to-day lives as one
-might think---at least not yet.
+might think&mdash;at least not yet.
 
 **If you could say one thing to people struggling with their own gender
 and/or sexual identities and/or that of others?** Falling outside of
@@ -211,7 +211,7 @@ what has been typically considered normal is a privilege, not a curse.
 In my own life, it has expanded my consciousness and range of experience
 in deeply meaningful ways. The stories we hear of success for those who
 are diverse in their gender or sexual identities are typically stories
-of embracing one's diversity---reframing the problem away from oneself
+of embracing one's diversity&mdash;reframing the problem away from oneself
 and toward a stigmatizing society. Thankfully, that society is changing
 rapidly, and those who embrace their diversity are leading the
 revolution in how we think about gender and sexuality, opening up space

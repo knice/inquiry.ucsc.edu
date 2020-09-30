@@ -45,14 +45,14 @@ Venturi**](https://www.soe.ucsc.edu/people/venturi) thinks.
 He agrees with Nobel Prize--winning physicist [Richard
 Feynman](https://www.nobelprize.org/prizes/physics/1965/feynman/biographical/):
 scientists often need to accept uncertainty. But, he asks, is there a
-good mathematical way to propagate uncertainty---or, in math terms, to
+good mathematical way to propagate uncertainty&mdash;or, in math terms, to
 "transport a probability distribution"---from one place (or time) to
 another? If so, such math could potentially be applied, for example, to
 create more robust and useful models of complex natural phenomena.
 
 Take the weather, for instance. Small uncertainties in today's
-weather---say, whether the temperature in Peoria at 2 pm was 78 degrees
-or 79 degrees---can become larger uncertainties tomorrow or a week from
+weather&mdash;say, whether the temperature in Peoria at 2 pm was 78 degrees
+or 79 degrees&mdash;can become larger uncertainties tomorrow or a week from
 now. But computer weather models do a poor job of reproducing this
 effect. That's because they use a legacy mathematical tool, called
 differential equations (in particular, the [Navier-Stokes
@@ -121,7 +121,7 @@ fluid flow cannot be predicted with certainty. Recently, though, FDEs
 are beginning to appear in disciplines not related to fluids.
 
 One surprising new example arises in machine learning. In recent years,
-deep neural networks---"deep" refers to a great number of layers---have
+deep neural networks---"deep" refers to a great number of layers&mdash;have
 had good success in realms like image recognition and [computer chess
 and
 go](http://sciencemag.org/news/2016/03/update-why-week-s-man-versus-machine-go-match-doesn-t-matter-and-what-does).
@@ -144,8 +144,8 @@ If this sounds to you like a problem made for FDE, you've passed the
 test.
 
 That FDE is called a Hamilton-Jacobi-Bellman equation, and its solution
-is an operator that allows you to compute the weights---the strength of
-connections between layers---from any input. "It's the core of how you
+is an operator that allows you to compute the weights&mdash;the strength of
+connections between layers&mdash;from any input. "It's the core of how you
 train a neural network," Venturi said.
 
 Han said the advantage of "considering the problem in an

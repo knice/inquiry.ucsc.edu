@@ -56,7 +56,7 @@ polarity of the microtubules. Motor proteins that had been trooping
 toward the egg-zone do an about-face and start heading away. Getting to
 the mothership now requires hopping aboard a different type of motor
 protein, designed to seek the "plus" end of the microtubule instead of
-the "minus" end. And---here's the really smart part---that's exactly
+the "minus" end. And&mdash;here's the really smart part&mdash;that's exactly
 what *Wolbachia* does, deftly rejiggering binding sites on its surface
 to make the switch. If, as Sullivan suspects, the embryo's microtubular
 reversal is meant to deflect invading parasites, *Wolbachia* does an
@@ -170,7 +170,7 @@ generation of eggs. Credit: Laura Serbus, with permission.</figcaption>
 
 Sullivan and Tram submitted their findings to the journal [*Science* in
 2002](https://www.ncbi.nlm.nih.gov/pubmed/12004132). The paper was
-quickly greenlighted without further revision---a rare feat in the
+quickly greenlighted without further revision&mdash;a rare feat in the
 persnickety world of top-tier science publications. After that
 auspicious beginning, Sullivan and team went on to work out a more
 detailed model that's a leading theory of how CI works. It explains not
@@ -233,7 +233,7 @@ grow them indefinitely, freeze them, thaw them out whenever you need
 them, and do all sorts of neat things," Sullivan said.
 
 One of the neat things Sullivan did was to apply new "high throughput"
-lab technology---implemented by UC Santa Cruz professor of chemistry
+lab technology&mdash;implemented by UC Santa Cruz professor of chemistry
 [**Scott
 Lokey**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=slokey)---to
 streamline testing and assays. Instead of wrangling flies, manually
@@ -330,7 +330,7 @@ promising drug candidates while screening more than 300,000 compounds.
 While Calibr and other organizations continue to search for new drugs,
 Sullivan has gone back to more fundamental questions. The nature of the
 worm-germ symbiosis, for example: it's obvious what *Wolbachia* gets out
-of the deal---room and board---but what does it bring to the table? To
+of the deal&mdash;room and board&mdash;but what does it bring to the table? To
 answer the question, Sullivan and postdoc [**Frederic
 Landmann**](http://www.crbm.cnrs.fr/en/team/mechanisms-of-symbiosis-with-wolbachia/)
 (now an assistant professor at the [Montpellier Cell Biology Research
@@ -339,7 +339,7 @@ filarial nematodes with antibiotics, wiping out the *Wolbachia* inside
 them. With the bacteria purged, development of young worms was
 scrambled, the embryos fatally deformed. In adult worms,
 [apoptosis](https://en.wikipedia.org/wiki/Apoptosis)---a type of
-programmed cell death that organisms use to cull unwanted cells---went
+programmed cell death that organisms use to cull unwanted cells&mdash;went
 wild, leading to the mass suicide of normal cells.
 <figure class="" style="width:600px;">
   {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows <em>Wolbachia</em> (green
@@ -382,7 +382,7 @@ Whether it's a cozy alliance or hostile takeover, worm and germ may be
 headed for a full-blown merger. Sullivan and others speculate that
 *Wolbachia* might someday become an intrinsic feature of its nematode
 hosts, like the ancient bacteria that long ago invaded our single-celled
-ancestors and became mitochondria---the intracellular "power houses"
+ancestors and became mitochondria&mdash;the intracellular "power houses"
 that all higher life forms depend on.
 
 That example points out just how fluid and negotiable roles like

@@ -26,12 +26,12 @@ Conferences</a>,
 courtesy of Rebecca Covarrubias.</figcaption>
 </figure>
 It was initially unfamiliar and hard for Covarrubias, too. She now aims
-to make this cultural mashup---a challenge for many "first-gen" college
-students like herself---more visible and less stressful.
+to make this cultural mashup&mdash;a challenge for many "first-gen" college
+students like herself&mdash;more visible and less stressful.
 
 While universities value independence and intellectual exploration,
 first-gen college students from racial/ethnic minority backgrounds are
-often balancing---and are strengthened by---family obligations. They
+often balancing&mdash;and are strengthened by&mdash;family obligations. They
 care for siblings, translate at medical appointments, or offer financial
 support. "A university culture of independence and separation largely
 renders these connections invisible," said Covarrubias, whose

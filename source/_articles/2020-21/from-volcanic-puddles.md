@@ -26,7 +26,7 @@ hot springs associated with volcanoes.
 
 Small pools fed by hot springs would have contained mixtures of
 [nucleotides](https://en.wikipedia.org/wiki/Nucleic_acid)---the building
-blocks of DNA and RNA---mixed with
+blocks of DNA and RNA&mdash;mixed with
 [lipids](https://en.wikipedia.org/wiki/Lipid), the primary component of
 cell membranes. When the pools evaporated, concentrated films of
 nucleotides and lipids would form on mineral surfaces. Under these

@@ -20,7 +20,7 @@ ethnic studies [**Neda
 Atanasoski**](https://feministstudies.ucsc.edu/faculty/index.php?uid=natanaso).
 Instead, it refers to technological advances. But new technologies often
 embody old ideas about which jobs can be automated, Atanasoski said.
-Such work is devalued as boring, dirty, and repetitive---and has
+Such work is devalued as boring, dirty, and repetitive&mdash;and has
 historically been performed by women, colonized peoples, or immigrants.
 
 In [**Surrogate Humanity: Race, Robots, and the Politics of
@@ -34,7 +34,7 @@ artificial intelligence of [social
 robots](https://en.wikipedia.org/wiki/Social_robot).
 
 Technology cannot remedy social inequality by itself and cannot be
-separated from politics, said Atanasoski. "Technology is political---how
+separated from politics, said Atanasoski. "Technology is political&mdash;how
 it\'s engineered, how it\'s used, and how we think, or don\'t think,
 about using it."
 
@@ -55,7 +55,7 @@ fumigation," she said.
 
 Interviews with dozens of growers led Guthman to insights about how
 [fumigation](https://ephtracking.cdc.gov/showpesticideFumigants)---which
-protects plants against soil-borne fungal disease---has changed from
+protects plants against soil-borne fungal disease&mdash;has changed from
 solution to problem. In her book [**Wilted: Pathogens, Chemicals, and
 the Fragile Future of the Strawberry
 Industry**](https://www.ucpress.edu/book/9780520305281/wilted), winner

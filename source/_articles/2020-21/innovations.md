@@ -47,13 +47,13 @@ A cancer cell is a cell that has run amok. Exactly how this happens
 depends on an immense set of possible cancer-causing errors that occur
 with great variability among cancer types and individual patients. But
 identifying the specific errors could help doctors choose the best
-treatments---to "personalize" therapy for each patient.
+treatments&mdash;to "personalize" therapy for each patient.
 
 To accomplish this, the patented algorithm developed by professor of
 biomolecular engineering [**Josh
 Stuart**](https://jstuart.soe.ucsc.edu/) and collaborators compares the
 genomic blueprints of tumor and healthy cells. The resulting dynamic
-pathway map pinpoints the errors that led to the cancer---and thus
+pathway map pinpoints the errors that led to the cancer&mdash;and thus
 possible targets for therapy. \"The invention takes very complex data
 and focuses attention on likely treatment alternatives for patients,\"
 Stuart said.
@@ -95,7 +95,7 @@ disease](https://www.crohnscolitisfoundation.org/what-is-crohns-disease)
 or another gastrointestinal disorder. Doctors typically perform
 [colonoscopy](https://www.asge.org/home/for-patients/patient-information/understanding-colonoscopy)
 to evaluate such leaks. But measuring sucralose could be simpler,
-quicker, and cheaper---perhaps as an initial screening.
+quicker, and cheaper&mdash;perhaps as an initial screening.
 
 To readily detect and measure sucralose in urine or blood, professor of
 organic chemistry [**Baktham

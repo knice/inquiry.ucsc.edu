@@ -10,7 +10,7 @@ tags:
     - Writing program
 ---
 <figure class="">
-  {% asset 2020/jonestown-list.jpg @magick:resize=600 alt:'Wild raspberry and rust fungus' %}<figcaption>A memo headed by &quot;Verbal orders don&#39;t go---write it!&quot; lists items to be
+  {% asset 2020/jonestown-list.jpg @magick:resize=600 alt:'Wild raspberry and rust fungus' %}<figcaption>A memo headed by &quot;Verbal orders don&#39;t go&mdash;write it!&quot; lists items to be
 packed for the fateful move to Jonestown. Teaching professor of writing
 Heather Shearer&#39;s <a href="https://nr.ucpress.edu/content/22/2/65.short">study of
 records</a> from the Peoples
@@ -26,15 +26,15 @@ transcended race and social class. Twenty-four years later, more than
 900 of the group's members lay dead, their bodies decomposing in the
 Guyanese jungle heat.
 
-The group's written records both reflect and---importantly---shaped its
+The group's written records both reflect and&mdash;importantly&mdash;shaped its
 tragic path, said teaching professor of writing [**Heather
 Shearer**](https://writing.ucsc.edu/faculty/index.php?uid=hshearer).
 Shearer began researching the group's documents expecting to find
 evidence of "brainwashed cult members," she said. "But I saw a really
 different picture."
 
-Ninety-six boxes of letters, pledges, and checklists---some on memo pads
-printed with the header "Verbal orders don't go---write it!"---bear
+Ninety-six boxes of letters, pledges, and checklists&mdash;some on memo pads
+printed with the header "Verbal orders don't go&mdash;write it!"---bear
 witness to the group's meticulous planning and utopian achievements: a
 racially integrated church in 1950s Indiana, communal housing developed
 in Northern California, and members' excitement as they built

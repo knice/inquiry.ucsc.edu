@@ -18,7 +18,7 @@ the laboratory of professor of biomolecular engineering Camilla
 Forsberg. Credit: C. Lagattuta.</figcaption>
 </figure>
 
-Approved in 1998, the drug sildenafil citrate---better known as
+Approved in 1998, the drug sildenafil citrate&mdash;better known as
 [Viagra](https://en.wikipedia.org/wiki/Sildenafil)---offered men with
 erectile dysfunction a welcome alternative to the invasive solutions
 then available for their non--life-threatening but life-altering
@@ -38,7 +38,7 @@ boosting the blood [stem cell
 mobilization](https://bloodcancerinstitute.com/service/mobilization)
 (movement from bone marrow to bloodstream) critical to the [high-risk
 transplants](https://www.cancer.gov/about-cancer/treatment/types/stem-cell-transplant)
-used to treat---and potentially cure---patients with blood-based cancers
+used to treat&mdash;and potentially cure&mdash;patients with blood-based cancers
 and other immune-based disorders. Extracted from donors or patients
 themselves, the mobilized stem cells are "transplanted" into the patient
 to reconstitute their blood after a course of high-dose chemotherapy

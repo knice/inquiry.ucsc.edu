@@ -40,7 +40,7 @@ Larive is no stranger to what it takes to run a successful research
 enterprise. At UC Riverside, Larive was both a professor of chemistry
 and served as provost and executive vice chancellor. Her research
 involved developing improved tools for chemical analysis used to study
-everything from human biology to food---one project had her
+everything from human biology to food&mdash;one project had her
 characterizing the compounds in pomegranate juice.
 
 "I've been involved in many collaborative research projects and worked
@@ -54,7 +54,7 @@ cutting-edge initiatives in genomics, global climate change, coastal
 policy, and agroecology, to name just a few.
 
 Moving forward, Larive plans to fully support UCSC faculty in their
-hands-on approach to shaping the university's research program---they're
+hands-on approach to shaping the university's research program&mdash;they're
 the ones who can spot areas ripe for new research and collaborations,
 she said. "We're on a great trajectory already."
 

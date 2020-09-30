@@ -20,8 +20,8 @@ Kilpatrick**](http://kilpatrick.eeb.ucsc.edu/). The disease appears as a
 white powder on the bats' skin, hence its name.
 <figure class="">
   {% asset 2020/little-brown-bat @magick:resize=600 alt:'Little Brown Bat' %}<figcaption>Little brown bats in hibernation show early growth of white-nose
-syndrome. The disease---a focus of research for professor and disease
-ecologist Marm Kilpatrick---has devastated bat populations across North
+syndrome. The disease&mdash;a focus of research for professor and disease
+ecologist Marm Kilpatrick&mdash;has devastated bat populations across North
 America. Credit: <a href="https://commons.wikimedia.org/wiki/File:White-nose_syndrome_growth_in_Myotis_lucifugus.JPG">Larisa Bishop-Boros, Wikimedia
 Commons</a>
 (CC BY-SA 3.0).</figcaption>
@@ -34,8 +34,8 @@ assistant professor at Virginia Tech), daubed a UV fluorescent powder,
 which mimics the fungus, on individual bats. Tracking the dust's spread
 in the caves and to other bats
 [showed](https://www.nature.com/articles/s41586-018-0720-z) how
-"cryptic" connections---shared contact with part of the cave or very
-brief contact with other bats---play a key role in transmission of the
+"cryptic" connections&mdash;shared contact with part of the cave or very
+brief contact with other bats&mdash;play a key role in transmission of the
 fungal pathogen. The mechanism is similar to how contact between
 strangers coming together in planes or subway cars, or in stores or
 cafes, might spread human pathogens, like the coronavirus in the

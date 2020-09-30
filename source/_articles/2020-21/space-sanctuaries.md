@@ -48,7 +48,7 @@ planets to focus on with the Webb mission.
 
 Searching for extraterrestrial life is not only driven by pure
 curiosity, Batalha said, but also questions about what it takes for
-planets---including Earth---to sustain life. "We need to make sure our
+planets&mdash;including Earth&mdash;to sustain life. "We need to make sure our
 own planet continues to be a habitable sanctuary for humanity," she
 said.
 

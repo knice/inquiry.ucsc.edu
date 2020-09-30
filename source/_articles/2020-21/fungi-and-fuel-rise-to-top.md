@@ -48,11 +48,11 @@ psychology, ecology, and beyond. [**Amanda
 Carbajal**](https://www.linkedin.com/in/amanda-carbajal-8755635a/), a
 Ph.D. student in molecular, cellular, and developmental biology, talked
 about how [prion proteins](https://en.wikipedia.org/wiki/Prion)---which
-cause neurological diseases in humans and other mammals---might help
+cause neurological diseases in humans and other mammals&mdash;might help
 explain the origins of life on Earth. Environmental studies Ph.D.
 student [**Justin
 Luong**](https://envs.ucsc.edu/about/staff.php?uid=jluong4) shared his
-research on restoring native grasses in coastal California---check out
+research on restoring native grasses in coastal California&mdash;check out
 his [native grass Instagram
 page](https://gramho.com/profile/stipapulchra/12270282672). [**Katie
 Hellier**](https://www.physics.ucsc.edu/academic-programs/grads/directory-page.php?uid=khellier),
@@ -63,7 +63,7 @@ Garza-Girón**](https://ricky-gg.github.io/) spoke about analyzing
 seismic activity during volcanic eruptions to determine when these
 cataclysmic events have concluded.
 
-"The presentations this year were really extraordinary---any of them
+"The presentations this year were really extraordinary&mdash;any of them
 could have won," said Williams. But a champion must always be crowned,
 and this year the honor of both first place and the people's choice
 award (a combined \$3,750) went to [**Tori
@@ -74,7 +74,7 @@ fungus to block growth of cancerous cells ("[Using zombie insects to
 find a cure for cancer](https://www.youtube.com/watch?v=gfA_hUViEkM)").
 "One of my favorite parts of science is communicating it to a
 non-scientific audience," she said. "It means a lot to me that
-everyone\'s excited about biochemistry---it's usually not the most
+everyone\'s excited about biochemistry&mdash;it's usually not the most
 popular subject in school."
 
 Second place (and \$1,500) was awarded to [**Abel

@@ -64,10 +64,10 @@ And the silvery element can build up in the living tissues of both
 plants and animals, compounding the danger. 
 
 Despite relatively recent laws and treaties that now limit its release,
-a lot of mercury has wound up in bodies of water---creeks, rivers,
-lakes, and the ocean---where it transforms into its most toxic form and
+a lot of mercury has wound up in bodies of water&mdash;creeks, rivers,
+lakes, and the ocean&mdash;where it transforms into its most toxic form and
 enters food chains. In addition, key steps in the metal's movements
-through the environment---its "biogeochemistry"---remain unclear,
+through the environment&mdash;its "biogeochemistry"---remain unclear,
 including how it changes from its less dangerous, inert forms to an
 organic molecule that accumulates in living tissue. To better understand
 the mercury threat, UCSC scientists are working to learn how this
@@ -81,7 +81,7 @@ The elevated levels of mercury in the environment today are the result
 of its current and historic use in gold mining, and from the continued
 use of coal for energy production. Gold Rush--era mining contaminated
 watersheds throughout California. Miners used the shiny liquid
-quicksilver---mercury in its pure, elemental form---to recover gold from
+quicksilver&mdash;mercury in its pure, elemental form&mdash;to recover gold from
 gravel deposits adjacent to rivers. At these [placer
 mines](https://en.wikipedia.org/wiki/Placer_mining), miners washed
 gold-containing sediments through sluices lined with quicksilver. The
@@ -107,7 +107,7 @@ BY-SA 3.0); quicksilver,
 </figure>
 
 Today, small-scale gold mining in Asia, Africa, and South America still
-relies on mercury---and may account for [over half of ongoing global
+relies on mercury&mdash;and may account for [over half of ongoing global
 mercury
 pollution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969110/#__ffn_sectitle).
 The remainder comes primarily from coal-powered energy production.
@@ -118,8 +118,8 @@ the globe.
 {% include_relative sidebars/mercurys-california-legacy.html classes="right" bgcolor="#f1f1f1" %}
 Thanks to gold mining and coal burning, a lot of mercury contaminates
 the environment. "The general consensus is that we've increased the
-amount of mercury moving around the active reservoirs of the Earth---the
-ocean, soils, and the atmosphere---by somewhere between a factor of
+amount of mercury moving around the active reservoirs of the Earth&mdash;the
+ocean, soils, and the atmosphere&mdash;by somewhere between a factor of
 three and seven," said associate professor of ocean sciences [**Carl
 Lamborg**](https://oceansci.ucsc.edu/faculty/index.php?uid=clamborg), an
 expert in the biogeochemistry of mercury. "Seventy-five percent or more
@@ -154,7 +154,7 @@ sharks. At every step up the food chain, the metal becomes more
 concentrated. Each tiny plankton accumulates mercury across its life,
 and fish eat these concentrated morsels. Plankton eaters have about 100
 times more mercury in their bodies than what's in their food. And top
-predators---like the tuna served at UCSC dining halls---have mercury
+predators&mdash;like the tuna served at UCSC dining halls&mdash;have mercury
 concentrations another 100 times higher than plankton eaters. When we
 eat tuna, more than 90 percent of the methylmercury in the fish remains
 in our bodies, stored mostly in fat. From there, some slowly releases as
@@ -234,7 +234,7 @@ child-bearing age (130 lbs.).**\
 While the mercury in tuna, humans, and pumas ultimately traces back to
 the methylmercury generated in the ocean by anaerobic bacteria, exactly
 how these microbes transform elemental mercury into methylmercury
-remains unknown. It's not a result of their metabolism---these anaerobes
+remains unknown. It's not a result of their metabolism&mdash;these anaerobes
 eat organic matter and breathe sulfate or oxidized iron. Another process
 must drive the change.
 
@@ -312,13 +312,13 @@ were unaware of the risk associated with eating too much tuna. "Many
 students seem to have limited to no understanding," she said. "It was
 alarming." Finkelstein said that while a national educational effort has
 aimed to keep women from eating mercury-rich fish during pregnancy, the
-risk to the general public---including to children and young adults,
-whose developing brains may also be vulnerable---isn't widely
+risk to the general public&mdash;including to children and young adults,
+whose developing brains may also be vulnerable&mdash;isn't widely
 acknowledged. "It has changed what I allow my children to eat,"
 Finkelstein said. "I think about it a lot. We are exposed to such a
 large amount of chemicals on a daily basis."
 
-This risk---and the element's enigmatic ways---keep the UCSC mercury
+This risk&mdash;and the element's enigmatic ways&mdash;keep the UCSC mercury
 scientists engaged. "I've been working in the field for almost 20 years
 trying to understand the fate and transport of mercury in the
 environment," said Weiss-Penzias. "It's still quite vexing."

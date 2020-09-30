@@ -94,8 +94,8 @@ national, and international media outlets, in newspapers, radio,
 television, online media, peer-reviewed journals, magazines, and
 university public relations. Covid-19 and near-constant attacks on the
 credibility of science and the news media make the accurate, engaging
-science journalism practiced by SciCom graduates---as exemplified by
-their writing herein---more important than ever.
+science journalism practiced by SciCom graduates&mdash;as exemplified by
+their writing herein&mdash;more important than ever.
 
 In these abruptly trying times, we hope you stay safe and enjoy reading
 this year's *inquiry\@UC Santa Cruz.*

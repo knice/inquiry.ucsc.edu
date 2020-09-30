@@ -38,8 +38,8 @@ diversity, Gilbert said. "We have this amazing living laboratory
 campus."
 
 When a new disease-causing fungus invades an ecosystem, there is often
-sparse science to inform---and frequently little time to
-determine---what might be done to limit its spread and impact. Gilbert
+sparse science to inform&mdash;and frequently little time to
+determine&mdash;what might be done to limit its spread and impact. Gilbert
 hopes his research, besides illuminating the less obvious, will help
 inform such actions by improving our understanding of the biology
 through which plants and fungi interact.

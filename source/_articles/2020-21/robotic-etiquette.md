@@ -122,7 +122,7 @@ typically does the selfish thing and sits smack in the center, leaving
 little room for human passengers. The same happens in hospital
 corridors, where robots bother staff by hogging space. "Most humans know
 it's not polite to do that. We use interactive behavior programming to
-help people help robots do the right thing---it's basically teaching
+help people help robots do the right thing&mdash;it's basically teaching
 them social skills," Takayama said.
 
 As might be expected, people warm up to robots that behave more like

@@ -37,8 +37,8 @@ In the fight against global poverty, rigorous field research can provide
 important insights. This conclusion determined the [2019 Nobel Prize in
 Economic
 Sciences](https://www.nobelprize.org/uploads/2019/10/press-economicsciences2019-2.pdf),
-awarded to three researchers---Abhijit Banerjee, Esther Duflo, and
-Michael Kremer---for their pioneering efforts in applying this approach
+awarded to three researchers&mdash;Abhijit Banerjee, Esther Duflo, and
+Michael Kremer&mdash;for their pioneering efforts in applying this approach
 to the study of economics in developing countries. This rigorous,
 quantitative methodology also drives the work of associate professor and
 development economist [**Jonathan

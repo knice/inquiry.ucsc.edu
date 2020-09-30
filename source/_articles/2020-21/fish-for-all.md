@@ -62,7 +62,7 @@ But farmed seafood faces the same long-term sustainability problem as
 capture fisheries: dwindling stocks of wild fish. Fish farming
 operations depend on smaller wild fish, like anchovies, sardines, and
 mackerel, to feed the larger fish that end up on our dinner plates.
-These smaller species---called "forage fish"---live lower on the food
+These smaller species&mdash;called "forage fish"---live lower on the food
 chain where they provide an important base of the marine food web,
 critically supporting everything from larger fish to marine mammals and
 seabirds. According to a 2017
@@ -110,7 +110,7 @@ oil.
 Kapuscinski's work to create a green and nutritionally superior
 aquaculture sector with minimal environmental impact is "valuable and
 progressive," said Naylor. There are "real opportunities for
-improvement," she said, "and they are right there at UCSC---it's time to
+improvement," she said, "and they are right there at UCSC&mdash;it's time to
 find replacements for wild fishmeal."
 
 ## Nutritional nuances ##
@@ -140,8 +140,8 @@ eaten the microalgae.
 in cages like these in Lake Kariba in Zimbabwe, Africa. Tilapia farming
 currently uses feeds that contain substantial amounts of fishmeal and
 fish oil derived from wild fish. Such feeds are wasteful and ultimately
-unsustainable, and---as research performed by Kapuscinski and her team
-is showing---can likely be replaced with more environmentally-friendly
+unsustainable, and&mdash;as research performed by Kapuscinski and her team
+is showing&mdash;can likely be replaced with more environmentally-friendly
 fish-free feeds. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/267218/">M. Reantaso, courtesy of FAO Aquaculture
 Photo
 Library</a>.</figcaption>
@@ -214,8 +214,8 @@ types of marine microalgae together, we get a superior diet."
 
 A big concern with using algae for fish feed is its potentially high
 cost. Companies are already using less-expensive alternatives such as
-soy, corn, and canola to reduce the fishmeal---which has become more
-expensive---in their feeds. But these substitutes are not healthy for
+soy, corn, and canola to reduce the fishmeal&mdash;which has become more
+expensive&mdash;in their feeds. But these substitutes are not healthy for
 fish or humans eating the fish, nor are they sustainable solutions. They
 lack the omega-3s, have lower digestibility, and contain antinutrients,
 compounds that actually interfere with nutrient absorption. For example,
@@ -268,7 +268,7 @@ different experimental diets. Credit: Kapuscinski-Sarker Lab.</figcaption>
 ## Salmon in sight ##
 
 While most of their work to date has focused on tilapia, Kapuscinski and
-Sarker have set their sights on another goal---to create a fish-free
+Sarker have set their sights on another goal&mdash;to create a fish-free
 feed for farmed trout, a member of the salmon family. The trout,
 however, serve as a model for salmon, the ultimate prize. Touted for its
 health benefits, salmon is one of the highest economic value fishes
@@ -279,7 +279,7 @@ tonnes](http://www.fao.org/fishery/culturedspecies/Salmo_salar/en)
 and gobbles up about [25 percent and 50
 percent](https://onlinelibrary.wiley.com/doi/full/10.1111/jfb.12224)
 of the world's production of fishmeal and fish oil, respectively.
-China---the world's largest aquaculture producer---now has plans to
+China&mdash;the world's largest aquaculture producer&mdash;now has plans to
 [farm millions of
 salmon](http://www.xinhuanet.com/english/2019-02/26/c_137852335.htm)
 in giant offshore pens in the middle of Yellow Sea, between mainland
