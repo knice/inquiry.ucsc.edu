@@ -40,8 +40,6 @@ in-the-news:
       url: https://news.ucsc.edu/2019/06/tuna-consumption.html
 ---
 {% include_relative sidebars/dangerous-element-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
-
-
 Along Northern California's coastline, scientists have found concerning
 levels of mercury in two top predators. In the Santa Cruz Mountains,
 [**Peter Weiss-Penzias**](https://research.pbsci.ucsc.edu/metx/pweiss/),
@@ -55,13 +53,13 @@ Finkelstein**](https://envs.ucsc.edu/faculty/directory_lecturers.php?uid=myraf),
 an adjunct associate professor, documented that some students were
 eating [more than 20 servings of tuna a
 week](https://setac.onlinelibrary.wiley.com/doi/pdf/10.1002/etc.4513)---enough
-to accumulate potentially harmful levels of mercury in their bodies. 
+to accumulate potentially harmful levels of mercury in their bodies.
 
 Both cases are worrisome. Mercury is a neurotoxin, and high enough doses
 degrade the mental capacities and motor skills of those exposed. In
 pregnant mothers, the metal can enter the womb and harm infant brains.
 And the silvery element can build up in the living tissues of both
-plants and animals, compounding the danger. 
+plants and animals, compounding the danger.
 
 Despite relatively recent laws and treaties that now limit its release,
 a lot of mercury has wound up in bodies of water&mdash;creeks, rivers,
@@ -294,7 +292,7 @@ in its inert cinnabar form. But even with targeted clean-up efforts at
 some reservoirs and wetlands, we can't do anything about most of the
 mercury we've already unleashed. "You can't clean up the ocean, you
 can't clean up the atmosphere," said Weiss-Penzias. "It's just too
-dispersed." 
+dispersed."
 
 Meanwhile, Weiss-Penzias continues to study how mercury makes its way
 into the mouths of humans and other animals. After he published his
@@ -304,7 +302,7 @@ Weiss-Penzias hopes [an experiment he's
 planning](https://experiment.com/projects/mercury-is-in-our-fog-so-what-about-our-food)
 can help address some of the concerns, by measuring how mercury-laden
 fog might be affecting strawberries, broccoli, and artichokes grown on
-the Central Coast. 
+the Central Coast.
 
 More education about mercury exposure is probably also a good idea. In
 her dining hall study, Finkelstein found that nearly all the students
