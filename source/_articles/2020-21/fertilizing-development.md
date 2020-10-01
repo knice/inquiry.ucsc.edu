@@ -29,7 +29,7 @@ Roughgarden, courtesy of Jonathan Robinson.</figcaption>
 </figure>
 
 <figure class="">
-  {% asset 2020/tanzania-market.jpg @magick:resize=600 alt:'unpaved road, Mamba Tanzania' %}<figcaption>Trips on unpaved roads, such as this one in Tanzania between the Mamba
+  {% asset 2020/tanzania-muddy-road.jpg @magick:resize=600 alt:'unpaved road, Mamba Tanzania' %}<figcaption>Trips on unpaved roads, such as this one in Tanzania between the Mamba
 market and the Gonjanja village, can be major constraints in terms of
 both time and cost for farmers traveling to markets to buy fertilizer or
 other goods, especially when it rains. Credit: David Roughgarden,

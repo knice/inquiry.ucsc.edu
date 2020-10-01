@@ -16,7 +16,7 @@ Efforts to improve sensors that can measure biological substances in or
 on the body&mdash;for monitoring glucose in diabetics, for example&mdash;face
 the challenge of working at the pH (hydrogen ion) levels found in living
 organisms. Human blood, sweat, and tears typically have a pH of around
-'7'. "Unfortunately, many metals that are good at measuring substances
+&#55;. "Unfortunately, many metals that are good at measuring substances
 like glucose are only effective at pH 11," said professor of electrical
 engineering [**Marco
 Rolandi**](https://rolandi.soe.ucsc.edu/index.html).
@@ -34,7 +34,7 @@ Covarrubia and family' %}<figcaption>Professor of electrical engineering Marco R
 a metal-based biosensor for measuring glucose in pH-neutral fluids like
 those found in the human body. Here, Rolandi points to an enlarged image
 of the device in his laboratory while (left to right) doctoral students
-<strong>Harika Dechiraju</strong>, <strong>Manping Jia</strong>, and <strong>John Selberg</strong> look on.
+<strong><a href="https://rolandi.soe.ucsc.edu/people/harika.html">Harika Dechiraju</a></strong>, <strong><a href="https://rolandi.soe.ucsc.edu/people/manping.html">Manping Jia</a></strong>, and <strong><a href="https://rolandi.soe.ucsc.edu/people/jack.html">John Selberg</a></strong> look on.
 Credit: C. Lagattuta.</figcaption>
 </figure>
 

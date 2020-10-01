@@ -40,7 +40,7 @@ All the game&#39;s cards depict black men, and half of them are Kanye West.
 Credit: A. M. Darke, with permission.</figcaption>
 </figure>
 
-*By requiring players* to describe and differentiate among black men,
+By requiring players to describe and differentiate among black men,
 *'ye or nay?* provides opportunities for them to reflect on their
 perceptions and biases in an engaging way, Darke said. But the main goal
 of depicting black faces is so black people can see themselves
