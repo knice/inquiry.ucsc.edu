@@ -93,7 +93,7 @@ conquests, and increasingly, its potential as a weapon against some of
 humanity's greatest scourges. "It's an amazing organism," said [**Laura
 Serbus**](https://case.fiu.edu/about/directory/profiles/serbus-laura.html),
 a former postdoc of Sullivan's who now studies *Wolbachia* in her own
-lab as assistant professor of biological sciences at Florida
+lab as an assistant professor of biological sciences at Florida
 International University. "It's teaching us so much about how infections
 and cells themselves work."
 
@@ -161,12 +161,6 @@ chromosomes. But in the case of CI, the father's chromosomes are late to
 the party. They're slow to replicate and fail to line up in time for
 cleavage. This leaves the daughter cells with only half the chromosomes
 they need. The embryo is DOA.
-<figure class="" style="width:600px;">
-  {% asset 2020/polar-express.png @magick:resize=600 alt:'Walbachia in drosophilia egg 2' %}<figcaption>Polar express: <em>Wolbachia</em> (tiny red specks) are seen here flocking to
-the posterior pole (lower right) of a fertilized <em>Drosophila</em> egg,
-putting themselves in position to get incorporated into the next
-generation of eggs. Credit: Laura Serbus, with permission.</figcaption>
-</figure>
 
 Sullivan and Tram submitted their findings to the journal [*Science* in
 2002](https://www.ncbi.nlm.nih.gov/pubmed/12004132). The paper was
@@ -203,7 +197,12 @@ mechanics](https://sullivan.mcdb.ucsc.edu/pdf/Serbus_2007.pdf) described
 in the opening paragraphs above: how *Wolbachia* infiltrates cellular
 supply lines, latches onto motor proteins, and changes horses in
 mid-stream to get to the rear of the egg.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/polar-express.png @magick:resize=600 alt:'Walbachia in drosophilia egg 2' %}<figcaption>Polar express: <em>Wolbachia</em> (tiny red specks) are seen here flocking to
+the posterior pole (lower right) of a fertilized <em>Drosophila</em> egg,
+putting themselves in position to get incorporated into the next
+generation of eggs. Credit: Laura Serbus, with permission.</figcaption>
+</figure>
 It's a bravura display of evolutionary ingenuity, and not least because
 *Wolbachia* strikes such a delicate balance. While it binds to some of
 the available motor proteins, it also leaves plenty of slots open for
@@ -243,7 +242,12 @@ systems. Mechanized microscopes could scan the samples and analyze the
 results. This automated approach made procedures like knockout genetics
 hundreds of times faster. "We could accomplish in weeks what would have
 taken years," Sullivan said.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/drug-screaning-setup.jpg @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>Automated screening of anti-<em>Wolbachia</em> drugs at UC Santa Cruz was
+performed using the high-throughput facility shown here, implemented
+with the help of professor of chemistry Scott Lokey. Credit: Roger
+Linington, with permission.</figcaption>
+</figure>
 ## The worm turns ##
 
 In the mid-2000s, Sullivan's research took another turn when he learned
@@ -324,7 +328,11 @@ Research](https://www.scripps.edu/science-and-medicine/calibr/)
 next-generation medicines, and set them up with the cell line and assay
 system. Together, Calibr and Sullivan's lab have now identified several
 promising drug candidates while screening more than 300,000 compounds.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows <em>Wolbachia</em> (green
+specks) in the developing eggs. Credit: Frederic Landmann, with
+permission.</figcaption>
+</figure>
 ## The dark side of symbiosis ##
 {% include_relative sidebars/weaponizing-wolbachia.html classes="left" bgcolor="#f1f1f1" %} 
 While Calibr and other organizations continue to search for new drugs,
@@ -341,11 +349,7 @@ scrambled, the embryos fatally deformed. In adult worms,
 [apoptosis](https://en.wikipedia.org/wiki/Apoptosis)---a type of
 programmed cell death that organisms use to cull unwanted cells&mdash;went
 wild, leading to the mass suicide of normal cells.
-<figure class="" style="width:600px;">
-  {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows <em>Wolbachia</em> (green
-specks) in the developing eggs. Credit: Frederic Landmann, with
-permission.</figcaption>
-</figure>
+
 No wonder the worms need *Wolbachia* to live; it seems to play a role in
 regulating several essential processes. But for Sullivan, that left a
 nagging question. Why do the nematodes rely on a bacterium to do things
@@ -372,12 +376,7 @@ ultimately a dependence on its presence. Simply by its presence, the box
 store created a need where none previously existed. Both in society and
 in biology, addictive symbiosis may be the rule rather than the
 exception."
-<figure class="" style="width:600px;">
-  {% asset 2020/drug-screaning-setup.jpg @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>Automated screening of anti-<em>Wolbachia</em> drugs at UC Santa Cruz was
-performed using the high-throughput facility shown here, implemented
-with the help of professor of chemistry Scott Lokey. Credit: Roger
-Linington, with permission.</figcaption>
-</figure>
+
 Whether it's a cozy alliance or hostile takeover, worm and germ may be
 headed for a full-blown merger. Sullivan and others speculate that
 *Wolbachia* might someday become an intrinsic feature of its nematode
@@ -391,7 +390,7 @@ mutualist](https://study.com/academy/lesson/symbiotic-relationships-mutualism-co
 can be. *Wolbachia* blurs the bright lines between those categories, and
 between organisms themselves. It tends to fuzz the boundaries between
 scientific domains, too. **"**The work that Bill's done has given us new
-insight into how Wolbachia does its thing, and in the long run my bet is
+insight into how *Wolbachia* does its thing, and in the long run my bet is
 that it's going to help us understand how symbionts in general do their
 thing," said [Barton
 Slatko](https://www.linkedin.com/in/barton-slatko-42960612), a molecular
