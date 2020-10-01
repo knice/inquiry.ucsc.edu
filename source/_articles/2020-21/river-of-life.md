@@ -184,6 +184,7 @@ ambitious ideas of large-scale engineering and profits that shaped and
 rapidly changed Egypt in the decades to come.
 
 ## Greater contact ##
+
 {% include_relative sidebars/dam-drawbacks.html classes="left" bgcolor="#f1f1f1" %}
 Even before the first large dam tamed the Nile, the new focus on summer
 irrigation put Egyptian laborers into greater contact with the water,

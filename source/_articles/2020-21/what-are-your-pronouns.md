@@ -44,9 +44,6 @@ in-the-news:
 ---
 {% include_relative sidebars/pronouns-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 
-As choices for gender and sexual identities expand, the world slowly
-changes
-
 Unlike computers that only deal with "0" or "1", humans can imagine the
 often murky grey that exists between viewpoints. When it comes to gender
 identity, however, this ability to think beyond a rigid duality remains
@@ -71,15 +68,7 @@ directs the Sexual and Gender Diversity Lab, has devoted his career to
 understanding the diversity of sexual and gender identities. His more
 recent research explores what nonbinary thinking and the proliferation
 of identities mean for intimate relationships.
-<figure class="left" style="width:300px;">
-  {% asset 2020/restroom-sign.jpg @magick:resize=300 alt:'All gener restroom sign' %}<figcaption>According to Hammack, the gender binary of &quot;male&quot; and &quot;female&quot; is a
-thing of the past, as documented by this sign outside an all-gender
-restroom at the San Diego airport in California. Hammack studies the
-increasing fluidity and diversity of gender identities among U.S. youth.
-Credit: <a href="https://commons.wikimedia.org/wiki/File:All_gender_restroom_sign_San_Diego_airport.jpg">Wikimedia
-Commons</a>
-(CC BY-SA 3.0).</figcaption>
-</figure>
+
 Despite major victories like marriage equality, Hammack and his
 collaborators have discovered that bias and discrimination remain a
 problem for lesbian, gay, and bisexual (LGB) individuals, with many
@@ -104,23 +93,22 @@ they meant."
 We spoke with Hammack at UC Santa Cruz's Stevenson College to discuss
 the gender and sexual diversity movement, and what his research reveals
 about it.
-
+<figure class="left" style="width:300px;">
+  {% asset 2020/restroom-sign.jpg @magick:resize=300 alt:'All gener restroom sign' %}<figcaption>According to Hammack, the gender binary of &quot;male&quot; and &quot;female&quot; is a
+thing of the past, as documented by this sign outside an all-gender
+restroom at the San Diego airport in California. Hammack studies the
+increasing fluidity and diversity of gender identities among U.S. youth.
+Credit: <a href="https://commons.wikimedia.org/wiki/File:All_gender_restroom_sign_San_Diego_airport.jpg">Wikimedia
+Commons</a>
+(CC BY-SA 3.0).</figcaption>
+</figure>
 **What's behind the emerging embrace of gender and sexual diversity?** I think the real, decisive change we see is related to information&mdash;how
 people access and control it. In the 20th century, we looked to science,
 doctors, and medicine as sources of expertise on these topics. And
 because we were limited to that basis of how knowledge was constructed
 and disseminated, it was hard to challenge the stigma associated with
 that framework.
-<figure class="" style="width:600px;">
-  {% asset 2020/pride-flag-supreme-court.jpg @magick:resize=600 alt:'All gener restroom sign' %}<figcaption>A man waves a Pride flag outside the United States Supreme Court in
-Washington, DC, during deliberations on the Obergefell vs. Hodges case
-for same-sex marriage on April 28, 2015. Two months later, the Supreme
-Court ruled to end marriage discrimination. According to a five-year
-study conducted by Hammack and colleagues, marriage equality in the U.S.
-hasn&#39;t eliminated discrimination against LGB community members. Credit:
-<a href="https://www.flickr.com/photos/taedc/17113823229">Ted Eytan</a> (CC BY-SA
-2.0).</figcaption>
-</figure>
+
 But then came the internet, and eventually social media. The latter was
 pivotal to the creation of nonbinary thinking. It has allowed people to
 find one another. You can now educate yourself using Wikipedia, of all
@@ -188,7 +176,16 @@ around having sex. They experienced a rhetoric that characterized gay
 men as disease carriers who were inevitably going to die, whereas the
 older and younger generations shared an openness around sex because that
 rhetoric was absent.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/pride-flag-supreme-court.jpg @magick:resize=600 alt:'All gener restroom sign' %}<figcaption>A man waves a Pride flag outside the United States Supreme Court in
+Washington, DC, during deliberations on the Obergefell vs. Hodges case
+for same-sex marriage on April 28, 2015. Two months later, the Supreme
+Court ruled to end marriage discrimination. According to a five-year
+study conducted by Hammack and colleagues, marriage equality in the U.S.
+hasn&#39;t eliminated discrimination against LGB community members. Credit:
+<a href="https://www.flickr.com/photos/taedc/17113823229">Ted Eytan</a> (CC BY-SA
+2.0).</figcaption>
+</figure>
 **Why are things still difficult for LGB youth?** Ilan believed that the younger cohort would have had less minority stress than the older
 generation, but we observed that the way stigma works in people's lives
 has just been rearranged. There's now more opportunity to be out, but
