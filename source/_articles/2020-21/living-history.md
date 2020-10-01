@@ -17,7 +17,7 @@ further-inquiry:
       url: https://www.isaacjulien.com/
     - title: "Insights into the making of 'Lessons of the Hour' Artist Isaac Julien in Conversation with John Hanhardt"
       url: https://www.youtube.com/watch?v=DJDRSmaQ5eU
-    - title: "Views of the exhibition with ASL interpretation: Lessons of the Hour [ASL Interpretation]"
+    - title: "Views of the exhibition with ASL interpretation: Lessons of the Hour. [ASL Interpretation]"
       url: https://www.youtube.com/watch?v=ly5owXZknaE
     - title: "Tate interview with Julien: Isaac Julien---'I'm Interested in Poetry' | TateShots"
       url: https://www.youtube.com/watch?v=hcQxjc0mcK0
@@ -56,13 +56,26 @@ innovative new and emerging media techniques and technologies that bring
 his historical subjects to life, Julien aims for others to see
 them&mdash;now including the lifelong activist Douglass&mdash;as he does,
 through a lens of 21st-century sensibility and perspective.
-
+<figure class="left" style="width:300px;">
+  {% asset 2020/julien-in-gallery.jpg @magick:resize=300 alt:'Walbachia in nematode oocyte' %}<figcaption>Julien describes creating his art as involvement in poetry. &quot;My work is
+very much a poetic quest for a language to express experiences which are
+part of the everyday experience of people like myself,&quot; he once told the
+<a href="https://www.youtube.com/watch?v=hcQxjc0mcK0">Tate</a>.
+&quot;Dance, theater, music, sculpture, painting&mdash;all of these different
+modes of art-making are encapsulated into my practice, which is why I
+chose film as a medium for making my work.&quot; Credit: <a href="http://mag.rochester.edu/about/directors-letter/">Jonathan
+Binstock</a>,
+courtesy of <a href="https://mag.rochester.edu/">Memorial Art
+Gallery</a>, University of
+Rochester.
+</figcaption>
+</figure>
 "I'm very interested in how we can look at these past figures and
 contemporize them for a whole new audience," said the moving-image
 artist, known globally for his path-breaking work in films and video
 installation. To do this in the recently exhibited *[Lessons of the
 Hour&mdash;Frederick
-Douglas](https://www.isaacjulien.com/projects/37/)s*,
+Douglass](https://www.isaacjulien.com/projects/37/)*,
 Julien included disparate elements, sometimes all simultaneously:
 visualizations of the famous abolitionist in some of his most poignant
 moments, broadcasts of his oratory that resonate with today's issues,
@@ -71,6 +84,26 @@ intriguing, and even jarring. The intent, Julien said, is to utilize new
 media and cinema technologies, along with new archival research and
 understandings, "to create an active relationship between past and
 present, as a way of commenting on the moment that we inhabit."
+
+The result is a compelling mesh of past and present that provokes the
+audience to consider possible connections between the two. This type of
+engagement is one of the hallmarks of Julien's work, which spans decades
+and covers widely varying social and cultural subjects, including the
+Harlem Renaissance poet [Langston
+Hughes](https://www.poetryfoundation.org/poets/langston-hughes)
+in the film [*Looking for
+Langston*](https://www.isaacjulien.com/projects/looking-for-langston/)
+(1989) and the crisis of migration into Europe in his work [*Western
+Union Small
+Boats*](https://www.isaacjulien.com/projects/western-union-small-boats/)
+(2007). "Isaac has a way of synthesizing our understanding of the past
+that brings its relevance into the present and helps us to understand
+how we all connect in the context of history," said [Jonathan
+Binstock](http://mag.rochester.edu/about/directors-letter/),
+director of the University of Rochester's [Memorial Art
+Gallery](https://mag.rochester.edu/), during a [public
+talk](https://www.youtube.com/watch?v=DJDRSmaQ5eU) about the Douglass exhibition.
+
 <figure class="" style="width:600px;">
   {% asset 2020/on-train.jpg @magick:resize=600 alt:'Still scene from Lessons of the Hour' %}<figcaption>While making <em>Lessons of the Hour</em>, Julien worked with experts in the
 history of photography at the <a href="https://www.eastman.org/">Eastman
@@ -89,39 +122,6 @@ Gallery</a>, New York; and
 London/Venice.
 </figcaption>
 </figure>
-The result is a compelling mesh of past and present that provokes the
-audience to consider possible connections between the two. This type of
-engagement is one of the hallmarks of Julien's work, which spans decades
-and covers widely varying social and cultural subjects, including the
-Harlem Renaissance poet [Langston
-Hughes](https://www.poetryfoundation.org/poets/langston-hughes)
-in the film [*Looking for
-Langston*](https://www.isaacjulien.com/projects/looking-for-langston/)
-(1989) and the crisis of migration into Europe in his work [*Western
-Union Small
-Boats*](https://www.isaacjulien.com/projects/western-union-small-boats/)
-(2007). "Isaac has a way of synthesizing our understanding of the past
-that brings its relevance into the present and helps us to understand
-how we all connect in the context of history," said [Jonathan
-Binstock](http://mag.rochester.edu/about/directors-letter/),
-director of the University of Rochester's [Memorial Art
-Gallery](https://mag.rochester.edu/), during a [public
-talk](https://www.youtube.com/watch?v=DJDRSmaQ5eU) about
-<figure class="left" style="width:300px;">
-  {% asset 2020/julien-in-gallery.jpg @magick:resize=300 alt:'Walbachia in nematode oocyte' %}<figcaption>Julien describes creating his art as involvement in poetry. &quot;My work is
-very much a poetic quest for a language to express experiences which are
-part of the everyday experience of people like myself,&quot; he once told the
-<a href="https://www.youtube.com/watch?v=hcQxjc0mcK0">Tate</a>.
-&quot;Dance, theater, music, sculpture, painting&mdash;all of these different
-modes of art-making are encapsulated into my practice, which is why I
-chose film as a medium for making my work.&quot; Credit: <a href="http://mag.rochester.edu/about/directors-letter/">Jonathan
-Binstock</a>,
-courtesy of <a href="https://mag.rochester.edu/">Memorial Art
-Gallery</a>, University of
-Rochester.
-</figcaption>
-</figure>
-
 *Lessons of the Hour* project curator [John
 Hanhardt](https://en.wikipedia.org/wiki/John_Hanhardt)
 described Julien's work as a type of "philosophical cinema" that brings
@@ -255,8 +255,8 @@ play out. One example is when the actor Fearon, as Douglass, addresses
 an audience seated in a [Royal Academy of
 Arts](https://www.royalacademy.org.uk/) lecture hall.
 Members dressed in both contemporary and 19th-century clothing listen
-intently as Douglass delivers passages from "*What to the Slave Is the
-4th of July?*" At the same time on other screens around the room, aerial
+intently as Douglass delivers passages from "What to the Slave Is the
+4th of July?" At the same time on other screens around the room, aerial
 drone shots emerge of modern-day Baltimore, the site of the 2015 Freddie
 Gray protests and riots that fueled the [Black Lives
 Matter](https://blacklivesmatter.com/) movement against
@@ -275,7 +275,7 @@ issues in the 21st century," Julien said.
 <figure class="" style="width:600px;">
   {% asset 2020/douglass-home.jpg @magick:resize=600 alt:'Fredrick Douglass home' %}<figcaption>Photographs filled the house in Washington, DC, where Frederick Douglass
 spent his final years. Intrigued by the emerging technology and called
-the most photographed American of the 19^th^ century, Douglass talked
+the most photographed American of the 19<sup>th</sup> century, Douglass talked
 about his fascination with photography in his &quot;<a href="https://www.loc.gov/resource/mfd.22004/?sp=1">Lecture on
 Pictures</a>.&quot;
 During his research into Douglass, Julien discovered their mutual
