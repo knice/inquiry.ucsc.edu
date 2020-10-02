@@ -94,7 +94,7 @@ identified by the state as "mercury-impaired."
 <figure class="" style="width:600px;">
   {% asset 2020/cinnabar-quicksilver.jpg @magick:resize=600 alt:'Cinnabar and quicksilver' %}<figcaption>Cinnabar (left), mercury sulfide (HgS), with its distinctive red color,
 was extensively mined throughout California during the Gold Rush era to
-provide quicksilver (right), liquid elemental mercury (Hg^0^) that
+provide quicksilver (right), liquid elemental mercury (Hg0) that
 played a key role in placer mining for gold. Gold mining and coal energy
 production have contributed to a substantial amount of this toxic
 element contaminating the environment. Credit: cinnabar, <a href="https://commons.wikimedia.org/wiki/File:Cinnabarit_01.jpg">H.
@@ -127,19 +127,19 @@ human activity."
 ## Mobilized metal ##
 
 All this mobilized mercury exists in three main forms. Its elemental
-form, Hg^0^, the liquid quicksilver at room temperature, easily
+form, Hg0, the liquid quicksilver at room temperature, easily
 volatilizes into a gas. That gaseous mercury becomes charged in the
-atmosphere to its Hg^2+^ form, or mercuric ions. These ions can diffuse
+atmosphere to its Hg<sub>2</sub><sup>+</sup> form, or mercuric ions. These ions can diffuse
 into water. Under low-oxygen conditions, such as in lake bottom,
 coastal, and seafloor sediments, bacteria convert mercuric ions into
 [methylmercury](https://www.epa.gov/mercury/how-people-are-exposed-mercury)
-(CH~3~Hg^+^) ions. Toxicologists worry especially about methylmercury.
+(CH<sub>3</sub>Hg<sup>+</sup> ions. Toxicologists worry especially about methylmercury.
 "The mercury in our bodies is mostly methylmercury," said Lamborg.
 "Methylmercury by itself is not necessarily more toxic than any other
 form of mercury, but it sits there as a reservoir that bleeds out into
 the rest of your tissues."
-<figure class="left" style="width:300px;">
-  {% asset 2020/sushi.jpg @magick:resize=300 alt:'Sushi' %}<figcaption>Looks good, but perhaps you shouldn&#39;t eat it too often; some types of
+<figure class="" style="width:600px;">
+  {% asset 2020/sushi.jpg @magick:resize=600 alt:'Sushi' %}<figcaption>Looks good, but perhaps you shouldn&#39;t eat it too often; some types of
 tuna contain potentially concerning levels of mercury that end up in
 you. Credit: <a href="https://www.goodfreephotos.com/food/tuna-fish-sushi-on-a-plate.jpg.php">public
 domain</a>
@@ -257,9 +257,9 @@ Munson](https://www.researchgate.net/profile/Kathleen_Munson), now a
 postdoctoral fellow at the University of Manitoba, methylmercury
 continued to form in seawater samples after all the microbes were
 filtered out. Lamborg has some leads on the mystery reaction. Bacteria
-produce vitamin B~12~, and that could react with mercuric ions to
+produce vitamin B<sub>12</sub>, and that could react with mercuric ions to
 produce methylmercury. "There\'s all this circumstantial evidence
-suggesting that we should be looking for a B~12~-related mechanism," he
+suggesting that we should be looking for a B<sub>12</sub>-related mechanism," he
 said.
 
 Another enigma lies at the bottom of the San Francisco Bay, where the
@@ -275,8 +275,8 @@ Lamborg. "If we messed with that system in some way, that could make
 that mercury suddenly bioavailable to methylating bacteria."
 <figure class="" style="width:600px;">
   {% asset 2020/geotraces.jpg @magick:resize=600 alt:'Cinnabar and quicksilver' %}<figcaption>Scientists on a <a href="https://www.geotraces.org/">GEOTRACES</a> cruise
-retrieve ocean water samples from an instrument called the <a href="https://en.wikipedia.org/wiki/CTD_(instrument">CTD
-Rosette</a>). GEOTRACES
+retrieve ocean water samples from an instrument called the <a href="https://en.wikipedia.org/wiki/CTD_(instrument)">CTD
+Rosette</a>. GEOTRACES
 expeditions have allowed researchers, including associate professor of
 ocean sciences and mercury biogeochemistry expert Carl Lamborg, to
 measure the concentration of mercury and other trace metals at various
