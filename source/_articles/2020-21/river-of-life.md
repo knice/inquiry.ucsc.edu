@@ -7,7 +7,7 @@ title: River of life
 subhead: "Modern history ties the altered Nile to disease"
 author:
   name: Cameron Walker
-  file: "2020/cameron-walker.jpg"
+  file: "2018/cameron-walker.jpg"
   url: 
 banner:
   file: 2020/nile-at-aswan.jpg
@@ -48,16 +48,6 @@ in-the-news:
       url: https://www.who.int/neglected_diseases/news/unprecedented-treatment-coverage-bilharzia-intestinal-worms/en/
 ---
 {% include_relative sidebars/river-of-life-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
-
-<figure class="" style="width:600px;">
-  {% asset 2020/nile-from-space.jpg @magick:resize=600 alt:'Image of the Nile from space' %}<figcaption>The green ribbon of the Nile River, seen from orbit, flows northward to
-the Mediterranean Sea. More than 95 percent of Egyptians live within a
-few miles of the river, which has made the surrounding land fertile and
-prosperous for thousands of years. Credit: <a href="https://water.usgs.gov/edu/gallery/watercyclekids/freshwater-nile.html">Jeff Schmaltz, NASA Visible
-Earth</a>
-(public domain).</figcaption>
-</figure>
-
 Every August, the flood came. The river spilled and filled into the
 basins Egyptian farmers had carved out to hold the water that made crops
 thrive. When the floodwaters receded in October, farmers planted the
@@ -67,16 +57,7 @@ fruits, and vegetables grew on riverbanks. And when the flood came
 again, it cleansed the soil for the next season while nurturing flood
 crops like maize, rice, and sorghum, staple foods for local farming
 communities.
-<figure class="right" style="width:300px;">
-  {% asset 2020/schistosome-sem.jpg @magick:resize=300 alt:'Paired adult schistosome worms' %}<figcaption>Paired adult schistosome worms, each about a centimeter in length, live
-in the veins of their human host. This scanning electron micrograph
-shows the oral and ventral suckers of the larger male (top). The
-enveloped female (smaller, below, in groove), continuously produces as
-many as 300 eggs each day, equivalent in total to its body weight.
-Credit: <a href="https://commons.wikimedia.org/wiki/File:Schistosome_Parasite_SEM.jpg">Bruce Wetzel, National Cancer
-Institute</a>
-(public domain).</figcaption>
-</figure>
+
 The lives of the people along the Nile, too, swayed to this seasonal
 rhythm. Villagers tended to the flow of the river when it rose; they
 planted crops when it fell. They feasted after the spring harvest, then
@@ -100,7 +81,14 @@ flow of flood, winter, spring, and summer to a year-round calendar of
 crops. And in addition to transforming the river, the now ever-present
 water turned the bodies of Egyptians, particularly the men who worked
 the land, into new colonies of constant, debilitating disease.
-{% include_relative sidebars/breaking-the-cycle.html classes="right" bgcolor="#f1f1f1" %}
+<figure class="" style="width:600px;">
+  {% asset 2020/low-aswan-dam.jpg @magick:resize=600 alt:'Nile and pyramids' %}<figcaption>A 1908 stereograph shows people crossing the Nile by way of the Khazan
+Aswan Dam, completed in 1902. This first large dam controlling the Nile
+would be raised two times to meet the increasing demand for irrigation.
+The much larger Aswan High Dam was completed in 1970. Credit: <a href="https://www.loc.gov/item/2009631297/">Library
+of Congress</a> (public
+domain).</figcaption>
+</figure>
 The research of UC Santa Cruz associate professor of history
 [**Jennifer
 Derr**](https://history.ucsc.edu/faculty/profiles/index.php?uid=jderr)
@@ -118,9 +106,25 @@ from environmental health," she said, whether along the Nile River more
 than a century ago or elsewhere in the world today. "This is one of the
 primary lenses through which I try to understand the effects of climate
 change and our experiences of the planet."
-
+<figure class="" style="width:600px;">
+  {% asset 2020/nile-from-space.jpg @magick:resize=600 alt:'Image of the Nile from space' %}<figcaption>The green ribbon of the Nile River, seen from orbit, flows northward to
+the Mediterranean Sea. More than 95 percent of Egyptians live within a
+few miles of the river, which has made the surrounding land fertile and
+prosperous for thousands of years. Credit: <a href="https://water.usgs.gov/edu/gallery/watercyclekids/freshwater-nile.html">Jeff Schmaltz, NASA Visible
+Earth</a>
+(public domain).</figcaption>
+</figure>
 ## The backstory ##
-
+<figure class="right" style="width:300px;">
+  {% asset 2020/schistosome-sem.jpg @magick:resize=300 alt:'Paired adult schistosome worms' %}<figcaption>Paired adult schistosome worms, each about a centimeter in length, live
+in the veins of their human host. This scanning electron micrograph
+shows the oral and ventral suckers of the larger male (top). The
+enveloped female (smaller, below, in groove), continuously produces as
+many as 300 eggs each day, equivalent in total to its body weight.
+Credit: <a href="https://commons.wikimedia.org/wiki/File:Schistosome_Parasite_SEM.jpg">Bruce Wetzel, National Cancer
+Institute</a>
+(public domain).</figcaption>
+</figure>
 Derr found her research focus while traveling a winding academic path.
 As an undergraduate at Stanford University, she studied biology and
 worked as an oncology researcher, thinking she would go into medicine.
@@ -147,7 +151,23 @@ health campaigns against schistosomiasis, also called bilharzia, have
 been undertaken in Egypt, including a [recent \$10 million eradication
 effort supported by the World Health
 Organization](https://www.who.int/neglected_diseases/news/Egypt_leverages_domestic_funding_to_eliminate_schistosomiasis/en/).
-
+<figure class="" style="width:600px;">
+  {% asset 2020/schistosome-life-cycle.png @magick:resize=600 alt:'Lifecycle of Schistosomiasis' %}<figcaption>Parasitic flatworms of the genus <em>Schistosoma</em> cause the disease known
+as schistosomiasis. Two main species infect humans in sub-Saharan
+Africa: <em>S. haematobium,</em> which affects the urinary tract and <em>S.
+mansoni,</em> which affects the liver. The parasite&#39;s life cycle begins in
+freshwater snails, which release free-swimming &quot;cercariae&quot; that bore
+through human skin. Once inside a human host, the parasites grow into
+mature worms that pump out eggs. The eggs work their way through the
+tissues, over time resulting in chronic, progressive damage to the
+bladder or liver. Infected people pass along the eggs by urinating or
+defecating into water, where the eggs hatch into &quot;miracidia&quot; that infect
+the snails, starting the cycle anew. Credit: <a href="https://www.cdc.gov/dpdx/schistosomiasis/modules/Schistomes_LifeCycle_lg.jpg">Centers for Disease
+Control and
+Prevention</a>
+(public domain).
+</figcaption>
+</figure>
 The changes in the Nile substantially exacerbated the impact of
 schistosomiasis. Studies in the Nile Delta and Valley in the 1930s found
 that about 60 percent of people in areas with year-round irrigation were
@@ -185,7 +205,6 @@ rapidly changed Egypt in the decades to come.
 
 ## Greater contact ##
 
-{% include_relative sidebars/dam-drawbacks.html classes="left" bgcolor="#f1f1f1" %}
 Even before the first large dam tamed the Nile, the new focus on summer
 irrigation put Egyptian laborers into greater contact with the water,
 standing knee-deep as they operated the manual irrigation tools that
@@ -237,7 +256,15 @@ infections with the two species of schistosomes to geographic areas
 within Egypt, set up treatment programs for schistosomiasis and other
 diseases, and conducted public health campaigns to prevent infection. As
 Egypt's battle with the disease persisted, Egyptian physicians and
-scientists stood at the forefront of research and treatment, Derr said.
+scientists stood at the forefront of schistosomiasis research and treatment, Derr said.
+
+## Breaking the cycle ##
+
+Started in 1997, Egypt's [National Schistosomiasis Control Program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4293883/) offered the medication [praziquantel](https://en.wikipedia.org/wiki/Praziquantel) to all school children in the Nile Delta. By 2010, the infection rate had dropped from more than 30 percent in many rural villages to less than 3.5 percent. But schistosomiasis remains a public health concern, both in Egypt and elsewhere, with an estimated 140 million people infected worldwide. "It is true that incidence of infection has decreased," said Sanaa Antonios, professor of parasitology at Tanta University in Egypt. "However, in some spots in the country it is still present, which is alarming." Infections are especially common in children, who swim in the canals in the summer and don't know the danger of schistosomiasis, she said. Women are also at increased risk, as they are now much more likely to work in and around the water with men.
+
+And changing waterways are still a problem in Africa. In neighboring Ethiopia, a transformation in agriculture is underway, with new efforts to cultivate the lowland areas of the country to grow sugar, cotton, and other cash crops, said parasitologist [Bayissa Chala](https://www.researchgate.net/profile/Bayissa_Chala2) at the Adama Science and Technology University in Ethiopia. "Resurgence or even outbreak of urogenital schistosomiasis in endemic areas where the snail hosts thrive is possible," he said.
+
+In 2012, the World Health Organization launched [an effort to eliminate schistosomiasis as a public health issue by 2025](https://www.who.int/neglected_diseases/NTD_RoadMap_2012_Fullversion.pdf), primarily by targeting school-age children and other at-risk groups for preventive treatment with praziquantel. But a [recent status update](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785807/) indicates that many countries have failed to meet interim goals. "Although praziquantel is effective, it does not prevent re-infection," said [Laura Braun](https://www.imperial.ac.uk/people/laura.braun13), an engineer and researcher at Imperial College London. "Anyone going back in the lake or river is likely to get infected again." A multi-pronged approach that also includes water treatment and educational campaigns might be more effective than simply providing praziquantel, Braun said, "because it prevents people from getting infected in the first place."
 
 ## A larger narrative ##
 
@@ -278,14 +305,7 @@ campaign](https://www.nejm.org/doi/full/10.1056/NEJMp1915818), Egypt
 reported the highest prevalence of [hepatitis
 C](https://www.cdc.gov/hepatitis/hcv/index.htm) of any
 country in the world.
-<figure class="" style="width:600px;">
-  {% asset 2020/pyramids.jpg @magick:resize=600 alt:'Nile and pyramids' %}<figcaption>A 1908 stereograph shows people crossing the Nile by way of the Khazan
-Aswan Dam, completed in 1902. This first large dam controlling the Nile
-would be raised two times to meet the increasing demand for irrigation.
-The much larger Aswan High Dam was completed in 1970. Credit: <a href="https://www.loc.gov/item/2009631297/">Library
-of Congress</a> (public
-domain).</figcaption>
-</figure>
+
 Derr's next book will chronicle the history of liver disease in
 20th-century Egypt. Her research finds her scouring archives across the
 world, interviewing physicians, and attending scientific meetings on
@@ -330,3 +350,31 @@ happen to our own bodies." As our seasons become warmer and wilder, we
 may find ourselves altered as well, the channels of our personal
 watersheds harboring new threats from emerging viruses and other menaces
 not yet imagined. Where else will our changing rivers take us?
+
+## Dam drawbacks ##
+
+At the turn of the 19th century, the Khazan Aswan Dam was the largest dam ever built. Today, large dams span many of the world's rivers. Some 57,000 surpass 15 meters in height, according to [International Rivers](https://www.internationalrivers.org/resources/about-international-rivers-3679), an Oakland, CA--based global advocacy group focused on protecting rivers. Of these large dams, more than 300 are giants topping 150 meters and restraining enormous reservoirs. Now built primarily to produce hydropower, these huge dams cause vast changes to rivers, their surrounding landscapes, and the ecosystems they support. And more are coming: [At least 3,700 major dams](https://link.springer.com/article/10.1007%2Fs00027-014-0377-0), each with a power-generating capacity of more than 1 megawatt, are either planned or under construction, mostly in countries with emerging economies.
+
+The [Mekong River](https://en.wikipedia.org/wiki/Mekong), for example, has its headwaters in China and flows 4,350 km through Myanmar, Laos, Thailand, Cambodia, and Vietnam before reaching the South China Sea. One of the world's richest freshwater fisheries, the Mekong supports more migratory fish than any other river in the world, said [Brian Eyler](https://www.stimson.org/ppl/eyler/), the director of the Southeast Asia program at the [Stimson Center](https://www.stimson.org/) in Washington, DC. Along with fish, the river transports organic material that forms the basis of the food web, as well as sediment that provides nutrients for agriculture. "Dams block all that," said Eyler, author the 2019 book, [_The Last Days of the Mighty Mekong_](https://www.zedbooks.net/shop/book/last-days-of-the-mighty-mekong/).
+
+Dozens of dams currently dot the Mekong, with many more in the works. The [Xayaburi Dam](https://en.wikipedia.org/wiki/Xayaburi_Dam), a large dam in Laos, started operating in October 2019; in Laos alone, 64 more dams are under construction on the Mekong and its tributaries. Downstream communities already experience a substantially altered river, with reports of extreme changes in water levels and clarity. Further south in Cambodia, the Mekong seasonally reversed the flow of the Tonlé Sap River into [Tonlé Sap Lake](https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap), greatly swelling its size with water from the annual monsoons. The lake would then contract, a seasonal heartbeat that the dams—along with climate change—have now crippled, greatly reducing the lake's size, said Eyler. The largest source of freshwater fish in the world, Tonlé Sap once provided 70 percent of the protein for the people living nearby. Now fisherman can no longer depend on regular catches, and locals go hungry.
+
+In Southeast Asia, Eyler said, alternatives to dams are increasingly viable. Countries there have started to develop other renewable energy resources like solar and wind; Vietnam now generates more than 5 gigawatts from solar. "Electric demand can be met in other ways," Eyler said. "These dams don't need to be built."
+<figure class="" style="width:600px;">
+  {% asset 2020/mekong-river.jpg @magick:resize=600 alt:'Image of Mekong River flooded and in drought' %}<figcaption>Intended primarily to generate hydroelectric power, dozens of dams, many
+already in place and others planned, are threatening fisheries and farms
+along the lower Mekong River in Vietnam and Cambodia. These livelihoods,
+and the way of life they support, depend on the flooding caused by the
+August-to-November monsoon rains that fill the rivers of Southeast Asia
+and broaden the water covering the Mekong River Delta well beyond its
+dry season footprint. These false-color space images from 2004 contrast
+the lower Mekong River immediately before the start of the monsoon rains
+(left, July 5) and at its flood stage (right, September 21). In false
+color, vegetation is bright green, water is blue and black, and clouds
+are light blue. The flood waters hide the river&#39;s normal channel and
+obscure the vast Tonlé Sap Lake seen in the pre-flood image. Credit:
+<a href="https://earthobservatory.nasa.gov/images/13982/flooding-on-the-mekong-river">Jesse Allen, NASA Earth
+Observatory</a>
+(public domain).
+</figcaption>
+</figure>
