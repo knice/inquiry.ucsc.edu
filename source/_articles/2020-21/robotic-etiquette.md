@@ -23,9 +23,9 @@ further-inquiry:
 in-the-news:
     - title: "Love 'em or hate 'em, robots are here to stay so let's make them better, says psychology prof. (UCSC News, September 12, 2017)"
       url: https://news.ucsc.edu/2017/09/takayama-robots.html
-    - title: "Stop me if you've heard this one: a robot and a team of Irish scientists walk into a senior living home. (*Time*, October 4, 2019,)"
+    - title: "Stop me if you've heard this one: a robot and a team of Irish scientists walk into a senior living home. (<em>Time</em>, October 4, 2019,)"
       url: https://time.com/longform/senior-care-robot/
-    - title: "Would you let a robot take care of youmother? (<em>New York Times</em>, December 13, 2019)"
+    - title: "Would you let a robot take care of your mother? (<em>New York Times</em>, December 13, 2019)"
       url: https://www.nytimes.com/2019/12/13/opinion/robot-caregiver-aging.html
     - title: Tug, the busy little robot nurse, will see you now. (<em>Wired</em>, November 10, 2017).
       url: https://www.wired.com/story/tug-the-busy-little-robot-nurse-will-see-you-now/
@@ -98,24 +98,16 @@ seem stiff, even kind of snotty. Robots need to move around to seem
 natural and make people feel more comfortable. That's something that
 only someone who studies people would think of," she said.
 <figure class="" style="width:600px;">
-  {% asset 2020/robot-collage.png @magick:resize=600 alt:'PR2 Robot' %}<figcaption>False impressions and unrealistic expectations stemming from media and
-popular culture portrayals have promoted hope, hype, and fear about
-robots and artificial intelligence, said Takayama. Robots in science
-fiction, like in (top row, L to R) the <em>Doctor Who</em> TV series and the
-<em>Star Wars</em> and <em>Terminator</em> movies, are far more capable than currently
-available robot technology. Most of today&#39;s robots, like (bottom row, L
-to R) the Roomba vacuum cleaner, the da Vinci surgical robot, and the
-Robomower, are made to excel only at a single task. Credits: <a href="https://commons.wikimedia.org/wiki/File:Doctor_Who_50th_Celebration_-_Cyberman_(11001236893"><em>Doctor
-Who</em></a>),
-<a href="https://commons.wikimedia.org/wiki/File:Terminator.JPG"><em>Terminator</em></a>,
-<a href="https://commons.wikimedia.org/wiki/File:IRobot_Roomba_870_(15860914940">Roomba</a>)
-(CC BY 2.0); <a href="http://pngimg.com/download/28371"><em>Star Wars</em></a> (CC BY-NC
-4.0); <a href="https://commons.wikimedia.org/wiki/File:WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg">da
-Vinci</a>
-(public domain);
-<a href="https://commons.wikimedia.org/wiki/File:Robomow_110_City_2012-06-05.jpg">Robomower</a>
+  {% asset 2020/robot.jpg @magick:resize=600 alt:'PR2 Robot' %}<figcaption>Humans commonly misread a robot&#39;s intentions, as was the case when
+Takayama first encountered a PR2 robot, like the one shown here, and it
+surprised her by appearing to run away. No longer in business, Willow
+Garage, the robot&#39;s Palo Alto--based maker, spent years investing in
+robotics research that produced the PR2&#39;s sophisticated visual and
+tactile sensors and open-source software. Credit: <a href="https://commons.wikimedia.org/wiki/File:PR2_robot_with_advanced_grasping_hands.JPG">Oleg
+Alexandrov</a>
 (CC BY-SA 3.0).</figcaption>
 </figure>
+
 To improve robot manners, Takayama and her team are working to help them
 take cues from people. When a robot trundles into an elevator, it
 typically does the selfish thing and sits smack in the center, leaving
@@ -172,16 +164,7 @@ robot might malfunction, and they responded differently from others who
 received no warning. "The participants in the low-expectation setting
 recovered more quickly from the errors, regaining trust in the robot and
 improving their perceptions of its reliability," Riek said.
-<figure class="" style="width:600px;">
-  {% asset 2020/robot.jpg @magick:resize=600 alt:'PR2 Robot' %}<figcaption>Humans commonly misread a robot&#39;s intentions, as was the case when
-Takayama first encountered a PR2 robot, like the one shown here, and it
-surprised her by appearing to run away. No longer in business, Willow
-Garage, the robot\&#39;s Palo Alto--based maker, spent years investing in
-robotics research that produced the PR2&#39;s sophisticated visual and
-tactile sensors and open-source software. Credit: <a href="https://commons.wikimedia.org/wiki/File:PR2_robot_with_advanced_grasping_hands.JPG">Oleg
-Alexandrov</a>
-(CC BY-SA 3.0).</figcaption>
-</figure>
+
 The implication is that people's unrealistic expectations can hamper
 their interactions with robots. The videos they see online, such as the
 popular YouTube clips of the [robots built by Boston
@@ -200,7 +183,25 @@ clear, however, that robots work best when they're specialized, which
 translates to myriad different designs depending on the robot's main
 task. The faceless robot that stocks the shelves will be strikingly
 different from the one with the friendly face working the cash register.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/robot-collage.png @magick:resize=600 alt:'PR2 Robot' %}<figcaption>False impressions and unrealistic expectations stemming from media and
+popular culture portrayals have promoted hope, hype, and fear about
+robots and artificial intelligence, said Takayama. Robots in science
+fiction, like in (top row, L to R) the <em>Doctor Who</em> TV series and the
+<em>Star Wars</em> and <em>Terminator</em> movies, are far more capable than currently
+available robot technology. Most of today&#39;s robots, like (bottom row, L
+to R) the Roomba vacuum cleaner, the da Vinci surgical robot, and the
+Robomower, are made to excel only at a single task. Credits: <a href="https://commons.wikimedia.org/wiki/File:Doctor_Who_50th_Celebration_-_Cyberman_(11001236893"><em>Doctor
+Who</em></a>,
+<a href="https://commons.wikimedia.org/wiki/File:Terminator.JPG"><em>Terminator</em></a>,
+<a href="https://commons.wikimedia.org/wiki/File:IRobot_Roomba_870_(15860914940">Roomba</a>
+(CC BY 2.0); <a href="http://pngimg.com/download/28371"><em>Star Wars</em></a> (CC BY-NC
+4.0); <a href="https://commons.wikimedia.org/wiki/File:WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg">da
+Vinci</a>
+(public domain);
+<a href="https://commons.wikimedia.org/wiki/File:Robomow_110_City_2012-06-05.jpg">Robomower</a>
+(CC BY-SA 3.0).</figcaption>
+</figure>
 The image problem is exacerbated by the media portrayals of humanoid
 robots that frequently give the impression of much broader capability
 than is actually the case, Takayama said. Such robots typically
