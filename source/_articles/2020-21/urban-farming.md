@@ -39,19 +39,16 @@ for human gardeners too. Their experiments suggest that gardens with
 more biodiversity have more effective pollination and [natural pest
 control](https://en.wikipedia.org/wiki/Biological_pest_control). 
 <figure class="">
-  {% asset 2020/messy-garden.jpg @magick:resize=600 alt:'Messy garden' %}<figcaption>A "messy" garden, like this one in Monterey, may not look so
+  {% asset 2020/messy-tidy-gardens.png @magick:resize=600 alt:'Messy garden and tidy garden' %}<figcaption>Left: A "messy" garden, like this one in Monterey, may not look so
 appealing. But its ecological complexity with a large variety of weeds
 and flowers provides important food resources that can support a greater
-biodiversity of insects. </figcaption>
-</figure>
-
-<figure class="">
-  {% asset 2020/tidy-garden.jpg @magick:resize=600 alt:'Tidy garden' %}<figcaption>In a "tidy" garden&mdash;also in Monterey,
+biodiversity of insects.<br />Right: In a "tidy" garden&mdash;also in Monterey,
 while wood chip mulching might look nice, it can discourage nesting by
 bumblebees and visits by other pollinators. But it could attract other
 beneficial arthropods, like spiders. Credit: Stacy Philpott, with
-permission. </figcaption>
+permission.</figcaption>
 </figure>
+
 It's also clear that urban gardens can be invaluable to the people who
 use them. Surveys of community members who work these gardens show that
 many garden as a way to spend time outdoors, relieve stress, and hang

@@ -10,7 +10,7 @@ author:
   file: "2018/robert-pollie.jpg"
   url: "http://7thavenueproject.com/"
 banner:
-  file: 2020/nematode.jpg
+  file: 2020/wolbachia-banner2.jpg
   position: left
 further-inquiry:
     - title: "Sullivan Lab at UC Santa Cruz"
