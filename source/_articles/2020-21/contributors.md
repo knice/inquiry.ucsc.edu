@@ -64,7 +64,7 @@ contributors:
 {% endif %}
 </ul>
 With the distinctive expertise of scientists-turned-journalists, the 16
-writers shown above, all graduates of the UC Santa Cruz [Science
+writers shown here, all graduates of the UC Santa Cruz [Science
 Communication Program](https://scicom.ucsc.edu/index.html), created the
 stories that grace these pages. Directed by editor [**Dave
 Egerter**](https://medcommstrategy.com/) ('88), their reporting captures

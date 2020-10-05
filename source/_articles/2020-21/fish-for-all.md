@@ -48,15 +48,8 @@ become [the world's fastest growing food
 sector](http://www.fao.org/aquaculture/en/). And as our
 global population increases, so will our dependence on aquaculture to
 feed a world filled with billions more hungry people.
-<figure class="right" style="width:300px;">
-  {% asset 2020/anne-kapuscinski.jpg @magick:resize=300 alt:'UCSC professor of environmental studies Anne Kapuscinski' %}<figcaption>Subject to increasing periods of extreme heat and flooding, as seen
-here, the city of Miami declared a climate emergency in November 2019.
-Soon after, Miami city leaders side-stepped its climate-denying state
-and national governments to become one of the newest members of the C40
-Group coalition of cities from around the world working to fight climate
-change. Credit: <a href="https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg">Wikimedia
-Commons</a>
-(CC BY-SA 4.0).</figcaption>
+<figure class="left" style="width:300px;">
+  {% asset 2020/feed.jpg @magick:resize=300 alt:'fish-free feed' %}<figcaption>This fish-free feed (here and above) created in the laboratory of UCSC professor of environmental studies Anne Kapuscinski contains two types of microalgae. Kapuscinski and co-team lead associate research professor Pallab Sarker are evaluating this and other feed formulations in experiments that involve carefully hand feeding the fish that are their test subjects. Credit: Kapuscinski-Sarker Lab.</figcaption>
 </figure>
 But farmed seafood faces the same long-term sustainability problem as
 capture fisheries: dwindling stocks of wild fish. Fish farming
@@ -79,9 +72,7 @@ or is it actually helping deplete wild fisheries?" asked food security
 expert [Rosamond
 Naylor](https://fse.fsi.stanford.edu/people/rosamond_l_naylor),
 a professor of Earth system science at Stanford University in Palo Alto.
-<figure class="left" style="width:300px;">
-  {% asset 2020/feed.jpg @magick:resize=300 alt:'fish-free feed' %}<figcaption>This fish-free feed created in the laboratory of UCSC professor of environmental studies Anne Kapuscinski contains two types of microalgae. Kapuscinski and co-team lead associate research professor Pallab Sarker are evaluating this and other feed formulations in experiments that involve carefully hand feeding the fish that are their test subjects. Credit: Kapuscinski-Sarker Lab.</figcaption>
-</figure>
+
 Humans farm more than [580 species of aquatic animals and
 plants](http://www.fao.org/aquaculture/en/), everything
 from fish, oysters, and clams, to shrimp and seaweed. This flourishing
@@ -96,7 +87,9 @@ is more efficient and emits the lowest amount of greenhouse gases. But
 it could and should be better, and that's the goal of UC Santa Cruz
 professor of environmental studies [**Anne
 Kapuscinski**](https://envs.ucsc.edu/faculty/index.php?uid=akapusci).
-
+<figure class="right" style="width:300px;">
+  {% asset 2020/anne-kapuscinski.jpg @magick:resize=300 alt:'UCSC professor of environmental studies Anne Kapuscinski' %}<figcaption>In an effort to return aquaculture to its more sustainable historical roots, UCSC professor of environmental studies Anne Kapuscinski, who also directs the UCSC Coastal Science and Policy Program, seeks to develop fish-free feeds that contain marine microalgae instead. Credit: C. Lagattuta.</figcaption>
+</figure>
 "Aquaculture started over 2,000 years ago in China, and also arose in
 some other parts of the world. It actually mimicked natural ecosystems
 in that there wasn't any waste," said Kapuscinski. Armed with this
@@ -135,17 +128,7 @@ disease. In the wild, the DHA and EPA required by fish come from marine
 microalgae. Fish and other marine organisms obtain these omega-3s by
 directly eating marine microalgae, or by eating other animals that have
 eaten the microalgae.
-<figure class="" style="width:600px;">
-  {% asset 2020/tilapia-farm-in-zambian-lake.jpg @magick:resize=600 alt:'tilapia-farm-in-zambian-lake' %}<figcaption>Tilapia is mostly farmed in land-based ponds and tanks, less frequently
-in cages like these in Lake Kariba in Zimbabwe, Africa. Tilapia farming
-currently uses feeds that contain substantial amounts of fishmeal and
-fish oil derived from wild fish. Such feeds are wasteful and ultimately
-unsustainable, and&mdash;as research performed by Kapuscinski and her team
-is showing&mdash;can likely be replaced with more environmentally-friendly
-fish-free feeds. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/267218/">M. Reantaso, courtesy of FAO Aquaculture
-Photo
-Library</a>.</figcaption>
-</figure>
+
 To develop fish-free fish diets, Kapuscinski closely collaborates with
 **[Pallab
 Sarker](https://envs.ucsc.edu/faculty/directory_researchers.php?uid=psarker),**
@@ -160,7 +143,17 @@ freshwater species---*Oreochromis niloticus*---native to the northern
 half of Africa and Israel. After Chinese carps, tilapia constitute the
 second most important group of farmed fish, and the most widely
 cultivated.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/tilapia-farm-in-zambian-lake.jpg @magick:resize=600 alt:'tilapia-farm-in-zambian-lake' %}<figcaption>Tilapia is mostly farmed in land-based ponds and tanks, less frequently
+in cages like these in Lake Kariba in Zimbabwe, Africa. Tilapia farming
+currently uses feeds that contain substantial amounts of fishmeal and
+fish oil derived from wild fish. Such feeds are wasteful and ultimately
+unsustainable, and&mdash;as research performed by Kapuscinski and her team
+is showing&mdash;can likely be replaced with more environmentally-friendly
+fish-free feeds. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/267218/">M. Reantaso, courtesy of FAO Aquaculture
+Photo
+Library</a>.</figcaption>
+</figure>
 Like that of farmed salmon and trout, the commercial diet of farmed
 tilapia includes fishmeal and fish oil. However, unlike wild salmon and
 trout, which are carnivores, wild tilapia occupy a lower level on the
@@ -180,6 +173,14 @@ by hand, three times a day for 12 weeks. "We pay attention to make sure
 that feed waste is minimized," said Sarker. "We distribute the feed to
 the tank very slowly and ensure every pellet has been received by the
 fish."
+<figure class="" style="width:600px;">
+  {% asset 2020/nile-tilapia.jpg @magick:resize=600 alt:'Nile tilapia' %}<figcaption>The Nile tilapia, an important food for ancient Egyptians, remains a
+staple throughout northern Africa today. Mostly farmed on a local level
+in small ponds, the fish is also Kapuscinski and Sarker&#39;s primary
+research subject. Credit: <a href="https://commons.wikimedia.org/wiki/File:Oreochromis-niloticus-Nairobi.JPG">Bjørn Christian
+Tørrissen</a>
+(CC BY-SA 3.0).</figcaption>
+</figure>
 {% include_relative sidebars/waste-as-resource.html classes="right" bgcolor="#f1f1f1" %}
 In a
 [study](https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0201315)
@@ -190,14 +191,7 @@ levels. The results showed that the protein-rich portion of the
 microalgae could replace 33 percent of the fishmeal. "We were really
 excited to find that the microalgae could replace a significant amount
 of the fishmeal," Kapuscinski said.
-<figure class="left" style="width:300px;">
-  {% asset 2020/nile-tilapia.jpg @magick:resize=300 alt:'Nile tilapia' %}<figcaption>The Nile tilapia, an important food for ancient Egyptians, remains a
-staple throughout northern Africa today. Mostly farmed on a local level
-in small ponds, the fish is also Kapuscinski and Sarker&#39;s primary
-research subject. Credit: <a href="https://commons.wikimedia.org/wiki/File:Oreochromis-niloticus-Nairobi.JPG">Bjørn Christian
-Tørrissen</a>
-(CC BY-SA 3.0).</figcaption>
-</figure>
+
 In a more recent study, not yet published, Kapuscinski and Sarker
 replaced both fishmeal and fish oil with two different species of
 microalgae. This work showed that the replacement feed produces tilapia
@@ -209,7 +203,14 @@ diets have a lower FCR. "Farmers keep using the fishmeal and fish oil
 assuming the tilapia will do best with that," said Kapuscinski. "But
 we've found that the fishmeal and fish oil aren't needed. With the two
 types of marine microalgae together, we get a superior diet."
-
+<figure class="left" style="width:300px;">
+  {% asset 2020/rice-tilapia-farming.jpg @magick:resize=300 alt:'Rice-Tilapia farming' %}<figcaption>Integrating agriculture and aquaculture can increase food yields while
+reducing waste and environmental impacts. Here, in Yogyakarta,
+Indonesia, juvenile tilapia feed in a rice field planted according to an
+integrated practice of rice-fish farming. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/1260095/">A. Stankus, courtesy
+of FAO Aquaculture Photo
+Library</a>.</figcaption>
+</figure>
 ## Cost cutting ##
 
 A big concern with using algae for fish feed is its potentially high
@@ -222,13 +223,11 @@ compounds that actually interfere with nutrient absorption. For example,
 the phosphorous in land-based crops is particularly difficult for fish
 to digest, said Sarker. Seventy percent of the phosphorous remains
 undigested, meaning increased pollution from the resulting sewage.
-<figure class="" style="width:600px;">
-  {% asset 2020/rice-tilapia-farming.jpg @magick:resize=600 alt:'Rice-Tilapia farming' %}<figcaption>Integrating agriculture and aquaculture can increase food yields while
-reducing waste and environmental impacts. Here, in Yogyakarta,
-Indonesia, juvenile tilapia feed in a rice field planted according to an
-integrated practice of rice-fish farming. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/1260095/">A. Stankus, courtesy
-of FAO Aquaculture Photo
-Library</a>.</figcaption>
+<figure class="left" style="width:300px;">
+  {% asset 2020/microalgae-from-brewery-waste-water.png @magick:resize=300 alt:'microalgae-from-brewery-waste-water' %}<figcaption>In an attempt to increase sustainability by reducing waste and creating
+a circular economy, Kapuscinski and her team used wastewater from a
+brewery to grow microalgae that might later be used in their
+experimental fish feeds. Credit: Kapuscinski-Sarker Lab.</figcaption>
 </figure>
 Following the sustainability concept known as [circular
 economy](https://kapsar.sites.ucsc.edu/circular-economies-for-aquatic-food-systems/),
@@ -238,12 +237,7 @@ making their protein ingredients from whole algae, they're using
 "defatted biomass"---the leftovers from whole algae first pressed for
 other uses in the biofuel and nutraceutical industries. Because this
 leftover algal meal currently serves no other purpose, the cost is low.
-<figure class="right" style="width:300px;">
-  {% asset 2020/microalgae-from-brewery-waste-water.png @magick:resize=300 alt:'microalgae-from-brewery-waste-water' %}<figcaption>In an attempt to increase sustainability by reducing waste and creating
-a circular economy, Kapuscinski and her team used wastewater from a
-brewery to grow microalgae that might later be used in their
-experimental fish feeds. Credit: Kapuscinski-Sarker Lab.</figcaption>
-</figure>
+
 Kapuscinski originally wanted to use the whole algae, but realized that
 would not work economically, said [Martin
 Sabarsky](http://cellana.com/about-us/our-team/), CEO of
@@ -284,15 +278,7 @@ China&mdash;the world's largest aquaculture producer&mdash;now has plans to
 salmon](http://www.xinhuanet.com/english/2019-02/26/c_137852335.htm)
 in giant offshore pens in the middle of Yellow Sea, between mainland
 China and the Korean Peninsula.
-<figure class="" style="width:600px;">
-  {% asset 2020/salmonffarm-in-scotland.jpg @magick:resize=600 alt:'Salmon farm in Scotland' %}<figcaption>As carnivores, salmon pose more of challenge for removing fishmeal and
-fish oil from their farmed feed. Globally, salmon farms, like this one
-in the sea at Loch Ainort off the Isle of Skye in Scotland, consume an
-estimated half of all fishmeal, and a quarter of all fish oil produced
-today. Credit: <a href="https://commons.wikimedia.org/wiki/File:Loch_Ainort_fish_farm_-_geograph.org.uk_-_1800327.jpg">Richard Dorrell, Loch Ainort fish
-farm</a>
-(CC BY-SA 2.0).</figcaption>
-</figure>
+
 The big difference between tilapia and salmon is that salmon sit higher
 on the food chain in the wild. Salmon are mid-tier predators that eat
 small fish and invertebrates, which makes the idea of feeding them a
@@ -304,7 +290,15 @@ could change the world, I would steer us away from raising farmed salmon
 and instead put all that effort and financial resources into restoring
 wild salmon populations," Kapuscinski said. "But I'm also a pragmatist
 and realize that you can't just do that."
-
+<figure class="" style="width:600px;">
+  {% asset 2020/salmonffarm-in-scotland.jpg @magick:resize=600 alt:'Salmon farm in Scotland' %}<figcaption>As carnivores, salmon pose more of challenge for removing fishmeal and
+fish oil from their farmed feed. Globally, salmon farms, like this one
+in the sea at Loch Ainort off the Isle of Skye in Scotland, consume an
+estimated half of all fishmeal, and a quarter of all fish oil produced
+today. Credit: <a href="https://commons.wikimedia.org/wiki/File:Loch_Ainort_fish_farm_-_geograph.org.uk_-_1800327.jpg">Richard Dorrell, Loch Ainort fish
+farm</a>
+(CC BY-SA 2.0).</figcaption>
+</figure>
 Sarker and Kapuscinski's initial
 [results](https://www.elementascience.org/articles/10.1525/elementa.404/)
 in reducing the fish products in feeds for rainbow trout are promising.

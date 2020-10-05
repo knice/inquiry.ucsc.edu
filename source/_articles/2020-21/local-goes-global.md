@@ -90,7 +90,7 @@ leadership that denies man-made climate change. Miami, where residents
 now regularly trudge through downtown flooding and the number of
 dangerously hot days is expected to [quadruple by
 2050](https://www.wlrn.org/post/its-going-feel-100-degrees-florida-lot-more-often-study-finds#stream/0),
-stepped around their own conservative state and federal governments to
+stepped around its own conservative state and federal governments to
 become one of the most recent C40 members in January 2020.
 
 Other city networks are similarly focused on climate change. For
@@ -180,7 +180,7 @@ recognition."
 <figure class="" style="width:600px;">
   {% asset 2020/miami-flooding.jpg @magick:resize=600 alt:'Image of Miami flooding' %}<figcaption>Subject to increasing periods of extreme heat and flooding, as seen
 here, the city of Miami declared a climate emergency in November 2019.
-Soon after, Miami city leaders side-stepped its climate-denying state
+Soon after, Miami city leaders side-stepped their climate-denying state
 and national governments to become one of the newest members of the C40
 Group coalition of cities from around the world working to fight climate
 change. Credit: <a href="https://es.wikipedia.org/wiki/Archivo:October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami,_4.25_MLLW_high_tide_am.jpg">Wikimedia
