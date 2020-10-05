@@ -33,6 +33,8 @@ science has not collapsed.*
 
 ---Richard Feynman, [*QED: The Strange Theory of Light and
 Matter*](https://press.princeton.edu/books/paperback/9780691164090/qed)
+<br/>
+<br/>
 <figure class="left" style="width:300px;">
   {% asset 2020/multiple-globes.jpg @magick:resize=300 alt:'Weighing fish' %}<figcaption>This image depicts the sample-then-propagate method for weather forecasting. Shown here are a subset of 50 slightly different estimates for the current weather conditions that have been propagated forward in time, creating 50 considerably different forecasts a few days later. Credit: ©European Centre for Medium-Range Weather Forecasts (CC BY-SA
 4.0).</figcaption>
@@ -64,6 +66,13 @@ sample the weather in five or ten initial conditions and push each
 through the equations," Venturi said. "Based on the outcome, they might
 say there is a 30 percent chance of rain. That just means that three
 simulations out of ten produced rain."
+
+We could call this approach "sample-then-propagate." It's a necessary
+kludge because differential equations can only transport points to
+points. If you give them the fog of a probability distribution as input,
+they don't know what to do. Sample-then-propagate gives us pretty good
+weather forecasts. But it's awkward and inefficient, and it does not
+deliver a representation with any guarantee of accuracy.
 <figure class="" style="width:600px;">
   {% asset 2020/simulation-1aR.jpg @magick:resize=600 alt:'Globes' %}<figcaption>In the current &quot;sample-then-propagate&quot; approach to simulating natural
 phenomena, such as the weather, an initially uncertain measurement is
@@ -77,13 +86,6 @@ Kingdom</a>
 (public domain).
 </figcaption>
 </figure>
-We could call this approach "sample-then-propagate." It's a necessary
-kludge because differential equations can only transport points to
-points. If you give them the fog of a probability distribution as input,
-they don't know what to do. Sample-then-propagate gives us pretty good
-weather forecasts. But it's awkward and inefficient, and it does not
-deliver a representation with any guarantee of accuracy.
-
 Ever since he was an undergraduate at the University of Bologna in
 Italy, Venturi has dreamed of building a tool that can actually solve
 the problem the right way: by transporting the fog of uncertainty from
@@ -91,16 +93,7 @@ place to place or from time to time. He calls his method ["[functional
 differential
 equations"](https://en.wikipedia.org/wiki/Functional_differential_equation)
 (FDE). But we can call it "propagate-then-sample."
-<figure class="" style="width:600px;">
-  {% asset 2020/simulation2.jpg @magick:resize=600 alt:'Neural network' %}<figcaption>In a deep neural network for image recognition the purple input layer
-collects the raw pixel data. The yellow output layer gives the
-computer&#39;s guess on whether the image is a dog or a cat. The strength of
-the connections between hidden layers are indicated by the widths of the
-lines. These strengths, or &quot;weights,&quot; are tuned in a way that maximizes
-the frequency of correct guesses. Credit: <a href="https://www.ece.cornell.edu/faculty-directory/ziv-goldfeld">Ziv
-Goldfeld</a>,
-with permission.</figcaption>
-</figure>
+
 For math nerds, there is one difference between FDE and ordinary DE that is almost a showstopper. Ordinary DE involve finitely many variables, the dimensions of space and time that points move around in. But probability distributions live in an infinite-dimensional space because
 you can vary them in infinitely many different ways. "When I tell my
 colleagues I work on differential equations with infinitely many
@@ -147,7 +140,16 @@ That FDE is called a Hamilton-Jacobi-Bellman equation, and its solution
 is an operator that allows you to compute the weights&mdash;the strength of
 connections between layers&mdash;from any input. "It's the core of how you
 train a neural network," Venturi said.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/simulation2.jpg @magick:resize=600 alt:'Neural network' %}<figcaption>In a deep neural network for image recognition the purple input layer
+collects the raw pixel data. The yellow output layer gives the
+computer&#39;s guess on whether the image is a dog or a cat. The strength of
+the connections between hidden layers are indicated by the widths of the
+lines. These strengths, or &quot;weights,&quot; are tuned in a way that maximizes
+the frequency of correct guesses. Credit: <a href="https://www.ece.cornell.edu/faculty-directory/ziv-goldfeld">Ziv
+Goldfeld</a>,
+with permission.</figcaption>
+</figure>
 Han said the advantage of "considering the problem in an
 infinite-dimensional space" is that it explains what neural networks are
 and why they work. They are discrete versions of a continuous,
