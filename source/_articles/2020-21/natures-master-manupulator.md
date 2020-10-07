@@ -307,7 +307,12 @@ using older, slower assay methods," said Sullivan. "I told them we had a
 better way." As luck would have it, the cell line and high-throughput
 automated assay system used by Sullivan's team were tailor-made for
 testing potential anti-*Wolbachia* drugs.
-
+<figure class="" style="width:600px;">
+  {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows <em>Wolbachia</em> (green
+specks) in the developing eggs. Credit: Frederic Landmann, with
+permission.</figcaption>
+</figure>
+{% include_relative sidebars/weaponizing-wolbachia.html classes="left" bgcolor="#f1f1f1" %}
 Two months later, with support from A•WOL and funding by the Gates
 Foundation, Sullivan had his own drug-screening operation up and running
 on Lokey's high-throughput equipment. Over the next few years, Sullivan
@@ -328,13 +333,9 @@ Research](https://www.scripps.edu/science-and-medicine/calibr/)
 next-generation medicines, and set them up with the cell line and assay
 system. Together, Calibr and Sullivan's lab have now identified several
 promising drug candidates while screening more than 300,000 compounds.
-<figure class="" style="width:600px;">
-  {% asset 2020/nematode.png @magick:resize=600 alt:'Walbachia in nematode oocyte' %}<figcaption>A nematode oocyte (egg-producing structure) shows <em>Wolbachia</em> (green
-specks) in the developing eggs. Credit: Frederic Landmann, with
-permission.</figcaption>
-</figure>
+
 ## The dark side of symbiosis ##
-{% include_relative sidebars/weaponizing-wolbachia.html classes="left" bgcolor="#f1f1f1" %} 
+
 While Calibr and other organizations continue to search for new drugs,
 Sullivan has gone back to more fundamental questions. The nature of the
 worm-germ symbiosis, for example: it's obvious what *Wolbachia* gets out

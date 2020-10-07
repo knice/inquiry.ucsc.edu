@@ -113,6 +113,13 @@ Millions of years ago, the metal glommed onto the ancient plant and
 animal remains that eventually became coal. Now, burning this fossil
 fuel releases mercury into the atmosphere as a gas that drifts around
 the globe.
+<figure class="" style="width:600px;">
+  {% asset 2020/sushi.jpg @magick:resize=600 alt:'Sushi' %}<figcaption>Looks good, but perhaps you shouldn&#39;t eat it too often; some types of
+tuna contain potentially concerning levels of mercury that end up in
+you. Credit: <a href="https://www.goodfreephotos.com/food/tuna-fish-sushi-on-a-plate.jpg.php">public
+domain</a>
+(CC0).</figcaption>
+</figure>
 {% include_relative sidebars/mercurys-california-legacy.html classes="right" bgcolor="#f1f1f1" %}
 Thanks to gold mining and coal burning, a lot of mercury contaminates
 the environment. "The general consensus is that we've increased the
@@ -138,13 +145,7 @@ coastal, and seafloor sediments, bacteria convert mercuric ions into
 "Methylmercury by itself is not necessarily more toxic than any other
 form of mercury, but it sits there as a reservoir that bleeds out into
 the rest of your tissues."
-<figure class="" style="width:600px;">
-  {% asset 2020/sushi.jpg @magick:resize=600 alt:'Sushi' %}<figcaption>Looks good, but perhaps you shouldn&#39;t eat it too often; some types of
-tuna contain potentially concerning levels of mercury that end up in
-you. Credit: <a href="https://www.goodfreephotos.com/food/tuna-fish-sushi-on-a-plate.jpg.php">public
-domain</a>
-(CC0).</figcaption>
-</figure>
+
 That methylmercury comes mostly from eating fish, especially top
 predator fish. In the ocean, methylmercury sticks to phytoplankton,
 which are eaten by small fish, which are eaten by tuna, swordfish, and
@@ -174,59 +175,7 @@ and whiskers) had levels of mercury [known to be toxic to mink and
 otters](https://www.pwrc.usgs.gov/eisler/CHR_10_Mercury.pdf), and two
 others showed concentrations that could cause confusion and potentially
 impair their ability to breed and parent kittens.
-
-**Mercury Levels in Fish: A Guide to Healthy Seafood Consumption (1
-serving = 4 oz.)**
-
-+-------------+-------------+-------------+-------------+-------------+
-| Least---\   | Moderate--- | High---     | Highest---\ |             |
-| enjoy!      |             |             | avoid!      |             |
-|             | ≤6          | ≤3          |             |             |
-|             | servings/   | servings/   |             |             |
-|             |             |             |             |             |
-|             | month       | month       |             |             |
-+=============+=============+=============+=============+=============+
-| -   Anchovi | -   Mullet  | -   Bass    | -   Croaker | -   Bluefis |
-| es          |             |             |             | h           |
-|             | -   Plaice  | -   Buffalo | -   Halibut |             |
-| -   Butterf |             | fish        |             | -   Grouper |
-| ish         | -   Pollock |             | -   Mackere |             |
-|             |             | -   Carp    | l           | -   Mackere |
-| -   Catfish | -   Salmon  |             |     (Spanis | l           |
-|             |             | -   Cod     | h,          |     (King)  |
-| -   Crawfis | -   Sardine |             |     Gulf)   |             |
-| h           |             | -   Mahi-ma |             | -   Marlin  |
-|             | -   Sole    | hi          | -   Perch   |             |
-| -   Flounde |             |             |     (ocean) | -   Orange  |
-| r           | -   Tilapia | -   Monkfis |             |     Roughy  |
-|             |             | h           | -   Sablefi |             |
-| -   Haddock | -   Trout   |             | sh          | -   Shark   |
-|     (Atlant |             | -   Perch   |             |             |
-| ic)         | -   Whitefi |     (freshw | -   Sea     | -   Swordfi |
-|             | sh          | ater)       |     Bass    | sh          |
-| -   Hake    |             |             |             |             |
-|             |             | -   Sheepsh | -   Tuna    | -   Tuna    |
-| -   Herring |             | ead         |     (Albaco |     (Bigeye |
-|             |             |             | re,         | )           |
-| -   Mackere |             | -   Snapper |     Yellowf |             |
-| l           |             |             | in)         |             |
-|     (N.     |             | -   Tilefis |             |             |
-|     Atlanti |             | h           |             |             |
-| c,          |             |             |             |             |
-|     Chub)   |             | -   Tuna    |             |             |
-|             |             |     (Canned |             |             |
-|             |             |     chunk   |             |             |
-|             |             |     light,  |             |             |
-|             |             |     Skipjac |             |             |
-|             |             | k)          |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-
-Source: Natural Resources Defense Council. NRDC used the reference dose
-considered safe by the EPA and seafood mercury concentrations from the
-USDA. Servings are based on the weight of an average woman of
-child-bearing age (130 lbs.).**\
-**
-
+{% include mercury-level-table.html classes="right" bgcolor="#f1f1f1" %}
 ## Toxic pathways ##
 
 While the mercury in tuna, humans, and pumas ultimately traces back to
