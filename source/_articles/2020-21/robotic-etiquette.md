@@ -8,7 +8,7 @@ subhead: "Engineering improved human-robot interaction"
 author:
   name: Ramin Skibba
   file: "2020/ramin-skibba.jpg"
-  url: 
+  url: https://raminskibba.net/
 banner:
   file: 
   position: left
@@ -101,7 +101,7 @@ only someone who studies people would think of," she said.
   {% asset 2020/robot.jpg @magick:resize=600 alt:'PR2 Robot' %}<figcaption>Humans commonly misread a robot&#39;s intentions, as was the case when
 Takayama first encountered a PR2 robot, like the one shown here, and it
 surprised her by appearing to run away. No longer in business, Willow
-Garage, the robot&#39;s Palo Alto--based maker, spent years investing in
+Garage, the robot&#39;s Palo Alto-based maker, spent years investing in
 robotics research that produced the PR2&#39;s sophisticated visual and
 tactile sensors and open-source software. Credit: <a href="https://commons.wikimedia.org/wiki/File:PR2_robot_with_advanced_grasping_hands.JPG">Oleg
 Alexandrov</a>

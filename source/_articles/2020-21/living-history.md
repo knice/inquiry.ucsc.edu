@@ -15,11 +15,11 @@ banner:
 further-inquiry:
     - title: "Isaac Julien Studio"
       url: https://www.isaacjulien.com/
-    - title: "Insights into the making of 'Lessons of the Hour' Artist Isaac Julien in Conversation with John Hanhardt"
+    - title: "Insights into the making of 'Lessons of the Hour.' Artist Isaac Julien in Conversation with John Hanhardt"
       url: https://www.youtube.com/watch?v=DJDRSmaQ5eU
     - title: "Views of the exhibition with ASL interpretation: Lessons of the Hour. [ASL Interpretation]"
       url: https://www.youtube.com/watch?v=ly5owXZknaE
-    - title: "Tate interview with Julien: Isaac Julien---'I'm Interested in Poetry' | TateShots"
+    - title: "Tate interview with Julien: Isaac Julien&mdash;'I'm Interested in Poetry' | TateShots"
       url: https://www.youtube.com/watch?v=hcQxjc0mcK0
     - title: "Narrative of the Life of Frederick Douglass, an American
     Slave [PDF]"
@@ -39,7 +39,7 @@ in-the-news:
       url: https://www.standard.co.uk/go/london/arts/isaac-julien-interview-rock-my-soul-victoria-miro-a4250746.html
     - title: "Isaac Julien: an act of remembrance (<em>Financial Times</em>, May 11, 2017)"
       url: https://www.ft.com/content/64ebe274-33b9-11e7-99bd-13beb0903fa3
-    - title: "Isaac Julien, artist -- portrait of the artist (<em>The Guardian</em>, November 26, 2013)"
+    - title: "Isaac Julien, artist &ndash; portrait of the artist (<em>The Guardian</em>, November 26, 2013)"
       url: https://www.theguardian.com/culture/2013/nov/26/isaac-julien-film-portrait-artist
 ---
 {% include_relative sidebars/living-history-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
@@ -151,7 +151,7 @@ like Julien, was fascinated by photography and its power to influence
 others.
 
 ## Shaking the dust off ##
-the Douglass exhibition.
+
 {% include_relative sidebars/words-to-fuel-action.html classes="right" bgcolor="#f1f1f1" %}
 The process that Julien uses for his work is the basis for a new lab he
 and longtime collaborator and partner [**Mark
@@ -275,7 +275,7 @@ issues in the 21st century," Julien said.
 <figure class="" style="width:600px;">
   {% asset 2020/douglass-home.jpg @magick:resize=600 alt:'Fredrick Douglass home' %}<figcaption>Photographs filled the house in Washington, DC, where Frederick Douglass
 spent his final years. Intrigued by the emerging technology and called
-the most photographed American of the 19<sup>th</sup> century, Douglass talked
+the most photographed American of the 19th century, Douglass talked
 about his fascination with photography in his &quot;<a href="https://www.loc.gov/resource/mfd.22004/?sp=1">Lecture on
 Pictures</a>.&quot;
 During his research into Douglass, Julien discovered their mutual

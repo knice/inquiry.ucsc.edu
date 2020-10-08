@@ -8,7 +8,7 @@ subhead: "Modern history ties the altered Nile to disease"
 author:
   name: Cameron Walker
   file: "2018/cameron-walker.jpg"
-  url: 
+  url: https://cameronwalker.net/
 banner:
   file: 2020/nile-at-aswan.jpg
   position: left
@@ -40,7 +40,7 @@ in-the-news:
       url: https://news.ucsc.edu/2019/12/middle-east-center.html
     - title: "Liver and the Embodiment of Disease: Interview with Jennifer Derr (<em>TRAFO Blog</em>, March 28, 2019)."
       url: https://trafo.hypotheses.org/18077
-    - title: "For Thousands of Years, Egypt Controlled the Nile. A New Dam Threatens That (<em>New York Times<em>, February 9, 2020)."
+    - title: "For Thousands of Years, Egypt Controlled the Nile. A New Dam Threatens That (<em>New York Times</em>, February 9, 2020)."
       url: https://www.nytimes.com/interactive/2020/02/09/world/africa/nile-river-dam.html
     - title: These tiny aquatic animals secrete a compound that might help snail fever (<em>Science News</em>, October 17, 2019).
       url: https://www.sciencenews.org/article/tropical-disease-parasite-snail-fever
@@ -204,7 +204,15 @@ ambitious ideas of large-scale engineering and profits that shaped and
 rapidly changed Egypt in the decades to come.
 
 ## Greater contact ##
-
+<figure class="left" style="width:350px;">
+  {% asset 2020/pyramids.jpg @magick:resize=350 alt:'Nile and pyramids' %}<figcaption>In the 1930s, a man stands in the Nile while using a
+<a href="https://www.britannica.com/technology/shaduf"><em>shaduf</em></a>
+to lift water from the river to irrigate a field of cotton. The three
+pyramids of Giza are seen in the background. Credit: <a href="https://www.loc.gov/resource/matpc.00437/">Library of
+Congress</a>
+(public domain).</figcaption>
+</figure>
+{% include_relative sidebars/breaking-the-cycle.html classes="right" bgcolor="#f1f1f1" %}
 Even before the first large dam tamed the Nile, the new focus on summer
 irrigation put Egyptian laborers into greater contact with the water,
 standing knee-deep as they operated the manual irrigation tools that
@@ -258,16 +266,8 @@ diseases, and conducted public health campaigns to prevent infection. As
 Egypt's battle with the disease persisted, Egyptian physicians and
 scientists stood at the forefront of schistosomiasis research and treatment, Derr said.
 
-## Breaking the cycle ##
-
-Started in 1997, Egypt's [National Schistosomiasis Control Program](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4293883/) offered the medication [praziquantel](https://en.wikipedia.org/wiki/Praziquantel) to all school children in the Nile Delta. By 2010, the infection rate had dropped from more than 30 percent in many rural villages to less than 3.5 percent. But schistosomiasis remains a public health concern, both in Egypt and elsewhere, with an estimated 140 million people infected worldwide. "It is true that incidence of infection has decreased," said Sanaa Antonios, professor of parasitology at Tanta University in Egypt. "However, in some spots in the country it is still present, which is alarming." Infections are especially common in children, who swim in the canals in the summer and don't know the danger of schistosomiasis, she said. Women are also at increased risk, as they are now much more likely to work in and around the water with men.
-
-And changing waterways are still a problem in Africa. In neighboring Ethiopia, a transformation in agriculture is underway, with new efforts to cultivate the lowland areas of the country to grow sugar, cotton, and other cash crops, said parasitologist [Bayissa Chala](https://www.researchgate.net/profile/Bayissa_Chala2) at the Adama Science and Technology University in Ethiopia. "Resurgence or even outbreak of urogenital schistosomiasis in endemic areas where the snail hosts thrive is possible," he said.
-
-In 2012, the World Health Organization launched [an effort to eliminate schistosomiasis as a public health issue by 2025](https://www.who.int/neglected_diseases/NTD_RoadMap_2012_Fullversion.pdf), primarily by targeting school-age children and other at-risk groups for preventive treatment with praziquantel. But a [recent status update](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6785807/) indicates that many countries have failed to meet interim goals. "Although praziquantel is effective, it does not prevent re-infection," said [Laura Braun](https://www.imperial.ac.uk/people/laura.braun13), an engineer and researcher at Imperial College London. "Anyone going back in the lake or river is likely to get infected again." A multi-pronged approach that also includes water treatment and educational campaigns might be more effective than simply providing praziquantel, Braun said, "because it prevents people from getting infected in the first place."
-
 ## A larger narrative ##
-
+{% include_relative sidebars/dam-drawbacks.html classes="right" bgcolor="#f1f1f1" %}
 Schistosomiasis also provides a backstory for a larger narrative Derr
 plans to tell about the history of Egypt through the bodies of its
 people. As the Nile continued to change in the 20th century, the disease did too. Infections with *S. mansoni*, the species that can damage the
@@ -282,14 +282,7 @@ Antonios](http://tdb2.tanta.edu.eg/staff/StaffDetails_en.aspx?staff_id=2640),
 a professor of parasitology at Tanta University in Egypt. And where the
 snails go, so goes the disease, with a resulting boom in *S. mansoni*
 infections.
-<figure class="left" style="width:300px;">
-  {% asset 2020/pyramids.jpg @magick:resize=300 alt:'Nile and pyramids' %}<figcaption>In the 1930s, a man stands in the Nile while using a
-<a href="https://www.britannica.com/technology/shaduf"><em>shaduf</em></a>
-to lift water from the river to irrigate a field of cotton. The three
-pyramids of Giza are seen in the background. Credit: <a href="https://www.loc.gov/resource/matpc.00437/">Library of
-Congress</a>
-(public domain).</figcaption>
-</figure>
+
 Thanks in large part to this surge in *S. mansoni* infections, liver
 disease emerged as a major health problem in Egypt in the second half of
 the 20th century. Untreated, *S. mansoni* infections can lead to liver
@@ -350,31 +343,3 @@ happen to our own bodies." As our seasons become warmer and wilder, we
 may find ourselves altered as well, the channels of our personal
 watersheds harboring new threats from emerging viruses and other menaces
 not yet imagined. Where else will our changing rivers take us?
-
-## Dam drawbacks ##
-
-At the turn of the 19th century, the Khazan Aswan Dam was the largest dam ever built. Today, large dams span many of the world's rivers. Some 57,000 surpass 15 meters in height, according to [International Rivers](https://www.internationalrivers.org/resources/about-international-rivers-3679), an Oakland, CA--based global advocacy group focused on protecting rivers. Of these large dams, more than 300 are giants topping 150 meters and restraining enormous reservoirs. Now built primarily to produce hydropower, these huge dams cause vast changes to rivers, their surrounding landscapes, and the ecosystems they support. And more are coming: [At least 3,700 major dams](https://link.springer.com/article/10.1007%2Fs00027-014-0377-0), each with a power-generating capacity of more than 1 megawatt, are either planned or under construction, mostly in countries with emerging economies.
-
-The [Mekong River](https://en.wikipedia.org/wiki/Mekong), for example, has its headwaters in China and flows 4,350 km through Myanmar, Laos, Thailand, Cambodia, and Vietnam before reaching the South China Sea. One of the world's richest freshwater fisheries, the Mekong supports more migratory fish than any other river in the world, said [Brian Eyler](https://www.stimson.org/ppl/eyler/), the director of the Southeast Asia program at the [Stimson Center](https://www.stimson.org/) in Washington, DC. Along with fish, the river transports organic material that forms the basis of the food web, as well as sediment that provides nutrients for agriculture. "Dams block all that," said Eyler, author the 2019 book, [_The Last Days of the Mighty Mekong_](https://www.zedbooks.net/shop/book/last-days-of-the-mighty-mekong/).
-
-Dozens of dams currently dot the Mekong, with many more in the works. The [Xayaburi Dam](https://en.wikipedia.org/wiki/Xayaburi_Dam), a large dam in Laos, started operating in October 2019; in Laos alone, 64 more dams are under construction on the Mekong and its tributaries. Downstream communities already experience a substantially altered river, with reports of extreme changes in water levels and clarity. Further south in Cambodia, the Mekong seasonally reversed the flow of the Tonlé Sap River into [Tonlé Sap Lake](https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap), greatly swelling its size with water from the annual monsoons. The lake would then contract, a seasonal heartbeat that the dams—along with climate change—have now crippled, greatly reducing the lake's size, said Eyler. The largest source of freshwater fish in the world, Tonlé Sap once provided 70 percent of the protein for the people living nearby. Now fisherman can no longer depend on regular catches, and locals go hungry.
-
-In Southeast Asia, Eyler said, alternatives to dams are increasingly viable. Countries there have started to develop other renewable energy resources like solar and wind; Vietnam now generates more than 5 gigawatts from solar. "Electric demand can be met in other ways," Eyler said. "These dams don't need to be built."
-<figure class="" style="width:600px;">
-  {% asset 2020/mekong-river.jpg @magick:resize=600 alt:'Image of Mekong River flooded and in drought' %}<figcaption>Intended primarily to generate hydroelectric power, dozens of dams, many
-already in place and others planned, are threatening fisheries and farms
-along the lower Mekong River in Vietnam and Cambodia. These livelihoods,
-and the way of life they support, depend on the flooding caused by the
-August-to-November monsoon rains that fill the rivers of Southeast Asia
-and broaden the water covering the Mekong River Delta well beyond its
-dry season footprint. These false-color space images from 2004 contrast
-the lower Mekong River immediately before the start of the monsoon rains
-(left, July 5) and at its flood stage (right, September 21). In false
-color, vegetation is bright green, water is blue and black, and clouds
-are light blue. The flood waters hide the river&#39;s normal channel and
-obscure the vast Tonlé Sap Lake seen in the pre-flood image. Credit:
-<a href="https://earthobservatory.nasa.gov/images/13982/flooding-on-the-mekong-river">Jesse Allen, NASA Earth
-Observatory</a>
-(public domain).
-</figcaption>
-</figure>

@@ -7,6 +7,7 @@ title: Inquiring minds
 contributors:
   - name-year: Bethany Aguiliere (’16)
     file: 2020/bethany-augliere.jpg
+    url: https://www.bethanyaugliere.com/
   - name-year: Erica K. Carlson ('19)
     file: 2020/erika-k-carlson
     url: https://erikak.ca/
@@ -21,6 +22,7 @@ contributors:
     url: https://www.emmahiolski.com/
   - name-year: Dana Mackenzie ('97)
     file: 2020/dana-mackenzie.jpg
+    url: http://www.danamackenzie.com/about.htm
   - name-year: Jyoti Madhusoodanan (’14)
     file: 2020/jyoti-madhusoodanan.jpg
     url: https://muckrack.com/jyoti-madhusoodanan
@@ -29,6 +31,7 @@ contributors:
     url: http://7thavenueproject.com/
   - name-year: Ramin Skibba (‘16)
     file: 2020/ramin-skibba.jpg
+    url: https://raminskibba.net/
   - name-year: Cameron Walker (’02)
     file: 2018/cameron-walker.jpg
     url: http://www.cameronwalker.net/
@@ -36,6 +39,7 @@ contributors:
     file: 2020/k-m-watson.jpg
   - name-year: Lindzi Wessel (‘16)
     file: 2020/lindzi-wessel.jpg
+    url: http://lindziwessel.com/
   - name-year: Sarah C. P. Williams ('07)
     file: 2018/sarah-williams.jpg
     url: http://www.sarahcpwilliams.com/
@@ -44,8 +48,10 @@ contributors:
     url: https://about.me/marcus_woo
   - name-year: Aylin Woodward (‘17)
     file: 2020/aylin-woodward.jpg
+    url: https://www.aylinwoodward.com/
   - name-year: Mike Wooldridge (’92)
     file: 2020/mike-wooldridge.jpg
+    url: https://www.amazon.com/Mike-Wooldridge/e/B001HCYOJ8
 ---
 <ul class="contributors-container">
 {% if page.contributors %}

@@ -8,13 +8,13 @@ subhead: "Seeking sustainable aquaculture via fish-free feeds"
 author:
   name: Bethany Augliere
   file: "2020/bethany-augliere.jpg"
-  url: 
+  url: https://www.bethanyaugliere.com/
 banner:
   file: 2020/feed-banner.png
   position: left
 further-inquiry:
-    - title: "Sarker PK, Kapuscinski AR, Lanois AJ, et al. (2016 Towards sustainable aquafeeds: Complete substitution of fish oil with marine microalga <em>Schizochytrium sp.</em> improves growth and fatty acid deposition in juvenile Nile tilapia (<em>Oreochromis
-niloticus</em>. <em>PLoS One</em>. 2016;11(6):e0156684."
+    - title: "Sarker PK, Kapuscinski AR, Lanois AJ, et al. Towards sustainable aquafeeds: Complete substitution of fish oil with marine microalga <em>Schizochytrium sp.</em> improves growth and fatty acid deposition in juvenile Nile tilapia (<em>Oreochromis
+niloticus)</em>. <em>PLoS One</em>. 2016;11(6):e0156684."
       url: https://www.sciencedirect.com/science/article/pii/S1877343517300775
     - title: "Sarker P, Gamble M, Kelson S, Kapuscinski AR. Nile tilapia
 (<em>Oreochromis niloticus</em>) show high digestibility of lipid and
@@ -22,7 +22,7 @@ fatty acids from marine <em>Schizochytrium sp.</em> and of protein and essential
 ingredients. <em>Aquacult Nutr</em>. 2016;22:109-119."
       url: https://onlinelibrary.wiley.com/doi/pdf/10.1111/anu.12230
     - title: "Sarker PK, Kapuscinski AR, Bae AY, et al. Towards sustainable
-aquafeeds: Evaluating substitution of fishmeal with lipid-extracted microalgal co-product (<em>Nannochloropsis oculata<em>) in diets of juvenile Nile tilapia (<em>Oreochromis niloticus<em>). <em>PLoS ONE</em>. 2018;13(7):e0201315."
+aquafeeds: Evaluating substitution of fishmeal with lipid-extracted microalgal co-product (<em>Nannochloropsis oculata</em>) in diets of juvenile Nile tilapia (<em>Oreochromis niloticus</em>). <em>PLoS ONE</em>. 2018;13(7):e0201315."
       url: https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0201315
     - title: "Sarker PK, Kapuscinski AR, Vandenberg GW, Proulx E, Sitek AJ. Towards sustainable and ocean-friendly aquafeeds: Evaluating a fish-free feed for rainbow trout (<em>Oncorhynchus mykiss</em>) using three marine microalgae species. <em>Elem Sci Anth</em>. 2020;8(1):5."
       url: https://www.elementascience.org/articles/10.1525/elementa.404/
@@ -203,13 +203,12 @@ diets have a lower FCR. "Farmers keep using the fishmeal and fish oil
 assuming the tilapia will do best with that," said Kapuscinski. "But
 we've found that the fishmeal and fish oil aren't needed. With the two
 types of marine microalgae together, we get a superior diet."
-<figure class="left" style="width:300px;">
-  {% asset 2020/rice-tilapia-farming.jpg @magick:resize=300 alt:'Rice-Tilapia farming' %}<figcaption>Integrating agriculture and aquaculture can increase food yields while
-reducing waste and environmental impacts. Here, in Yogyakarta,
-Indonesia, juvenile tilapia feed in a rice field planted according to an
-integrated practice of rice-fish farming. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/1260095/">A. Stankus, courtesy
-of FAO Aquaculture Photo
-Library</a>.</figcaption>
+<figure class="left" style="width:350px;">
+  {% asset 2020/weighing-fish.jpg @magick:resize=350 alt:'Weighing fish' %}<figcaption>In this photograph taken at Kapuscinski&#39;s previous laboratory at
+Dartmouth College in New Hampshire, co-team lead and now UCSC associate
+research professor Pallab Sarker (right) and Dartmouth undergraduate
+student Alexandra Kariotis weigh fish to document their weight gain on
+different experimental diets. Credit: Kapuscinski-Sarker Lab.</figcaption>
 </figure>
 ## Cost cutting ##
 
@@ -223,8 +222,8 @@ compounds that actually interfere with nutrient absorption. For example,
 the phosphorous in land-based crops is particularly difficult for fish
 to digest, said Sarker. Seventy percent of the phosphorous remains
 undigested, meaning increased pollution from the resulting sewage.
-<figure class="left" style="width:300px;">
-  {% asset 2020/microalgae-from-brewery-waste-water.png @magick:resize=300 alt:'microalgae-from-brewery-waste-water' %}<figcaption>In an attempt to increase sustainability by reducing waste and creating
+<figure class="left" style="width:350px;">
+  {% asset 2020/microalgae-from-brewery-waste-water.png @magick:resize=350 alt:'microalgae-from-brewery-waste-water' %}<figcaption>In an attempt to increase sustainability by reducing waste and creating
 a circular economy, Kapuscinski and her team used wastewater from a
 brewery to grow microalgae that might later be used in their
 experimental fish feeds. Credit: Kapuscinski-Sarker Lab.</figcaption>
@@ -252,13 +251,7 @@ and Pallab are rock stars in developing prototype feeds. They are
 thoughtful both about the ingredient list and the economics. If whole
 algae was the only revenue stream, you would not be able to
 commercialize it."
-<figure class="left" style="width:300px;">
-  {% asset 2020/weighing-fish.jpg @magick:resize=300 alt:'Weighing fish' %}<figcaption>In this photograph taken at Kapuscinski&#39;s previous laboratory at
-Dartmouth College in New Hampshire, co-team lead and now UCSC associate
-research professor Pallab Sarker (right) and Dartmouth undergraduate
-student Alexandra Kariotis weigh fish to document their weight gain on
-different experimental diets. Credit: Kapuscinski-Sarker Lab.</figcaption>
-</figure>
+
 ## Salmon in sight ##
 
 While most of their work to date has focused on tilapia, Kapuscinski and
@@ -328,3 +321,11 @@ Kapuscinski said. "It can be regenerative in helping to improve
 environmental quality, but it needs to be done in a circular economy
 way. We need to think mindfully about how to link aquaculture with other
 production systems, to recycle and reuse nutrients and material."
+<figure class="" style="width:600px;">
+  {% asset 2020/rice-tilapia-farming.jpg @magick:resize=600 alt:'Rice-Tilapia farming' %}<figcaption>Integrating agriculture and aquaculture can increase food yields while
+reducing waste and environmental impacts. Here, in Yogyakarta,
+Indonesia, juvenile tilapia feed in a rice field planted according to an
+integrated practice of rice-fish farming. Credit: <a href="http://www.fao.org/fishery/photolibrary/photo/detail/en/c/1260095/">A. Stankus, courtesy
+of FAO Aquaculture Photo
+Library</a>.</figcaption>
+</figure>

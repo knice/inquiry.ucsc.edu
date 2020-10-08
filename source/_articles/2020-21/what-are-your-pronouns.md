@@ -9,7 +9,7 @@ changes"
 author:
   name: Aylin Woodward
   file: "2020/aylin-woodward.jpg"
-  url: 
+  url: https://www.aylinwoodward.com/
 banner:
   file: 2020/london-pride-parade.jpg
   position: left
@@ -39,7 +39,7 @@ in-the-news:
     - title: "The future is non-binary, and teens are leading the
     way (<em>Pacific Standard</em>, April 8, 2019)"
       url: https://psmag.com/ideas/gen-z-the-future-is-non-binary
-    - title: "Open Forum: On the legacy of AIDS --- trauma and shame get in the way of HIV prevention (<em>San Francisco Chronicle</em>, March 28, 2019)"
+    - title: "Open Forum: On the legacy of AIDS &ndash; trauma and shame get in the way of HIV prevention (<em>San Francisco Chronicle</em>, March 28, 2019)"
       url: https://www.sfchronicle.com/opinion/openforum/amp/Open-Forum-On-the-legacy-of-AIDS-trauma-and-13721123.php
 ---
 {% include_relative sidebars/pronouns-hero-caption.html classes="right" bgcolor="#f1f1f1" %}

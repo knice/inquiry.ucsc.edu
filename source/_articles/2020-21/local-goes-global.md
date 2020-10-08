@@ -8,7 +8,7 @@ subhead: "As national governments waver, cities take up the climate fight"
 author:
   name: Lindzi Wessel
   file: "2020/lindzi-wessel.jpg"
-  url: 
+  url: http://lindziwessel.com/
 banner:
   file: 2020/santiago-chile.jpg
   position: left

@@ -25,7 +25,7 @@ birds.
 <figure class="">
   {% asset 2020/bee.jpg @magick:resize=600 alt:'Flower and bee' %}<figcaption>While studying the biodiversity of urban gardens in and near Santa Cruz,
 Professor Stacy Philpott and her group have cataloged more than 60
-species of bees, like this bumblebee---<em>Bombus vosnesenskii</em>---visiting
+species of bees, like this bumblebee&mdash;<em>Bombus vosnesenskii</em>&mdash;visiting
 a lavender plant in a Salinas community garden. Credit: Stacy Philpott,
 with permission.</figcaption>
 </figure>

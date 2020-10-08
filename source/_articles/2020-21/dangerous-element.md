@@ -8,7 +8,7 @@ subhead: "Tracking the elusive biogeochemistry of mercury"
 author:
   name: Ula Chrobak
   file: "2020/ula-chrobak.jpg"
-  url: 
+  url: https://www.ulachrobak.com/
 banner:
   file: 2020/yellowfin-tuna.jpg
   position: left
@@ -136,11 +136,11 @@ human activity."
 All this mobilized mercury exists in three main forms. Its elemental
 form, Hg0, the liquid quicksilver at room temperature, easily
 volatilizes into a gas. That gaseous mercury becomes charged in the
-atmosphere to its Hg<sub>2</sub><sup>+</sup> form, or mercuric ions. These ions can diffuse
+atmosphere to its Hg2+ form, or mercuric ions. These ions can diffuse
 into water. Under low-oxygen conditions, such as in lake bottom,
 coastal, and seafloor sediments, bacteria convert mercuric ions into
 [methylmercury](https://www.epa.gov/mercury/how-people-are-exposed-mercury)
-(CH<sub>3</sub>Hg<sup>+</sup> ions. Toxicologists worry especially about methylmercury.
+(CH3Hg+ ions. Toxicologists worry especially about methylmercury.
 "The mercury in our bodies is mostly methylmercury," said Lamborg.
 "Methylmercury by itself is not necessarily more toxic than any other
 form of mercury, but it sits there as a reservoir that bleeds out into
@@ -206,9 +206,9 @@ Munson](https://www.researchgate.net/profile/Kathleen_Munson), now a
 postdoctoral fellow at the University of Manitoba, methylmercury
 continued to form in seawater samples after all the microbes were
 filtered out. Lamborg has some leads on the mystery reaction. Bacteria
-produce vitamin B<sub>12</sub>, and that could react with mercuric ions to
+produce vitamin B12, and that could react with mercuric ions to
 produce methylmercury. "There\'s all this circumstantial evidence
-suggesting that we should be looking for a B<sub>12</sub>-related mechanism," he
+suggesting that we should be looking for a B12-related mechanism," he
 said.
 
 Another enigma lies at the bottom of the San Francisco Bay, where the

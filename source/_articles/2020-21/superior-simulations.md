@@ -8,7 +8,7 @@ subhead: "Mathematical quest seeks to embrace uncertainty"
 author:
   name: Dana Mackenzie
   file: "2020/dana-mackenzie.jpg"
-  url: 
+  url: http://www.danamackenzie.com/about.htm
 banner:
   file: 
   position: left
@@ -20,7 +20,7 @@ further-inquiry:
     - title: "W. E, J. Han, Q. Li. [A Mean-Field Optimal Control Formulation of Deep Learning. Research in the Mathematical Sciences 6, article 10 (2019). Presents Weinan E's approach to deep neural networks using a functional differential equation of the Hamilton-Jacobi-Bellman type."
       url: https://doi.org/10.1007/s40687-018-0172-y
     - title: >
-          W. E, C. Ma, L. Wu. Machine Learning from a Continuous Viewpoint. arXiv:1912.12777v1 [math.NA] 30 Dec 2019. Note particularly the "Discussion" section of this preprint, which explains E's view of neural networks as a discrete realization of a continuous flow in an infinite-dimensional space [PDF]
+          W. E, C. Ma, L. Wu. Machine Learning from a Continuous Viewpoint. arXiv:1912.12777v1 [math.NA] 30 Dec 2019. Note particularly the "Discussion" section of this preprint, which explains E's view of neural networks as a discrete realization of a continuous flow in an infinite-dimensional space [PDF].
       url: https://arxiv.org/pdf/1912.12777.pdf
     
 ---
@@ -89,7 +89,7 @@ Kingdom</a>
 Ever since he was an undergraduate at the University of Bologna in
 Italy, Venturi has dreamed of building a tool that can actually solve
 the problem the right way: by transporting the fog of uncertainty from
-place to place or from time to time. He calls his method ["[functional
+place to place or from time to time. He calls his method "[functional
 differential
 equations"](https://en.wikipedia.org/wiki/Functional_differential_equation)
 (FDE). But we can call it "propagate-then-sample."
