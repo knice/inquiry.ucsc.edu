@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../inquiry-parts"
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.html": "liquid"
+    }
+  }
+}
