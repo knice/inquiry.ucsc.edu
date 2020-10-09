@@ -63,7 +63,7 @@ Garza-Girón**](https://ricky-gg.github.io/) spoke about analyzing
 seismic activity during volcanic eruptions to determine when these
 cataclysmic events have concluded.
 <figure class="left" style="width:600px;">
-  {% asset 2020/tori-abel.png @magick:resize=600 alt:'Ph.D. students Victoria “Tori” Klein (left) and Abel Mkulama (right)' %}<figcaption>Ph.D. students Victoria “Tori” Klein (left) , champion and People’s Choice winner, and Abel Mkulama (right), runner-up, of the 2020 UCSC Grad Slam competition. Credit: Tori Klein; Kurtz Photographics.</figcaption>
+  {% asset 2020/tori-abel.png @magick:resize=600 alt:'Graduate students Victoria “Tori” Klein (left) and Abel Mkulama (right)' %}<figcaption>Graduate students Victoria “Tori” Klein (left) , champion and People’s Choice winner, and Abel Mkulama (right), runner-up, of the 2020 UCSC Grad Slam competition. Credit: Tori Klein; Kurtz Photographics.</figcaption>
 </figure>
 "The presentations this year were really extraordinary&mdash;any of them
 could have won," said Williams. But a champion must always be crowned,
