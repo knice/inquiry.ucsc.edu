@@ -187,10 +187,9 @@ navigate the art world as it's constituted today."
 
 In a good example of the practical experience students can expect to
 gain, those enrolled in one of Julien's spring classes were slated,
-before the Covid-19 shutdown, to help launch a new installation of
+before the Covid-19 shutdown,  to help with the October 2020 launch of a new installation of
 *Lessons of the Hour* at the [McEvoy Foundation for the
-Arts](https://www.mcevoyarts.org/) in San Francisco (see
-[www.mcevoy.arts](http://www.mcevoy.arts)). The collaboration was
+Arts](https://www.mcevoyarts.org/) in San Francisco. The collaboration was
 intended to expose students to various aspects of producing an
 exhibition, such as helping to organize and set up the gallery space,
 and tackling the intricacies of a complex installation that involves

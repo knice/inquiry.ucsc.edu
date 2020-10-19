@@ -8,7 +8,7 @@ contributors:
   - name-year: Bethany Aguiliere (’16)
     file: 2020/bethany-augliere.jpg
     url: https://www.bethanyaugliere.com/
-  - name-year: Erica K. Carlson ('19)
+  - name-year: Erika K. Carlson ('19)
     file: 2020/erika-k-carlson
     url: https://erikak.ca/
   - name-year: Ula Chrobak (’17)

@@ -5,7 +5,7 @@ category: brief
 order: 5
 title: Kanye? Or Not?
 author:
-  name: Erica K. Carlson
+  name: Erika K. Carlson
   url: https://erikak.ca/
 colors:
     tag: "#84cbd8"

@@ -41,7 +41,7 @@ in-the-news:
 Calling a lowly microbe intelligent may seem over the top, but you can
 forgive a little hyperbole when [**Bill
 Sullivan**](https://mcd.ucsc.edu/faculty/sullivan.html) describes the
-bacterium [*Wolbachia*](https://en.wikipedia.org/wiki/Wolbachia) as
+bacterium *Wolbachia* as
 "really smart." Sullivan, UC Santa Cruz distinguished professor of
 molecular, cell, and developmental biology, is explaining how the
 intracellular parasite sneaks its way through the embryos of certain
@@ -102,7 +102,7 @@ was teaching an undergraduate genetics course and looking to liven
 things up with field trips. When he read that a bacterium, *Wolbachia*,
 was sweeping northward through California's fruit fly population, he
 hatched a plan: he and his students would hit up local wineries and
-apple orchards, collect the swarming flies and analyze them to see if
+apple orchards, collect the swarming flies, and analyze them to see if
 the infection had reached Santa Cruz County (it had).
 
 That was 20 years ago, and what began as a fling has become a lasting
@@ -150,7 +150,7 @@ and Environmental Sciences, Sorbonne University, with permission.</figcaption>
 But exactly how CI scuppers the infected male/uninfected female crosses
 wasn't known. Using their moviemaking chops, Sullivan and then-postdoc
 [**Uyen Tram**](https://molgen.osu.edu/people/tram.1) (now a research
-associate at the Ohio State University), traced the problem to a timing
+associate at The Ohio State University), traced the problem to a timing
 glitch at the very beginning of embryogenesis, just after the egg is
 fertilized by sperm and starts dividing. When things are working
 properly, paternal chromosomes from the sperm and maternal chromosomes
@@ -236,7 +236,7 @@ lab technology&mdash;implemented by UC Santa Cruz professor of chemistry
 [**Scott
 Lokey**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=slokey)---to
 streamline testing and assays. Instead of wrangling flies, manually
-manipulating them and inspecting specimens one by one, he and his team
+manipulating them, and inspecting specimens one by one, he and his team
 could process hundreds of cell samples in batches using robotic handling
 systems. Mechanized microscopes could scan the samples and analyze the
 results. This automated approach made procedures like knockout genetics
