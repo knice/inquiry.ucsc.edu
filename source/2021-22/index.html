@@ -1,0 +1,59 @@
+---
+layout: default
+class: front
+title: Inquiry @ UC Santa Cruz
+banner:
+  file: 2020/nematode.jpg
+  text: "Lightning lights up the Tucscon, AZ, night sky in a single, seven-minute exposure captured from Babad Do'ag Vista Point during an August 2014 storm. Researchers studying the enigmatic physics of lightning are making surprising discoverises about this common and spectacular display of nature."
+current: 2021-22
+---
+
+<div class="row">
+
+  <section class="two-thirds block toc">
+
+    <h1 class="issue-title">{{ page.current }}</h1>
+
+    <ul class="toc-list plain">
+      <li><a href="/{{ page.current }}/welcome/">Welcome</a></li>
+      <li><a href="/{{ page.current }}/briefs/"><span class="caps">Brief</span> <span class="heavy">inquiries</span></a></li>
+            <li><a href="/{{ page.current }}/innovations/"><span class="heavy">Inquiries &amp;</span> <span class="caps">Innovations</span></a></li>
+      <li><a href="/{{ page.current }}/books/"><span class="caps">Pen</span> <span class="heavy">&amp;</span> <span class="caps">Inq</span></a></li>
+      <li><a href="/{{ page.current }}/contributors/"><span class="caps">Inquiring</span> <span class="heavy">minds</span></a></li>
+
+    </ul>
+
+    <h2 class="header highlight">Features</h2>
+    <div class="features">
+
+      <ul class="toc-list">
+
+      {% assign sorted_articles = site.articles | where: 'issue','2020' | sort: 'order' %}
+      {% for post in sorted_articles %}
+
+        {% if post.category == 'feature' %}
+            <li>
+              <h3>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </h3>
+              <p class="teaser">{{ post.subhead }}</p>
+              <p class="author">By {{ post.author.name }}</p>
+            </li>
+        {% endif %}
+
+      {% endfor %}
+      </ul>
+
+    </div>
+
+  </section>
+
+  <section class="one-third block">
+      <figcaption>Above: <em>Wolbachia</em> (red specks) colonize the developing egg cells of the nematode <em>Brugia malayi</em> (the larger purplish ovals are the nuclei of the eggs), one of several parasitic worms that cause the neglected tropical disease lymphatic filariasis, better known as elephantiasis. By infiltrating the eggs of these nematodes and many other
+invertebrates, the bacterium is able to spread from one generation of hosts to the next. That and many other canny survival strategies have made <em>Wolbachia</em> one of the world’s most ubiquitous organisms and an object of increasing fascination to biologists. Credit: Laura Chappell, with permission.</figcaption>
+      <h3 class="index-headline featured">Download the PDF</h3>
+      <a href="/2020-21/inquiry2020.pdf">{% asset '2020/Inquiry2020-cover.jpg' @magick:resize=380 alt:'2020 cover of Inquiry Magazine' %}</a>
+  </section>
+
+</div>
+{% include back-to-top.html %}
