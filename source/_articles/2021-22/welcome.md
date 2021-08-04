@@ -44,6 +44,9 @@ and Professor of Computer Science
 
 ### Contributors
 
+{% comment %}
+TODO: Style list
+{% endcomment %}
 {% assign sortedContributors = site.data.contributors | sort: "last" %}
 {% for contributor in sortedContributors %}
 
