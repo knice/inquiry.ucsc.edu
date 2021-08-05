@@ -4,57 +4,9 @@ issue: 2020
 category: credits
 order: 1
 title: Inquiring minds
-contributors:
-  - name-year: Bethany Aguiliere (’16)
-    file: 2020/bethany-augliere.jpg
-    url: https://www.bethanyaugliere.com/
-  - name-year: Erika K. Carlson ('19)
-    file: 2020/erika-k-carlson
-    url: https://erikak.ca/
-  - name-year: Ula Chrobak (’17)
-    file: 2020/ula-chrobak.jpg
-    url: https://www.ulachrobak.com/
-  - name-year: Thomas Garlinghouse ('19)
-    file: 2020/tom-garlinghouse.jpg
-    url: https://tsgarlin.wixsite.com/garlinghouse
-  - name-year: Emma Hiolski (’17)
-    file: 2020/emma-hiolski.jpg
-    url: https://www.emmahiolski.com/
-  - name-year: Dana Mackenzie ('97)
-    file: 2020/dana-mackenzie.jpg
-    url: http://www.danamackenzie.com/about.htm
-  - name-year: Jyoti Madhusoodanan (’14)
-    file: 2020/jyoti-madhusoodanan.jpg
-    url: https://muckrack.com/jyoti-madhusoodanan
-  - name-year: Robert Pollie (’82)
-    file: 2018/robert-pollie.jpg
-    url: http://7thavenueproject.com/
-  - name-year: Ramin Skibba (‘16)
-    file: 2020/ramin-skibba.jpg
-    url: https://raminskibba.net/
-  - name-year: Cameron Walker (’02)
-    file: 2018/cameron-walker.jpg
-    url: http://www.cameronwalker.net/
-  - name-year: K. M. Watson (‘84)
-    file: 2020/k-m-watson.jpg
-  - name-year: Lindzi Wessel (‘16)
-    file: 2020/lindzi-wessel.jpg
-    url: http://lindziwessel.com/
-  - name-year: Sarah C. P. Williams ('07)
-    file: 2018/sarah-williams.jpg
-    url: http://www.sarahcpwilliams.com/
-  - name-year: Marcus Woo (’07)
-    file: 2018/marcus-woo.jpg
-    url: https://about.me/marcus_woo
-  - name-year: Aylin Woodward (‘17)
-    file: 2020/aylin-woodward.jpg
-    url: https://www.aylinwoodward.com/
-  - name-year: Mike Wooldridge (’92)
-    file: 2020/mike-wooldridge.jpg
-    url: https://www.amazon.com/Mike-Wooldridge/e/B001HCYOJ8
 ---
 <ul class="contributors-container">
-{% if page.contributors %}
+
 {% assign contributorsSorted = site.data.contributors | sort: "last" %}
   {% for contributor in contributorsSorted %}
   
@@ -68,7 +20,7 @@ contributors:
   </span>
   </li>
 {%endfor%}
-{% endif %}
+
 </ul>
 With the distinctive expertise of scientists-turned-journalists, the 16
 writers shown here, all graduates of the UC Santa Cruz [Science
