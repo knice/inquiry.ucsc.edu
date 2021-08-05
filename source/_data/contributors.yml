@@ -1,72 +1,108 @@
 - name: Emma Hiolski
   year: (SciCom '17)
   last: Hiolski
-  photo:
+  name-year: Emma Hiolski (’17)
+  file: 2021/emma-hiolski.jpg
+  url: https://www.emmahiolski.com/
 - name: Dana Mackenzie
   year: (SciCom '97)
   last: Mackenzie
-  photo:
+  name-year: Dana Mackenzie ('97)
+  file: 2021/dana-mackenzie.jpg
+  url: http://www.danamackenzie.com/about.htm
 - name: Jyoti Madhusoodanan
   year: (SciCom '14)
   last: Madhusoodanan
-  photo:
+  name-year: Jyoti Madhusoodanan (’14)
+  file: 2021/jyoti-madhusoodanan.jpg
+  url: https://muckrack.com/jyoti-madhusoodanan
 - name: Cameron Walker
   year: (SciCom '02)
   last: Walker
-  photo:
+  name-year: Cameron Walker (’02)
+  file: 2018/cameron-walker.jpg
+  url: http://www.cameronwalker.net/
 - name: K. M. Watson
   year: (SciCom '84)
   last: Watson
-  photo:
+  name-year: K. M. Watson (’84)
+  file: 2021/k-m-watson.jpg
+  url:
 - name: Jennifer Welsh
   year: (SciCom '10)
   last: Welsh
-  photo:
+  name-year: Jennifer Welsh (’10)
+  file: 2021/jennifer-welsh.jpg
+  url:
 - name: Sarah C. P. Williams
   year: (SciCom '07)
   last: Williams
-  photo:
+  name-year: Sarah C. P. Williams ('07)
+  file: 2021/sarah-williams.jpg
+  url: http://www.sarahcpwilliams.com/
 - name: Marcus Woo
   year: (SciCom '07)
   last: Woo
-  photo:
+  name-year: Marcus Woo (’07)
+  file: 2021/marcus-woo.jpg
+  url: https://about.me/marcus_woo
 - name: Sarah Derouin
   year: (SciCom '17)
   last: Derouin
-  photo:
+  name-year: Sarah Derouin (’17)
+  file: 2021/sarah-derouin.jpg
+  url:
 - name: Amanda Heidt
   year: (SciCom '20)
   last: Heidt
-  photo:
+  name-year: Amanda Heidt (’20)
+  file: 2021/amanda-heidt.png
+  url:
 - name: Jesse Kathan
   year: (SciCom '20)
   last: Kathan
-  photo:
+  name-year: Jesse Kathan (’20)
+  file: 2021/jesse-kathan.jpg
+  url:
 - name: Alla Katnelson
   year: (SciCom '07)
   last: Katnelson
-  photo:
+  name-year: Alla Katnelson (’07)
+  file: 2021/alla-katnelson.png
+  url:
 - name: Jack Lee
   year: (SciCom '20)
   last: Lee
-  photo:
+  name-year: Jack Lee (’20)
+  file: 2021/jack-lee.jpg
+  url:
 - name: Mary-Russell Roberson
   year: (SciCom '88)
   last: Roberson
-  photo:
+  name-year: Mary-Russell Roberson (’88)
+  file: 2021/mary-russell-roberson.png
+  url:
 - name: Priyanka Runwal
   year: (SciCom '19)
   last: Runwal
-  photo:
+  name-year: Priyanka Runwal (’19)
+  file: 2021/priyanka-runwal.jpg
+  url:
 - name: Helen Santoro
   year: (SciCom '19)
   last: Santoro
-  photo:
+  name-year: Helen Santoro (’19)
+  file: 2021/helen-santoro.jpg
+  url:
 - name: Ben Shouse
   year: (SciCom '01)
   last: Shouse
-  photo:
+  name-year: Ben Shouse (’01)
+  file: 2021/ben-shouse.jpg
+  url:
 - name: Lisa Strong
   year: (SciCom '93)
   last: Strong
-  photo:
+  name-year: Lisa Strong (’93)
+  file: 2021/lisa-strong.jpg
+  url:

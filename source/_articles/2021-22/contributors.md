@@ -55,7 +55,8 @@ contributors:
 ---
 <ul class="contributors-container">
 {% if page.contributors %}
-  {% for contributor in page.contributors %}
+{% assign contributorsSorted = site.data.contributors | sort: "last" %}
+  {% for contributor in contributorsSorted %}
   
   <li>{% asset {{contributor.file}} alt:"{{contributor.name-year}}" %}
   <span>
