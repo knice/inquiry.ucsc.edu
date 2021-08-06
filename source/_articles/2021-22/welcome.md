@@ -50,7 +50,7 @@ TODO: Style list
 {% assign sortedContributors = site.data.contributors | sort: "last" %}
 {% for contributor in sortedContributors %}
 
-- {{ contributor.name }} {{contributor.year}}
+- {{ contributor.first }} {{ contributor.last }} ({{contributor.program}} {{contributor.year}})
 {% endfor %}
 
 Produced by UC Santa Cruz Communications & Marketing,

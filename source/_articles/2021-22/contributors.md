@@ -10,12 +10,12 @@ title: Inquiring minds
 {% assign contributorsSorted = site.data.contributors | sort: "last" %}
   {% for contributor in contributorsSorted %}
   
-  <li>{% asset {{contributor.file}} alt:"{{contributor.name-year}}" %}
+  <li>{% asset {{contributor.file}} alt:"{{contributor.first}} {{contributor.last}} ({{contributor.year}})" %}
   <span>
   {% if contributor.url %}
-<a href="{{contributor.url}}">{{contributor.name-year}}</a>
+<a href="{{contributor.url}}">{{contributor.first}} {{contributor.last}} ({{contributor.year}})</a>
 {% else%}
-{{contributor.name-year}}
+{{contributor.first}} {{contributor.last}} ({{contributor.year}})
   {%endif%}
   </span>
   </li>
