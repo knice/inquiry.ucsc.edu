@@ -2,11 +2,12 @@
 layout: brief
 issue: 2021
 category: brief
-order: 1
-title: Board game joy
+order: 2
+title: Watching the clock
 author:
   name: Cameron Walker
   url: http://www.sarahcpwilliams.com/
+  last: Walker
 colors:
     tag: "#84cbd8"
 tags:
@@ -26,3 +27,12 @@ Board games might seem like a trivial pastime, but "games really reflect and emb
 {% else %}
 *&mdash;{{ page.author.name }}*
 {% endif %}
+
+{% for contributor in site.data.contributors %}
+    {% if contributor.last == page.author.last %}
+
+    *&mdash; {{ contributor.first }} {{ contributor.last }}*
+    {% endif %}
+{% endfor %}
+
+*Hello World*
