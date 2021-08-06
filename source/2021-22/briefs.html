@@ -7,7 +7,7 @@ class: briefs
 <div class="row">
   <section>
 
-    {% assign sorted_briefs = site.articles | where:'issue','2020' | sort: 'order' %}
+    {% assign sorted_briefs = site.articles | where:'issue','2021' | sort: 'order' %}
     {% for post in sorted_briefs %}
     {% if post.category == 'brief' %}
     <div class="brief">
