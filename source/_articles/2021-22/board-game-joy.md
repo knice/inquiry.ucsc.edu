@@ -20,7 +20,6 @@ When teaching professor [**Nathan Altice**](https://www.soe.ucsc.edu/people/nalt
 </figure>
 Board games might seem like a trivial pastime, but "games really reflect and embody the culture and values of the societies they come from," Altice said. For example, *Jinsei*, the Japanese version of the Milton-Bradley board game *Life*, introduced as Japan was deep into the economic and social transformation that started after World War II, gained immense popularity from both its aspirational connection to an American lifestyle and its similarity to a centuries-old type of Japanese board games. In some early versions of these [sugoroku](https://www.rekihaku.ac.jp/english/outline/publication/rekihaku/163/witness.html), Altice said, players roll dice to follow a pathway resembling a Buddhist scroll, ascending vertically---a metaphor for spiritual enlightenment.
 
-{% assign last = site.data.contributors[page.author.last] %}
 {% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*

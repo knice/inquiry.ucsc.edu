@@ -3,7 +3,7 @@ layout: brief
 issue: 2021
 category: brief
 order: 3
-title: Watching the clock
+title: Dwarves and dark matter
 author:
   last: Derouin
 colors:
@@ -23,7 +23,6 @@ With Princeton's [Jenny Greene](https://web.astro.princeton.edu/people/jenny-gre
   </figcaption>
 </figure>
 
-{% assign last = site.data.contributors[page.author.last] %}
 {% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*

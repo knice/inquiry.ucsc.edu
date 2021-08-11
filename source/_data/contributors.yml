@@ -1,5 +1,5 @@
 - first: Emma
-  prog: SciCom
+  program: SciCom
   last: Hiolski
   year: "’17"
   file: 2021/emma-hiolski.jpg
@@ -7,13 +7,13 @@
 - first: Dana
   program: SciCom
   last: Mackenzie
-  year: "'97"
+  year: "’97"
   file: 2021/dana-mackenzie.jpg
   url: http://www.danamackenzie.com/about.htm
 - first: Jyoti
   program: SciCom
   last: Madhusoodanan
-  year: "'14"
+  year: "’14"
   file: 2021/jyoti-madhusoodanan.jpg
   url: https://muckrack.com/jyoti-madhusoodanan
 - first: Cameron
@@ -37,7 +37,7 @@
 - first: Sarah C. P.
   program: SciCom
   last: Williams
-  year: "'07"
+  year: "’07"
   file: 2021/sarah-williams.jpg
   url: http://www.sarahcpwilliams.com/
 - first: Marcus
@@ -89,7 +89,7 @@
   file: 2021/priyanka-runwal.jpg
   url:
 - first: Helen
-  program: (SciCom '19)
+  program: (SciCom ’19)
   last: Santoro
   year: "’19"
   file: 2021/helen-santoro.jpg
