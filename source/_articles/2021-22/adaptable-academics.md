@@ -1,17 +1,13 @@
 ---
 layout: post
-issue: "2020"
+issue: "2021"
 category: feature
-order: 3
-title: What are your pronouns?
-subhead: "As choices for gender and sexual identities expand, the world slowly
-changes"
-author:
-  name: Aylin Woodward
-  file: "2020/aylin-woodward.jpg"
-  url: https://www.aylinwoodward.com/
+order: 1
+title: Adaptable academics
+subhead: "Amid pandemic upheaval, flexibility finds opportunity"
+author-last: Roberson
 banner:
-  file: 2020/london-pride-parade.jpg
+  file: 2021/spheres-over-ucsc.jpg
   position: left
 further-inquiry:
     - title: "The Radical Authenticity
