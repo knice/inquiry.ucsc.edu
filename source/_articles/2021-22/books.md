@@ -1,6 +1,6 @@
 ---
 layout: page
-issue: 2020
+issue: 2021cd 
 category: credits
 order: 2
 title: "PEN & INQ"
@@ -8,148 +8,68 @@ title: "PEN & INQ"
 
 By [Emma Hiolski](https://www.emmahiolski.com/)
 
-## Politics Built In
+## War and...Peace?
 
 <figure>
-{% asset 2020/surrogate-humanity.jpg alt:"Book: Genomic (R)Evolution" %}
+{% asset 2021/a-violent-peace.jpg alt:"Book: A Violent Peace" %}
 </figure>
 
-"These days, talk of revolutionary change doesn't usually refer to
-politics," said professor of feminist studies and critical race and
-ethnic studies [**Neda
-Atanasoski**](https://feministstudies.ucsc.edu/faculty/index.php?uid=natanaso).
-Instead, it refers to technological advances. But new technologies often
-embody old ideas about which jobs can be automated, Atanasoski said.
-Such work is devalued as boring, dirty, and repetitive&mdash;and has
-historically been performed by women, colonized peoples, or immigrants.
+The militarization of the United States in the 20th century changed the world, but not always for the better. In [**A Violent Peace: Race, U.S. Militarism, and Cultures of Democratization in Cold War Asia and the Pacific**](https://www.sup.org/books/title/?id=28991) (Stanford University Press, 2020), associate professor of literature and critical race and ethnic studies [**Christine Hong**](https://literature.ucsc.edu/faculty/index.php?uid=cjhong) chronicles the U.S. war machine's evolution post--World War II, both abroad and on U.S. soil.
 
-In [**Surrogate Humanity: Race, Robots, and the Politics of
-Technological Futures**](https://www.dukeupress.edu/surrogate-humanity),
-Atanasoski and co-author [Kalindi
-Vora](https://fri.ucdavis.edu/people/kalindi-vora), UC Davis professor
-of gender, sexuality, and women's studies, explore the myriad ways
-technology builds upon racialized and gendered ideas. Darwinian notions
-of race and evolution, for example, often are engineered into the
-artificial intelligence of [social
-robots](https://en.wikipedia.org/wiki/Social_robot).
+While this militarization supported a strong antifascist program in postwar Europe, its legacy in the Pacific theater remains an open question, said Hong. "How do you begin to understand the impacts of the Korean and Vietnam wars within this era of supposed peace?"
 
-Technology cannot remedy social inequality by itself and cannot be
-separated from politics, said Atanasoski. "Technology is political&mdash;how
-it\'s engineered, how it\'s used, and how we think, or don\'t think,
-about using it."
+Citing the several million, mostly civilian, Asian deaths during the Cold War, Hong argues that what the U.S. called "democratization" was more akin to fascism. "There are deep interconnections between U.S. foreign policy and militarized violence," Hong said, "including domestic police brutality."
 
 ****
 
-## Strawberry Woes
+## Eco-friendly Trade
 
 <figure>
-{% asset 2020/wilted.jpg alt:"Wilted book" %}
+{% asset 2021/greening-through-trade.jpg alt:"Greening through trade - book" %}
 </figure>
 
-While studying the regulatory battle over soil fumigants used in the
-California strawberry industry, professor of social sciences [**Julie
-Guthman**](https://feministstudies.ucsc.edu/faculty/index.php?uid=jguthman)
-was struck by how deeply the use of these toxic chemicals had permeated
-production. "The whole system was built around the presumption of
-fumigation," she said.
+More than a decade ago, a brief agenda item at a United Nations meeting sparked the interest of associate professor of environmental studies [**Sikina Jinnah**](https://envs.ucsc.edu/faculty/index.php?uid=sjinnah). After decades of disregarding the [Convention on International Trade in Endangered Species (CITES)](https://cites.org/eng), the Peruvian mahogany trade was suddenly in compliance.
 
-Interviews with dozens of growers led Guthman to insights about how
-[fumigation](https://ephtracking.cdc.gov/showpesticideFumigants)---which
-protects plants against soil-borne fungal disease&mdash;has changed from
-solution to problem. In her book [**Wilted: Pathogens, Chemicals, and
-the Fragile Future of the Strawberry
-Industry**](https://www.ucpress.edu/book/9780520305281/wilted), winner
-of the [2019 AAG Meridian Book
-Award](http://news.aag.org/2020/02/aag-2019-book-awards-announced/) for
-Outstanding Scholarly Work in Geography, Guthman explores how fumigant
-use created a web of reliance across numerous aspects of strawberry
-production.
+The catalyst? A bilateral trade agreement with the U.S. requiring Peru to comply with CITES. In [**Greening through Trade: How American Trade Policy is Linked to Environmental Protection Abroad**](https://mitpress.mit.edu/books/greening-through-trade) (MIT Press, 2020), Jinnah and co-author Jean-Frédéric Morin (Université Laval, Quebec City) discuss this and other links between international trade policies and environmental objectives.
 
-Without fumigation, for example, growers would need to rotate crops to
-avoid disease, planting strawberries only once every three or four
-years. But no other crop could make that practice economically viable.
-"Land was once abundant, but now it's scarce, expensive, and diseased,"
-said Guthman. "It's a complex story and there are no easy answers."
+While such agreements can drive environment-friendly changes, including ones that can help meet climate change objectives, they can also have unintended consequences. For example, Peru's rapid implementing of its CITES obligations bypassed many public participation processes. "Trade agreements can be useful tools," Jinnah said, "but they should be used with careful attention to domestic contexts."
 
 ****
 
-## Arab Cinema
+## Digital Necropolis
 
 <figure>
-{% asset 2020/arab-modernism.jpg alt:"Book: Arab Modernism as World Cinema" %}
+{% asset 2021/constructing-the-sacred.jpg alt:"Book: Constructing the Sacred" %}
 </figure>
-American audiences are largely unfamiliar with the films of [Moumen
-Smihi](https://bampfa.org/program/moumen-smihi-poet-tangier) and with
-Arab cinema in general. [**Peter
-Limbrick**](http://film.ucsc.edu/faculty/peter_limbrick), professor of
-film and digital media, hopes to change that. In [**Arab Modernism as
-World Cinema: The Films of Moumen
-Smihi**](https://www.ucpress.edu/book/9780520330573/arab-modernism-as-world-cinema),
-Limbrick showcases the Moroccan filmmaker's work, using it as a lens to
-refocus our understanding of Arab and global cinema.
+After working on a UCLA-led digital reconstruction of the ancient Egyptian temple site of [Karnak](http://dlib.etc.ucla.edu/projects/Karnak/), associate professor of history [**Elaine Sullivan**](https://humanities.ucsc.edu/academics/faculty/index.php?uid=easulliv) set her sights on [Saqqara](https://en.wikipedia.org/wiki/Saqqara), a complex, deeply studied necropolis, home to Egypt's first pyramid. Sullivan wanted to explore the site in a new way and recreate for modern viewers the landscape ancient people might have experienced.
 
-"In the West, we have a pretty restricted view of film history in the
-Middle East and North Africa," Limbrick said. It's easy to assume most
-films from those regions center only on questions of politics, gender,
-or relationships with the West. But they also demonstrate beautiful
-experimentation with form, music, images, and poetry.
+She spent five years crafting a digital, three-dimensional reconstruction that joins modern data with legacy data from excavations dating back to 1850. The resulting "born-digital" publication, [***Constructing the Sacred: Visibility and Ritual Landscape at the Egyptian Necropolis of Saqqara***](https://constructingthesacred.org/) (Stanford University Press, 2020), spans 2,700 years of ancient Egyptian history and includes 3D models that readers can explore through both space and time.
 
-Such films, including Smihi's, reflect the rich history of both Arab and
-global cinema. "These films are multicultural, multilingual,
-multiethnic," said Limbrick. "I want people to recognize the diversity
-and possibility of Arab cinema."
+"This is a visualization of our archeological knowledge of Saqqara," Sullivan said, "a tool to help us think about and hypothesize about the site in new ways."
 
 ****
 
-## Heritage Education
+## Healing Through Art
 
 <figure>
-{% asset 2020/heritage-education.jpg alt:"Book: Visualizing Number Theory" %}
+{% asset 2021/traces-of-trauma.jpg alt:"Book: Traces of Trauma" %}
 </figure>
 
-When granted a rare opportunity to observe teaching practices at a
-brand-new, charter high school in Tucson, [**Kimberly Adilia
-Helmer**](https://campusdirectory.ucsc.edu/cd_detail?uid=khelmer) wasn't
-sure what her research would focus on. But Helmer, a teaching professor
-in the Writing Program who studies educational and linguistic
-anthropology, soon recognized that the school's compulsory Spanish class
-was going poorly.
+Between 1975 and 1979, the Khmer Rouge in Cambodia exterminated roughly two million people. Today, the nation and its diaspora continue to live with the lasting legacy of this trauma.
 
-The students, heritage speakers of Mexican origin, responded negatively
-to the teaching and exercises, all designed for non-native speakers. At
-the same time, they thrived in their English-based humanities course,
-which used more authentic learning materials.
+"How do we keep going on? What strategies have we developed to cope?" asked associate professor of history of art and visual culture [**Boreth Ly**](https://havc.ucsc.edu/faculty/boreth-ly), himself a survivor of the [genocide](https://en.wikipedia.org/wiki/Cambodian_genocide). For the deeply personal [**Traces of Trauma: Cambodian Visual Culture and National Identity in the Aftermath of Genocide**](https://www.degruyter.com/view/title/554719) (University of Hawaii Press, 2019), Ly interviewed Cambodian artists around the world to explore the potential for---and limitations of---art to facilitate healing.
 
-Helmer compares and contrasts these approaches in [**Learning and Not
-Learning in the Heritage Language Classroom: Engaging Mexican-Origin
-Students**](http://www.multilingual-matters.com/author_results.asp?sf1=contributor&st1=Kimberly%20Adilia%20Helmer).
-A heritage Spanish speaker herself, Helmer highlights the likely
-benefits of designing teaching methods and practices specifically for
-heritage speakers and learners: "It\'s good for the brain, good for
-society, good for social justice and peace, and good for the economy."
+In one poignant exchange, an artist sent to the U.S. for adoption at age two tells Ly of her return to her father's village at age 40 for a work of performance art. Ly recounts her "symbolic act of healing" in which she broke 40 clay pots and painstakingly pieced them back together over six days.
 
 ****
 
-## Cosmic Questions
+## Meaningful Mechanics
 
 <figure>
-{% asset 2020/cosmic-questions.jpg alt:"Book: Letters to Memory" %}
+{% asset 2021/how-pac-man-eats.jpg alt:"Book: How Pac-Man Eats" %}
 </figure>
-"If you want to understand the established current view of fundamental
-physics, this is not the book for you. If you want to go on a bit of an
-adventure into the unknown, then it might be," said professor of physics
-[**Anthony Aguirre**](http://scipp.ucsc.edu/~aguirre/Home.html). In
-[**Cosmological Koans: A Journey to the Heart of Physical
-Reality**](https://www.amazon.com/Cosmological-Koans-Journey-Physical-Reality/dp/0393609219),
-Aguirre adopts the Zen tradition of [koan
-practice](https://en.wikipedia.org/wiki/K%C5%8Dan) to explore paradoxes
-of physics and the cosmos.
+Video games are often the primary media consumed by many people. But what are games actually doing when we play them? Professor of computational media [**Noah Wardrip-Fruin**](https://www.soe.ucsc.edu/people/nwf) distills this question into two parts: How do games work? And how do we make them say what we want? "Those might sound like two quite different levels, but they are deeply interconnected," said Wardrip-Fruin, whose [**How Pac-Man Eats**](https://mitpress.mit.edu/books/how-pac-man-eats) (MIT Press, 2020) explores how video games meld mechanics with broader meaning.
 
-In a series of more than 50 vignettes, Aguirre leads readers on a
-journey set in the early 17th century, starting in Italy and ending in
-Japan. Each vignette's blend of koan and physics commentary both informs
-readers and exposes them to deeper and more interesting questions.
+In the titular example, [Pac-Man](https://www.pacman.com/en/) "eats" because a game designer expanded the meaning of a collision. In a more complex example, Wardrip-Fruin describes the game [*Dys4ia*](http://www.digiart21.org/art/dys4ia), in which speech bubbles take on physical form to illustrate the power of words.
 
-Aguirre's goal is to share the experience of grappling with a variety of
-meaty, thorny cosmological mysteries. "This is not a book of answers,"
-he said, "but a book of questions."
+Wardrip-Fruin said the book will appeal to people interested in video games with cultural, political, and personal themes, as well as those wishing to understand how games operate "on a deeply detailed level."
