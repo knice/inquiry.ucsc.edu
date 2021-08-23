@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 3
 title: Dwarves and dark matter
-author:
-  last: Derouin
+author-last: Derouin
 colors:
     tag: "#84cbd8"
 tags:
@@ -30,7 +29,7 @@ Given the massive amount of data the survey will collect, Leauthaud anticipates 
   </figcaption>
 </figure>
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

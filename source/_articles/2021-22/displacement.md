@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 13
 title: Displacement
-author:
-  last: Heidt
+author-last: Heidt
 colors:
     tag: "#84cbd8"
 tags:
@@ -22,7 +21,7 @@ In a government archive housed in San Bruno, Keliiaa unearthed roughly 4,000 let
 
 The legacy of such outing programs, documented in Keliiaa's book-in-progress, *Unsettling Domesticity: Native Women and 20th-Century Federal Indian Policy in the San Francisco Bay Area*, is not entirely negative. Program participants who stayed or returned formed a resilient Native community decades before more extensive migration to the Bay Area from reservations. Social clubs for Native people established by the outing program---to meet under supervision---also persisted, creating what Keliiaa calls "foundational spaces" for displaced Natives to build community and celebrate their tribal cultures.
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 8
 title: Remote teaching
-author:
-  last: Heidt
+author-last: Heidt
 colors:
     tag: "#84cbd8"
 tags:
@@ -24,7 +23,7 @@ The group's first interim report (November 2020) documented teachers' initial re
 
 The results also showed a groundswell in organizing by teachers. In response to this push to consider their voices, which Bartlett said will "no doubt" continue, states with strong teachers' unions, like California, have already negotiated protections to support educators.
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

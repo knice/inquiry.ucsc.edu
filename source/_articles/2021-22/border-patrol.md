@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 11
 title: Border patrol
-author:
-  last: Kathan
+author-last: Kathan
 colors:
     tag: "#84cbd8"
 tags:
@@ -21,7 +20,7 @@ Erbig's book [*Where Caciques and Mapmakers Met: Border Making in Eighteenth-Cen
 
 The mapmakers often omitted the native territories of mobile Indigenous societies, Erbig said, at least partly due to their incompatibility with a sedentary European worldview. But the records show that colonists paid tribute to Indigenous peoples whose lands they crossed, and native leaders ("caciques") leveraged Spanish and Portuguese competition to increase their own power. The historical erasure of the region's Indigenous peoples continues to affect native people, like those fighting for legal and cultural recognition in Uruguay, Erbig said. He hopes his scholarship will help support their cause.
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

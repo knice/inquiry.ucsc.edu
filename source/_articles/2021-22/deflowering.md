@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 10
 title: DeFlowering
-author:
-  last: Welsh
+author-last: Welsh
 colors:
     tag: "#84cbd8"
 tags:
@@ -57,7 +56,7 @@ BDSM images, or images of black
 men,](https://www.bloomsbury.com/us/mapplethorpe-and-the-flower-9781788312516/)
 some of the deeper meanings are the same."
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 6
 title: Back to the future
-author:
-  last: Walker
+author-last: Walker
 colors:
     tag: "#84cbd8"
 tags:
@@ -23,7 +22,7 @@ Historians typically write about how the past has shaped the present. Professor 
 
 It's become clear to O'Hara that critical thinking about what's to come is essential to better understand both the past and present. "This last year proved the importance of thinking about the future," he said, "because we all saw our futures change radically."
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

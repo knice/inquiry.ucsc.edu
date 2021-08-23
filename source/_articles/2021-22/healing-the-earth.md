@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 9
 title: Healing the earth
-author:
-  last: Derouin
+author-last: Derouin
 colors:
     tag: "#84cbd8"
 tags:
@@ -26,7 +25,7 @@ In a fortunate convergence of timing, it so happens that Professor [**Karen Holl
 
 The primer covers the broad science of restoration, and also the roles played by economic stakeholders, policy makers, and local communities. Each of these participants has unique but also intertwined needs, and Holl hopes her book provides the guidance needed to avoid failed projects. Ideally, ecosystems should be protected; when needed, though, restoration plans should crucially include forward thinking. "We used to use the past as the template for restoration," Holl said. However, she said, given climate change, restored landscapes will likely need to change too.
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

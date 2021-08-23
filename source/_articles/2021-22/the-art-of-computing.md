@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 14
 title: The art of computing
-author:
-  last: Walker
+author-last: Walker
 colors:
     tag: "#84cbd8"
 tags:
@@ -20,7 +19,7 @@ Although many artists now use computers to make art, few know that art played a 
 
 An artist and software designer, Sack straddles the two disciplines, his work showcasing how computing can influence art as well. In *[The Translation Map](http://translationmap.walkerart.org/index.html),* a 2003 installation created with artist [Sawad Brooks](https://creative-capital.org/artists/sawad-brooks/) for the [Walker Art Center](https://walkerart.org/) in Minneapolis, Sack's software routed messages in one language to a series of public discussion forums around the world, resulting in a collaborative process of translation. The artists then traced the pathways of how people worked together, producing translation "maps" that illuminated shared cultural and colonial histories---and enduring divisions. "If you accept the idea that computing is an art," Sack said, "you gain a completely different way of looking at it."
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

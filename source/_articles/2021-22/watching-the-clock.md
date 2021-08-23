@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 2
 title: Watching the clock
-author:
-  last: Welsh
+author-last: Welsh
 colors:
     tag: "#84cbd8"
 tags:
@@ -25,8 +24,8 @@ The cyanobacterial clock, one of the most ancient on Earth, ticks in rhythm with
 </figure>
 In a recent [report](https://www.biorxiv.org/content/10.1101/2020.06.18.158576v1) in the prestigious journal *Science*, the researchers detail their success in recreating the cyanobacterial clock protein-by-protein in a test tube. By letting them perform straightforward experiments not previously possible, the model system is allowing them to [uncover new steps in the molecular transformations that keep the clock ticking. "The cyanobacterial clock," Partch said, "is helping us understand the general principles that make a biological clock."](https://www.partchlab.com/)
 
-{% assign last = site.data.contributors[page.author.last] %}
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign last = site.data.contributors[page.author-last] %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

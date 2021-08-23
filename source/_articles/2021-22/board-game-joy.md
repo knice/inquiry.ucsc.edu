@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 1
 title: Board game joy
-author:
-  last: Walker
+author-last: Walker
 colors:
     tag: "#84cbd8"
 tags:
@@ -22,7 +21,7 @@ Board games might seem like a trivial pastime, but "games really reflect and emb
 
 Archiving the games protects these fragile, ephemeral historical records that "connect to the way we express ourselves as human beings," Altice said. "To me, this is an important cultural preservation project."
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 5
 title: Capturing complexity
-author:
-  last: Heidt
+author-last: Heidt
 colors:
     tag: "#84cbd8"
 tags:
@@ -25,7 +24,7 @@ Her goal for the documentary, Taylor said, was to avoid portraying Rutland as si
 
 Taylor teaches her students the same ethical practices and principles that have guided her more than two decades of work as an award-winning filmmaker of feature and short documentary films. "Our job is to be honest," she said. "I come in with a 'do no harm' commitment and an assumption that everybody deserves dignity."
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

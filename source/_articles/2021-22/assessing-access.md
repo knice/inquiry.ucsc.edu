@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 7
 title: Assessing access
-author:
-  last: Kathan
+author-last: Kathan
 colors:
     tag: "#84cbd8"
 tags:
@@ -22,7 +21,7 @@ Upon returning to Santa Cruz, Vidali decided to try a similar mapping of her hom
 
 Vidali hopes to continue the project---halted by the pandemic---when students return to campus. In addition to providing a practical resource for people with disabilities, the map will also serve, she said, "as an activist statement about how inaccessible the campus is."
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

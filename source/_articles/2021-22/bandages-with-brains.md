@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 4
 title: Bandages with brains
-author:
-  last: Welsh
+author-last: Welsh
 colors:
     tag: "#84cbd8"
 tags:
@@ -21,7 +20,7 @@ To monitor the wound, the smart bandage will contain optical sensors currently b
 
 "We'll monitor the wounds in real-time, and my algorithms will process and interpret the images to say, for example, 'Oh, we've started inflammation!'" Gomez said, prompting the bandage to release specific biochemicals. Eventually, she said, the technology could be adapted to help heal chronic sores, like those caused by diabetes, which burden a substantial number of patients and cost the health care system billions annually.
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

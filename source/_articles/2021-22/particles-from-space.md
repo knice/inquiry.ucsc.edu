@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 15
 title: Particles from space
-author:
-  last: Kathan
+author-last: Kathan
 colors:
     tag: "#84cbd8"
 tags:
@@ -24,7 +23,7 @@ Cosmic rays mostly include subatomic particles like neutrons and protons, which 
 To study these elusive electrons, Johnson, then Ph.D.-candidate **Sarah Mechbal** (now at Deutsches Elektronen-Synchrotron---[DESY](https://www.research-in-germany.org/en/research-landscape/research-organisations/research-infrastructures/desy.html)---in Germany), and [John Clem](https://web.physics.udel.edu/about/directory/faculty/john-clem) at the University of Delaware collaborated on the NASA-supported mission, for which the UCSC team built [AESOP (Anti-Electron Sub Orbital Payload)-Lite](https://stratocat.com.ar/fichas-e/2018/KRN-20180515.htm), an instrument capable of distinguishing electrons from positrons, their antiparticles.
 
 The Earth's atmosphere absorbs most radiation, making it difficult to measure---hence the high-altitude balloon to ferry AESOP-Lite near the edge of space. With the mission's [initial findings](https://arxiv.org/pdf/2009.03437.pdf) now published, the researchers plan to compare their data with measurements from similar sensors on the International Space Station and satellites deep in the solar system. These comparisons, Johnson said, could illuminate how our Sun's radiation affects these particles from space.
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}

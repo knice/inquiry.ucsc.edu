@@ -4,8 +4,7 @@ issue: 2021
 category: brief
 order: 12
 title: Baby steps
-author:
-  last: Derouin
+author-last: Derouin
 colors:
     tag: "#84cbd8"
 tags:
@@ -22,7 +21,7 @@ Babies as young as three months old show signs of cognition, said Wang. While th
 
 No one style is better than another, Wang said, but such cultural differences can make a one-size-fits-all approach to education problematic. Understanding the learning methods children experience in their early years can help educators adopt more effective teaching strategies. Wang hopes her findings---as applied in UCSC's [New Gen Learning](https://transform.ucsc.edu/work/newgenlearning/), an initiative to support research on strengths-based learning---helps to address "this disconnect between home and school" that can disadvantage many children, especially those from historically underserved populations.
 
-{% assign contrib = site.data.contributors | where:"last", page.author.last | first %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*
 {% else %}
