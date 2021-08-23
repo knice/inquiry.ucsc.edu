@@ -1,6 +1,6 @@
 ---
 layout: page
-issue: 2020
+issue: 2021
 category: credits
 order: 5
 title: "Inquiries & INNOVATIONS"
@@ -8,133 +8,44 @@ title: "Inquiries & INNOVATIONS"
 
 By [Marcus Woo](https://about.me/marcus_woo)
 
-## Inhibiting inflammatory enzymes ##
+## Unclogging rock ##
 
-Enzymes called
-[lipoxygenases](https://en.wikipedia.org/wiki/Lipoxygenase) help control
-the body\'s inflammatory responses. \"We\'re realizing their role in
-human disease is quite significant,\" said professor of biochemistry
-[**Ted
-Holman**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=holman),
-part of a group awarded two related patents for inhibitors of the
-lipoxygenases 12-LOX and 15-LOX-1.
+In [hydraulic fracturing](https://www.epa.gov/uog/process-unconventional-natural-gas-production) ("fracking"), pumping liquid into the ground at high pressure creates cracks in rock that increase its permeability, allowing drillers to extract more oil and gas more easily and quickly.
 
-Inhibiting 12-LOX could prevent a dangerous condition that afflicts some
-surgery patients, potentially saving lives in rare cases where
-[heparin](https://en.wikipedia.org/wiki/Heparin), a drug commonly used
-to prevent blood clots during surgery, instead induces
-[platelets](https://en.wikipedia.org/wiki/Platelet) to aggregate
-excessively, triggering stroke and bleeding. And inhibiting 15-LOX-1
-could help stroke patients. After an [ischemic
-stroke](https://medlineplus.gov/ischemicstroke.html), blood returns to
-the brain as the patient recovers. But the oxygen in the returning blood
-can also be harmful, and blocking 15-LOX-1 may limit the damage this can
-cause.
+With former UCSC postdoc **Thibault Candela**, now geomechanics scientist at the Netherlands Organization for Applied Scientific Research, [**Emily Brodsky**](https://websites.pmc.ucsc.edu/~seisweb/emily_brodsky/), professor of Earth and planetary sciences, co-invented what she calls "a somewhat gentler approach." Like a plunger unclogging pipes, the new pumping technique pulses water already in the rock back and forth at a certain frequency, cleaning out dirt, salts, and other materials that have plugged up naturally occurring fractures.
 
-*Maloney D, Luci D, Jadhav A, Holman T, Nadler J, Holinstat M,
-Taylor-Fishwick D, Simeonov A, Yasgar A, McKenzie S.
-4-((2-hydroxy-3-methoxybenyzl)amino)benzenesulfonamide derivatives as
-potent and selective inhibitors of 12-lipoxygenase. [U.S. Patent
-10,266,488](https://patents.justia.com/patent/10266488), filed October
-10, 2014, issued April 23, 2019; and Van Leyen K, Holman T, Maloney D,
-Jadhav A, Simeonov A, Rai G. Inhibitors of human 12/15-lipoxygenase.
-[U.S. Patent 10,287,279](https://patents.justia.com/patent/10287279),
-filed February 19, 2016, issued May 14, 2019.*
+The method would also be useful for tapping hot water or steam for geothermal power, cleaning water wells, or environmental remediation, Brodsky said.
 
-## Cancer treatment maps ##
+*Brodsky E, Candela T. [Determination of the optimal fluid pulses for enhancement of reservoir permeability and productivity](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10,513,909&OS=10,513,909&RS=10,513,909). U.S. Patent 10513909, filed June 20, 2016, issued December 24, 2019.*
 
-A cancer cell is a cell that has run amok. Exactly how this happens
-depends on an immense set of possible cancer-causing errors that occur
-with great variability among cancer types and individual patients. But
-identifying the specific errors could help doctors choose the best
-treatments&mdash;to "personalize" therapy for each patient.
+## Foamy carbon ##
 
-To accomplish this, the patented algorithm developed by professor of
-biomolecular engineering [**Josh
-Stuart**](https://jstuart.soe.ucsc.edu/) and collaborators compares the
-genomic blueprints of tumor and healthy cells. The resulting dynamic
-pathway map pinpoints the errors that led to the cancer&mdash;and thus
-possible targets for therapy. \"The invention takes very complex data
-and focuses attention on likely treatment alternatives for patients,\"
-Stuart said.
+[Supercapacitors](https://www.explainthatstuff.com/how-supercapacitors-work.html), fast-charging energy storage devices that deliver power quickly, could help make recharging electric vehicles as fast as filling the tank, but they require materials with a high surface area-to-volume ratio. The carbon foam co-invented by professor of chemistry [**Yat Li**](https://li.chemistry.ucsc.edu/) may more than meet this need. Wrapped in a unique structure of interconnecting pores ranging in size from one micron to less than two nanometers, the surface area in just one gram covers nearly six basketball courts.
 
-*Vaske C, Benz S, Stuart J, Haussler D. Method of generating a dynamic
-pathway map. [U.S. Patent
-10,192,641](https://patents.justia.com/patent/10192641), filed October
-26, 2011, issued January 29, 2019.*
+The inventors have shown the material could serve as an electrode for a potentially better supercapacitor---it is electrically conductive, chemically stable, and can be 3D printed. But it will likely also have other applications, Li said: "It\'s just a very useful material."
 
-## More efficient networks ##
+*Li Y, Zhang F, Liu T. [Three-dimensional porous carbon foams for supercapacitors](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=10526203&OS=10526203&RS=10526203). U.S. Patent 10526203, filed March 15, 2017, issued January 7, 2020.*
 
-In internet networks, databases called [routing
-tables](https://en.wikipedia.org/wiki/Routing_table) tell each node
-where to route data. When the network is large and dynamic, efficiently
-updating the routing tables becomes critical. \"The goal is to reduce
-the amount of time and to reduce the amount of messages that have to be
-exchanged,\" said [**J. J.
-Garcia-Luna-Aceves**](https://www.soe.ucsc.edu/people/jj), professor of
-computer science and engineering.
+## Goodbye perchlorate ##
 
-His patented method organizes nodes into hierarchical groups, so that
-not every node has to store and send every message about how to update
-the tables. The approach would be especially useful for special-purpose
-wireless networks that are constantly changing, such as ones used for
-disaster relief or on the battlefield.
+[Perchlorate](https://www.epa.gov/sdwa/perchlorate-drinking-water-frequent-questions), a toxic chemical used in producing rocket fuel and ammunition, often becomes a dangerous contaminate of groundwater near industrial sites. Professor of chemistry [**Scott Oliver**](https://oliverlab.weebly.com/) co-invented a potentially more efficient way to remove the problem perchlorate using a metal organic polymer.
 
-*Garcia-Luna-Aceves J, Li Q. Method for distance-vector routing using
-adaptive publish-subscribe mechanisms. [U.S. Patent
-10,091,094](https://patents.justia.com/patent/10091094), filed October
-16, 2014, issued October 2, 2018.*
+This positively charged material traps only the negatively charged perchlorate ion, unlike the polymers used in conventional methods, which bind all of the various negative ions typically found in water. It therefore clears more perchlorate faster. "It has the highest capacity of any method," Oliver said. The material is also reusable: the reverse chemical reaction removes the perchlorate for disposal and recovers the polymer for indefinite rounds of decontaminating.
 
-## Finding gut leaks ##
+*Oliver S, Colinas I. [Methods for removing perchlorate from water and vessels and systems for practicing the same](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10597312&OS=10597312&RS=10597312). U.S. Patent 10597312, filed March 15, 2016, issued March 24, 2020.*
 
-The sugar substitute
-[sucralose](https://en.wikipedia.org/wiki/Sucralose) can\'t be digested,
-so it usually exits the body via the bowel. But finding it in urine or
-blood could signal a leak in the gut, due to inflammation from [Crohn\'s
-disease](https://www.crohnscolitisfoundation.org/what-is-crohns-disease)
-or another gastrointestinal disorder. Doctors typically perform
-[colonoscopy](https://www.asge.org/home/for-patients/patient-information/understanding-colonoscopy)
-to evaluate such leaks. But measuring sucralose could be simpler,
-quicker, and cheaper&mdash;perhaps as an initial screening.
+## Faster chip design ##
 
-To readily detect and measure sucralose in urine or blood, professor of
-organic chemistry [**Baktham
-Singaram**](https://www.chemistry.ucsc.edu/faculty/index.php?uid=singaram)
-and collaborators invented a chemical process that causes a sample to
-glow with a brightness proportional to the sucralose concentration. In
-addition, the time between sucralose ingestion and its appearance in
-urine or blood reveals the leak's location. \"Using our procedure, we
-can say globally where the leak is,\" Singaram said.
+When designing a computer chip, engineers write a program to describe the chip\'s components. Software then optimizes and translates the code into a map of the chip. To ensure an optimum design, this translation process---which can take hours---must be repeated whenever the code is edited, even if it\'s just a tweak.
 
-*Singaram B, Resendez A, Webb D. Fluorescence method for sensing
-chlorinated disaccharides. [U.S. Patent
-10,274,483](https://patents.justia.com/patent/10274483), filed June 5,
-2015, issued April 30, 2019.*
+To make the procedure less arduous, professor of computer science and engineering [**Jose Renau**](https://users.soe.ucsc.edu/~renau/) co-created a software tool that, after the initial round, translates only what\'s necessary while maintaining the optimum chip design. "You don\'t have to redo everything," he said. The new tool means a more efficient incremental approach to chip design, reducing the compute times from hours to seconds.
 
-## RNA-targeted therapy ##
+*Renau J, Posignolo RT. [Interactive incremental synthesis flow for integrated circuit design](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10614188&OS=10614188&RS=10614188). U.S. Patent 10614188, filed June 30, 2017, issued April 7, 2020.*
 
-A cancer cell or virus can be inhibited by severing its
-[RNA](https://en.wikipedia.org/wiki/RNA), the coiled molecule that
-transmits its genetic material. But to prevent toxic side effects and
-the development of resistance, the RNA has to be cut in specific places
-along its sequence. Such precise slicing can be done with ribozymes, a
-type of RNA that acts like an enzyme.
+## Breaking DC circuits ##
 
-To get the right ribozymes, [**William
-Scott**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=wgscott),
-professor of chemistry, and [**Sara
-O\'Rourke**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=sorourke),
-project scientist, invented a way to engineer simplified "hammerhead"
-ribozymes. \"It really increases our flexibility to design a potent
-inhibitor for pretty much any RNA molecule you could want to target,\"
-Scott said. The researchers are applying their technique to develop
-drugs for [chronic myelogenous
-leukemia](https://www.cancer.org/cancer/chronic-myeloid-leukemia.html)
-and RNA-based viruses, like the
-[Covid-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
-coronavirus.
+[Circuit breakers](https://electronics.howstuffworks.com/circuit-breaker.htm) prevent electrical fires by opening the circuit when the current is too high due to a fault. When electric current crosses the opening, an arc forms, but is extinguished once the current flips to the opposite direction, as is the case with the alternating current that\'s standard in the U.S. But with the direct current increasingly common with solar power systems, battery storage, and ship and aircraft power, a different kind of breaker is needed.
 
-*O\'Rourke S, Scott W. Catalytic strands of minimal hammerhead ribozymes
-and methods of using the same. [U.S. Patent
-10,301,626](https://patents.justia.com/patent/10301626), filed March 1,
-2016, issued May 28, 2019.*
+In response to high current, a new DC breaker designed by professor of electrical and computer engineering **[Keith Corzine](https://www.soe.ucsc.edu/people/corzine)** produces a lower current through a transistor, which then shuts off the arc. The new device automatically responds to a fault in microseconds, Corzine said, about ten times faster than conventional DC breakers that rely on current sensors.
+
+*Corzine K. [Circuit breaker for DC circuits using coupled induction](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10389104&OS=10389104&RS=10389104). U.S. Patent 10389104, filed January 6, 2016, issued August 20, 2019.*
