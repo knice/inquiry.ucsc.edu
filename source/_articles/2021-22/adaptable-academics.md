@@ -10,204 +10,102 @@ banner:
   file: 2021/spheres-over-ucsc.jpg
   position: left
 further-inquiry:
-    - title: "The Radical Authenticity
-    Revolution"
-      url: https://www.youtube.com/watch?v=BVr1A35jhYU
-    - title: "Transgender and non-binary people face health care discrimination
-    every day in the
-    U.S"
-      url: https://theconversation.com/transgender-and-non-binary-people-face-health-care-discrimination-every-day-in-the-us-99732
-    - title: "How Do You Measure the LGBT Population in the
-    U.S.?"
-      url: https://news.gallup.com/opinion/methodology/259457/measure-lgbt-population.aspx
-    - title: "Generations: A Study of the Life and Health of LGB
-    People"
-      url: http://www.generations-study.com/
-    - title: "9 young people explain what being non-binary means to
-    them"
-      url: https://www.glaad.org/amp/9-young-people-explain-what-being-non-binary-means-them
+    - title: "Isotropes"
+      url: https://soundcloud.com/brianbaumbusch/isotropes
+    - title: "Unprecedented Time(*New Music Box*, December 10, 2020), an essay by Brian Baumbusch"
+      url: https://nmbx.newmusicusa.org/unprecedented-time/
+    - title: "Friedlaender Lab"
+      url: https://btbel.pbsci.ucsc.edu/
+    - title: "Soundscape listening room, Monterey Bay Aquarium Research Institute"
+      url: https://www.mbari.org/soundscape-listening-room/
+    - title: "What Makes Us Human: An Art + Genomics Convergence"
+      url: https://whatmakesushuman.org/
+    - title: OpenLab Collaborative Research Center
+      url: https://openlabresearch.com/news-events
    
 in-the-news:
-    - title: "From asexuality to heteroflexibility: 21st century ushers in new
-    openness about intimate
-    relationships (UCSC press release, November 5, 2018)"
-      url: https://news.ucsc.edu/2018/11/hammack-relationships.html
-    - title: "The future is non-binary, and teens are leading the
-    way (<em>Pacific Standard</em>, April 8, 2019)"
-      url: https://psmag.com/ideas/gen-z-the-future-is-non-binary
-    - title: "Open Forum: On the legacy of AIDS &ndash; trauma and shame get in the way of HIV prevention (<em>San Francisco Chronicle</em>, March 28, 2019)"
-      url: https://www.sfchronicle.com/opinion/openforum/amp/Open-Forum-On-the-legacy-of-AIDS-trauma-and-13721123.php
+    - title: "Composing Music for Trying Times: Three Composers Respond to a Pandemic (*San Francisco Classical Voice*, November 4, 2020)"
+      url: https://www.sfcv.org/article/composing-music-for-trying-times-three-composers-respond-to-a-pandemic
+    - title: "Radio interview with Brian Baumbusch (KWAL's *Open Air*, October 8, 2020)"
+      url: https://soundcloud.com/brianbaumbusch/open-air-interview-with-david-latulippe-and-brian-baumbusch-10-8-20
+    - title: "The pandemic stilled human activity. What did this 'anthropause' mean for wildlife? (*Science*, August 13, 2020)"
+      url: https://www.sciencemag.org/news/2020/08/pandemic-stilled-human-activity-what-did-anthropause-mean-wildlife
+    - title: Is COVID-related reduction in marine traffic reducing stress in whales? (UCSC News, July 17, 2020)
+      url: https://news.ucsc.edu/2020/07/whale-stress.html
+    - title: Conversation about What Makes Us Human with Jennifer Parker (*Scratch Space*, March 5, 2021, starting at 31:59)
+      url: https://www.youtube.com/watch?v=b_OrMhwlyBg
+    - title: Panel discussion with Jennifer Parker (*Immersive Arts Alliance*, March 23, 2021)
+      url: https://www.immersiveartsalliance.org/exhibitions-programs/small-screens-big-ideas
 ---
-{% include_relative sidebars/pronouns-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
+{% include_relative sidebars/adaptable-academics-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
 
-Unlike computers that only deal with "0" or "1", humans can imagine the
-often murky grey that exists between viewpoints. When it comes to gender
-identity, however, this ability to think beyond a rigid duality remains
-unexercised, indeed often culturally taboo, for many people. You are
-either man or woman, "she" or "he," and your genetic makeup biologically
-forbids you from being anything but one of two genders.
+Amid pandemic upheaval, flexibility finds opportunity
 
-But the world is changing. Increasingly, individuals&mdash;especially from
-younger generations&mdash;are bucking the gender binary. Their
-self-identification as either nonbinary or genderqueer, and use of
-pronouns including "they" and "ze," means they experience their gender
-identity as falling outside the categories of man and woman. The same
-goes for sexual identity&mdash;an individual's orientation can be more than
-just the dyad of heterosexual or homosexual preferences. Accordingly,
-many have begun to verbalize their attractions to people regardless of
-gender.
+In March 2020, just after the COVID-19 pandemic abruptly turned the world upside down, Music Department lecturer [**Brian Baumbusch**](https://music.ucsc.edu/people/brian-baumbusch) spent a sleepless night alternating between attending to his baby and anxiously pondering how he would manage during lockdown as a musician, composer, and leader of UCSC's two [Balinese](https://music.ucsc.edu/ensembles/balinese-gamelan-ensemble) gamelan ensembles (beginner and advanced). By the morning, he had devised a plan that would allow him to pursue his passion for composing polytempo music while supporting the [Wind Ensemble](https://music.ucsc.edu/ensembles/wind-ensemble) at the same time.
 
-Closely observing these changes is [**Phillip
-Hammack**](https://psychology.ucsc.edu/faculty/index.php?uid=hammack),
-UC Santa Cruz professor and chair of psychology. Hammack, who also
-directs the Sexual and Gender Diversity Lab, has devoted his career to
-understanding the diversity of sexual and gender identities. His more
-recent research explores what nonbinary thinking and the proliferation
-of identities mean for intimate relationships.
+Meanwhile, [**Ari Friedlaender**](https://ims.ucsc.edu/people/affiliated-faculty.php?uid=arsfried), an associate researcher at the Institute of Marine Sciences and associate adjunct professor of ocean sciences and ecology and evolutionary biology, his research in Antarctica canceled, sat trapped on a cruise ship, desperate to get home to his pregnant wife. When he finally made it back to California, he was struck by the absence of boat traffic on the Monterey Bay. How might this newly quiet environment, he wondered, be affecting the humpback whales?
 
-Despite major victories like marriage equality, Hammack and his
-collaborators have discovered that bias and discrimination remain a
-problem for lesbian, gay, and bisexual (LGB) individuals, with many
-continuing to experience mental and physical stress due to their
-minority status. "After 2015, a lot of people thought, 'Well isn't the
-fight done now?'" said [Stephen
-Russell](https://cns.utexas.edu/directory/item/14-human-ecology/2391-russell-stephen?Itemid=349),
-professor of child development at the University of Texas at Austin.
-"Yet there are these vexing disparities of well-being for sexual
-minority people: these kids don't fare as well as straight kids."
+About the same time, [**Jennifer Parker**](https://art.ucsc.edu/faculty/jennifer-parker), professor of digital arts and new media, was scrapping her plans to bring visiting artists to campus to brainstorm potential collaborations with faculty at the [Genomics Institute](https://ucscgenomics.soe.ucsc.edu/). With everyone stuck at home, she started thinking, "How can we be alone together?" Drawing on her longstanding interests in new media and facilitating community, she decided to create a whole new world.
 
-Russell, who focuses on the experiences of sexual minority youth, worked
-with Hammack on [a five-year
-study](https://williamsinstitute.law.ucla.edu/publications/coming-out-milestones-in-us/)
-of LGB adults in America who came of age in different historical
-contexts. As part of this research, Hammack delved deeply into the life
-histories of LGB community members. "What Phil designed was this
-beautiful means of drawing out their lifelines," said Russell. "He
-helped them narrate their lives' high and low points and tell us what
-they meant."
+These faculty and others not only found resourceful ways to continue their scholarship, in many cases they created work and conducted research that the pandemic compelled and made possible. "People have learned a lot about their ability to be resilient," said [**John MacMillan**](https://www.chemistry.ucsc.edu/about/directory-page.php?uid=jomacmil), associate vice chancellor for research and professor of chemistry and biochemistry.
 
-We spoke with Hammack at UC Santa Cruz's Stevenson College to discuss
-the gender and sexual diversity movement, and what his research reveals
-about it.
-<figure class="left" style="width:300px;">
-  {% asset 2020/restroom-sign.jpg @magick:resize=300 alt:'All gener restroom sign' %}<figcaption>According to Hammack, the gender binary of &quot;male&quot; and &quot;female&quot; is a
-thing of the past, as documented by this sign outside an all-gender
-restroom at the San Diego airport in California. Hammack studies the
-increasing fluidity and diversity of gender identities among U.S. youth.
-Credit: <a href="https://commons.wikimedia.org/wiki/File:All_gender_restroom_sign_San_Diego_airport.jpg">Wikimedia
-Commons</a>
-(CC BY-SA 3.0).</figcaption>
+## Dealing with it ##
+
+In a year of unprecedented hardships---isolation, sickness, death, the trauma of racism, wildfires, political division---the burdens affected most but were not spread evenly. Pandemic restrictions were more onerous for some than others. While computer scientists apparently prefer to work remotely from home, it's not as straightforward for lab and field scientists, humanities faculty barred from archives, artists without audiences, and anyone needing to travel. Working remotely is also much more difficult for people who had to---as many did---simultaneously take care of children, elderly parents, or other dependents.
+
+"It's a very uneven picture," said [**Scott Brandt**](https://officeofresearch.ucsc.edu/about/index.html), vice chancellor for research and [professor of computer science](https://users.soe.ucsc.edu/~sbrandt/) and engineering. "But many, many people suffered deeply because the work they do requires physical access to people or equipment. At the worst of it, there were profound impacts that were pretty devastating."
+
+Yet despite everything, people in the UCSC community kept working. While the media spotlight shone on the rapid establishment of a [COVID testing lab](https://sites.google.com/ucsc.edu/molecular-diagnostic-lab/news) and the [SARS-CoV-2 genome browser](https://genome.ucsc.edu/covid19.html), faculty across all the campus's five divisions rose to meet the challenges posed by the pandemic. Field researchers formed pandemic bubbles so they could safely stand side-by-side to roll 800-pound elephant seals onto a sling for weighing. Archaeologists caught up on publishing reports from past field seasons and used Google Earth to scope out potential sites for future seasons. The [Mary Porter Sesnon Art Gallery](https://art.ucsc.edu/sesnon) mounted online shows complete with a virtual model of the gallery. And the UCSC librarians made more information available digitally than ever before.
+
+## In sync in isolation ##
+
+Brian Baumbusch loves composing polytempo music, which uses different tempos for different players, but his compositions can be challenging for musicians, who naturally tend to synchronize with their neighbors. Pre-pandemic, Baumbusch solved this problem by giving each musician an ear bud with a pre-recorded click-track, essentially a personalized metronome.
+
+Just before the pandemic, Baumbusch had written a polytempo piece for five players. During his sleepless night, he realized the new conditions were strangely perfect for creating a piece for a much larger ensemble. Everyone could record their parts at home using click-tracks, without having to fight the urge to get in sync with others. "The pandemic opened the door to a really complex musical idea that would have been much harder to do if we were all in the room together," Baumbusch said.
+<figure class="left" style="width:900px;">
+  {% asset 2021/murmurations.jpg @magick:resize=900 alt:'Starlings and music photo' %}<figcaption markdown="span">Left: Parts of music lecturer Brian Baumbausch's polytempo composition *Isotropes* were inspired by the mesmerizing movements of flocks of starlings, called murmurations, like this one at Ham Wall nature reserve in Somerset, U.K. Credit: [Tony Armstrong-Sly](https://www.flickr.com/photos/tonyarmstrong/46262738422) (CC BY-ND 2.0). Right: An excerpt from the score of *Isotropes*, beginning at measure number 22. Each fragment of *Isotropes* can be played by a wide variety of instruments as indicated by the codes at left. SH stands for "sustaining high" and could be played, for example, by a piccolo. SHM stands for "sustaining high mid" and could be played by instruments like clarinets or trumpets. Non-sustaining (NS) parts can be played by instruments such as harp, piano, and percussion. Credit: ©Brian Baumbusch, 2020, with permission.</figcaption>
 </figure>
-**What's behind the emerging embrace of gender and sexual diversity?** I think the real, decisive change we see is related to information&mdash;how
-people access and control it. In the 20th century, we looked to science,
-doctors, and medicine as sources of expertise on these topics. And
-because we were limited to that basis of how knowledge was constructed
-and disseminated, it was hard to challenge the stigma associated with
-that framework.
+First, he needed to find a large group of musicians. So, he texted his colleague, lecturer [**Nat Berman**](https://music.ucsc.edu/people/nat-berman), director of the Wind Ensemble, on March 15: "Do you know the status of Wind Ensemble for spring?" Berman, who was wondering how he could teach the Wind Ensemble class remotely, immediately texted back, "Why? Do you want to write us a click-track piece we can record?" By March 23, just a week before the first (virtual) meeting of the Wind Ensemble, Baumbusch began composing.
 
-But then came the internet, and eventually social media. The latter was
-pivotal to the creation of nonbinary thinking. It has allowed people to
-find one another. You can now educate yourself using Wikipedia, of all
-things, about what you feel your identities are. We're no longer limited
-to being monogamous heterosexual or homosexual people. We have words
-like pansexual, meaning someone who's attracted to others regardless of
-their sex or gender identity, and polyamory, the practice of having
-intimate relationships with more than one partner. These terms have been
-introduced into the popular lexicon. The source of authority on what is
-possible for gender and sexual identity is no longer top-down, but
-instead bottom-up, which is why we've seen this huge explosion of
-language.
+Baumbusch built the score as the spring quarter progressed, writing all the parts in short fragments of a few seconds to a minute in length. Students signed up for fragments each week, downloaded the click-tracks, recorded their parts (usually on their cell phones), and sent them back to Baumbusch, who combined the recordings to create the piece.
 
-**How does this "explosion of language" help?** I call it a time of radical authenticity. You can really embody what feels true and right in
-a way you couldn't in the 20th century. It used to be you had the way
-you felt but didn't know what you should call this identity. Now, you
-can communicate so much about yourself using this language. People ask,
-"Why do we need all these terms?" It's because individuals' experiences
-are much more diverse than the language historically used to describe
-them. We are now slowly accumulating the language necessary to capture
-the range of our experiences.
+If students were puzzled while recording the strange little fragments of music, Baumbusch won them over the first time he played them a finished section of the piece. "It was completely thrilling," Berman said. "The students were really gobsmacked. They were extremely happy to hear themselves together, having been playing alone in bedrooms, especially because some of the fragments felt very abstract to them, as opposed to melodic."
 
-**So, is using the LGBTQ+ moniker still okay?** I intentionally avoid
-the acronym LGBTQIA because it's identity based&mdash;each letter is an
-identity&mdash;and it's always going to exclude someone's experience.
+Despite its high-tech creation and production, the finished composition, [*Isotropes*](https://soundcloud.com/brianbaumbusch/isotropes), brings to mind sounds of nature. One of its four movements is called *Murmuration*, a term that refers to flocks of starlings dipping and diving to create beautiful, ever-shifting shapes. "Every bird in a murmuration has its own pattern of getting there, but it still gets there," Baumbusch said. In a similar way, each fragment of music, like each individual bird, moves at a different speed and direction, but they all come together to create mesmerizing, coherent music.
 
-Viewing sexual and gender diversity as a spectrum rather than composed
-of separate categories invites a broader range of people into the
-"sexual minority" community. And part of that spectrum includes people
-who experience intimacy differently. The paradigm of only hetero and
-homo couples is gone. Relationships now include transgender and
-nonbinary partners, multiple, consensual partners, or asexual people who
-don't experience sexual attraction at all.
+After the Wind Ensemble's premiere of the piece in June, the Cal State Fullerton Wind Symphony began to record *Isotropes*. The music wouldn't exist if shelter-in-place orders hadn't isolated the musicians. "We took advantage of the unique circumstances," Baumbusch said, "to create something we couldn't have done any other way."
 
-**Gender and sexual identity diversity seems to be largely a youth
-movement. Are there intergenerational differences among members of the
-community?** Ilan Meyer, a scholar for public policy at the Williams
-Institute at UCLA School of Law, Stephen Russell, myself, and four other
-investigators have worked on the first long-term study of health and
-well-being across three generations of LGB people. This [Generations
-study](http://www.generations-study.com/), which started in 2015, is
-funded by a \$3.4 million federal grant from the Eunice Kennedy Shriver
-National Institute of Child Health and Human Development.
+## Boats be gone ##
 
-Our team not only completed the first random, [national sample of sexual
-minority
-Americans](https://static1.squarespace.com/static/54f4cc0be4b0014ec19fcbab/t/5df93176c5bb6c13c5f938d5/1576612217279/Generations+Quantitative+Survey+Methods+v17+copy.pdf),
-but we did 191 [life-history
-interviews](https://static1.squarespace.com/static/54f4cc0be4b0014ec19fcbab/t/5bbbccbcc830255b15be5c67/1539034301392/Generations+qualitative+methods+document_v3+Review+in+Monday%27s+meeting.pdf)
-with ethnically and gender diverse LGB people in the 18--25, 34--41, and
-52--59 age brackets. We aimed to explore gender identity in a historical
-context. What did it mean if you grew up recently with marriage equality
-versus 30 years ago in the throes of the AIDS epidemic? The impact of
-growing up in one era compared to the other should have ramifications
-for the rest of your life.
+Early March found Ari Friedlaender in Antarctica, on that previously mentioned cruise ship. But unlike the other passengers, he wasn't sightseeing---he was conducting whale research. Then, due to the quickly emerging threat of the pandemic, the ship was denied entry at its scheduled port in Chile and forced to find another, becoming the last ship accepted at Port Stanley in the Falkland Islands before it shut down too. The ship's passengers, including Friedlaender, waited in quarantine for 10 long days until the authorities shuttled them straight to the airfield for flights out. During the weeks-long saga, Friedlaender experienced firsthand the physical manifestations of stress, losing 20 pounds and developing painful back spasms.
 
-**What did you observe?** There's a relationship between prejudice and
-health. People who experienced stigma had more of what we call minority
-stress, and due to this they experienced more mental and physical health
-problems.
-
-Unsurprisingly, we found that the middle group&mdash;of which I am a
-part&mdash;who grew up during the height of AIDS internalized more stigma
-around having sex. They experienced a rhetoric that characterized gay
-men as disease carriers who were inevitably going to die, whereas the
-older and younger generations shared an openness around sex because that
-rhetoric was absent.
+Back in Santa Cruz at last, Friedlaender's thoughts pivoted from his stress to that of humpback whales. Scientists have hypothesized that noise from boat traffic stresses whales by interfering with their ability to communicate with each other and find food. And now? Many fewer boats. Friedlaender realized he had a once-in-a-lifetime opportunity. He could measure the levels of stress hormones in Monterey Bay humpbacks during this lull, and then compare them to levels in the following year, when the bay returned to its normal noisy condition. He had to hurry, though, before boat traffic picked back up. The [Marine Mammal Center](https://www.marinemammalcenter.org/about-us/where-we-work) in Moss Landing, one of the few organizations not shuttered by the pandemic, agreed to supply a boat and a captain.
 <figure class="" style="width:600px;">
-  {% asset 2020/pride-flag-supreme-court.jpg @magick:resize=600 alt:'All gener restroom sign' %}<figcaption>A man waves a Pride flag outside the United States Supreme Court in
-Washington, DC, during deliberations on the Obergefell vs. Hodges case
-for same-sex marriage on April 28, 2015. Two months later, the Supreme
-Court ruled to end marriage discrimination. According to a five-year
-study conducted by Hammack and colleagues, marriage equality in the U.S.
-hasn&#39;t eliminated discrimination against LGB community members. Credit:
-<a href="https://www.flickr.com/photos/taedc/17113823229">Ted Eytan</a> (CC BY-SA
-2.0).</figcaption>
+  {% asset 2021/ari-friedlander-whale.jpg @magick:resize=600 alt:'ari-friedlander-whale.jpg' %}<figcaption markdown="span">Ari Friedlaender, associate researcher at the Institute of Marine Sciences, shown here (left) on the lookout for whales during a sampling field trip, took advantage of pandemic-quiet waters of Monterey Bay to study how noise affects stress hormones in humpback whales. The research, which is being conducted under the appropriate animal-research permits, involves collecting blubber samples from the whales with the harpoon shown on the right, fired from a crossbow. Credit: Courtesy of Ari Friedlaender.</figcaption>
 </figure>
-**Why are things still difficult for LGB youth?** Ilan believed that the younger cohort would have had less minority stress than the older
-generation, but we observed that the way stigma works in people's lives
-has just been rearranged. There's now more opportunity to be out, but
-that comes with more opportunity for discrimination. Certainly, the
-older generation reported experiencing more internalized homophobia than
-LGB youth, and the younger cohort have experienced the expanding
-diversity of identities.
+Out on the water by mid-April, Friedlaender collected blubber samples from 45 whales. Graduate students---masked, socially distanced, and with staggered work hours---analyzed the samples in his lab. For both quiet 2020 and noisy 2021, the team plans to correlate hormone levels with records of boating activity in the Monterey Bay, as well as the sound recordings of the bay collected continually (really---listen [here](https://www.mbari.org/soundscape-listening-room/)) by the Monterey Bay Aquarium Research Institute. They're also collaborating with Atlantic coast colleagues conducting a similar study on humpbacks in the Stellwagen Bank National Marine Sanctuary off the coast of Massachusetts.
 
-But stories about bullying and coming out to parents among LGB youth
-sound exactly like those from the older generation. The idea that we can
-say "Everything's better!" doesn't account for the fact that it's
-"better" in the context of having your worth debated publicly. The
-Generations study showed that marriage equality and social progress
-haven't made as big a difference in people's day-to-day lives as one
-might think&mdash;at least not yet.
+Pre-pandemic, Friedlaender studied the foraging behavior of humpbacks, not their stress hormones. However, "If we can do something to show the impact of sound on local wildlife, we should," he said. "I want people to think about how human activity affects these animals."
 
-**If you could say one thing to people struggling with their own gender
-and/or sexual identities and/or that of others?** Falling outside of
-what has been typically considered normal is a privilege, not a curse.
-In my own life, it has expanded my consciousness and range of experience
-in deeply meaningful ways. The stories we hear of success for those who
-are diverse in their gender or sexual identities are typically stories
-of embracing one's diversity&mdash;reframing the problem away from oneself
-and toward a stigmatizing society. Thankfully, that society is changing
-rapidly, and those who embrace their diversity are leading the
-revolution in how we think about gender and sexuality, opening up space
-for a broader range of possibilities in gender, sexuality, and
-relationships. Not only are they happier and healthier, they are also
-directly changing society for the better by being radically authentic.
+## Virtual community ##
+
+The isolation brought on by the pandemic inspired a team assembled and led by Jennifer Parker, founding director of the [OpenLab Collaborative Research Center](https://openlabresearch.com/). Their pandemic plan? To create a virtual reality gallery intended to encourage conversations among scientists, artists, and others. "The whole concept is brand new, spearheaded by this moment," said Parker.
+
+Before the pandemic, Parker had been working with [**Isabel Bjork**](https://ucscgenomics.soe.ucsc.edu/project/leadership/) and **[David Haussler](https://ucscgenomics.soe.ucsc.edu/project/leadership/),** executive director and scientific director, respectively, of the Genomics Institute, on projects aimed at sparking in-person conversations around genomics and art. With in-person no longer possible, Parker reached out to [**Colleen Jennings**](https://danm.ucsc.edu/people/colleen-jennings), technical coordinator for digital arts and new media, and [**Shelby Graham**](https://art.ucsc.edu/galleries/sesnon/staff/shelby-graham), director/curator of the Sesnon Art Gallery, to explore potential virtual opportunities.
+
+Online visitors to their creation, *What Makes Us Human: An Art + Genomics Convergence*, can explore three dozen projects, each covering topics as wide-ranging as genomics, evolution, beauty, race, and gender. "Trying to put those things in conversation with each other is challenging, but that's what universities are for," Parker said. While most projects were developed by people at UCSC, others were contributed by people likely to have been visiting artists if not for the pandemic, including Angélica Dass ([Humanae](https://whatmakesushuman.org/humanae-institute-by-angelica-dass/)), and Gina Czarnecki (the [Heirloom](https://whatmakesushuman.org/?portfolio=heirloom-by-gina-czarnecki) Project).
+
+<figure class="" style="width:600px;">
+  {% asset 2021/virtual-hub.jpg @magick:resize=600 alt:'ari-friedlander-whale.jpg' %}<figcaption markdown="span">In the virtual hub of *What Makes Us Human: An Art + Genomics Convergence*, online visitors---as avatars of themselves---can enter the spheres, as shown here, to explore, learn, and converse with other visitors. Credit: Courtesy of Jennifer Parker.</figcaption>
+</figure>
+Each project has its own sphere that can be explored on a [website](https://whatmakesushuman.org/) or in a "[virtual hub](https://whatmakesushuman.net/)." On the website, visitors can click on the spheres to learn more about each project. But much more is possible in the virtual hub. Visitors become avatars, able to move around in virtual space, look inside spheres, and interact with other visitors to share reactions to and discuss the different projects. Why spheres? Parker, a sculptor, prefers three dimensions to two. "The internet is trillions of pages, they are all flat, you have to scroll, and you don't go inside of them," she said.
+
+The team had originally planned to install *What Makes Us Human* in the virtual Sesnon Gallery Jennings had already built, but they soon realized, Parker said, "the sky was the limit." And that's why one of the four galleries in the project's virtual hub hangs in the sky above the Santa Cruz campus. "There's no way we could have done this exhibition in the physical gallery," said Graham.
+
+## Back to normal? ##
+
+What will research at UCSC look like as the pandemic subsides---hopefully---in the face of vaccines and herd immunity? For many faculty members, just returning to campus will do much to bring back their "normal." For archeologists and others who work in countries where vaccination is proceeding slowly, normal still may be years away.
+
+Some adaptations to pandemic restrictions may stick, such as video conferencing in place of travel and an increased emphasis on digital lending through libraries. University Librarian [**Elizabeth Cowell**](https://news.ucsc.edu/2014/07/cowell-university-library.html) said, "I always describe the library as having three locations: Science & Engineering, McHenry, and online. It will be interesting to see what that third presence becomes as we reopen to a hybrid environment."
+
+Parker thinks virtual hubs like the one she and her team created for *What Makes Us Human* will continue to grow in popularity because they let people experience a virtual environment in a way that's more satisfying and immersive than posting, clicking, retweeting, and scrolling. She has started teaching hub-building in her classes and is working with Bjork and others on campus to expand opportunities to participate and develop virtual hubs across the arts and sciences. "There is a digital renaissance happening, and the pandemic is pushing it farther and quicker than before," she said. "It's the beginning of what's possible for us."
