@@ -10,15 +10,24 @@ banner:
   file: 2021/cancun-beach-mexico.jpg
   position: left
 further-inquiry:
-    - title: "Chile Uprisings 2019--20, Human Rights Investigation Lab for the Americas"
-      url: https://humanrights.ucsc.edu/publications/chile-uprisings-2019.html
-    - title: "COVID-19 & Latin America, Human Rights Investigation Lab for the Americas"
-      url: https://humanrights.ucsc.edu/publications/covid19-latin-america.html
-    - title: "Black Lives Matter & Disinformation, Human Rights Investigation Lab for the Americas"
-      url: https://humanrights.ucsc.edu/publications/black-lives-matter-disinformation.html
-    - title: "Berkeley Protocol on Digital Open Source Investigations"
-      url: https://humanrights.berkeley.edu/programs-projects/tech-human-rights-program/berkeley-protocol-digital-open-source-investigations
-   
+    - title: "Nelson A. Nature-Based Approaches to Urban Shoreline Protection"
+      url: https://www.biohabitats.com/newsletter/a-nature-based-approaches-to-urban-shoreline-protection/expert-qa-dr-michael-beck/
+    - title: "*Biohabitats* 2020;18"
+      url: https://www.biohabitats.com/newsletter/a-nature-based-approaches-to-urban-shoreline-protection/expert-qa-dr-michael-beck/
+    - title: "Jacobsen R. Beyond Seawalls"
+      url: https://www.scientificamerican.com/article/rebuilt-wetlands-can-protect-shorelines-better-than-walls/
+    - title: "*Scientific American* 2019; 320(4):32-37. Longer but very readable article focused on the benefits of rebuilt wetlands."
+      url: https://www.scientificamerican.com/article/rebuilt-wetlands-can-protect-shorelines-better-than-walls/
+    - title: "Beck M, Menendez P. Protecting mangroves can prevent billions of dollars in global flooding damage every year"
+      url: https://theconversation.com/protecting-mangroves-can-prevent-billions-of-dollars-in-global-flooding-damage-every-year-132424
+    - title: "*The Conversation.* March 10, 2020."
+      url: https://theconversation.com/protecting-mangroves-can-prevent-billions-of-dollars-in-global-flooding-damage-every-year-132424
+    - title: "Scyphers SB, Beck MW, Haner J, et al. Designing effective incentives to reverse coastal habitat degradation along residential shorelines"
+      url: https://doi.org/10.1111/conl.12744
+    - title: "*Conservation Letters* 2020:10.1111/conl.12744. This scientific article looks at [the attitudes, beliefs, and decisions of waterfront homeowners with a goal of identifying effective incentives for living shorelines.]"
+      url: https://doi.org/10.1111/conl.12744
+    - title: Coastal Resilience Lab
+      url: https://www.coastalresiliencelab.org/
 in-the-news:
     - title: "Einhorn C, Flavelle C. (*New York Times*, December 2020)"
       url: https://www.nytimes.com/2020/12/05/climate/Mexico-reef-climate-change.html?referringSource=articleShare
