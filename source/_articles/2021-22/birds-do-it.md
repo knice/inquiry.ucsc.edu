@@ -10,51 +10,29 @@ banner:
   file: 2021/bruce-lyon.jpg
   position: left
 further-inquiry:
-    - title: "*Barring Freedom* project"
-      url: https://barringfreedom.org/
-    - title: "*Visualizing Abolition*"
-      url: https://barringfreedom.org/exhibitions/visualizing-abolition.html
-    - title: "*Music for Abolition*"
-      url: https://barringfreedom.org/exhibitions/music-for-abolition.html
-    - title: "Barring Freedom Study Guides"
-      url: https://barringfreedom.org/study-guides/
-    - title: "Virtual walk-through of SJMA *Barring Freedom* exhibition with the co-curators"
-      url: https://www.youtube.com/watch?v=SahZWT-PPwY
-    - title: "Angela Davis and Gina Dent in conversation about *Barring Freedom* at SJMA"
-      url: https://www.youtube.com/watch?v=bUzuzyQZsJo
-    - title: "Davis AY. *Are Prisons Obsolete*? Seven Stories Press, 2003"
-      url: https://www.feministes-radicales.org/wp-content/uploads/2010/11/Angela-Davis-Are_Prisons_Obsolete.pdf
-    - title: "*Fleetwood NR. *Marking Time: Art in the Age of Mass Incarceration*. Harvard University Press, 2020"
-      url: https://markingtimeart.com/
-    - title: "Haney C. *Reforming Punishment: Psychological Limits to the Pains of Imprisonment*. American Psychological Association, 2006"
-      url: https://www.apa.org/pubs/books/4316061
-    - title: "Shange S. *Progressive Dystopia: Abolition, Antiblackness, and Schooling in San Francisco.* Duke University Press, 2019"
-      url: https://www.dukeupress.edu/progressive-dystopia
-    - title: "Sanchez AE. In Spite of Prison. *Harvard Law Review* 2019;132(6): 1650-1683"
-      url: https://harvardlawreview.org/wp-content/uploads/2019/04/1650-1683_Online.pdf
-    - title: "Gilmore RW, Kilgore J. *The Case for Prison Abolition.* The Marshall Project, June 19, 2019"
-      url: https://www.themarshallproject.org/2019/06/19/the-case-for-abolition
-    - title: "Critical Resistance"
-      url: http://criticalresistance.org/
-    - title: "Sharon Daniel"
-      url: http://www.sharondaniel.net/#about
-    - title: "Dee Hibbert-Jones"
-      url: http://deehibbertjones.com/
+    - title: "Lyon BE. Conspecific brood parasitism as a flexible female reproductive tactic in American coots. Animal Behaviour 1993;46:911-28."
+      url: http://lyon.eeb.ucsc.edu/index.php/download_file/view/51/85/
+    - title: "Lyon BE, Eadie JM, Hamilton LD. Parental choice selects for ornamental plumage in American coot chicks. Nature 1994;371:240-3."
+      url: http://lyon.eeb.ucsc.edu/files/4613/2053/4135/Lyon_et_al_1994.pdf
+    - title: "Lyon BE. Egg recognition and counting reduce costs of avian conspecific brood parasitism. Nature 2003;422:495-499."
+      url: http://lyon.eeb.ucsc.edu/files/4213/2053/4108/Estes_et_al_2003.pdf
+    - title: "Shizuka D, Lyon BE. Coots use hatch order to learn to recognize and reject conspecific brood parasitic chicks. Nature 2010;463:223-6."
+      url: http://lyon.eeb.ucsc.edu/index.php/download_file/view/70/85/
+    - title: "Lyon BE, Eadie JM. Why do birds lay eggs in conspecifics' nests? In: Soler M (ed.) Avian Brood Parasitism -- Behaviour, Ecology, Evolution and Coevolution. Springer Nature, Heidelberg, 2017."
+      url: http://lyon.eeb.ucsc.edu/files/2215/3703/7234/2017LyonEadieBroodParasitismBookChapter.pdf
+    - title: "Tariel J, Longo G, Quiros A, Crane NL, Tenggardjaja K, et al. Alloparental care in the sea: Brood parasitism within and between two species of coral reef *Altrichthys* damselfish? Mol Ecol 2019;28:4680-91."
+      url: http://lyon.eeb.ucsc.edu/index.php/download_file/view/314/85/
+    - title: "Lyon BE, Shizuka D. Extreme offspring ornamentation in American coots is favored by selection within families, not benefits to conspecific brood parasites. Proc Nat Acad Sci USA 2020;117:2056-64."
+      url: http://lyon.eeb.ucsc.edu/index.php/download_file/view/315/85/
 in-the-news:
-    - title: "Artists Grapple With America's Prison System (*New York Times*, March 2016)"
-      url: https://www.nytimes.com/2016/03/12/arts/design/artists-grapple-with-americas-prison-system.html
-    - title: "What Would a World Without Prisons Be Like? (*The New Yorker,* January 2020)"
-      url: https://www.newyorker.com/podcast/political-scene/what-would-a-world-without-prisons-be-likereefs-wetlands-mangrove-coastline-defense-restoration
-    - title: "The Movement to Abolish Prisons and the Police (*NPR*, August 2020)"
-      url: https://www.npr.org/2020/08/18/903546893/the-movement-to-abolish-prisons-and-the-police
-    - title: "Is Prison Necessary? Ruth Wilson Gilmore Might Change Your Mind (*New York Times Magazine,* April 2019)"
-      url: https://www.nytimes.com/2019/04/17/magazine/prison-abolition-ruth-wilson-gilmore.html
-    - title: "How Would Prison Abolition Actually Work? (*GQ,* June 2020)"
-      url: https://www.gq.com/story/what-is-prison-abolition
-    - title: "Challenging how we see the prison-industrial complex (UCSC News, October 2020)"
-      url: https://news.ucsc.edu/2020/10/ucsc-barring-freedom.html
-    - title: "Granted Parole or Awaiting Trial, Inmates Died of Covid-19 Behind Bars (*New York Times*, May 2021)"
-      url: https://www.nytimes.com/2021/05/06/us/coronavirus-inmates-parole.html?campaign_id=2&emc=edit_th_20210507&instance_id=30363&nl=todaysheadlines&regi_id=20425383&segment_id=57444&user_id=cd9753fb16d3db7f7d9de7e892f7c132
+    - title: "Coots can count (UCSC News, March 2003)"
+      url: https://news.ucsc.edu/2003/03/322.html) 
+    - title: "Soap opera in the marsh: Coots foil nest invaders, reject impostors (UCSC News, December 2009)"
+      url: https://news.ucsc.edu/2009/12/3445.html
+    - title: "The survival advantage of being a fancy baby coot (*The Atlantic*, December 2019)"
+      url: https://www.theatlantic.com/science/archive/2019/12/coot-chicks-feathers-fancy/604234/
+    - title: "These damselfish are devoted parents---even when the kid isn't theirs (*Hakai*, December 2019)"
+      url: https://www.hakaimagazine.com/news/these-damselfish-are-devoted-parents-even-when-the-kid-isnt-theirs/
 
 ---
 {% include_relative sidebars/birds-do-it-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
@@ -77,7 +55,7 @@ Observations of egg-dumping in same-species nests were not new. They go back to 
 
 While these reports were treated as freak cases at the time, we now know better. Lyon and other biologists have to date documented conspecific brood parasitism in [245 bird species](http://lyon.eeb.ucsc.edu/files/2215/3703/7234/2017LyonEadieBroodParasitismBookChapter.pdf)---nearly two percent of all known birds. And several experts believe even more birds do it. The challenge to learning more about the behavior, however, comes from the difficulty of detecting it in the field. "It's really hard to pick up," said [John Eadie](https://biology.ucdavis.edu/people/john-eadie), a Lyon collaborator and the Dennis G. Raveling professor in waterfowl biology at UC Davis. "The eggs of the same species can almost look the same. You have to do detailed, in-depth studies to really spot it."
 <figure class="left" style="width:300px;">
-  {% asset 2021/Coot_to_nest_WikkiCommons.jpg@magick:resize=300 alt:'Image of a Coot bird' %}<figcaption markdown="span">In addition to laying eggs in their own nests, a variety of birds, insects, and fish lay eggs in, or "parasitize," the nests of other adults belonging to the same species. American coots are among the nearly 250 bird species that engage in this reproductive behavior, provided they can make the extra eggs, find neighbors nesting around the same time, and manage to access their nests. Some coots completely forego nest-building, instead relying only on brood parasitism some years. Credit: [Betty Wills](https://commons.wikimedia.org/wiki/File:Coot_to_nest.jpg) (public domain).</figcaption>
+  {% asset 2021/Coot_to_nest_WikkiCommons.jpg @magick:resize=300 alt:'Image of a Coot bird' %}<figcaption markdown="span">In addition to laying eggs in their own nests, a variety of birds, insects, and fish lay eggs in, or "parasitize," the nests of other adults belonging to the same species. American coots are among the nearly 250 bird species that engage in this reproductive behavior, provided they can make the extra eggs, find neighbors nesting around the same time, and manage to access their nests. Some coots completely forego nest-building, instead relying only on brood parasitism some years. Credit: [Betty Wills](https://commons.wikimedia.org/wiki/File:Coot_to_nest.jpg) (public domain).</figcaption>
 </figure>
 The eggs of different [cliff swallows](https://www.audubon.org/field-guide/bird/cliff-swallow), for instance, are visually [hard to distinguish](https://sora.unm.edu/sites/default/files/journals/condor/v091n03/p0620-p0627.pdf). To confirm their [nest parasitism](https://www.nature.com/articles/331066a0) behavior, researchers marked and tracked more than 200 eggs from 50 nests built by the colony-nesting birds. They also watched a few sneaky swallows laying eggs in their neighbors' nests and even ferrying eggs in their beaks from their own nests to another's when the neighbors were away. In American coots, moorhens, and several duck species, biologists have observed thousands of eggs each year to spot parasitism-linked extra eggs in nests that would otherwise house only a single new one every 24 hours. In some cases, differences in [egg features](http://lyon.eeb.ucsc.edu/files/9013/2053/4131/Lyon_2003.pdf) are a giveaway. In others, researchers have needed [genetic analysis](https://link.springer.com/article/10.1007/s002650050224) to validate that a nest's eggs belong to different females.
 
@@ -110,14 +88,13 @@ In the nest, parasitic eggs---although deposited early by sneaky coots---typical
 To test this hypothesis, Shizuka and Lyon conducted three [cross-fostering experiments](http://lyon.eeb.ucsc.edu/files/4213/2053/4156/ShizukaNature10.pdf) in wetlands of British Columbia between 2005 and 2008. They controlled the order in which the parents met their young after hatching by presenting them with either their own chick, a parasitic one, or both on the first day, followed by equal numbers of parasitic and true chicks over five subsequent days. Sure enough, the parents used the identity of the first provided chick, host or parasite, to discriminate against the other, which sometimes meant unleashing brutal aggression in the form of pecking and drowning to eliminate the unwelcome guests. "It was really non-random," Shizuka said.
 
 It gets more complicated. Parasitic chicks, although hatching later, usually come from the first few eggs laid by females before they begin laying in their own nests. These early eggs produce duller chicks---a consequence of laying order: chicks from eggs laid later sport ostentatious orange feathering. This means that the duller chicks must compete for food with the host's younger, but showier, chicks born around the same time. At first, parents feed all their chicks on a first-come-first-served basis, but then the more ornamented orange offspring become their priority, and Shizuka and Lyon [found](http://lyon.eeb.ucsc.edu/files/2215/8190/0149/2020LyonShizukaPNASwithcover.pdf) that the flashiest chicks receive more food. In an [earlier experiment](http://lyon.eeb.ucsc.edu/files/4613/2053/4135/Lyon_et_al_1994.pdf), Lyon and colleagues compared orange chicks with dull ones whose colorful feathers had been experimentally trimmed, showing that the orange ones grew faster and had an increased chance of survival. Additionally, when older, duller offspring tried to steal food from their younger siblings, parent coots [aggressively discouraged them](https://pubmed.ncbi.nlm.nih.gov/23205861/). These findings all suggest that survival may be an uphill battle for parasitic chicks.
-<figure class="left" style="width:300px;">
-  {% asset 2021/baby-coots.jpg @magick:resize=300 alt:'Image of baby coots' %}<figcaption markdown="span">Unlike most bird chicks, which are camouflaged, coot chicks are colorful. Mama coots increase the color-lending carotenoid pigment content in the yolk as egg-laying progresses, thus producing an array of older, relatively less showy to younger, gaudy chicks. Feather manipulation experiments revealed a parental preference for feeding orange chicks. The more orange baby coots become their parent's favorites and get fed more after hatching, disadvantaging duller parasitic chicks born from early-laid eggs. Credit: Bruce Lyon, with permission.</figcaption>
-</figure>
 
 ## Why bother? ##
 
 Despite the multiple lines of defense and [extremely limited success](https://link.springer.com/article/10.1007/BF00171660) in overcoming them, why do birds like American coots continue to make extra eggs and lay them in the nests of others of their own kind? It truly appears related to the old adage advising one to not put all one's eggs in one basket. "Eggs are really cheap for coots," Lyon said, and "babies are expensive." In their own nests, females lay more eggs than they can raise because food availability is often unpredictable and limited. Starvation is a common cause of death among chicks. Given these capricious circumstances, "parasitism gives females a more flexible set of options to customize their reproductive effort," Lyon said.
-
+<figure class="left" style="width:300px;">
+  {% asset 2021/baby-coots.jpg @magick:resize=300 alt:'Image of baby coots' %}<figcaption markdown="span">Unlike most bird chicks, which are camouflaged, coot chicks are colorful. Mama coots increase the color-lending carotenoid pigment content in the yolk as egg-laying progresses, thus producing an array of older, relatively less showy to younger, gaudy chicks. Feather manipulation experiments revealed a parental preference for feeding orange chicks. The more orange baby coots become their parent's favorites and get fed more after hatching, disadvantaging duller parasitic chicks born from early-laid eggs. Credit: Bruce Lyon, with permission.</figcaption>
+</figure>
 In nesting females, reproductive enhancement seems to be the [likely motivation](http://lyon.eeb.ucsc.edu/files/2215/3703/7234/2017LyonEadieBroodParasitismBookChapter.pdf) for parasitism. The total eggs produced by parasitic coots in British Columbia, for example, was greater than the clutch size of nonparasitic nesting coots. By laying eggs in someone else's nest, the former might manage to have more successful offspring as compared to laying all eggs in their own nest. Some experts also think that if nests are preyed upon or destroyed, mothers may find another nest to lay their eggs in.
 
 In the case of non-nesting females, on the other hand, lack of nesting sites or inability to defend territories could push them to [make the best of a bad situation](http://lyon.eeb.ucsc.edu/files/2215/3703/7234/2017LyonEadieBroodParasitismBookChapter.pdf). Eadie, for instance, demonstrated [elevated brood parasitism](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0098189) among cavity-nesting [goldeneye ducks](https://www.audubon.org/field-guide/bird/common-goldeneye) when he experimentally reduced the number of nest boxes available to them. In American coots, Lyon suspected that the female parasites without nests were [younger or in poorer body condition](http://lyon.eeb.ucsc.edu/files/9313/2053/4128/Lyon_1993b.pdf) compared to nesting birds, probably lacking the experience and fitness to secure a nest. "Their option is to sulk and lay no eggs or to lay some eggs elsewhere," he said. Some have also wondered if non-nesting females might be professional, lifelong parasites, never making their own nests. But studies following such birds over multiple breeding seasons have shown that they resort to nesting at some point.
