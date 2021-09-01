@@ -12,19 +12,19 @@ banner:
 further-inquiry:
     - title: "Nelson A. Nature-Based Approaches to Urban Shoreline Protection"
       url: https://www.biohabitats.com/newsletter/a-nature-based-approaches-to-urban-shoreline-protection/expert-qa-dr-michael-beck/
-    - title: "*Biohabitats* 2020;18"
+    - title: "<em>Biohabitats</em> 2020;18"
       url: https://www.biohabitats.com/newsletter/a-nature-based-approaches-to-urban-shoreline-protection/expert-qa-dr-michael-beck/
     - title: "Jacobsen R. Beyond Seawalls"
       url: https://www.scientificamerican.com/article/rebuilt-wetlands-can-protect-shorelines-better-than-walls/
-    - title: "*Scientific American* 2019; 320(4):32-37. Longer but very readable article focused on the benefits of rebuilt wetlands."
+    - title: "<em>Scientific American</em> 2019; 320(4):32-37. Longer but very readable article focused on the benefits of rebuilt wetlands."
       url: https://www.scientificamerican.com/article/rebuilt-wetlands-can-protect-shorelines-better-than-walls/
     - title: "Beck M, Menendez P. Protecting mangroves can prevent billions of dollars in global flooding damage every year"
       url: https://theconversation.com/protecting-mangroves-can-prevent-billions-of-dollars-in-global-flooding-damage-every-year-132424
-    - title: "*The Conversation.* March 10, 2020."
+    - title: "<em>The Conversation.</em> March 10, 2020."
       url: https://theconversation.com/protecting-mangroves-can-prevent-billions-of-dollars-in-global-flooding-damage-every-year-132424
     - title: "Scyphers SB, Beck MW, Haner J, et al. Designing effective incentives to reverse coastal habitat degradation along residential shorelines"
       url: https://doi.org/10.1111/conl.12744
-    - title: "*Conservation Letters* 2020:10.1111/conl.12744. This scientific article looks at [the attitudes, beliefs, and decisions of waterfront homeowners with a goal of identifying effective incentives for living shorelines.]"
+    - title: "<em>Conservation Letters</em> 2020:10.1111/conl.12744. This scientific article looks at [the attitudes, beliefs, and decisions of waterfront homeowners with a goal of identifying effective incentives for living shorelines.]"
       url: https://doi.org/10.1111/conl.12744
     - title: Coastal Resilience Lab
       url: https://www.coastalresiliencelab.org/
@@ -49,11 +49,11 @@ But this time, the reef carried some unprecedented protection: an insurance poli
 
 Key to making this scheme a reality was the work of research professor [**Michael Beck**](https://ims-new.ucsc.edu/people/affiliated-faculty.php?uid=mwbeck) and his team at the UC Santa Cruz Institute of Marine Sciences' [Coastal Resilience Lab](https://www.coastalresiliencelab.org/). Their [extensive research](https://www.coastalresiliencelab.org/) has shown how coastal ecosystems---reefs, mangroves, and salt marshes---constitute tangible financial assets, "natural defenses" that dampen storm waves to prevent flooding. They argue that such "natural capital" is a sound investment because it often shields the coast from damage more cost effectively than any artificial barrier.
 
-The heart of the team's work is putting dollar values on the flood protection provided by natural habitats. This accounting underlies the first rigorous estimates of the global flood protection value of [coral reefs]{.ul}](https://www.nature.com/articles/s41467-018-04568-z#MOESM1) and [[mangroves](https://www.nature.com/articles/s41598-020-61136-6): \$4 billion and \$65 billion every year, respectively. At a more local scale, their work is helping to steer disaster preparedness and recovery funding toward conservation. "Most of the money currently goes to artificial solutions, which further degrade ecosystems," Beck said, "We need to do some jujitsu on disaster spending, or we're going to lose more habitats."
+The heart of the team's work is putting dollar values on the flood protection provided by natural habitats. This accounting underlies the first rigorous estimates of the global flood protection value of [coral reefs]{.ul}](<https://www.nature.com/articles/s41467-018-04568-z#MOESM1>) and [[mangroves](https://www.nature.com/articles/s41598-020-61136-6): \$4 billion and \$65 billion every year, respectively. At a more local scale, their work is helping to steer disaster preparedness and recovery funding toward conservation. "Most of the money currently goes to artificial solutions, which further degrade ecosystems," Beck said, "We need to do some jujitsu on disaster spending, or we're going to lose more habitats."
 <figure class="left" style="width:300px;">
   {% asset 2021/coral-reef.jpg @magick:resize=300 alt:'Coral reef image' %}<figcaption markdown="span">Left: Research by Beck and Coastal Resilience Lab team has shown that the roughness of hard, shallow reefs like this one dampen the energy of incoming storm waves, often protecting people and property onshore better than artificial defenses. Credit: [Kydd Pollock](https://commons.wikimedia.org/wiki/File:Coral_reef_98.jpg) (CC BY 2.0).</figcaption>
 </figure>
-**Building consensus**
+## Building consensus ##
 
 For decades, ecologists have studied and quantified how people benefit from coastal conservation through, for example, fishing, tourism, and flood protection. But they typically use ecological models that are unfamiliar or novel to engineers and insurers, Beck said. "The most important thing we've done," he said, "is to go to stakeholders and decision-makers and say, 'Let's see if we can figure out how to include nature in your engineering and risk assessment models."
 
@@ -63,7 +63,7 @@ Elsewhere in the world, Beck has led research aimed at supporting other local co
 <figure class="" style="width:300px;">
   {% asset 2021/marine-sciences-infographic.jpg @magick:resize=300 alt:'marine-sciences-infographic' %}<figcaption markdown="span">As outlined in this Institute of Marine Sciences infographic, the work of Beck and his colleagues suggests that conserving the top one meter of coral reefs can dramatically reduce financial losses from flood damage. Credit: [©Jessica Kendal-Bar](https://www.coastalresiliencelab.org/resources?pgid=kbwwj8v5-coral-reefs-wave-power-and-flood-risk-graphic_2), with permission.</figcaption>
 </figure>
-**Climbing onboard**
+## Climbing onboard ##
 
 According to his many collaborators, Beck's success stems from his ability to straddle multiple disciplines---and his collegiality. "He's really good at understanding things outside his expertise," said [**Curt Storlazzi**](https://www.usgs.gov/staff-profiles/curt-storlazzi?qt-staff_profile_science_products=0#qt-staff_profile_science_products) (Ph.D., 2000), a frequent Beck collaborator and research geologist at the U.S. Geological Survey. "There\'s a lot of great scientists, but there's very few great scientists you actually want to work with."
 
