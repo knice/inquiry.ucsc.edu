@@ -10,8 +10,8 @@ colors:
 tags:
     - Applied Mathematics
 ---
-<figure style="width:300px">
-  {% asset 2021/marcella-gomez.jpg @magick:resize=300 alt:'Assistant professor Marcella Gomez' %}<figcaption>Marcella Gomez, assistant professor of applied mathematics, is creating the artificial intelligence "brain" of a smart bandage, a collaborative project she co-leads with professors of electrical and computer engineering Marco Rolandi and Mircea Teodorescu, and also includes clinical researchers at UC Davis and Tufts University. Credit: Karyn Skemp.</figcaption>
+<figure style="width:400px">
+  {% asset 2021/marcella-gomez.jpg @magick:resize=400 alt:'Assistant professor Marcella Gomez' %}<figcaption>Marcella Gomez, assistant professor of applied mathematics, is creating the artificial intelligence "brain" of a smart bandage, a collaborative project she co-leads with professors of electrical and computer engineering Marco Rolandi and Mircea Teodorescu, and also includes clinical researchers at UC Davis and Tufts University. Credit: Karyn Skemp.</figcaption>
 </figure>
 
 Assistant Professor [**Marcella Gomez**](https://www.soe.ucsc.edu/people/mgomez26) is teaching artificial intelligence learning models to heal. With electrical and computer engineering professors [**Marco Rolandi**](https://www.soe.ucsc.edu/people/mrolandi) and [**Mircea Teodorescu**](https://www.soe.ucsc.edu/people/mteodorescu), Gomez co-leads a collaborative project that includes clinical researchers at UC Davis and Tufts University. Funded by a \$16 million grant from the Defense Advanced Research Projects Agency, the project aims to develop a "smart bandage" that can speed the healing of difficult wounds, like those suffered by soldiers and veterans with battlefield injuries from explosions. "Our task is to identify where in the healing process we can intervene to accelerate wound closure," Gomez said.
