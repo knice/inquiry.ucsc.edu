@@ -10,14 +10,14 @@ colors:
 tags:
     - Physics
 ---
-
+<figure style="width:400px">
+  {% asset 2021/baloon-launch.png @magick:resize=400 alt:"Clipping from Oakland Tribune, June 1927" %}<figcaption markdown="span">Carried by a high-altitude balloon, the AESOP-lite mission collected more than 130 hours of data measuring cosmic radiation near the edge of the Earth's atmosphere.</figcaption>
+</figure>
+<figure style="width:400px">
+  {% asset 2021/AESOP-retrieval.jpg @magick:resize=400 alt:"Clipping from Oakland Tribune, June 1927" %}<figcaption markdown="span">Launched in Sweden (see video [here](http://scipp.ucsc.edu/~johnson/download/BalloonLaunchAESOPLite2018FromEsrange_FromJohnClemPI_Rotated.mp4)), the balloon and its equipment payload (bottom, on right) drifted for six days before landing on Ellesmere Island in the far north of Canada. Credits: Courtesy of Robert Johnson; Sarah Mechbal, with permission.</figcaption>
+</figure>
 In 2018, a high-altitude balloon launched in Sweden ascended 40 kilometers into the atmosphere. While it drifted towards the far north of Canada, its 500-lb. payload of delicate sensors captured more than 130 hours of data intended to help untangle the mysteries of [cosmic radiation](https://www.space.com/32644-cosmic-rays.html).
-<figure style="width:600px">
-  {% asset 2021/baloon-launch.png @magick:resize=600 alt:"Clipping from Oakland Tribune, June 1927" %}<figcaption markdown="span">Carried by a high-altitude balloon, the AESOP-lite mission collected more than 130 hours of data measuring cosmic radiation near the edge of the Earth's atmosphere.</figcaption>
-</figure>
-<figure style="width:600px">
-  {% asset 2021/AESOP-retrieval.jpg @magick:resize=600 alt:"Clipping from Oakland Tribune, June 1927" %}<figcaption markdown="span">Launched in Sweden (see video [here](http://scipp.ucsc.edu/~johnson/download/BalloonLaunchAESOPLite2018FromEsrange_FromJohnClemPI_Rotated.mp4)), the balloon and its equipment payload (bottom, on right) drifted for six days before landing on Ellesmere Island in the far north of Canada. Credits: Courtesy of Robert Johnson; Sarah Mechbal, with permission.</figcaption>
-</figure>
+
 Cosmic rays mostly include subatomic particles like neutrons and protons, which circulate throughout the galaxy at nearly light speed. Many of these particles are thought to be produced by pulsars, the "remnants of ancient stellar explosions," said Professor [**Robert Johnson**](https://people.ucsc.edu/~rjohnson/). But much about these galactic emanations remains unexplained, including the source of low-energy electrons, which make up a fraction of the rays.
 
 To study these elusive electrons, Johnson, then Ph.D.-candidate **Sarah Mechbal** (now at Deutsches Elektronen-Synchrotron---[DESY](https://www.research-in-germany.org/en/research-landscape/research-organisations/research-infrastructures/desy.html)---in Germany), and [John Clem](https://web.physics.udel.edu/about/directory/faculty/john-clem) at the University of Delaware collaborated on the NASA-supported mission, for which the UCSC team built [AESOP (Anti-Electron Sub Orbital Payload)-Lite](https://stratocat.com.ar/fichas-e/2018/KRN-20180515.htm), an instrument capable of distinguishing electrons from positrons, their antiparticles.

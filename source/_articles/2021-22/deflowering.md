@@ -10,15 +10,6 @@ colors:
 tags:
     - History of art nd visual culture
 ---
-
-<figure style="width:600px">
-  {% asset 2021/mapplethorpe-parrot-tulips-1988.jpg @magick:resize=600 alt:"An image from Robert Mapplethorpe's flower-focused work, *Parrot Tulips*
-(1988)" %}<figcaption markdown="span">An image from Robert Mapplethorpe's flower-focused work, *Parrot Tulips*
-(1988). Mapplethorpe created many hundreds of flower portraits during
-his career, until his death from AIDS in 1989. Credit: ©[The Robert
-Mapplethorpe Foundation](http://www.mapplethorpe.org/), with permission.</figcaption>
-</figure>
-
 Flowers as symbols are loaded with meaning. So, what does a flower mean
 when seen through the lens of [Robert
 Mapplethorpe](http://www.mapplethorpe.org/biography/), the controversial
@@ -34,9 +25,15 @@ professor of history of art and visual culture, Mapplethorpe's prolific
 flower artwork---more than 500 published works---trumpets the same
 themes as his earlier, more highly regarded work, noted for its coupling
 of classical beauty and risqué nature.
-
-<figure style="width:600px">
-  {% asset 2021/mapplethorpe-cover-drerk-conrad-murray.jpg @magick:resize=600 alt:'Book cover: Primer of Ecological Restoration' %}<figcaption markdown="span">Left: In his book, [*[Mapplethorpe and the Flower: Radical Sexuality and
+<figure style="width:300px">
+  {% asset 2021/mapplethorpe-parrot-tulips-1988.jpg @magick:resize=300 alt:"An image from Robert Mapplethorpe's flower-focused work, *Parrot Tulips*
+(1988)" %}<figcaption markdown="span">An image from Robert Mapplethorpe's flower-focused work, *Parrot Tulips*
+(1988). Mapplethorpe created many hundreds of flower portraits during
+his career, until his death from AIDS in 1989. Credit: ©[The Robert
+Mapplethorpe Foundation](http://www.mapplethorpe.org/), with permission.</figcaption>
+</figure>
+<figure style="width:300px">
+  {% asset 2021/mapplethorpe-cover-drerk-conrad-murray.jpg @magick:resize=300 alt:'Book cover: Primer of Ecological Restoration' %}<figcaption markdown="span">Left: In his book, [*[Mapplethorpe and the Flower: Radical Sexuality and
 the Limits of
 Control*](https://www.bloomsbury.com/us/mapplethorpe-and-the-flower-9781788312516/)
 (2020), Professor Murray provides a critical analysis of the themes and
