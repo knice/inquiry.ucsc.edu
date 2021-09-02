@@ -26,7 +26,7 @@ in-the-news:
       url: https://news.ucsc.edu/2020/10/human-rights-lab.html
     - title: "Two UC Santa Cruz programs win funding for public interest technology (UCSC News, November 2020)"
       url: https://news.ucsc.edu/2020/11/pit-un-grants-2020.html
-    - title: "Bellingcat Has Revealed War Crimes in Syria and Unmasked Russian Assassins. Founder Eliot Higgins Says They're just getting Started (*Time*, March 2021)"
+    - title: "Bellingcat Has Revealed War Crimes in Syria and Unmasked Russian Assassins. Founder Eliot Higgins Says They're just getting Started (<em>Time</em>, March 2021)"
       url: https://time.com/5943393/bellingcat-eliot-higgins-interview/
 
 ---

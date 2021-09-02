@@ -29,11 +29,11 @@ further-inquiry:
     - title: Coastal Resilience Lab
       url: https://www.coastalresiliencelab.org/
 in-the-news:
-    - title: "Einhorn C, Flavelle C. (*New York Times*, December 2020)"
+    - title: "Einhorn C, Flavelle C. (<em>New York Times</em>, December 2020)"
       url: https://www.nytimes.com/2020/12/05/climate/Mexico-reef-climate-change.html?referringSource=articleShare
     - title: "Beck MW. How to save beaches and coastlines from climate change disasters"
       url: https://www.latimes.com/opinion/story/2021-04-11/reefs-wetlands-mangrove-coastline-defense-restoration
-    - title: "Rethinking How Disaster Money Is Spent (*LA Times*, April 2021)"
+    - title: "Rethinking How Disaster Money Is Spent (<em>LA Times</em>, April 2021)"
       url: https://www.latimes.com/about/studios/nysf3jyok7w-123
     - title: "AXA Chair at UC Santa Cruz funds efforts to build coastal resilience naturally. (UCSC News, December 2020)"
       url: https://news.ucsc.edu/2020/12/coastal-resilience-chair.html

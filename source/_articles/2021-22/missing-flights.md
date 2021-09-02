@@ -21,17 +21,17 @@ further-inquiry:
     - title: "Why The Vertical Takeoff Airliner Failed: The Rotodyne Story, CuriosityStream.com, October 23, 2019"
       url: https://www.youtube.com/watch?v=dkJOm1V77Xg
 in-the-news:
-    - title: "Are Electric Planes the Future of Aviation? (*SingularityHub*, June 28, 2018)"
+    - title: "Are Electric Planes the Future of Aviation? (<em>SingularityHub</em>, June 28, 2018)"
       url: https://singularityhub.com/2018/06/28/are-electric-planes-the-future-of-aviation/
     - title: "UCSC engineers developing all-electric power train for future aircraft (UCSC News, September 15, 2020)"
       url: https://news.ucsc.edu/2020/09/electric-aircraft.html
     - title: "Electrical engineer Leila Parsa elected IEEE Fellow (UCSC News, December 8, 2020)"
       url: https://www.soe.ucsc.edu/news/electrical-engineer-leila-parsa-elected-ieee-fellow
-    - title: "Electric Aviation Could Be Closer Than You Think (*Scientific American*, November 10, 2020)"
+    - title: "Electric Aviation Could Be Closer Than You Think (<em>Scientific American</em>, November 10, 2020)"
       url: https://www.scientificamerican.com/article/electric-aviation-could-be-closer-than-you-think/
-    - title: "Can flying go green? (*The Economist*, February 10, 2021)"
+    - title: "Can flying go green? (<em>The Economist</em>, February 10, 2021)"
       url: https://www.youtube.com/watch?v=ldhilLgVML0
-    - title: Why one big Wall Street banker is betting flying taxis will replace helicopters (*CNBC EVOLVE*, February 14, 2021)
+    - title: Why one big Wall Street banker is betting flying taxis will replace helicopters (<em>CNBC EVOLVE</em>, February 14, 2021)
       url: https://www.cnbc.com/2021/02/14/why-wall-street-banker-thinks-flying-taxis-will-replace-helicopters.html
 
 ---

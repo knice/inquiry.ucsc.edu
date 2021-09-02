@@ -20,7 +20,7 @@ further-inquiry:
       url: http://lyon.eeb.ucsc.edu/index.php/download_file/view/70/85/
     - title: "Lyon BE, Eadie JM. Why do birds lay eggs in conspecifics' nests? In: Soler M (ed.) Avian Brood Parasitism -- Behaviour, Ecology, Evolution and Coevolution. Springer Nature, Heidelberg, 2017."
       url: http://lyon.eeb.ucsc.edu/files/2215/3703/7234/2017LyonEadieBroodParasitismBookChapter.pdf
-    - title: "Tariel J, Longo G, Quiros A, Crane NL, Tenggardjaja K, et al. Alloparental care in the sea: Brood parasitism within and between two species of coral reef *Altrichthys* damselfish? Mol Ecol 2019;28:4680-91."
+    - title: "Tariel J, Longo G, Quiros A, Crane NL, Tenggardjaja K, et al. Alloparental care in the sea: Brood parasitism within and between two species of coral reef <em>Altrichthys</em> damselfish? Mol Ecol 2019;28:4680-91."
       url: http://lyon.eeb.ucsc.edu/index.php/download_file/view/314/85/
     - title: "Lyon BE, Shizuka D. Extreme offspring ornamentation in American coots is favored by selection within families, not benefits to conspecific brood parasites. Proc Nat Acad Sci USA 2020;117:2056-64."
       url: http://lyon.eeb.ucsc.edu/index.php/download_file/view/315/85/
@@ -29,9 +29,9 @@ in-the-news:
       url: https://news.ucsc.edu/2003/03/322.html) 
     - title: "Soap opera in the marsh: Coots foil nest invaders, reject impostors (UCSC News, December 2009)"
       url: https://news.ucsc.edu/2009/12/3445.html
-    - title: "The survival advantage of being a fancy baby coot (*The Atlantic*, December 2019)"
+    - title: "The survival advantage of being a fancy baby coot (<em>The Atlantic</em>, December 2019)"
       url: https://www.theatlantic.com/science/archive/2019/12/coot-chicks-feathers-fancy/604234/
-    - title: "These damselfish are devoted parents---even when the kid isn't theirs (*Hakai*, December 2019)"
+    - title: "These damselfish are devoted parents---even when the kid isn't theirs (<em>Hakai</em>, December 2019)"
       url: https://www.hakaimagazine.com/news/these-damselfish-are-devoted-parents-even-when-the-kid-isnt-theirs/
 
 ---

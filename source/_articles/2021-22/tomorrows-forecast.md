@@ -10,17 +10,17 @@ banner:
   file: 2021/eocene.jpg
   position: left
 further-inquiry:
-    - title: "Kennett JP, Stott, LD. Abrupt deep-sea warming, palaeoceanographic changes and benthic extinctions at the end of the Palaeocene. *Nature* 1991;353:225-229."
+    - title: "Kennett JP, Stott, LD. Abrupt deep-sea warming, palaeoceanographic changes and benthic extinctions at the end of the Palaeocene. <em>Nature</em> 1991;353:225-229."
       url: https://www.nature.com/articles/353225a0
-    - title: "Koch PL, Zachos JC, Gingerich PD. Correlation between isotope records in marine and continental carbon reservoirs near the Palaeocene/Eocene boundary. *Nature* 1992;358:319-22."
+    - title: "Koch PL, Zachos JC, Gingerich PD. Correlation between isotope records in marine and continental carbon reservoirs near the Palaeocene/Eocene boundary. <em>Nature</em> 1992;358:319-22."
       url: https://www.nature.com/articles/358319a0
-    - title: "Zachos JC, Röhl U, Schellengerg SA, et al. Rapid Acidification of the Ocean During the Paleocene-Eocene Thermal Maximum. *Science* 2008;308:1611-15."
+    - title: "Zachos JC, Röhl U, Schellengerg SA, et al. Rapid Acidification of the Ocean During the Paleocene-Eocene Thermal Maximum. <em>Science</em> 2008;308:1611-15."
       url: https://science.sciencemag.org/content/308/5728/1611.abstract
-    - title: "Zeebe RE, Zachos JC. Long-term legacy of massive carbon input to the Earth system: Anthropocene versus Eocene. *Phil Trans R Soc A* 2013;371:20120006."
+    - title: "Zeebe RE, Zachos JC. Long-term legacy of massive carbon input to the Earth system: Anthropocene versus Eocene. <em>Phil Trans R Soc A</em> 2013;371:20120006."
       url: https://royalsocietypublishing.org/doi/full/10.1098/rsta.2012.0006
-    - title: "Foster GL, Hull P, Lunt DJ, Zachos JC. Placing our current 'hyperthermal' in the context of rapid climate change in our geological past. *Phil Trans R Soc A* 2018;376:20170086."
+    - title: "Foster GL, Hull P, Lunt DJ, Zachos JC. Placing our current 'hyperthermal' in the context of rapid climate change in our geological past. <em>Phil Trans R Soc A</em> 2018;376:20170086."
       url: https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0086
-    - title: "Rush WD, Kiehl JT, Shields CA, Zachos JC. Increased frequency of extreme precipitation events in the North Atlantic during the PETM: Observations and theory. *Palaeogeogr Palaeoclimatol Palaeoecol* 2021;568:110289."
+    - title: "Rush WD, Kiehl JT, Shields CA, Zachos JC. Increased frequency of extreme precipitation events in the North Atlantic during the PETM: Observations and theory. <em>Palaeogeogr Palaeoclimatol Palaeoecol</em> 2021;568:110289."
       url: https://www.sciencedirect.com/science/article/pii/S0031018221000742
 in-the-news:
     - title: "High-fidelity record of Earth's climate history puts current changes in context (UCSC News, September 2020)"

@@ -12,22 +12,22 @@ banner:
 further-inquiry:
     - title: "Syed M, Azmitia M, Cooper C. Identity and Academic Success Among Underrepresented Ethnic Minorities: An Interdisciplinary Review and Integration.] J Soc Iss 2011;67:442-468."
       url: https://bridgingworlds.ucsc.edu/docs-pdfs/Syed,%20Azmitia,%20and%20Cooper%202011.pdf
-    - title: "Chaudry, Morrissey T, Wieland C, Yoshikawa H. *Cradle to Kindergarten: A New Plan to Combat Inequality.* Russell Sage Foundation, 2021."
+    - title: "Chaudry, Morrissey T, Wieland C, Yoshikawa H. <em>Cradle to Kindergarten: A New Plan to Combat Inequality.</em> Russell Sage Foundation, 2021."
       url: https://www.russellsage.org/publications/cradle-kindergarten-2ndEdition
     - title: "Couch K, Fairlie R, Xu H. Early Evidence of the Impacts of COVID-19 on Minority Unemployment. J Pub Econ 2020;192:104287."
       url: https://www.sciencedirect.com/science/article/abs/pii/S0047272720301511
-    - title: "Couch K, Fairlie R, Xu H. *Gender and the COVID-19 Labor Market Downturn*. Stanford Institute For Economic Policy Research, 2020."
+    - title: "Couch K, Fairlie R, Xu H. <em>Gender and the COVID-19 Labor Market Downturn</em>. Stanford Institute For Economic Policy Research, 2020."
       url: https://siepr.stanford.edu/sites/default/files/publications/20-037.pdf
 in-the-news:
-    - title: "Biden's appointment of a health disparities advisor is historic. But will the White House empower her? (*STAT*, January 2021)"
+    - title: "Biden's appointment of a health disparities advisor is historic. But will the White House empower her? (<em>STAT</em>, January 2021)"
       url: https://www.statnews.com/2021/01/05/biden-marcella-nunez-smith-health-disparities/
-    - title: "Hidden figures (*UC Santa Cruz Magazine*, October 2020)"
+    - title: "Hidden figures (<em>UC Santa Cruz Magazine</em>, October 2020)"
       url: https://magazine.ucsc.edu/2020/10/hidden-figures/
     - title: "Protecting vulnerable children and families during the pandemic (UCSC News, May 2020)"
       url: https://news.ucsc.edu/2020/05/azmitia-pandemic.html
-    - title: "Number of working black business owners falls 40 percent, far more than other groups amid coronavirus (*Washington Post*, May 2020)"
+    - title: "Number of working black business owners falls 40 percent, far more than other groups amid coronavirus (<em>Washington Post</em>, May 2020)"
       url: https://www.washingtonpost.com/business/2020/05/25/black-minority-business-owners-coronavirus/
-    - title: "U.S. Black-owned firms make surprise comeback to pre-COVID level (*Washington Post*, October 2020)"
+    - title: "U.S. Black-owned firms make surprise comeback to pre-COVID level (<em>Washington Post</em>, October 2020)"
       url: https://www.washingtonpost.com/business/on-small-business/us-black-owned-firms-make-surprise-comeback-to-pre-covid-level/2020/10/28/be1e3100-194b-11eb-8bda-814ca56e138b_story.html
 
 ---
@@ -39,7 +39,7 @@ Inequality has long been the focus of two UC Santa Cruz researchers, professor o
 
 ## Paying attention ##
 
-Azmitia has spent her career studying how peers, family, and schools affect the development of children and adolescents. In early 2020, she joined the [rapid response network]{.ul}](https://www.research2policy.org/covid-19) of the advocacy organization [[Research-to-Policy Collaboration](https://www.research2policy.org/) (RPC). Initially assembled to brief legislators on the impacts of deportation and immigration detention policies, the network quickly shifted gears to explore how the pandemic was affecting vulnerable children and adolescents.
+Azmitia has spent her career studying how peers, family, and schools affect the development of children and adolescents. In early 2020, she joined the [rapid response network]{.ul}](<https://www.research2policy.org/covid-19>) of the advocacy organization [[Research-to-Policy Collaboration](https://www.research2policy.org/) (RPC). Initially assembled to brief legislators on the impacts of deportation and immigration detention policies, the network quickly shifted gears to explore how the pandemic was affecting vulnerable children and adolescents.
 
 Azmitia's role included digging into the academic literature, providing feedback on drafts, and helping to write parts of the team's May 2020 policy brief. In addition to educating lawmakers about the scope of the problem, [*[Mitigating the Implications of Coronavirus Pandemic on Families]{.ul}*](https://039d290d-c9ad-460b-94b3-feb237f4db53.filesusr.com/ugd/1e2496_f671c404f8d84a2bbd60e8243e837662.pdf) provided research-informed policy recommendations on how to best support students' needs. Over the past year, many families, particularly those in low-income and rural areas, struggled to keep up with remote schooling during the pandemic, thus exacerbating prior resource gaps. "This was an opportunity to say there are a lot of people that we're missing, and we need to do something," said Azmitia.
 

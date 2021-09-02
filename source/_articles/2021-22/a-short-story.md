@@ -21,7 +21,7 @@ in-the-news:
       url: https://news.ucsc.edu/2020/05/carol-greider.html
     - title: "UC Santa Cruz Nobel laureate delves into the world of telomeres in Kraw Lecture (UCSC News, December 2020)"
       url: https://news.ucsc.edu/2020/12/greider-nobel-laureate-kraw-lecture-feature.html
-    - title: "Creating change, from the molecular level up (*UC Santa Cruz Magazine*, March 2021)"
+    - title: "Creating change, from the molecular level up (<em>UC Santa Cruz Magazine</em>, March 2021)"
       url: https://magazine.ucsc.edu/2021/03/creating-change-from-the-molecular-level-up/
 
 ---

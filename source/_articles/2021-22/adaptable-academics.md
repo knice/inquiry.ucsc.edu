@@ -12,7 +12,7 @@ banner:
 further-inquiry:
     - title: "Isotropes"
       url: https://soundcloud.com/brianbaumbusch/isotropes
-    - title: "Unprecedented Time(*New Music Box*, December 10, 2020), an essay by Brian Baumbusch"
+    - title: "Unprecedented Time(<em>New Music Box</em>, December 10, 2020), an essay by Brian Baumbusch"
       url: https://nmbx.newmusicusa.org/unprecedented-time/
     - title: "Friedlaender Lab"
       url: https://btbel.pbsci.ucsc.edu/

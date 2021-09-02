@@ -10,20 +10,20 @@ banner:
   file: 2021/pyramid-of-the-moon.jpg
   position: left
 further-inquiry:
-    - title: "Devecka M. *Broken Cities, A Historical Sociology of Ruins*, Johns Hopkins Press, 2020"
+    - title: "Devecka M. <em>Broken Cities, A Historical Sociology of Ruins</em>, Johns Hopkins Press, 2020"
       url: https://jhupbooks.press.jhu.edu/title/broken-cities#:~:text=A%20comparative%20study%20of%20cities%20that%20fell%20into%20ruin%20through%20human%20involvement.&text=..Read%20more%20%C2%BB-,A%20comparative%20study%20of%20cities%20that%20fell%20into%20ruin%20through,past%20by%20a%20catastrophic%20event.
     - title: "The Mediterranean Seminars podcast, December 2020"
       url: https://www.youtube.com/watch?v=CXegj6g3kRs&t=205s
     - title: "Marchand Y, Meffre R. The Ruins of Detroit, Steidl, 2010"
       url: http://www.marchandmeffre.com/detroit
 in-the-news:
-    - title: "Anatomy of Detroit's decline (*The New York Times*, August 2013"
+    - title: "Anatomy of Detroit's decline (<em>The New York Times</em>, August 2013"
       url: https://archive.nytimes.com/www.nytimes.com/interactive/2013/08/17/us/detroit-decline.html
-    - title: "Why the Chernobyl Nuclear Ruins Are a 20th-Century Pompeii (*National Geographic*, April 2016)"
+    - title: "Why the Chernobyl Nuclear Ruins Are a 20th-Century Pompeii (<em>National Geographic</em>, April 2016)"
       url: https://www.nationalgeographic.com/adventure/article/20160428-Chernobyl-Pripyat-archaeology-abandoned-ruins-nuclear-disaster-Pompeii-Ukraine
-    - title: "Eerie Photos of Fukushima's Ghost Towns (*National Geographic*, November 2017)"
+    - title: "Eerie Photos of Fukushima's Ghost Towns (<em>National Geographic</em>, November 2017)"
       url: https://www.nationalgeographic.co.uk/history-and-civilisation/2017/11/eerie-photos-fukushimas-ghost-towns
-    - title: "How Detroit lost its title as 'ruin porn' capital (*Detroit Free Press*, August 2018)"
+    - title: "How Detroit lost its title as 'ruin porn' capital (<em>Detroit Free Press</em>, August 2018)"
       url: https://www.freep.com/story/news/local/michigan/detroit/2018/08/16/detroit-ruin-porn/979984002/
 
 ---

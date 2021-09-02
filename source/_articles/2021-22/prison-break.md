@@ -10,29 +10,29 @@ banner:
   file: 2021/if-the-leader-only-knew.jpg
   position: left
 further-inquiry:
-    - title: "*Barring Freedom* project"
+    - title: "<em>Barring Freedom</em> project"
       url: https://barringfreedom.org/
-    - title: "*Visualizing Abolition*"
+    - title: "<em>Visualizing Abolition</em>"
       url: https://barringfreedom.org/exhibitions/visualizing-abolition.html
-    - title: "*Music for Abolition*"
+    - title: "<em>Music for Abolition</em>"
       url: https://barringfreedom.org/exhibitions/music-for-abolition.html
     - title: "Barring Freedom Study Guides"
       url: https://barringfreedom.org/study-guides/
-    - title: "Virtual walk-through of SJMA *Barring Freedom* exhibition with the co-curators"
+    - title: "Virtual walk-through of SJMA <em>Barring Freedom</em> exhibition with the co-curators"
       url: https://www.youtube.com/watch?v=SahZWT-PPwY
-    - title: "Angela Davis and Gina Dent in conversation about *Barring Freedom* at SJMA"
+    - title: "Angela Davis and Gina Dent in conversation about <em>Barring Freedom</em> at SJMA"
       url: https://www.youtube.com/watch?v=bUzuzyQZsJo
-    - title: "Davis AY. *Are Prisons Obsolete*? Seven Stories Press, 2003"
+    - title: "Davis AY. <em>Are Prisons Obsolete</em>? Seven Stories Press, 2003"
       url: https://www.feministes-radicales.org/wp-content/uploads/2010/11/Angela-Davis-Are_Prisons_Obsolete.pdf
-    - title: "*Fleetwood NR. *Marking Time: Art in the Age of Mass Incarceration*. Harvard University Press, 2020"
+    - title: "<em>Fleetwood NR. *Marking Time: Art in the Age of Mass Incarceration</em>. Harvard University Press, 2020"
       url: https://markingtimeart.com/
-    - title: "Haney C. *Reforming Punishment: Psychological Limits to the Pains of Imprisonment*. American Psychological Association, 2006"
+    - title: "Haney C. <em>Reforming Punishment: Psychological Limits to the Pains of Imprisonment</em>. American Psychological Association, 2006"
       url: https://www.apa.org/pubs/books/4316061
-    - title: "Shange S. *Progressive Dystopia: Abolition, Antiblackness, and Schooling in San Francisco.* Duke University Press, 2019"
+    - title: "Shange S. <em>Progressive Dystopia: Abolition, Antiblackness, and Schooling in San Francisco.</em> Duke University Press, 2019"
       url: https://www.dukeupress.edu/progressive-dystopia
-    - title: "Sanchez AE. In Spite of Prison. *Harvard Law Review* 2019;132(6): 1650-1683"
+    - title: "Sanchez AE. In Spite of Prison. <em>Harvard Law Review</em> 2019;132(6): 1650-1683"
       url: https://harvardlawreview.org/wp-content/uploads/2019/04/1650-1683_Online.pdf
-    - title: "Gilmore RW, Kilgore J. *The Case for Prison Abolition.* The Marshall Project, June 19, 2019"
+    - title: "Gilmore RW, Kilgore J. <em>The Case for Prison Abolition.</em> The Marshall Project, June 19, 2019"
       url: https://www.themarshallproject.org/2019/06/19/the-case-for-abolition
     - title: "Critical Resistance"
       url: http://criticalresistance.org/
@@ -41,19 +41,19 @@ further-inquiry:
     - title: "Dee Hibbert-Jones"
       url: http://deehibbertjones.com/
 in-the-news:
-    - title: "Artists Grapple With America's Prison System (*New York Times*, March 2016)"
+    - title: "Artists Grapple With America's Prison System (<em>New York Times</em>, March 2016)"
       url: https://www.nytimes.com/2016/03/12/arts/design/artists-grapple-with-americas-prison-system.html
-    - title: "What Would a World Without Prisons Be Like? (*The New Yorker,* January 2020)"
+    - title: "What Would a World Without Prisons Be Like? (<em>The New Yorker,</em> January 2020)"
       url: https://www.newyorker.com/podcast/political-scene/what-would-a-world-without-prisons-be-likereefs-wetlands-mangrove-coastline-defense-restoration
-    - title: "The Movement to Abolish Prisons and the Police (*NPR*, August 2020)"
+    - title: "The Movement to Abolish Prisons and the Police (<em>NPR</em>, August 2020)"
       url: https://www.npr.org/2020/08/18/903546893/the-movement-to-abolish-prisons-and-the-police
-    - title: "Is Prison Necessary? Ruth Wilson Gilmore Might Change Your Mind (*New York Times Magazine,* April 2019)"
+    - title: "Is Prison Necessary? Ruth Wilson Gilmore Might Change Your Mind (<em>New York Times Magazine,</em> April 2019)"
       url: https://www.nytimes.com/2019/04/17/magazine/prison-abolition-ruth-wilson-gilmore.html
-    - title: "How Would Prison Abolition Actually Work? (*GQ,* June 2020)"
+    - title: "How Would Prison Abolition Actually Work? (<em>GQ,</em> June 2020)"
       url: https://www.gq.com/story/what-is-prison-abolition
     - title: "Challenging how we see the prison-industrial complex (UCSC News, October 2020)"
       url: https://news.ucsc.edu/2020/10/ucsc-barring-freedom.html
-    - title: "Granted Parole or Awaiting Trial, Inmates Died of Covid-19 Behind Bars (*New York Times*, May 2021)"
+    - title: "Granted Parole or Awaiting Trial, Inmates Died of Covid-19 Behind Bars (<em>New York Times</em>, May 2021)"
       url: https://www.nytimes.com/2021/05/06/us/coronavirus-inmates-parole.html?campaign_id=2&emc=edit_th_20210507&instance_id=30363&nl=todaysheadlines&regi_id=20425383&segment_id=57444&user_id=cd9753fb16d3db7f7d9de7e892f7c132
 
 ---
