@@ -24,17 +24,17 @@ further-inquiry:
       url: https://openlabresearch.com/news-events
    
 in-the-news:
-    - title: "Composing Music for Trying Times: Three Composers Respond to a Pandemic (*San Francisco Classical Voice*, November 4, 2020)"
+    - title: "Composing Music for Trying Times: Three Composers Respond to a Pandemic (<em>San Francisco Classical Voice</em>, November 4, 2020)"
       url: https://www.sfcv.org/article/composing-music-for-trying-times-three-composers-respond-to-a-pandemic
-    - title: "Radio interview with Brian Baumbusch (KWAL's *Open Air*, October 8, 2020)"
+    - title: "Radio interview with Brian Baumbusch (KWAL's <em>Open Air</em>, October 8, 2020)"
       url: https://soundcloud.com/brianbaumbusch/open-air-interview-with-david-latulippe-and-brian-baumbusch-10-8-20
-    - title: "The pandemic stilled human activity. What did this 'anthropause' mean for wildlife? (*Science*, August 13, 2020)"
+    - title: "The pandemic stilled human activity. What did this 'anthropause' mean for wildlife? (<em>Science</em>, August 13, 2020)"
       url: https://www.sciencemag.org/news/2020/08/pandemic-stilled-human-activity-what-did-anthropause-mean-wildlife
     - title: Is COVID-related reduction in marine traffic reducing stress in whales? (UCSC News, July 17, 2020)
       url: https://news.ucsc.edu/2020/07/whale-stress.html
-    - title: Conversation about What Makes Us Human with Jennifer Parker (*Scratch Space*, March 5, 2021, starting at 31:59)
+    - title: Conversation about What Makes Us Human with Jennifer Parker (<em>Scratch Space</em>, March 5, 2021, starting at 31:59)
       url: https://www.youtube.com/watch?v=b_OrMhwlyBg
-    - title: Panel discussion with Jennifer Parker (*Immersive Arts Alliance*, March 23, 2021)
+    - title: Panel discussion with Jennifer Parker (<em>Immersive Arts Alliance</em>, March 23, 2021)
       url: https://www.immersiveartsalliance.org/exhibitions-programs/small-screens-big-ideas
 ---
 {% include_relative sidebars/adaptable-academics-hero-caption.html classes="right" bgcolor="#f1f1f1" %}
