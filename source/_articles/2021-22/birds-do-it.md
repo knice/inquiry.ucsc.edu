@@ -78,10 +78,10 @@ Lyon also [noticed](http://lyon.eeb.ucsc.edu/files/9313/2053/4128/Lyon_1993b.pdf
 
 Lyon found that coots also exhibit a remarkable ability to count their own eggs. Like many birds, American coots are indeterminate layers, meaning they use external cues such as number of eggs or their surface area to decide when to stop laying. If they couldn't distinguish between parasitic eggs and their own, the final clutch would contain fewer host eggs. Instead, the coots who recognized parasitic eggs, and later rejected them, didn't alter their egg laying. In contrast, the coots that couldn't tell the eggs apart laid one less egg for every parasitic one in the nest.
 <figure class="left" style="width:300px;">
-  {% asset 2021/daizaburo-shizuka.jpg @magick:resize=300 alt:'Image of boss on horse' %}<figcaption markdown="span">Former UCSC graduate student Daizaburo Shizuka, now associate professor at University of Nebraska, tags coot chicks hatched in incubators from eggs collected in the field before returning them to nests as part of a cross-fostering experiment which showed that parent coots imprinted on the first chicks they were exposed to. Credit: Bruce Lyon, with permission.</figcaption>
+  {% asset 2021/daizaburo-shizuka.jpg @magick:resize=300 alt:'Image of boss on horse' %}<figcaption markdown="span">Former UCSC graduate student Daizaburo Shizuka, now associate professor at the University of Nebraska, tags coot chicks hatched in incubators from eggs collected in the field before returning them to nests as part of a cross-fostering experiment which showed that parent coots imprinted on the first chicks they were exposed to. Credit: Bruce Lyon, with permission.</figcaption>
 </figure>
 
-Knowing that many parasitic eggs pass the rejection test, Lyon's former graduate student [**Daizaburo Shizuka**](https://biosci.unl.edu/daizaburo-shizuka), now an associate professor of biological sciences at the University of Nebraska--Lincoln, wondered if the coots could further mitigate the costs of nest parasitism by discerning their own chicks.
+Knowing that many parasitic eggs pass the rejection test, Lyon's graduate student [**Daizaburo Shizuka**](https://biosci.unl.edu/daizaburo-shizuka) (Ph.D. '09), now an associate professor of biological sciences at the University of Nebraska--Lincoln, wondered if the coots could further mitigate the costs of nest parasitism by discerning their own chicks.
 
 In the nest, parasitic eggs---although deposited early by sneaky coots---typically hatch later amongst a brood that emerges over several days. In the field, Shizuka and Lyon documented more deaths of parasitic chicks than the hosts' true chicks. This finding led them to suspect that the birds imprint on their own young that arrive early, using them as a template for recognizing the chicks that hatch later.
 
@@ -101,7 +101,7 @@ In the case of non-nesting females, on the other hand, lack of nesting sites or 
 
 ## Long-term benefit ##
 
-Unfortunately, female coots don't return to the same nesting grounds year after year, so Lyon and his collaborators have been unable to track individuals to assess how often they parasitise others' nests through their lifetimes, and thereby determine the behavior's potential long-term reproductive benefit.
+Unfortunately, female coots don't return to the same nesting grounds year after year, so Lyon and his collaborators have been unable to track individuals to assess how often they parasitize others' nests through their lifetimes, and thereby determine the behavior's potential long-term reproductive benefit.
 
 Female wood ducks are, however, loyal to their nesting spots. With Eadie, Lyon is studying nest-parasitising wood ducks tagged with trackers since 2014 that live in nest boxes in California. Among the questions they're seeking to answer is when and why these fowl switch between laying eggs only in their own nests and additionally in their neighbor's.
 <figure class="left" style="width:300px;">
