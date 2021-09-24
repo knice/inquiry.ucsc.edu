@@ -49,7 +49,7 @@ but also subversive and dangerous, Murray said. ["There\'s something
 provocative about them. They can make you uncomfortable.
 W](https://havc.ucsc.edu/faculty/derek-murray)[hen you look at the
 various meanings associated with flowers, and then at Mapplethorpe's
-BDSM images, or images of black
+BDSM images, or images of Black
 men,](https://www.bloomsbury.com/us/mapplethorpe-and-the-flower-9781788312516/)
 some of the deeper meanings are the same."
 
