@@ -30,4 +30,4 @@ And in a first for the program, alumna **Julia Calderone** \'14 contributed to a
 
 Meanwhile, SciCom lecturers, led by director [**Erika Check Hayden**](https://scicom.ucsc.edu/about/program-news-articles/2016-09-hayden.html), pivoted to virtual instruction for this year\'s graduates. Save for socially distanced workshops in photojournalism and video production, students studied remotely and reported for their news internships from home. Their teachers via Zoom included three program alumni: multimedia journalist **Lisa Strong** \'93, author and essayist **Evelyn Strauss** \'98, and former director **Robert Irion** \'88.
 
-The talent and versatility of the program\'s graduates is on display in these pages. We hope you and yours stay well as you enjoy the stories we've unfolded in this 7th annual issue of *inquiry\@UC Santa Cruz*.
+The talent and versatility of the program\'s graduates is on display in these pages. We hope you and yours stay well as you enjoy the stories we've unfolded in this 7th annual issue of *inquiry@UC Santa Cruz*.
