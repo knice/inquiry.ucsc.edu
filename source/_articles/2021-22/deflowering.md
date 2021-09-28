@@ -3,7 +3,7 @@ layout: brief
 issue: 2021
 category: brief
 order: 10
-title: DeFlowering
+title: Deflowering
 author-last: Welsh
 colors:
     tag: "#84cbd8"
