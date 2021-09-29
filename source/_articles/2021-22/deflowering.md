@@ -44,6 +44,8 @@ ways in which race, gender, sexuality, and class intersect in 20th and
 Murray.](https://www.bloomsbury.com/us/mapplethorpe-and-the-flower-9781788312516/)</figcaption>
 </figure>
 
+“The prevailing notion is that these were just a way to create something easily saleable,” said Murray, who documents his study of Mapplethorpe’s flowers in his 2020 book, [_Mapplethorpe and the Flower: Radical Sexuality and the Limits of Control_](https://www.bloomsbury.com/us/mapplethorpe-and-the-flower-9781788312516/). “I felt this was a critical blind spot.”
+
 Mapplethorpe is one of few artists who could make flowers look beautiful
 but also subversive and dangerous, Murray said. ["There\'s something
 provocative about them. They can make you uncomfortable.
