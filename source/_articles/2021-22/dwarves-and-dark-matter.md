@@ -20,7 +20,7 @@ tags:
   </figcaption>
 </figure>
 
-<figure class="right briefs-full" style="width:600px">
+<figure class="briefs-full" style="width:600px">
   {% asset 2021/six-dwarves.png @magick:resize=600 alt:'Cyanobacteria bloom' %}<figcaption markdown="span">This composite of six images, composed by graduate student [**Yifei Luo**](https://www.astro.ucsc.edu/about/staff-directory-page.php?uid=yluo42), shows three representative dwarf galaxies mapped and measured by the Merian Survey team in March 2021. The galaxy on the left is five times larger than the middle one, and ten times larger than the one on the right. Each top "color" image combines images obtained with different bands of light, while the corresponding bottom images contain a single color only. Credit: Courtesy of Alexie Leauthaud.
   </figcaption>
 </figure>

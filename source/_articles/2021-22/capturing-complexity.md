@@ -16,7 +16,7 @@ tags:
 
 When Associate Professor [**Jennifer Maytorena Taylor**](https://film.ucsc.edu/faculty/jennifer_taylor) began shooting a new project in early 2016, she didn't realize how much her study of the small town of Rutland, Vermont---where she lived for a time when young---would mirror America's social and political turmoil. Centered around a mayor's decision to settle Syrian refugees in the town and how its 15,000 citizens responded, the resulting film, [*For the Love of Rutland*](https://rocofilms.com/rutland/), explores the persistent problems of poverty and addiction and the increasingly divisive issues of cultural identity and nationalism.
 
-<figure class="right briefs-full" style="width:600px">
+<figure class="briefs-full" style="width:600px">
   {% asset 2021/stacie-griffin.jpg @magick:resize=600 alt:'photo of Stacie Griffin' %}<figcaption markdown="span">Stacie Griffin, a lifelong resident of the town of Rutland, Vermont, is the main protagonist in Jennifer Maytorena Taylor's documentary, *For the Love of Rutland*. In the film*,* Griffin grapples with the town's decision to settle Syrian refugees in her low-income neighborhood. Taylor, who grew up in Rutland and Los Angeles, is an associate professor and director of graduate studies in the Social Documentation M.F.A. Program. Credit: Courtesy of Jennifer Maytorena Taylor.</figcaption>
 </figure>
 

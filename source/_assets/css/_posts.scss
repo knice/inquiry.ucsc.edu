@@ -101,8 +101,8 @@
 }
 
 .briefs-full {
-    float: right;
-    margin: 0 0 1em 1em;
+    float: none !important;
+    margin: 0!important;
     max-width: 600px!important;
 }
 

@@ -10,7 +10,7 @@ colors:
 tags:
     - Computational media
 ---
-<figure class="right briefs-full" style="width:600px">
+<figure class="briefs-full" style="width:600px">
   {% asset 2021/board-game-front.png @magick:resize=600 alt:'Evil Spirit Island board game' %}<figcaption markdown="span">Playing board of the Japanese board game *Evil Spirit Island* (Bandai, 1983). In his book-in-progress, *Joy Family*, teaching professor of computational media Nathan Altice is chronicling the history of Japanese board games from the end of World War II to 1989; it will be his second book on Japanese games, following [*I AM ERROR*](https://mitpress.mit.edu/books/i-am-error), a history of the Nintendo Entertainment System (MIT Press, 2015). Credit: Courtesy of Nathan Altice.</figcaption>
 </figure>
 When teaching professor [**Nathan Altice**](https://www.soe.ucsc.edu/people/naltice) first started looking for board game adaptations of video games in 2017, he stumbled down a rabbit hole of possibilities from game-loving Japan. "And then," he said, "I made the mistake of saying, 'Maybe I'll buy one.'" Today, Altice's UCSC office harbors more than 400 Japanese board games, both adaptations and originals, the earliest dating back to 1905. Many can be explored via digital scans and translations on his [Analog Joy Club](http://www.analogjoy.club/) website.

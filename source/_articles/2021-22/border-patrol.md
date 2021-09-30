@@ -10,7 +10,7 @@ colors:
 tags:
     - Latin American and Latino/x Studies
 ---
-<figure class="right briefs-full" style="width:600px">
+<figure class="briefs-full" style="width:600px">
   {% asset 2021/book-cover-and-map.jpg @magick:resize=600 alt:"An image from Robert Mapplethorpe's flower-focused work, *Parrot Tulips*
 (1988)" %}<figcaption markdown="span">Left: Assistant professor of Latin American and Latino/x studies Jeffrey Erbig examined records from dozens of archives in seven countries while researching *Where Caciques and Mapmakers Met: Border Making in Eighteenth-Century South America*, which details previously overlooked relationships between colonial forces and Indigenous peoples. "Cacique" translates to "king" or "prince" of an Indigenous group. Credit: University of North Carolina Press (public domain). Right: This 1796 map shows how Spain and Portugal had divided South America between themselves with a border some 10,000 miles long. Erbig's research reveals that large areas within this division were in fact controlled by Indigenous peoples and not by the two dominant colonial powers. Credit: Courtesy of the Norman B. Leventhal Map & Education Center at the [Boston Public Library](https://collections.leventhalmap.org/search/commonwealth:6t053s188) (public domain).</figcaption>
 </figure>
