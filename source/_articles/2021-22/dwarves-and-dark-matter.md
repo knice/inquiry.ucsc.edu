@@ -20,7 +20,7 @@ tags:
   </figcaption>
 </figure>
 
-<figure style="width:600px">
+<figure class="right briefs-full" style="width:600px">
   {% asset 2021/six-dwarves.png @magick:resize=600 alt:'Cyanobacteria bloom' %}<figcaption markdown="span">This composite of six images, composed by graduate student [**Yifei Luo**](https://www.astro.ucsc.edu/about/staff-directory-page.php?uid=yluo42), shows three representative dwarf galaxies mapped and measured by the Merian Survey team in March 2021. The galaxy on the left is five times larger than the middle one, and ten times larger than the one on the right. Each top "color" image combines images obtained with different bands of light, while the corresponding bottom images contain a single color only. Credit: Courtesy of Alexie Leauthaud.
   </figcaption>
 </figure>
@@ -29,7 +29,7 @@ Starting small can sometimes help tackle a big question, like the nature of [dar
 With Princeton's [Jenny Greene](https://web.astro.princeton.edu/people/jenny-greene), Leauthaud co-leads the [Merian Survey](https://merian.sites.ucsc.edu/), an international research collaboration that in March 2021 began using the Blanco Telescope in Chile to map and assess 100,000 dwarf galaxies. Captured through custom-made filters, the discovery of so many dwarf galaxies will enable the astronomers to use a technique called gravitational lensing to measure---for the first time---the amount of dark matter they contain. While light normally travels in a straight line, gravitational forces warp its path. Measuring this warp with gravitational lensing infers the mass of a galaxy: the bigger the deviation, the bigger the mass and how much dark matter is present, Leauthaud said.
 
 Given the massive amount of data the survey will collect, Leauthaud anticipates "exciting science," including about the extent, distribution, and nature of dark matter and how it varies between galaxies. "We're pushing into new territory," she said.
-
+s
 {% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
 *&mdash;[{{ contrib.first }} {{contrib.last}}]({{ contrib.url }})*

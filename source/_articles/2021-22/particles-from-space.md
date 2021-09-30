@@ -13,8 +13,8 @@ tags:
 <figure style="width:400px">
   {% asset 2021/baloon-launch.png @magick:resize=400 alt:"Clipping from Oakland Tribune, June 1927" %}<figcaption markdown="span">Carried by a high-altitude balloon launched in Sweden (see video [here](http://scipp.ucsc.edu/~johnson/download/BalloonLaunchAESOPLite2018FromEsrange_FromJohnClemPI_Rotated.mp4)), the AESOP-lite mission collected more than 130 hours of data measuring cosmic radiation near the edge of the Earth’s atmosphere. Credit: Courtesy of Robert Johnson.</figcaption>
 </figure>
-<figure style="width:400px">
-  {% asset 2021/AESOP-retrieval.jpg @magick:resize=400 alt:"Clipping from Oakland Tribune, June 1927" %}<figcaption markdown="span">The mission’s balloon and its equipment payload (on right) drifted for six days before it landed and was collected on Ellesmere Island in the far north of Canada. Credit: Sarah Mechbal, with permission.</figcaption>
+<figure class="right briefs-full" style="width:600px">
+  {% asset 2021/AESOP-retrieval.jpg @magick:resize=600 alt:"Clipping from Oakland Tribune, June 1927" %}<figcaption markdown="span">The mission’s balloon and its equipment payload (on right) drifted for six days before it landed and was collected on Ellesmere Island in the far north of Canada. Credit: Sarah Mechbal, with permission.</figcaption>
 </figure>
 In 2018, a high-altitude balloon launched in Sweden ascended 40 kilometers into the atmosphere. While it drifted towards the far north of Canada, its 500-lb. payload of delicate sensors captured more than 130 hours of data intended to help untangle the mysteries of [cosmic radiation](https://www.space.com/32644-cosmic-rays.html).
 
