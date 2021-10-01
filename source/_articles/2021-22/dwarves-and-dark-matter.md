@@ -11,12 +11,12 @@ tags:
     - Astronomy and Astrophysics
 ---
 
-<figure class="right" style="width:400px">
-  {% asset 2021/hubbles-legacy-UGC-685.jpg @magick:resize=400 alt:'A galaxy in space' %}<figcaption markdown="span">Taken with the Hubble Space Telescope, this image shows a dwarf galaxy, named UGC 685, located about 15 million light-years from Earth. The most common type of galaxy in the Universe, these relatively small collections of stars are a focus of research for assistant professor of astronomy and astrophysics Alexie Leauthaud. Credit: [ESA/Hubble & NASA](https://commons.wikimedia.org/wiki/File:Hubble%27s_Legacy_UGC_685.jpg) (CC BY 4.0).
+<figure class="right" style="width:300px">
+  {% asset 2021/hubbles-legacy-UGC-685.jpg @magick:resize=300 alt:'A galaxy in space' %}<figcaption markdown="span">Taken with the Hubble Space Telescope, this image shows a dwarf galaxy, named UGC 685, located about 15 million light-years from Earth. The most common type of galaxy in the Universe, these relatively small collections of stars are a focus of research for assistant professor of astronomy and astrophysics Alexie Leauthaud. Credit: [ESA/Hubble & NASA](https://commons.wikimedia.org/wiki/File:Hubble%27s_Legacy_UGC_685.jpg) (CC BY 4.0).
   </figcaption>
 </figure>
-<figure class="right" style="width:400px">
-  {% asset 2021/sunset-skies-at-CTIO.jpg @magick:resize=400 alt:'Cyanobacteria bloom' %}<figcaption markdown="span">A sunset photograph shows the Cerro Tololo Inter-American Observatory (CTIO), a program of the National Science Foundation's National Optical-Infrared Astronomy Research Laboratory (NOIRLab) in the mountains of northern Chile. More than 20 telescopes operate at the site; dominating the mountain peak in the foreground is the Víctor M. Blanco 4-m Telescope, now being used for the Merian Survey. Credit: [CTIO/NOIRLab/NSF/AURA/B. Tafreshi](https://commons.wikimedia.org/wiki/File:Sunset_Skies_at_CTIO.jpg) (CC BY 4.0).
+<figure class="right" style="width:300px">
+  {% asset 2021/sunset-skies-at-CTIO.jpg @magick:resize=300 alt:'Cyanobacteria bloom' %}<figcaption markdown="span">A sunset photograph shows the Cerro Tololo Inter-American Observatory (CTIO), a program of the National Science Foundation's National Optical-Infrared Astronomy Research Laboratory (NOIRLab) in the mountains of northern Chile. More than 20 telescopes operate at the site; dominating the mountain peak in the foreground is the Víctor M. Blanco 4-m Telescope, now being used for the Merian Survey. Credit: [CTIO/NOIRLab/NSF/AURA/B. Tafreshi](https://commons.wikimedia.org/wiki/File:Sunset_Skies_at_CTIO.jpg) (CC BY 4.0).
   </figcaption>
 </figure>
 

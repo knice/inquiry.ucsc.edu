@@ -10,7 +10,7 @@ title: Inquiring minds
 {% assign contributorsSorted = site.data.contributors | sort: "last" %}
   {% for contributor in contributorsSorted %}
   
-  <li>{% asset {{contributor.file}} alt:"{{contributor.first}} {{contributor.last}} ({{contributor.year}})" %}
+  <li>{% asset {{contributor.file}} @magick:resize=150 alt:"{{contributor.first}} {{contributor.last}} ({{contributor.year}})" %}
   <span>
   {% if contributor.url %}
 <a href="{{contributor.url}}">{{contributor.first}} {{contributor.last}} ({{contributor.year}})</a>
