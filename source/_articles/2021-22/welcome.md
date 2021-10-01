@@ -6,7 +6,7 @@ order: 1
 title: "The spirit of inquiry at UC Santa Cruz"
 ---
 
-{% asset 2017/p2-scott-brandt.jpg @magick:resize=200 class:'left' %}
+{% asset 2021/John-MacMillan.jpg @magick:resize=200 class:'left' %}
 
 Welcome to 7<sup>th</sup> annual edition of *inquiry@UC Santa Cruz*! stories featuring the broad range of research being performed across the university's five academic divisions. As in previous issues, the magazine's content was crafted by alumni of our world-renowned [Science Communication master\'s program](https://scicom.ucsc.edu/) (see [INQUIRING**minds**](/2021-22/contributors/)).
 
@@ -16,9 +16,9 @@ In addition, select your next great read from the latest books authored by our f
 
 This year we celebrate in particular the unflinching dedication of the campus\'s research community, whose members---as revealed in our cover story, "Adaptable academics"---found ways to persevere in their mission to seek answers to difficult questions despite the unprecedented challenges posed by the pandemic. We invite you to join us as we recognize their hard-fought achievements and look forward to a less trying future.
 
-{% asset 2017/p2-brandt-signature.jpg @magick:resize=240 alt:'Signature' %}
+{% asset 2021/MacMillan-sig.png style="width:200px" @magick:resize=200 alt:'Signature' %}
 
-[**Scott A. Brandt**](https://officeofresearch.ucsc.edu/about/index.html)
+[**John McMillan**](https://campusdirectory.ucsc.edu/cd_detail?uid=jomacmil)
 Vice Chancellor for Research
 and Professor of Computer Science
 
@@ -28,7 +28,7 @@ and Professor of Computer Science
 
 - Chancellor: Cynthia K. Larive
 - Campus Provost and Executive Vice Chancellor: Lori Kletzer
-- Vice Chancellor, Research: Scott Brandt
+- Associate Vice Chancellor, Research: John MacMillan
 - Vice Chancellor, University Relations: Mark Davis
 
 ## inquiry@UC Santa Cruz, 2020-21
