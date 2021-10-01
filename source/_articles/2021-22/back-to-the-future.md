@@ -10,8 +10,8 @@ colors:
 tags:
     - History
 ---
-<figure style="width:400px">
-  {% asset 2021/history-of-the-future-in-colonial-mexico.jpg @magick:resize=400 alt:'Cover of book "The History of the Future in Colonial Mexico" by Matthew D. O&#39;Hara' %}<figcaption markdown="span">In his 2018 book, *The History of the Future in Colonial Mexico*, professor of history Matt O'Hara explores a wide range of the period's economic, political, and cultural practices to reveal "how colonial subjects used the resources of tradition and Catholicism to craft new futures." Credit: Yale University Press (public domain).</figcaption>
+<figure style="width:200px">
+  {% asset 2021/history-of-the-future-in-colonial-mexico.jpg @magick:resize=200 alt:'Cover of book "The History of the Future in Colonial Mexico" by Matthew D. O&#39;Hara' %}<figcaption markdown="span">In his 2018 book, *The History of the Future in Colonial Mexico*, professor of history Matt O'Hara explores a wide range of the period's economic, political, and cultural practices to reveal "how colonial subjects used the resources of tradition and Catholicism to craft new futures." Credit: Yale University Press (public domain).</figcaption>
 </figure>
 
 Historians typically write about how the past has shaped the present. Professor [**Matt O'Hara**](https://history.ucsc.edu/about/admins.php?uid=mdohara) contends it's valuable to also consider how the past shaped the future. In his latest book, [*The History of the Future in Colonial Mexico*](https://yalebooks.yale.edu/book/9780300233933/history-future-colonial-mexico) (Yale University Press, 2018), O'Hara explores the world of colonial Mexico by asking questions about how people's perceptions of the future prompted their actions.

@@ -10,8 +10,8 @@ colors:
 tags:
     - Writing program
 ---
-<figure style="width:400px">
-  {% asset 2021/drc-no-entry-sign.jpg @magick:resize=400 alt:'No outlet road sign' %}<figcaption markdown="span">On teaching professor in the Writing Program Amy Vidali's work-in-progress, accessibility map of the UCSC campus, the description of this photograph for users with visual impairment reads: "This is a yellow sign on the road to the Hahn Building, where the Disability Resource Center is located. It says: 'No Outlet Buses & Semis Prohibited No Turn Around.' Sunlight streaks the photo, and the sign is on a grassy knoll near cracked asphalt. Redwood trees in the background." Credit: Amy Vidali.</figcaption>
+<figure style="width:200px">
+  {% asset 2021/drc-no-entry-sign.jpg @magick:resize=200 alt:'No outlet road sign' %}<figcaption markdown="span">On teaching professor in the Writing Program Amy Vidali's work-in-progress, accessibility map of the UCSC campus, the description of this photograph for users with visual impairment reads: "This is a yellow sign on the road to the Hahn Building, where the Disability Resource Center is located. It says: 'No Outlet Buses & Semis Prohibited No Turn Around.' Sunlight streaks the photo, and the sign is on a grassy knoll near cracked asphalt. Redwood trees in the background." Credit: Amy Vidali.</figcaption>
 </figure>
 At the 2019 annual meeting of the [Rhetoric Society of America](https://www.rhetoricsociety.org/aws/RSA/pt/sp/home_page), teaching professor and disability scholar-activist [**Amy Vidali**](https://amyvidali.com/writing/) led a [working group](https://mappingdisability.wordpress.com/) that mapped the accessibility of the meeting site, the campus of the University of Nevada, Reno. "We didn't want it to be just about ramps," said Vidali. Drawing from the field of rhetorical cartography (the use of maps as tools for persuasion), the group attempted to geographically locate the unmet access needs of people with physical disabilities, as well as those with conditions like depression and autism, which are less commonly considered in determining accessibility.
 
