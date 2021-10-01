@@ -8,7 +8,7 @@ title: "The spirit of inquiry at UC Santa Cruz"
 
 {% asset 2017/p2-scott-brandt.jpg @magick:resize=200 class:'left' %}
 
-Welcome to 7<sup>th</sup> annual edition of *inquiry@UC Santa Cruz*! Here you'll find stories featuring the broad range of research being performed across the university's five academic divisions. As in previous issues, the magazine's content was crafted by alumni of our world-renowned [Science Communication master\'s program](https://scicom.ucsc.edu/) (see [INQUIRING**minds**](/2021-22/contributors/)).
+Welcome to 7<sup>th</sup> annual edition of *inquiry@UC Santa Cruz*! stories featuring the broad range of research being performed across the university's five academic divisions. As in previous issues, the magazine's content was crafted by alumni of our world-renowned [Science Communication master\'s program](https://scicom.ucsc.edu/) (see [INQUIRING**minds**](/2021-22/contributors/)).
 
 Their writing this year invites you to: contemplate an America with true liberty and justice for all, delivered without imprisonment; travel with researchers on ocean voyages to collect and analyze tiny fossils for clues about the coming impacts of climate change; peer over the shoulders of internet sleuths leveraging open-access data in the global fight for human rights; relish the drama of marshlands where coots sneak their unhatched offspring into each other's nests; consider how ancient ruins reflect people's intentional efforts, rather than simply things left behind; and applaud Nobel prize--winning research on telomeres---a potential key to understanding aging.
 

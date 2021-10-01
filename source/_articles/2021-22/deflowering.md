@@ -34,7 +34,7 @@ themes as his earlier, more highly regarded work, noted for its coupling
 of classical beauty and risqué nature.
 
 “The prevailing notion is that these were just a way to create something easily saleable,” said Murray, who documents his study of Mapplethorpe’s flowers in his 2020 book, [_Mapplethorpe and the Flower: Radical Sexuality and the Limits of Control_](https://www.bloomsbury.com/us/mapplethorpe-and-the-flower-9781788312516/). “I felt this was a critical blind spot.”
-<figure class="brienfs-full" style="width:600px">
+<figure class="briefs-full" style="width:600px">
   {% asset 2021/mapplethorpe-cover-drerk-conrad-murray.jpg @magick:resize=600 alt:'Book cover: Primer of Ecological Restoration' %}<figcaption markdown="span">In his book (left), _Mapplethorpe and the Flower: Radical Sexuality and the Limits of Control_ (Bloomsbury, 2020), Professor Murray (right) provides a critical analysis of the themes and symbolism in Mapplethorpe’s flower portraits. Murray’s work investigates the ways in which race, gender, sexuality, and class intersect in 20th and 21st century American Art. Credit: Bloomsbury Visual, 2020 (public domain); Courtesy of Derek Conrad Murray.
 </figcaption>
 </figure>
