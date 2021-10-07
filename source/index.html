@@ -36,13 +36,8 @@ current: 2021-22
                 <a href="{{ post.url }}">{{ post.title }}</a>
               </h3>
               <p class="teaser">{{ post.subhead }}</p>
-              {% if contrib.url %}
-              <p class="author">By <a href="{{ contrib.url }}">{{ contrib.first }} {{contrib.last}}</a></p>
-              {% else %}
+
               <p class="author">By {{ contrib.first }} {{ contrib.last }}</p>
-
-              {% endif %}
-
 
             </li>
         {% endif %}
@@ -57,7 +52,7 @@ current: 2021-22
   <section class="one-third block">
       <figcaption>Above: These spheres that appear on the landing page of the website of <a href="http://www.whatmakesushuman.org/"><em>What Makes Us Human: An Art + Genomics Convergence</em></a> represent and provide entry points for exploring different projects, each focused on one of a wide-ranging group of topics, including genomics, evolution, beauty, race, and gender. The overall objective of the creation is to spark conversations between scientists, artists, and others who visit the site. Credit: Courtesy of Jennifer Parker.</figcaption>
       <h3 class="index-headline featured">Download the PDF</h3>
-      <a href="/2021-22/inquiry2021.pdf">{% asset '2021/inquiry2021.jpg' @magick:resize=380 alt:'2021 cover of Inquiry Magazine' %}</a>
+      <a href="/2021-22/Inquiry2021.pdf">{% asset '2021/inquiry2021.jpg' @magick:resize=380 alt:'2021 cover of Inquiry Magazine' %}</a>
   </section>
 
 </div>
