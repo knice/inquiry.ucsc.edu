@@ -21,7 +21,7 @@ Finally, we wish to acknowledge previous Vice Chancellor for Research Scott Bran
 {% asset 2021/MacMillan-sig.png style="width:200px" @magick:resize=200 alt:'Signature' %}
 
 [**John McMillan**](https://campusdirectory.ucsc.edu/cd_detail?uid=jomacmil),  
-Interim Vice Chancellor for Research and Professor of Computer Science
+Interim Vice Chancellor for Research and Professor of Chemistry and Biochemistry
 
 ****
 

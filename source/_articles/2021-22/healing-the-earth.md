@@ -22,7 +22,7 @@ In a fortunate convergence of timing, it so happens that Professor [**Karen Holl
 <figure style="width:300px">
   {% asset 2021/primer-of-ecological-restoration.jpg @magick:resize=300 alt:'Book cover: Primer of Ecological Restoration' %}<figcaption markdown="span">Professor of environmental studies Karen Holl couldn't find a thorough, inexpensive textbook for her restoration ecology course---so she wrote her own. Along with the book, Holl created downloadable material including case studies, videos, and additional readings, extra resources intended to help tailor lessons to specific classes and locations. Credit: Island Press (public domain).</figcaption>
 </figure>
-
+<br/>
 The primer covers the broad science of restoration, and also the roles played by economic stakeholders, policy makers, and local communities. Each of these participants has unique but also intertwined needs, and Holl hopes her book provides the guidance needed to avoid failed projects. Ideally, ecosystems should be protected; when needed, though, restoration plans should crucially include forward thinking. "We used to use the past as the template for restoration," Holl said. However, she said, given climate change, restored landscapes will likely need to change too.
 
 {% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
