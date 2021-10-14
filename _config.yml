@@ -14,7 +14,7 @@ assets:
   digest: true
 
 # Site settings
-title: "Inqury @ UC Santa Cruz"
+title: "Inquiry @ UC Santa Cruz"
 description: UC Santa Cruz Research Magazine
 permalink: /:year/:title/
 url: https://inquiry.ucsc.edu
