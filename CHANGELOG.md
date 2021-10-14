@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/ucsc/site-inquiry/compare/v1.0.2...v1.1.0) (2021-10-14)
+
+
+### Features
+
+* :sparkles: Fall  Inquiry Release ([45ec237](https://github.com/ucsc/site-inquiry/commit/45ec237572880e97d1170967600eb3ce8c8ae03e))
+
 ### [1.0.2](https://github.com/ucsc/site-inquiry/compare/v1.0.1...v1.0.2) (2021-10-14)
 
 
