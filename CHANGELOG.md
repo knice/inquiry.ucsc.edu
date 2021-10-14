@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/ucsc/site-inquiry/compare/v1.1.0...v1.1.1) (2021-10-14)
+
+
+### Bug Fixes
+
+* :bug: Typo in Site Title in _config.yml ([6091049](https://github.com/ucsc/site-inquiry/commit/60910493d9c35a54d1e951ddfdb4565563607525))
+
 ## [1.1.0](https://github.com/ucsc/site-inquiry/compare/v1.0.2...v1.1.0) (2021-10-14)
 
 
