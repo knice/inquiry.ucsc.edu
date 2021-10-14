@@ -1,6 +1,6 @@
---- 
-layout: default 
-class: post 
+---
+layout: default
+class: post
 ---
 
   <article class="post" id="#top">
@@ -29,15 +29,15 @@ class: post
       <div class="related-links">
       <h3>Related Links</h3>
 
-      {% for link in page.related %}      
+      {% for link in page.related %}
         <ul class="">
           <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-        </ul>      
+        </ul>
       {% endfor %}
 
       </div>
-     {% endif %}      
-     
+     {% endif %}
+
      {% if page.further-inquiry %}
       <div class="related-links">
       <h3>Further Inquiry</h3>
@@ -45,43 +45,44 @@ class: post
         <ul class="">
           <li><a href="{{ link.url }}">{{ link.title }}</a></li>
         </ul>
-      
+
       {%endfor%}
       </div>
      {%endif%}
-     
+
      {% if page.in-the-news %}
       <div class="related-links">
       <h3>In the News</h3>
 
-      {% for link in page.in-the-news %}  
+      {% for link in page.in-the-news %}
         <ul class="">
           <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-        </ul>      
+        </ul>
       {% endfor %}
-      
+
       </div>
-     {% endif %}        
+     {% endif %}
     </section>
 
     <footer class="post-footer">
 
-        {% if page.author %}
+        {% if page.author-last %}
+{% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
         <section class="author">
             <div class="comment">
                 <div class="comment-container">
-                    {% if page.author.file %}
+                    {% if contrib.file %}
                     <div class="comment-image">
-                        {{ page.author.file | asset:"@magick:resize=180 alt='article author'" }}
+                        {{ contrib.file | asset:"@magick:resize=180 alt='article author'" }}
                     </div>
                     {% endif %}
                     <div class="comment-content">
                         <ul class="flat-list">
-                            {% if page.author.url %}
-                            <li><span>Written by:</span> <a href="{{ page.author.url }}">{{ page.author.name }}</a></li>
+                            {% if contrib.url %}
+                            <li><span>Written by:</span> <a href="{{ contrib.url }}">{{ contrib.first }} {{ contrib.last }}</a></li>
                             <li><span>Published:</span> {{ page.issue }}</li>
                             {% else %}
-                            <li><span>Written by:</span> {{ page.author.name }}</li>
+                            <li><span>Written by:</span> {{ contrib.first }} {{ contrib.last }}</li>
                             <li><span>Published:</span> {{ page.issue }}</li>
                             {% endif %}
                         </ul>

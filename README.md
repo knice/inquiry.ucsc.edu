@@ -34,4 +34,4 @@ If you have problems, please create a
 
 This site is built with [Jekyll](http://jekyllrb.com/), tested and deployed with [Travis-CI](http://travis-ci.org/), and served from Netlify.
 
-Inquiry magazine is Copyright &copy; 2015, The Regents of the University of California.
+Inquiry magazine is Copyright &copy; 2015-2021, The Regents of the University of California.

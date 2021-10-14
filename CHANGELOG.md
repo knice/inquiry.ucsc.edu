@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/ucsc/site-inquiry/compare/v1.0.1...v1.0.2) (2021-10-14)
+
+
+### Bug Fixes
+
+* :bug: typo ([da32c69](https://github.com/ucsc/site-inquiry/commit/da32c6976f9334c08b65344e4eb894dfb6e34eba))
+* :bug: typo in liquid logic in index.html ([5ecd4ba](https://github.com/ucsc/site-inquiry/commit/5ecd4baef080bbc00a42ebec9eea58304f0b03fc))
+* :construction: misnamed include. Fixed. ([845ed1c](https://github.com/ucsc/site-inquiry/commit/845ed1c16140f76a9762fe3fc66fc4c7c0b0ec27))
+
 ### [1.0.1](https://github.com/ucsc/site-inquiry/compare/v1.0.0...v1.0.1) (2020-10-20)
 
 
