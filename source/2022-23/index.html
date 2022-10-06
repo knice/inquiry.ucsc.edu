@@ -27,7 +27,7 @@ current: 2022-23
     <div class="features">
 
       <ul class="toc-list">
-      {% assign sorted_articles = site.articles | where: 'issue','2021' | sort: 'order' %}
+      {% assign sorted_articles = site.articles | where: 'issue','2022' | sort: 'order' %}
       {% for post in sorted_articles %}
       {% assign contrib = site.data.contributors | where:"last", post.author-last | first %}
         {% if post.category == 'feature' %}
