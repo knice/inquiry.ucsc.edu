@@ -11,7 +11,7 @@ By [Emma Hiolski](https://www.emmahiolski.com/)
 ## Universal Understanding
 
 <figure>
-{% asset 2021/a-violent-peace.jpg alt:"Book: A Violent Peace" %}
+{% asset 2022/this-way-to-the-universe alt:"Book: This Way To The Universe" %}
 </figure>
 
 Distinguished Professor of Physics [**Michael Dine**](http://scipp.ucsc.edu/~dine/) views the discovery of the [Higgs boson](https://home.cern/science/physics/higgs-boson) particle in 2012 as a "watershed moment" that ushered in a notably productive decade for the field. "We now have an exquisite understanding of nature on very small scales and very large scales," he said. "At the same time, many questions and puzzles remain."
@@ -25,7 +25,7 @@ Beyond imparting a deeper appreciation for how much we know about the universe, 
 ## Racialized Medicine
 
 <figure>
-{% asset 2021/greening-through-trade.jpg alt:"Greening through trade - book" %}
+{% asset 2022/sweetness-in-the-blood.jpg alt:"Book: Sweetness in the Blood" %}
 </figure>
 
 Although [Type 2 diabetes](https://www.cdc.gov/diabetes/basics/index.html) disproportionately affects Black Americans, Assistant Professor of Sociology [**James Doucet-Battle**](https://sociology.ucsc.edu/about/directory-faculty.php?uid=jbattle) argues against linking race with the risk of developing the insidious metabolic disease. Rather, "Diabetes risk should be equated with environmental risk in that it's contingent upon the environments we inhabit, in which we nourish ourselves, move our bodies, and relate to one another."
