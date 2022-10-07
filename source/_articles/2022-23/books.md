@@ -37,7 +37,7 @@ Contesting a biological role for race in disease is the central theme of Doucet-
 ## Jewish Radicals
 
 <figure>
-{% asset 2021/constructing-the-sacred.jpg alt:"Book: Constructing the Sacred" %}
+{% asset 2022/the-sultans-communists.jpg alt:"Book: The Sultan's Communists" %}
 </figure>
 In 2009, on a Fulbright scholarship in Morocco, [**Alma Heckman**](https://history.ucsc.edu/faculty/profiles/index.php?uid=aheckman) met a former communist activist while volunteering at the [Jewish Museum](https://en.wikipedia.org/wiki/Moroccan_Jewish_Museum) in Casablanca. "I had never heard about Moroccan Jewish communists before," said Heckman, associate professor of history and Jewish studies and Neufeld-Levin Chair of Holocaust studies.
 
@@ -50,7 +50,7 @@ In [**The Sultan's Communists: Moroccan Jews and the Politics of Belonging**](ht
 ## Joy and Pleasure
 
 <figure>
-{% asset 2021/traces-of-trauma.jpg alt:"Book: Traces of Trauma" %}
+{% asset 2022/kwaito-bodies.jpg alt:"Book: Kwaito Bodies" %}
 </figure>
 
 Associate Professor of Critical Race and Ethnic Studies [**Xavier Livermon**](https://feministstudies.ucsc.edu/faculty/index.php?uid=xlivermo) spent his early 20s in South Africa, coming of age during the heyday of [kwaito](https://en.wikipedia.org/wiki/Kwaito)---a type of electronic dance music that emerged post-apartheid. In portrayals at odds with his lived experience, the mainstream media at the time maligned kwaito, said Livermon, much as it also disparaged American hip-hop in the 1980s.
@@ -62,7 +62,7 @@ Livermon's [**Kwaito Bodies: Remastering Space and Subjectivity in Post-Aparthei
 ## Extreme Nature
 
 <figure>
-{% asset 2021/how-pac-man-eats.jpg alt:"Book: How Pac-Man Eats" %}
+{% asset 2022/elephant-seals.jpg alt:"Book: Elephant Seals: Pushing the limits on Land and at Sea" %}
 </figure>
 Elephant seals alternate between months of feeding at sea, where they can dive a mile deep, and fasting on land while breeding or lactating. During breeding season, adult males---three to 10 times the size of females---fight ferociously to maintain their harems of hundreds of females.
 
