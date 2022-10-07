@@ -50,7 +50,7 @@
   program: SciCom
   last: Hickock
   year: "’18"
-  file: 2022/kimberly-hickock.jpg
+  file: 2022/kimberly-hickok.jpg
   url:
 - first: Erin
   program: SciCom
@@ -87,4 +87,10 @@
   last: Williams
   year: "’07"
   file: 2022/sarah-c-p-williams.jpg
+  url:
+- first: ZZZ
+  program: SciCom
+  last: Zzz
+  year:
+  file: transparent-square.png
   url:
