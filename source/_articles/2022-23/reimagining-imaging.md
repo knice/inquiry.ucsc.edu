@@ -10,8 +10,8 @@ colors:
 tags:
     - Electrical and Computer Engineering
 ---
-<figure class="briefs-full" style="width:600px">
-  {% asset 2022/shiva-abbaszadeh.jpg @magick:resize=600 alt:'Photo: Shiva Abbaszadeh' %}<figcaption markdown="span">Assistant Professor of Electrical and Computer Engineering Shiva
+<figure style="width:400px">
+  {% asset 2022/shiva-abbaszadeh.jpg @magick:resize=400 alt:'Photo: Shiva Abbaszadeh' %}<figcaption markdown="span">Assistant Professor of Electrical and Computer Engineering Shiva
 Abbaszadeh reads at least one journal paper a day to stay versed on
 potential applications for the complex imaging instruments she and her
 laboratory team develop. Credit: Christopher C. Lee, courtesy of Shiva
