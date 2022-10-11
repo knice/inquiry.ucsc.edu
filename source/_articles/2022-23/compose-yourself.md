@@ -4,7 +4,7 @@ issue: 2022
 category: brief
 order: 14
 title: Compose yourself
-author-last: Melcor
+author-last: Melchor
 colors:
     tag: "#84cbd8"
 tags:
