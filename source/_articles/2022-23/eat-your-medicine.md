@@ -10,8 +10,8 @@ colors:
 tags:
     - Anthropology
 ---
-<figure class="briefs-full" style="width:600px">
-  {% asset 2022/ginger-garlic-tea.jpg @magick:resize=600 alt:'Photo: Undergraduates woring in Community Herb Garden' %}<figcaption markdown="span">In their roles as Global and Community Health Wellbeing Fellows, undergraduate students tend to the Community Herb Garden in April 2022. With the attention of the Fellows, mentored by Anthropology Professor Nancy C. Chen and Assistant Farm Garden Manager Kellee Matsushita-Tseng, this long-neglected patch of the Center for Agroecology's campus farm is receiving a much-needed makeover. Credit: Kellee Matsushita-Tseng, with permission.</figcaption>
+<figure style="width:400px">
+  {% asset 2022/gardening-undergraduates.jpg @magick:resize=400 alt:'Photo: Undergraduates woring in Community Herb Garden' %}<figcaption markdown="span">In their roles as Global and Community Health Wellbeing Fellows, undergraduate students tend to the Community Herb Garden in April 2022. With the attention of the Fellows, mentored by Anthropology Professor Nancy C. Chen and Assistant Farm Garden Manager Kellee Matsushita-Tseng, this long-neglected patch of the Center for Agroecology's campus farm is receiving a much-needed makeover. Credit: Kellee Matsushita-Tseng, with permission.</figcaption>
 </figure>
 
 When Professor [**Nancy N. Chen**](https://anthro.ucsc.edu/about/directory/academic-personnel/index.php?uid=nchen) feels a cold coming on, she prepares a pot of fresh garlic, ginger, honey, and lemon tea. Making sure to inhale the steam from the smashed---not chopped---garlic, she drinks the brew all day. For Chen, a medical anthropologist, food stands at the frontline of healing and she "eats her medicine."
