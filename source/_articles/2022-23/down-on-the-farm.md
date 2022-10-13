@@ -5,7 +5,7 @@ category: feature
 order: 1
 title: Down on the farm
 subhead: "Growing sustainable food systems...and students"
-author-last: Hickok
+author-last: Hickock
 banner:
   file: 2022/down-on-the-farm-banner.jpg
   position: left
