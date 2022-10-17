@@ -10,8 +10,8 @@ colors:
 tags:
     - EARTH AND PLANETARY SCIENCES
 ---
-<figure style="width:400px">
-  {% asset 2022/tamara-pico.jpg @magick:resize=400 alt:'Photo: Assistant Professor of Earth and Planetary Sciences Tamara Pico' %}<figcaption markdown="span">At the 2018 American Geophysical Union conference, Assistant Professor of Earth and Planetary Sciences Tamara Pico stands in front of the Great Falls of the Potomac River and describes how the changing weight of ice sheets alter the landscapes around them. She compares the process to placing a rock on bread dough. As the weight compresses one spot, the rest of the dough—the Earth’s crust—puffs up around it. Pico uses physical signs of these changes to model where glaciers once existed. Credit: Courtesy of Tamara Pico, with permission.</figcaption>
+<figure style="width:300px">
+  {% asset 2022/tamara-pico.jpg @magick:resize=300 alt:'Photo: Assistant Professor of Earth and Planetary Sciences Tamara Pico' %}<figcaption markdown="span">At the 2018 American Geophysical Union conference, Assistant Professor of Earth and Planetary Sciences Tamara Pico stands in front of the Great Falls of the Potomac River and describes how the changing weight of ice sheets alter the landscapes around them. She compares the process to placing a rock on bread dough. As the weight compresses one spot, the rest of the dough—the Earth’s crust—puffs up around it. Pico uses physical signs of these changes to model where glaciers once existed. Credit: Courtesy of Tamara Pico, with permission.</figcaption>
 </figure>
 
 Perusing the library stacks, [**Tamara Pico**](https://tamarapico.github.io/index.html), then a Harvard University PhD student, discovered an old book by [Nathaniel Shaler](https://eps.harvard.edu/nathaniel-s-shaler-and-scientific-racism) in which the eminent 19th-century Harvard geologist argues that certain climates or landscape features produced superior humans in Europe compared to other parts of the world. "No one in my department had any idea," said Pico.
