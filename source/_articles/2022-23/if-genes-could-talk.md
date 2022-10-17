@@ -2,7 +2,7 @@
 layout: post
 issue: "2022"
 category: feature
-order: 2
+order: 9
 title: If genes could talk
 subhead: "Genomic sleuthing paints pictures of the past—and present"
 author-last: Williams

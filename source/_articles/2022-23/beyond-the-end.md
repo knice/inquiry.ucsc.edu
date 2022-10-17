@@ -2,7 +2,7 @@
 layout: post
 issue: "2022"
 category: feature
-order: 6
+order: 5
 title: Beyond the end
 subhead: "Imagining better futures in the wake of dystopia"
 author-last: Watson

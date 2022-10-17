@@ -2,7 +2,7 @@
 layout: post
 issue: "2022"
 category: feature
-order: 9
+order: 8
 title: In the heart
 subhead: "Preserving and sharing Watsonville's rich Filipino heritage"
 author-last: Loury

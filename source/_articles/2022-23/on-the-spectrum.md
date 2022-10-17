@@ -2,7 +2,7 @@
 layout: post
 issue: "2022"
 category: feature
-order: 7
+order: 4
 title: On the spectrum
 subhead: "Seeing people with autism as different, not deficient"
 author-last: Ananthaswamy

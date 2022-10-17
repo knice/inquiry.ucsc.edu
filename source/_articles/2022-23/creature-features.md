@@ -2,7 +2,7 @@
 layout: post
 issue: "2022"
 category: feature
-order: 5
+order: 3
 title: Creature features
 subhead: "A fish---a long, skinny one---out of water"
 author-last: Devitt

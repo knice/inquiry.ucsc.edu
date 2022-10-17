@@ -2,7 +2,7 @@
 layout: post
 issue: "2022"
 category: feature
-order: 4
+order: 6
 title: Disputed memories
 subhead: "Why do they hide the bad things?"
 author-last: Mackenzie
