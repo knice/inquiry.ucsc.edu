@@ -10,8 +10,8 @@ colors:
 tags:
     - ELECTRICAL AND COMPUTER ENGINEERING
 ---
-<figure style="width:400px">
-  {% asset 2022/colleen-josephson.jpg @magick:resize=400 alt:'Assistant Professor of Electrical and Computer Engineering Colleen Josephson' %}<figcaption markdown="span">Assistant Professor of Electrical and Computer Engineering Colleen Josephson and her collaborators have deployed 12 of their first prototype "mud batteries," or MFCs (one held here by Josephson), four at one field site in California and eight at two sites near Chicago. "Our oldest two cells were deployed in July 2021," Josephson said, "and we\'re still collecting data." Don't expect a widely available product soon, she said---"A lot depends on the economics." Credit: Courtesy of Colleen </figcaption>
+<figure style="width:300px">
+  {% asset 2022/colleen-josephson.jpg @magick:resize=300 alt:'Assistant Professor of Electrical and Computer Engineering Colleen Josephson' %}<figcaption markdown="span">Assistant Professor of Electrical and Computer Engineering Colleen Josephson and her collaborators have deployed 12 of their first prototype "mud batteries," or MFCs (one held here by Josephson), four at one field site in California and eight at two sites near Chicago. "Our oldest two cells were deployed in July 2021," Josephson said, "and we\'re still collecting data." Don't expect a widely available product soon, she said---"A lot depends on the economics." Credit: Courtesy of Colleen </figcaption>
 </figure>
 
 We all know about power generation from the sun and the wind, but it's probably a surprise to learn that electricity can also come from the dirt beneath our feet. The dirt itself, however, is not the source---it's the so-called [exoelectrogens](https://en.wikipedia.org/wiki/Exoelectrogen), mostly bacteria, that inhabit healthy soil all over the world. As they break down and metabolize---i.e., "eat"---complex molecules like sugars, these miniscule organisms release a steady trickle of electrons.
