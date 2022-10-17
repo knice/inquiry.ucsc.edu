@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 12
+order: 13
 title: Geological faults
 author-last: Malsbury
 colors:

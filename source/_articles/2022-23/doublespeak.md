@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 13
+order: 12
 title: Doublespeak
 author-last: Devitt
 colors:

@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 9
+order: 8
 title: Happy places
 author-last: Brown
 colors:

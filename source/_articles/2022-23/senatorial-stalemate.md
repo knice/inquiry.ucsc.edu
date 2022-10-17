@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 5
+order: 6
 title: Senatorial stalemate
 author-last: Brown
 colors:

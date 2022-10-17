@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 1
+order: 14
 title: Inclusive dancing
 author-last: Brown
 colors:

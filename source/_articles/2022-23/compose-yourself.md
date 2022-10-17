@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 14
+order: 1
 title: Compose yourself
 author-last: Melchor
 colors:

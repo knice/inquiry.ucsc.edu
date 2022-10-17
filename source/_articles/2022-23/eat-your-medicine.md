@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 6
+order: 5
 title: Eat your medicine
 author-last: Augliere
 colors:

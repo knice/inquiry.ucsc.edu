@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 8
+order: 7
 title: Bon voyage
 author-last: Melchor
 colors:

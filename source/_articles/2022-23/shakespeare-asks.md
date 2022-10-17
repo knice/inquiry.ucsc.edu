@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 11
+order: 10
 title: Shakespeare asks
 author-last: Malsbury
 colors:

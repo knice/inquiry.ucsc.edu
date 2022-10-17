@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 7
+order: 15
 title: Sea rescue
 author-last: Harwitz
 colors:

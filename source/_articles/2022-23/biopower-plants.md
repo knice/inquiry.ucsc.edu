@@ -2,7 +2,7 @@
 layout: brief
 issue: 2022
 category: brief
-order: 10
+order: 11
 title: Biopower plants
 author-last: Augliere
 colors:
