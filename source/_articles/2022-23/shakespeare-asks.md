@@ -11,7 +11,7 @@ tags:
     - Literature
 ---
 <figure class="briefs-full" style="width:600px">
-  {% asset 2022/sean-keilen.jpg @magick:resize=600 alt:'Photo: Professor of Literature, Sean Keilen' %}<figcaption markdown="span">Professor of Literature Sean Keilen, shown here giving a lecture at a "[Slugs and Steins](https://www.facebook.com/UCSCSlugsAndSteins)" event in downtown Santa Cruz, returns to Shakespeare's play _**Hamlet**_ most often in teaching and discussions. "_**Hamlet**_ is just such a vastly interesting play," he said, "able to absorb attention and questions from so many different directions." Credit: Courtesy of Sean Keilen.</figcaption>
+  {% asset 2022/sean-keilen.jpg @magick:resize=600 alt:'Photo: Professor of Literature, Sean Keilen' %}<figcaption markdown="span">Professor of Literature Sean Keilen, shown here giving a lecture at a "[Slugs and Steins](https://www.facebook.com/UCSCSlugsAndSteins)" event in downtown Santa Cruz, returns to Shakespeare's play _Hamlet_ most often in teaching and discussions. "_Hamlet_ is just such a vastly interesting play," he said, "able to absorb attention and questions from so many different directions." Credit: Courtesy of Sean Keilen.</figcaption>
 </figure>
 
 [**Sean Keilen**](https://humanities.ucsc.edu/academics/faculty/regular-faculty.php?uid=keilen)'s lifelong fascination with Shakespeare began early, as an eight-year-old intrigued by a small-town production of *Macbeth*. Now, as a professor, Keilen channels Shakespeare to examine modern life and connect with both academic and non-academic communities.

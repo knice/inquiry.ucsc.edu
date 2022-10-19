@@ -24,7 +24,7 @@ How food, medicine, and culture intersect animates Chen's research. The notion t
 <figure class="briefs-full" style="width:600px">
   {% asset 2022/vancouver-herb-shop.jpg @magick:resize=600 alt:'Photo: recipe for ginger garlic tea' %}<figcaption markdown="span">In practices developed over thousands of years, traditional Chinese medicine employs herbal products---like the ones sold at this shop in Vancouver, Canada, as well as some now growing in the Community Herb Garden---to create well-being and address many of today's common health problems. Credit: [Edna Winti](https://commons.wikimedia.org/wiki/File:2016_366_287_Traditional_Chinese_Medicine_(30227026751).jpg) (CC BY 2.0).</figcaption>
 </figure>
-Chen's scholarship facilitates her role, since 2018, as the [Division of Social Sciences](https://socialsciences.ucsc.edu/)' [Division of Social Sciences' dean for health, wellbeing and society](https://anthro.ucsc.edu/news/news-articles/chen_health_dean.html). The pandemic has highlighted the importance of good health, said Chen. "My hope is that people become more mindful about the health benefits of eating for long-term wellbeing."
+Chen's scholarship facilitates her role, since 2018, as the [Division of Social Sciences'](https://socialsciences.ucsc.edu/) [associate dean for health, wellbeing and society](https://anthro.ucsc.edu/news/news-articles/chen_health_dean.html). The pandemic has highlighted the importance of good health, said Chen. "My hope is that people become more mindful about the health benefits of eating for long-term wellbeing."
 
 {% assign contrib = site.data.contributors | where:"last", page.author-last | first %}
 {% if contrib.url %}
