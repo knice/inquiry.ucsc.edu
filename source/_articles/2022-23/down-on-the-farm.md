@@ -49,7 +49,7 @@ This agricultural cornucopia anchors a large organic farm and garden complex at 
 
 ## Fertile ground ##
 
-UCSC's bustling organic farm began as a smallish garden. [Two professors](https://escholarship.org/uc/item/6kk0m72p), **Donald Nicholl** [and](https://escholarship.org/uc/item/6kk0m72p) **Paul [Lee](https://escholarship.org/uc/item/6kk0m72p)**, hatched the idea of a student garden in the mid-1960s. As bulldozers ripped up the [old Cowell Ranch](https://escholarship.org/uc/item/2zw5t11r) to build the new UCSC college campus and the Vietnam war raged amidst widespread protests, Nicholl and Lee imagined a student garden that would have a positive impact on the campus community by connecting students to the natural world.
+UCSC's bustling organic farm began as a smallish garden. [Two professors](https://escholarship.org/uc/item/6kk0m72p), **Donald Nicholl** and **Paul Lee**, hatched the idea of a student garden in the mid-1960s. As bulldozers ripped up the [old Cowell Ranch](https://escholarship.org/uc/item/2zw5t11r) to build the new UCSC college campus and the Vietnam war raged amidst widespread protests, Nicholl and Lee imagined a student garden that would have a positive impact on the campus community by connecting students to the natural world.
 
 In a serendipitous series of events, the [Countess Freya von Moltke of Bavaria](https://en.wikipedia.org/wiki/Freya_von_Moltke) graced the new campus with a visit in 1966 and heard about the garden proposal. She then convinced [**Alan Chadwick**](http://www.alan-chadwick.org/index.html), whom she had met years earlier in South Africa, to come to Santa Cruz. An Englishman and former Shakespearean actor in his mid-50s, Chadwick was also---importantly---an expert gardener.
 
@@ -75,7 +75,7 @@ In 2011, Philpott eagerly applied for and accepted a job opening for an agroecol
 
 ## Budding farmers ##
 
-{% include_relative sidebars/popping-up-produce.html classes="left" bgcolor="#f1f1f1" %}
+{% include_relative sidebars/popping-up-produce.html classes="right" bgcolor="#f1f1f1" %}
 
 As a leader in the agroecology field, the UCSC farm hosts budding farmers, urban growers, and gardening enthusiasts from both within and outside the campus community, all hoping to take away kernels of farming and gardening knowledge that will hone their green thumbs. In addition to regularly scheduled online and in-person workshops on topics like beekeeping, gopher-proofing, and pruning, [among many others](https://agroecology.ucsc.edu/education/public-workshops.html), the farm offers an immersive [Apprenticeship Program](https://agroecology.ucsc.edu/education/apprenticeship/index.html) for early-career farmers. Philpott said she is excited about the relaunch (after a planned and pandemic-induced two-year hiatus) of this longstanding legacy program inspired by Chadwick and his early acolytes. Much like back then, apprentices spend their days getting their hands dirty as they practice organic farming techniques and learn about soil cultivation, plant physiology, and discuss the political and social contexts in which food is produced and delivered. The program enrolls "a whole array of different people, young and old," said Philpott. "We have folks working in environmental education and urban agriculture, some wanting to start their own organic farms, several veterans, and some just wanting to improve food security in their communities."
 
