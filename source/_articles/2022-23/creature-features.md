@@ -4,7 +4,7 @@ issue: "2022"
 category: feature
 order: 3
 title: Creature features
-subhead: "A fish---a long, skinny one---out of water"
+subhead: "A fish&mdash;a long, skinny one&mdash;out of water"
 author-last: Devitt
 banner:
   file: 2022/creature-features-banner.jpg

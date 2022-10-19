@@ -4,7 +4,7 @@ issue: "2022"
 category: feature
 order: 2
 title: Documenting reality
-subhead: "Female filmmakers aspire to move the field---and the world"
+subhead: "Female filmmakers aspire to move the field&mdash;and the world"
 author-last: Roth
 banner:
   file: 2022/documenting-reality-banner.jpg

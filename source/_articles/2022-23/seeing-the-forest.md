@@ -4,7 +4,7 @@ issue: "2022"
 category: feature
 order: 7
 title: Seeing the forest
-subhead: "The latest research buzz---drones"
+subhead: "The latest research buzz: drones"
 author-last: Bookwalter
 banner:
   file: 2022/seeing-the-forest-banner.jpg
