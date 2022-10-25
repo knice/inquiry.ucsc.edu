@@ -4,7 +4,7 @@ issue: "2022"
 category: feature
 order: 9
 title: If genes could talk
-subhead: "Genomic sleuthing paints pictures of the past and present"
+subhead: "Genomic sleuthing paints pictures of both past and present"
 author-last: Williams
 banner:
   file: 2022/if-genes-could-talk-banner.jpg
@@ -51,7 +51,7 @@ Until recently, such a genomic dive into the deep past was considered impossible
 
 ## Dog-chewed ##
 
-<figure class="left" style="width:300px;">
+<figure class="right" style="width:300px;">
   {% asset 2022/bison-hide-moccasin.jpg @magick:resize=300 alt:'Photo: Bison hide moccasin' %}<figcaption markdown="span">Researchers in the UCSC Paleogenomics Lab analyzed DNA from 38 bison hide moccasins, like this one, [worn more than 800 years ago](https://nhmu.utah.edu/blog/2016/08/23/promontory-culture) by cave dwellers in what is now Utah. They discovered that nearly all of the moccasins, which were well preserved in dry caves for centuries, [came from the hides of female bison](https://www.sciencedirect.com/science/article/pii/S0305440321002077). The researchers hypothesized that the Indigenous people of the American plains may have purposefully targeted female bison for moccasin manufacture. Credit: [Daderot](https://commons.wikimedia.org/wiki/File:Promontory_moccasin,_Promontory_Cave_I,_Utah,_1225-1275_AD,_bison_hide_and_hair_pad_-_Natural_History_Museum_of_Utah_-_DSC07382.JPG) (public domain).</figcaption>
 </figure>
 When people swab the inside of their cheeks with test kits like those from [23andMe](https://www.23andme.com/) and [ancestry.com](https://www.ancestry.com/), they collect---among other things---strands of genetic material, each containing hundreds of millions of relatively intact [nucleotide base pairs](https://www.genome.gov/genetics-glossary/Base-Pair), the building blocks of DNA. Sequencing such DNA samples is straightforward. But immediately after an organism dies, the natural world around them starts breaking down their components, including their DNA. Further muddling the genomic picture, microbes and other decaying plants and animals seep into the heap, adding their DNA remnants.
@@ -62,7 +62,7 @@ Shapiro and her husband [**Richard Edward Green**](https://engineering.ucsc.edu/
 
 ## Assessing admixing ##
 
-<figure class="left" style="width:300px;">
+<figure class="right" style="width:300px;">
   {% asset 2022/mammoth-tooth.jpg @magick:resize=300 alt:'Photo: Mammoth tooth' %}<figcaption markdown="span">DNA from mammoth teeth, like the one shown here in the Palatinate Museum of Natural History in Germany, let scientists at the UCSC Paleogenomics Lab and their collaborators discover how two different lineages of mammoths interbred to create an entirely new species of mammoth more than 420,000 years ago. Credit: [BlueBreezeWiki](https://commons.wikimedia.org/wiki/File:150322-Mammutzahn.jpg) (CC BY-SA 3.0).</figcaption>
 </figure>
 Work at the Paleogenomics Laboratory in the last few years has sequenced not only the genomes of mammoths but also those of ancient [bears](https://doi.org/10.1016/j.cub.2021.04.027), [dogs](https://www.nature.com/articles/s41586-020-03082-x), [bison](https://doi.org/10.1093/jhered/esab003), [horses](https://www.nature.com/articles/s41586-021-04018-9), and [Neanderthals](https://advances.sciencemag.org/content/7/29/eabc0776). A key question tying many of the projects together is what genetically defines a [species](https://www.newscientist.com/definition/species/). "As humans, we have this proclivity to put things into boxes---a polar bear is a polar bear, and a brown bear is a brown bear," said Shapiro. But this view is too simple. "Speciation typically doesn't happen overnight."
@@ -77,8 +77,8 @@ To make at-risk species healthier and more likely to survive long term, conserva
 
 ## Seeing differences ##
 
-The genomic science advances enabling scientists to study ancient DNA and help endangered animals also have vast promise to improve human health, said [**Benedict Paten**](https://engineering.ucsc.edu/people/benedict), associate professor of biomolecular engineering and associate director of the [UCSC Genomics Institute](https://genomics.ucsc.edu/).
-{% include_relative sidebars/coming-to-terms.html classes="left" bgcolor="#f1f1f1" %}Some of that promise is clearcut. For example, as [reported](https://www.nejm.org/doi/full/10.1056/NEJMc2112090) in February 2022 in the *New England Journal of Medicine*, Paten and collaborators showed that rapid sequencing of the entire genomes of critically ill patients uncovered genetic variations that impacted the treatment of five of the dozen subjects enrolled in the study. But other implications are less straightforward. Understanding human genetic evolution, Paten said, can shed light on how today's diversity arose and how it impacts human health, which could help address the increasingly acknowledged---yet quite elusive---problem of systemic racial bias in medicine.
+{% include_relative sidebars/coming-to-terms.html classes="right" bgcolor="#f1f1f1" %}
+The genomic science advances enabling scientists to study ancient DNA and help endangered animals also have vast promise to improve human health, said [**Benedict Paten**](https://engineering.ucsc.edu/people/benedict), associate professor of biomolecular engineering and associate director of the [UCSC Genomics Institute](https://genomics.ucsc.edu/). Some of that promise is clearcut. For example, as [reported](https://www.nejm.org/doi/full/10.1056/NEJMc2112090) in February 2022 in the *New England Journal of Medicine*, Paten and collaborators showed that rapid sequencing of the entire genomes of critically ill patients uncovered genetic variations that impacted the treatment of five of the dozen subjects enrolled in the study. But other implications are less straightforward. Understanding human genetic evolution, Paten said, can shed light on how today's diversity arose and how it impacts human health, which could help address the increasingly acknowledged---yet quite elusive---problem of systemic racial bias in medicine.
 
 Paten chairs the Genome Alignment and Annotation Committee of the [Vertebrate Genomes Project](https://vertebrategenomesproject.org/), a group of more than 150 scientists, each with their own funding, [aiming to collaboratively sequence](https://www.hhmi.org/news/project-to-read-genomes-of-all-70000-vertebrate-species-reports-first-discoveries?utm_source=twitter&utm_medium=social&utm_content=100002026866726&utm_campaign=hhmi-campaign) at least one genome from 66,000 vertebrate species, including mammals, birds, reptiles, amphibians, and fish. Like Shapiro and Green, Paten is not only interested in the stand-alone genomes of single species, but how these genomes compare and have evolved and diverged over time. "On their own, genomes can be incredibly interesting but they're also snapshots in time in a long evolutionary history," Paten said. Comparing the genomes of different species can reveal new genes and proteins that could lead to the discovery and development of a broad range of innovative items, from medicines to adhesives or even electronics, said Paten. "Every species contains unique genes that can be powerful in terms of understanding biology and giving us new tools."
 
@@ -89,7 +89,7 @@ In addition, understanding how and why one gene has evolved to vary between spec
 
 ## Pushing envelopes ##
 
-{% include_relative sidebars/csi-santa-cruz.html classes="left" bgcolor="#f1f1f1" %}
+{% include_relative sidebars/csi-santa-cruz.html classes="right" bgcolor="#f1f1f1" %}
 If genomes could talk, each human's would sound different. Diversity in ancestry, race, disease risk, metabolism, and a plethora of other features, from personality to appearance, are all captured in our DNA. But for the past nearly 20 years since the milestone completion of the [Human Genome Project](https://www.genome.gov/human-genome-project) in 2003, researchers have used a single reference genome---based almost entirely on [the genome of a single individual](https://www.statnews.com/2019/03/11/human-reference-genome-shortcomings/) from Buffalo, New York---as the template for all other human genomes. "That's a problem," said [**Karen Miga**](https://engineering.ucsc.edu/people/khmiga), Paten's colleague, and an assistant professor of biomedical engineering. "The reference genome gives us only one snapshot of a human genome when we all know that our genomes differ, sometimes in very large ways."
 
 When researchers analyze a person's genome, they use that reference genome as a point of comparison. Places where an individual's genes vary greatly from the reference may indicate causes of disease, for instance. But for some populations, the current reference genome may not be a fair place to start---it may not capture the norm at all.
