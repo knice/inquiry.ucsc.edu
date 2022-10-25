@@ -47,6 +47,7 @@ Professor of Chemistry and Biochemistry
 {% comment %}
 TODO: Style list
 {% endcomment %}
+{: .contributors }
 {% assign sortedContributors = site.data.contributors | sort: "last" %}
 {% for contributor in sortedContributors %}
 
