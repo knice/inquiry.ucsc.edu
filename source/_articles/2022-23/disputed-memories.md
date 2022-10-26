@@ -60,11 +60,11 @@ The grant funds a diverse set of projects. In one, Amah Mutsun Ph.D. students [A
 
 The grant also funded a one-day conference in August 2021, held at Mission Santa Cruz. Called "[Telling and Teaching the Truth of the California Missions](https://www.parks.ca.gov/?page_id=30648)," the gathering included a ceremony to celebrate the removal of the mission bell the following day. Ramirez described it as a "catharsis" for the Amah Mutsun and others. "I was surprised about how emotional it was, to be at that site giving a talk," said Lonetree. "I've heard the history recounted before, but there is something powerful and very poignant about hearing it in the space where it happened."
 
-## Popsicle-stick missions ##
-
 <figure class="" style="width:600px;">
   {% asset 2022/when-the-mission-bells-rang.jpg @magick:resize=600 alt:'Image: Book cover When the Mission Bells Rang' %}<figcaption markdown="span">As recounted in Professor of Education Judith Scott's self-published fable written for the Critical Missions Project, the mission bells changed the soundscape of Central California---and not for the better. Credit: Courtesy of Judith Scott and Lydia Gibson.</figcaption>
 </figure>
+## Popsicle-stick missions ##
+
 Other related activities at UCSC focus on an important group that urgently needs to hear the Native side of mission history: California's children. [**Judith Scott**](https://education.ucsc.edu/people/faculty.php?uid=jascott), professor of education, wrote and self-published a children's book, called [*When the Mission Bells Rang*](https://whenthemissionbellsrang.weebly.com/#/) (2022; free PDF available at link). The child-friendly fantasy features animals that join together to foil the padres' attempts to ring the bells. The story incorporates Indigenous folklore and uses Amah Mutsun names for the animals; it also includes aspects of recorded history, such as an earthquake in 1840 that destroyed the mission's bell tower. "It's a great way to get kids engaged, and to start creating curiosity," Scott said.
 {% include_relative sidebars/erasing-the-silence.html classes="right" bgcolor="#f1f1f1" %}
 For more than 50 years, as part of their required, standard curriculum, all California public school students have learned about the Spanish missions in the fourth grade, traditionally including the activity of building models of the missions out of popsicle sticks and other materials. But their textbooks typically portray the Native Americans as docile converts to Christianity, a representation that is offensive to those who know better.
