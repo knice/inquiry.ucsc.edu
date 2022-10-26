@@ -79,6 +79,13 @@
     }
 }
 
+.contributors-container::after
+{
+  content: "";
+  flex: auto;
+  width: 42%;
+  margin: 0 0 1em .5em;
+}
 .author {
     margin: 2em 0;
     padding: 1em 0 0;

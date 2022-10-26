@@ -1,96 +1,97 @@
+- first: Anil
+  program: SciCom
+  last: Ananthaswamy
+  year: "’00"
+  file: 2022/anil-ananthaswamy.jpg
+  url:
 - first: Emma
   program: SciCom
   last: Hiolski
   year: "’17"
-  file: 2021/emma-hiolski.jpg
+  file: 2022/emma-hiolski.jpg
   url: https://www.emmahiolski.com/
-- first: Jyoti
+- first: Bethany
   program: SciCom
-  last: Madhusoodanan
-  year: "’14"
-  file: 2021/jyoti-madhusoodanan.jpg
-  url: https://muckrack.com/jyoti-madhusoodanan
-- first: Cameron
+  last:  Augliere
+  year: "’16"
+  file: 2022/bethany-augliere.jpg
+  url:
+- first: Genevieve
   program: SciCom
-  last: Walker
+  last: Bookwalter
   year: "’02"
-  file: 2018/cameron-walker.jpg
-  url: http://www.cameronwalker.net/
+  file: 2022/genevive-bookwalter.jpg
+  url:
 - first: K. M.
   program: SciCom
   last: Watson
   year: "’84"
-  file: 2021/k-m-watson.jpg
+  file: 2022/k-m-watson.jpg
   url:
-- first: Jennifer
+- first: Katie
   program: SciCom
-  last: Welsh
-  year: "’10"
-  file: 2021/jennifer-welsh.jpg
+  last: Brown
+  year: "’19"
+  file: 2022/katie-brown.jpg
   url:
-- first: Marcus
+- first: Elizabeth
   program: SciCom
-  last: Woo
+  last: Devitt
+  year: "’13"
+  file: 2022/elizabeth-devitt.jpg
+  url:
+- first: Emily
+  program: SciCom
+  last: Harwitz
+  year: "’21"
+  file: 2022/emily-harwitz.jpg
+  url:
+- first: Kimberly
+  program: SciCom
+  last: Hickock
+  year: "’18"
+  file: 2022/kimberly-hickok.jpg
+  url:
+- first: Erin
+  program: SciCom
+  last: Loury
+  year: "’12"
+  file: 2022/erin-loury.jpg
+  url:
+- first: Dana
+  program: SciCom
+  last: Mackenzie
+  year: "’97"
+  file: 2022/dana-mackenzie.jpg
+  url:
+- first: Erin
+  program: SciCom
+  last: Malsbury
+  year: "’20"
+  file: 2022/erin-malsbury.jpg
+  url:
+- first: Annie
+  program: SciCom
+  last: Melchor
+  year: "’21"
+  file: 2022/annie-melchor.jpg
+  url:
+- first: Annie
+  program: SciCom
+  last: Roth
+  year: "’19"
+  file: 2022/annie-roth.jpg
+  url:
+- first: Sarah C. P.
+  program: SciCom
+  last: Williams
   year: "’07"
-  file: 2021/marcus-woo.jpg
-  url: https://about.me/marcus_woo
-- first: Sarah
-  program: SciCom
-  last: Derouin
-  year: "’17"
-  file: 2021/sarah-derouin.jpg
+  file: 2022/sarah-c-p-williams.jpg
   url:
-- first: Amanda
+- first: David
   program: SciCom
-  last: Heidt
-  year: "’20"
-  file: 2021/amanda-heidt.png
-  url:
-- first: Jesse
-  program: SciCom
-  last: Kathan
-  year: "’20"
-  file: 2021/jesse-kathan.jpg
-  url:
-- first: Alla
-  program: SciCom
-  last: Katsnelson
-  year: "’07"
-  file: 2021/alla-katnelson.png
-  url:
-- first: Jack
-  program: SciCom
-  last: Lee
-  year: "’20"
-  file: 2021/jack-lee.jpg
-  url:
-- first: Mary-Russell
-  program: SciCom
-  last: Roberson
+  last: Egerter
   year: "’88"
-  file: 2021/mary-russell-roberson.png
+  file: 2022/dave-egerter.jpg
   url:
-- first: Priyanka
-  program: SciCom
-  last: Runwal
-  year: "’19"
-  file: 2021/priyanka-runwal.jpg
-  url:
-- first: Helen
-  program: SciCom
-  last: Santoro
-  year: "’19"
-  file: 2021/helen-santoro.jpg
-  url:
-- first: Ben
-  program: SciCom
-  last: Shouse
-  year: "’01"
-  file: 2021/ben-shouse.jpg
-  url:
-- first: Lisa
-  program: SciCom
-  last: Strong
-  year: "’93"
-  file: 2021/lisa-strong.jpg
-  url:
+
